@@ -33,3 +33,8 @@ Kansiossa on seuraavat dokumenttipohjat, joita hyödynnetään projektin aikana.
 Sources-kansioon voidaan tarvittaessa tallettaa ohjelmiston lähdekoodi..
 
 Suosittelemme kuitenkin käyttämään erillistä repositoriota
+
+**Laskeutumis sivu wikiin?**
+
+Kannattaa hyödyntää esim. gitlab wiki-palvelua, jonne voit luoda etusivun projektiryhmän toimintaan
+
