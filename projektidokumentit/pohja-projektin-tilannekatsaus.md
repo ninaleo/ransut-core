@@ -12,6 +12,8 @@ Suspendisse interdum tellus a nulla maximus ullamcorper. Donec eu magna sit amet
 
 ## Kohdatut ongelmat
 
+* Lista "issueista" ?
+
 Vestibulum ac varius neque. Donec vel sapien libero. Cras fringilla augue quis quam pretium, nec volutpat enim vulputate. 
 
 ## Mitä seuraavaksi
@@ -20,6 +22,8 @@ Pellentesque congue odio ut tellus elementum vulputate et dapibus ante. Nunc tin
 
 
 ### Projektin kokonaiskulut 5.1.201x
+
+* [Linkki tuntikirjauksiin?]()
 
 | Kuluerä | määrä |  hinta a | Yhteensä |
 |:---|:---|:---|:---|
