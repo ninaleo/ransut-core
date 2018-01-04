@@ -18,6 +18,8 @@ Vestibulum ac varius neque. Donec vel sapien libero. Cras fringilla augue quis q
 
 ## Mitä seuraavaksi
 
+
+* Linkki etappiin / sprinttiin ?
 Pellentesque congue odio ut tellus elementum vulputate et dapibus ante. Nunc tincidunt, nibh sit amet lobortis congue, lectus erat rutrum lacus, nec rhoncus urna erat quis felis. Vestibulum laoreet est diam, in euismod tellus ornare at. Donec in egestas enim. Cras ipsum elit, pulvinar consequat viverra id, dictum condimentum justo.
 
 
