@@ -2,7 +2,7 @@
 
 
 
-/projektidokumenttit
+**/projektidokumenttit**
 
 Kansiossa on seuraavat dokumenttipohjat, joita hyödynnetään projektin aikana.
 
@@ -28,7 +28,7 @@ Kansiossa on seuraavat dokumenttipohjat, joita hyödynnetään projektin aikana.
  pohja-vaatimusmaarittely.md
  pohja-viestintasuunnitelma.md
 
-/sources
+**/sources**
 
 Sources-kansioon voidaan tarvittaessa tallettaa ohjelmiston lähdekoodi..
 
