@@ -34,7 +34,12 @@ Sources-kansioon voidaan tarvittaessa tallettaa ohjelmiston lähdekoodi..
 
 Suosittelemme kuitenkin käyttämään erillistä repositoriota
 
-**Laskeutumis sivu wikiin?**
+**pohja-projektin-etusivu.md**
+
+Projektilla kannattaa olla jokin etusivu, joka koostaa kaikki oleelliset linkit yhteen. Tämä tiedosto on esimerkki etusivusta, jota voi käyttää omassa projektissa
+
+**Projektitilan etusivu wikiin?**
 
 Kannattaa hyödyntää esim. gitlab wiki-palvelua, jonne voit luoda etusivun projektiryhmän toimintaan
 
+Kokeile avata [Wiki-sivut](https://gitlab.labranet.jamk.fi/TTOS0800-TTOS0900/esimerkki-projekti-v1/wikis/home)
