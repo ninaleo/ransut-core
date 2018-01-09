@@ -2,6 +2,16 @@
 
 
 
+
+**Branch Master**
+
+Dokumenttien rungot
+
+**Branch gitlab-pages**
+
+Gitlab-pages runko, jolla voidaan 
+
+
 **/projektidokumenttit**
 
 Kansiossa on seuraavat dokumenttipohjat, joita hyödynnetään projektin aikana.
