@@ -1,8 +1,10 @@
 # Status
 
-date: 1.1.2018
-team: YourTeamName
-cumulative-working-hours: 10
+* date: 1.1.2018
+* team: YourTeamName
+* cumulative-working-hours: 10
+* current-bill: 500€ 
+
 
 # Miten homma etenee / Current Progress
 
