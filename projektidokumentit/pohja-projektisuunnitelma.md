@@ -33,12 +33,15 @@ luovutus, käyttöönotto, ylläpito, projektin aineiston taltiointi, arkistoint
 
 ## 1.1 Tausta ja lähtökohdat
 
-<Missä ja mitä on lähdetty kehittämään?>
-”Projektin lähtökohtana on Yritys Oy:n tarve kehittää” < kohdetta>… ”Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän <ZZPP0100 Työelämäosaajaksi kasvu> ‑opintojakson puitteissa. ”
+
+Wimma Lab 2018-toiminnan tavoitteena on pyrkiä yhdistämään .... on Yritys Oy:n tarve kehittää” < kohdetta>… ”Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän <ZZPP0100 Työelämäosaajaksi kasvu> ‑opintojakson puitteissa. ”
 
 Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä tehtävä. Kohde kuvaa selkeällä tavalla, usein graafiseen esitykseen tukeutuen, millaisesta järjestelmäkokonaisuudesta tai toiminnasta on kyse, johon ollaan tekemässä nyt projektissa jotain osakokonaisuutta/täydennystä. Tässä siis kuvataan nykyjärjestelmää ja asiakkaan nykyistä toimintatapaa.
 
 ## 1.2 Tavoitteet ja tehtävät
+
+* Tuottaa ratkaisu
+* Tuottaa toimiva demo (Proof Of Concept)
 
 Määritellään työn keskeisin sisältö tässä projektissa; projektin tehtävä liittyy projektin kohteessa kuvattuun kokonaisuuteen. 
 < Mitä aiotaan tehdä?> / < Mitä toimintaa aiotaan kehittää ja miten?>
@@ -47,6 +50,9 @@ Määritellään työn keskeisin sisältö tässä projektissa; projektin tehtä
 ”Projektiryhmän tehtävänä on pitää eri tahot tietoisina projektin tilanteesta. Kunkin vaiheen päätyttyä laaditaan vaiheraportti, jonka avulla johtoryhmälle tiedotetaan projektin edistymisestä.”
 
 ## 1.3 Rajaus ja liittymät
+
+* Wimma Lab-tuotoksia ei tulla kaupallistamaan, vaan tuotokset ovat avoimia innovaatioita tulevien opiskelijoiden ja yritysten hyödyksi
+
 
 Täsmennetään projektin tehtävää rajaamalla ulkopuolelle jäävät osat kohteena olevasta järjestelmästä tai kokonaishankkeesta. Erikseen on syytä kuvata myös tehtävän suorittamista merkittävästi rajoittavat ulkoiset tekijät.
 
@@ -66,11 +72,11 @@ Tässä kappaleessa esitellään projektisuunnitelmassa esiintyvät määritelm�
 
 ## 2.1 Organisaation esittely
 
-”Projektin organisaation kuuluu” <N> ”Jyväskylän ammattikorkeakoulun IT-instituutin opiskelijaa, projektiryhmän ohjaajat sekä toimeksiantajan edustajat. Organisaatiokaavio on esitetty liitteessä <X>.”
+Projektin organisaation kuuluu Jyväskylän ammattikorkeakoulun  opettajia, projektihenkilökuntaa opiskelijaa, projektiryhmän ohjaajat sekä toimeksiantajan edustajat. Organisaatiokaavio on esitetty liitteessä <X>.”
 
-Projektiryhmä
+**Projektiryhmä**
 
-Tässä kappaleessa esitellään varsinaisen projektiryhmän jäsenet ja yhteystiedot liitteenä (esimerkiksi sähköposti ja puhelinnumero) sekä projektipäällikön ja sihteerin toimikaudet.
+
 
 ”Projektiryhmä suorittaa johtoryhmän projektille asettamat tehtävät käytettävissä olevien resurssien puitteissa. Projektin aikana ryhmän päällikön ja sihteerin roolit kiertävät ryhmän sisällä siten, että jokainen ryhmän jäsen toimii kerran kummassakin roolissa.”
 
