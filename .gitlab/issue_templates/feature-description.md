@@ -1,26 +1,36 @@
-# Ominaisuus XXXXXXX
+# Feature XXXXXXX
 
-* Ominaisuuden vastuuhenkilö: Marko Polo
-* Status (Ehdotus/Hyväksytty/Hylätty)
+* Responsible person: Marko Polo
+* Status (Accepted/Postponed/Rejected etc)
 
-### Kuvaus
+### Description
 
 Sed non nisi id ligula interdum mattis. Fusce vel ullamcorper nunc. Nulla pharetra dui ut enim semper semper. Aenean ut leo tortor. Fusce felis nibh, malesuada vitae nibh at, rhoncus feugiat leo. Nam vehicula vitae ligula vitae condimentum. Ut maximus metus nec lorem ultrices elementum.
 
 
-### Käyttötapaukset (Use Cases)
+### Affected Use Cases (Use Cases)
 
-Täitä käyttötapauksia voidaan tarvittaessa käyttää hyväksyntätesteinä tai pohjana niille.
+Linked Use Cases
 
 * [Use Case 1](FT1-kayttotapaus.md)
 * [Use Case 2](FT2-kayttotapaus.md)
 
 
-### Alustavat käyttäjätarinat (User Storys)
+### User Storys (User Storys)
 
 * _Käyttäjänä haluan, että lorem ipsum on näkyvillä koko käytön ajan, koska se tuo minulle turvallisen olon_
 * _Ylläpitäjänä haluan, että tervehdysviesti on vaihdettavissa, koska se virkistää työntekoa!_
-#3
+
+Link to real User Storys
+
+- [ ] #2
+- [ ] #6
+- [ ] #5
+- 
+
+
+
+
 
 ### Käyttöliittymänäkymä/mock
 
