@@ -26,53 +26,56 @@ Link to real User Storys
 - [ ] #2
 - [ ] #6
 - [ ] #5
-- 
 
 
 
 
 
-### Käyttöliittymänäkymä/mock
+
+### User Interface Mockup/Design
 
 ![](https://openclipart.org/image/300px/svg_to_png/178764/1370010418.png&disposition=attachment)
 
 
-### Ominaisuuteen liittyvät toiminnalliset vaatimukset
+### Functional Requirements
 
 **Esim**
 
 * Käyttäjä näkee jatkuvasti ruudulla "Lorem Ipsum"-viestin
 * Tervehdysviesti on pääkäyttäjän muokattavissa
 
-### Ominaisuuteen liittävät ei-toiminnalliset vaatimukset
+### Non-Functional Requirements
 
-**Esim**
 
-* Uuden tervehdysviestin generointi saa kestää < 0.5 s
+* Usability: Uuden tervehdysviestin generointi saa kestää < 0.5 s
+* Security:
+* Scalability:
 * 
 
-### Ominaisuuteen liittyvät rajaukset
 
-* Tervehdysviestin muodon on noudatettava standardia ZZZ123.1
+### Restrictions 
+
+* Al
+* 
 
 
-### Testauksessa huomioitavaa:
+### Test Cases for Feature
 
-| Testi  | Testin lähde  | Kuka vastaa  |
+| Test Case  | Source for test  | Who is responsible  |
 |:-: | :-:|:-:|
-| [Testitapaus 1]( FT1-testitapaus1.md)  | Use Case 1  |  |
-| [Testitapaus 2]( FT1-testitapaus2.md)  |  |  |
-| [Testitapaus 3]( FT1-testitapaus3.md)  | Use Case 2 |  |
-| [Testitapaus 4]( FT1-testitapaus4.md)  | Vaatimus REQ001 |  |
+| [Test Case 1]( FT1-testitapaus1.md)  | Use Case 1  |  |
+| [Test Case 2]( FT1-testitapaus2.md)  |  |  |
+| [Test Case 3]( FT1-testitapaus3.md)  | Use Case 2 |  |
+| [Test Case 4]( FT1-testitapaus4.md)  | Vaatimus REQ001 |  |
 | [Testitapaus 5]( FT1-testitapaus5.md)  |  |  |
 | [Testitapaus 6]( FT1-testitapaus6.md)  |  |  |
 
 
-### Status/Aikataulu/Roadmap
+### Schedule/Roadmap
 
 | Status | |
 |:----:|:----:|
-| Hyväksytty/ Hylätty | - |
+| Accepted/ Rejected | 1.1.2014 |
 
 
 
