@@ -1,11 +1,14 @@
-# Kerro mitä haluat tehtävän!
+# What needs to be done?
+
+* step
+* step
+* step
+
+# Remember also?
 
 * askel
 * askel
 * askel
+* 
 
-# Mitä pitää myös muistaa?
-
-* askel
-* askel
-* askel
+Who is responsible?
