@@ -1,10 +1,9 @@
-
 *Tämä dokumentti on elävä dokumenttipohja, jota päivitetään tilanteen mukaan..*
 Versio 14.2.2017 By NarsuMan
 
 
 
-# Päätestaussuunnitelma (Master Test Plan)
+# Yleis/päätestaussuunnitelma (Master Test Plan)
 
 
 
