@@ -1,4 +1,4 @@
 Task todo
 
 
- - [] Check
+ -[] Check
