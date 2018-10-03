@@ -1,4 +1,4 @@
-# Feature XXXXXXX
+# Theme XXXXXXX
 
 * Responsible person: Marko Polo
 * Status (Accepted/Postponed/Rejected etc)
