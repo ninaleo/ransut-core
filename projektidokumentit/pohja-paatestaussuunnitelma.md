@@ -12,6 +12,10 @@ Versio 14.2.2017 By NarsuMan
 
 *omistaja*
 
+# Esimerkkejä:
+
+* https://www.tampere3.fi/filebank/4380-Liite_9_kaytettavyystestauksen_testaussuunnitelma.pdf
+
 
 # Yleistä 
 
