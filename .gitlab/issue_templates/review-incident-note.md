@@ -1,6 +1,6 @@
-# Description
+# Description of the problem to be fixed
 
-* What is the problem to be fixed ?
+* What is the problem/incident/issue etc.?
 
 # Proposals for fix
 
