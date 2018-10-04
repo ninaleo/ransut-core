@@ -30,8 +30,8 @@ Tunnit kirjataan taulukkoon ja eritellään jokaisen osa-alueen suhteen esimerki
 
 Jokainen kirjattu tunti "maksaa" toimeksiantajalle 50€ ilman arvonlisäveroa (ALV)
 
-* Laskun Mark Down-esimerkki [löytyy täältä](https://github.com/JAMK-IT/TTOS1200-ohjelmistotuotannon-kaytannot/blob/master/info-lasku-toimeksiantajalle.md)
-* Laskun PDF esimerkki [täältä](https://github.com/JAMK-IT/TTOS1200-ohjelmistotuotannon-kaytannot/blob/master/esimerkki-lasku.pdf)
+* Laskun Mark Down-esimerkki [löytyy täältä](info-lasku-toimeksiantajalle.md)
+* Laskun PDF esimerkki [täältä](esimerkki-lasku.pdf)
 
 
 Lasku lähetetään toimeksiantajalle ja ohjaajalle viimeistään 7.12.2017
