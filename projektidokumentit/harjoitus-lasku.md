@@ -30,7 +30,7 @@ Tunnit kirjataan taulukkoon ja eritellään jokaisen osa-alueen suhteen esimerki
 
 Jokainen kirjattu tunti "maksaa" toimeksiantajalle 50€ ilman arvonlisäveroa (ALV)
 
-* Laskun Mark Down-esimerkki [löytyy täältä](info-lasku-toimeksiantajalle.md)
+* Laskun Mark Down-esimerkki [löytyy täältä](esimerkki-lasku.md)
 * Laskun PDF esimerkki [täältä](esimerkki-lasku.pdf)
 
 
