@@ -7,16 +7,18 @@ Ryhmä laatii toimeksiantajalle laskun tekemistää tunneista.
 
 * [Youtube-versio](https://www.youtube.com/watch?v=jWz215-RcmM&index=20&list=PLOyRnRI1_Cl7vsb87fd-gMc0jO-ZqZmxU)
 
-Tunteja voidaan luokitella esimerkiksi seuraavasti:
+Tunteja voidaan ryhmitellä esimerkiksi seuraavasti:
 
 * Perehtyminen
 * Dokumentointi
+* Totetutus
+* Testaus
 * Suunnittelu
 * Palaverit
 
 Tunnit kirjataan taulukkoon ja eritellään jokaisen osa-alueen suhteen esimerkiksi seuraavasti:
 
-| Nimi |  Suunnittelu | Dokumentointi | Perehtyminen | Yhteensä |
+| Nimi |  Suunnittelu | Dokumentointi | Perehtyminen |  Yhteensä |
 |:-:|:-:|:-:|:-:|:-:|
 | Matti  | 5h | 5h  | 10h | 20 h | 
 | Maija  | 10h | 15h | 2h  | 27 h | 
