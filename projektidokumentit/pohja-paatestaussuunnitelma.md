@@ -14,6 +14,7 @@ Versio 14.2.2017 By NarsuMan
 
 # Esimerkkejä:
 
+* [Contriboard MTP](https://github.com/N4SJAMK/teamboard-meta/wiki/master-test-plan)
 * https://www.tampere3.fi/filebank/4380-Liite_9_kaytettavyystestauksen_testaussuunnitelma.pdf
 * http://tryqa.com/what-are-master-test-plans-level-test-plan-examples-when-to-use/
 
