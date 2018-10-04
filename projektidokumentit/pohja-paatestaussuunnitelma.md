@@ -1,11 +1,13 @@
 *Tämä dokumentti on elävä dokumenttipohja, jota päivitetään tilanteen mukaan..*
-Versio 14.2.2017 By NarsuMan
+Versio 4.9.2018 By NarsuMan
 
 
 
 # Yleis/päätestaussuunnitelma (Master Test Plan)
 
+![](https://www.youtube.com/upload_thumbnail?v=yKpIpE_bSGQ&t=3)
 
+![](https://youtu.be/yKpIpE_bSGQ)
 
 
 *Dokumentin versio* 
@@ -42,10 +44,10 @@ Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vul
 ### Testattavat ominaisuudet (Tested Features)
 
 
-| Otsikko 1 | Otsikko 2 | Otsikko 3 |
+| Ominaisuus | Otsikko 2 | Otsikko 3 |
 |:-:|:-:|:-:|
-| | | 
-| | | 
+| [Feature1]() | | 
+| [Feature2]() | | 
 | | | 
 | | | 
 
@@ -53,9 +55,9 @@ Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vul
 
 | Otsikko 1 | Otsikko 2 | Otsikko 3 |
 |:-:|:-:|:-:|
-| | | 
-| | | 
-| | | 
+| [Feature100]() | | 
+| [Feature21]() | | 
+| [Feature90]() | | 
 | | | 
 
 
@@ -112,14 +114,14 @@ In at nibh eu dui ultrices ultrices. Vestibulum mi mi, ultricies sed maximus ege
 
 ## Käytetyt testityövälineet ja ohjelmistot
 
-### Suorituskykytestaus
+### Suorituskykytestaus - Performance Testing
 
 
 Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
 
 * [Liitteeksi esim. ko. osa-alueen testitapaukset](https://gitlab.labranet.jamk.fi/TTOS0800-TTOS0900/esimerkki-projekti-v1/blob/master/projektidokumentit/Exmple_of_test_case_pool.pdf)
 
-### Toiminnallinentestaus
+### Toiminnallinentestaus - Functional Testing
 
 Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
 
