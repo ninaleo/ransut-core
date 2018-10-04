@@ -5,7 +5,7 @@ Versio 4.9.2018 By NarsuMan
 
 # Yleis/päätestaussuunnitelma (Master Test Plan)
 
-![](https://www.youtube.com/upload_thumbnail?v=yKpIpE_bSGQ&t=3)
+![](https://www.youtube.com/upload_thumbnail?v=yKpIpE_bSGQ&t=3)(https://youtu.be/yKpIpE_bSGQ)
 
 ![](https://youtu.be/yKpIpE_bSGQ)
 
