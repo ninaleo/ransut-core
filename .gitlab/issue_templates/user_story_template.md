@@ -18,4 +18,4 @@ As a < type of user >, I want < some goal > so that < some reason >.
 - [ ] Check if... test case [Link to test case]()
 - [ ] Check if...
 
-/label User Story
+/label ~user-story
