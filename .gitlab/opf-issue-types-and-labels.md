@@ -23,6 +23,7 @@ In English
 | design-task.md | ~"Design" |
 | general-task.md |  ~"General"   |        
 | implementation-task.md | ~"Implementation" |
+| documentation-task.md | ~"Documentation" |
 | question-and-answer.md | ~"Q&A" | 
 | User Story.md | ~"User Story" |
 | Job Story.md  | ~"Job Story" |
@@ -35,12 +36,13 @@ Suomeksi
 |:-:|:-:|
 | vika-raportti.md | ~"Bug"  |
 | poikkeama-raportti.md | ~"Incident" |
-| suunnittelu-tehtävä.md | ~"Design" |
-| yleinen-tehtävä.md | ~"General" |
-| toteutus-tehtävä.m | ~"Implementation" |
+| suunnittelu-tehtava.md | ~"Design" |
+| yleinen-tehtava.md | ~"General" |
+| toteutus-tehtava.m | ~"Implementation" |
+| dokumentointi-tehtava.md | ~"Documentation" |
 | kysymys-ja-vastaus.md | ~"Q&A" | 
 | harjoitus-tehtava.md  | ~"Assignement" |
-| UserStory-Käyttäjätarina.md | ~"User Story"  |
+| UserStory-Kayttajatarina.md | ~"User Story"  |
 
 # Issue State Labels
 
