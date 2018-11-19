@@ -18,7 +18,7 @@ In English
 		
 | Issue type | Label | Color 
 |:-:|:-:|:-: |
-| bug-report.md | ~"Bug" | Hexa code |         
+| bug-report.md | ~"Bug" | {{Color|#00FF00|Correct Color}} |         
 | incident-report.md | ~"Incident" | Hexa code |     
 | design-task.md | ~"Design" | Hexa code |
 | general-task.md |  ~"General"   |  Hexa code |       
