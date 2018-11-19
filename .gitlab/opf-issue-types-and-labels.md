@@ -36,13 +36,13 @@ Suomeksi
 |:-:|:-:|
 | vika-raportti.md | ~"Bug"  |
 | poikkeama-raportti.md | ~"Incident" |
-| suunnittelu-tehtava.md | ~"Design" |
-| yleinen-tehtava.md | ~"General" |
-| toteutus-tehtava.m | ~"Implementation" |
-| dokumentointi-tehtava.md | ~"Documentation" |
+| suunnittelu-tehtävä.md | ~"Design" |
+| yleinen-tehtävä.md | ~"General" |
+| toteutus-tehtävä.m | ~"Implementation" |
+| Dokumentointi-tehtävä.md | ~"Documentation" |
 | kysymys-ja-vastaus.md | ~"Q&A" | 
-| harjoitus-tehtava.md  | ~"Assignement" |
-| UserStory-Kayttajatarina.md | ~"User Story"  |
+| harjoitustehtava.md  | ~"Assignement" |
+| UserStory-Käyttäjätarina.md | ~"User Story"  |
 
 # Issue State Labels
 
@@ -58,3 +58,6 @@ Suomeksi
 | Done | ~"Done" |
 
 Reserved Labels for future:
+
+
+
