@@ -1,4 +1,4 @@
-#OPPIMISRAPORTTI
+# OPPIMISRAPORTTI
 
 * Oppimisraporttia sovelletaan tarvittaessa tilanteen mukaan..
 * Kirjaa opintojakson aikana keskeiset oppimasi asiat tähän asiakirjaan, omaan blogiisi, muistioon tms. 
@@ -7,7 +7,7 @@
 * Voit poistaa tai muuttaa näitä valmiita tekstikohtia aivan vapaasti. 
 * Jos sinulla tulee kysymyksiä tai ongelmia tämän täyttämisen suhteen niin ota yhteys opettajaan.
 
-#Aluksi
+# Aluksi
 
 **Tavoitteeni / kiinnostukseni**
 
