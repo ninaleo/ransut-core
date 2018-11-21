@@ -1,8 +1,10 @@
-# What needs to be done?
+# Describe what is needed
 
- [] step
+1. Update issue topic according description
+2. ..
+3. ..
 
-# Who is responsible?
+# Responsible
 
 * name/stakeholder
 
