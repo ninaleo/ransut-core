@@ -12,6 +12,10 @@ Katselmoinnissa läsnä:
 
 # Huomiot
 
+Poikkeamat kirjataan issueina ja linkitetää tähän tehdyt muutokset
+
+#1
+
 
 
 
@@ -20,7 +24,15 @@ Katselmoinnissa läsnä:
 
 
 
+
+
+
+
+
 # Milloin korjaukset valmiina
+
+
+
 
 
 
