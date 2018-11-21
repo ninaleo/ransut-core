@@ -127,8 +127,9 @@ gantt
     dateFormat  DD-MM-YYYY
     section GANTT
     Askel 1      :active,k1,15-01-2019, 20-01-2019
-    Askel 2      :active,k2,after k1, 20-03-2019
-    
+    Askel 2      :active,k2,after k1, 20-02-2019
+    Askel 3      :active,k3,after k2, 20-03-2019
+    Askel 4      :active,k4,after k3, 20-04-2019
 
 ```
 
