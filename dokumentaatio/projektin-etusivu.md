@@ -12,6 +12,7 @@ Voit tarvitessasi "kloonata" wiki-sivustot esim. omaan github projektiin pohjaks
 | [Projektin tilannekatsaus](dokumentaatio/tilannekatsaus/projektin-tilannekatsaus.md) | ? | :ok:  | | |
 | [Tyoajan seuranta](dokumentaatio/projektinhallinta/tuntikirjaukset.md) | ? | :ok: | | |
 | [Projektiryhmän esittely](projektiryhman-esittely) | GaruWeikko | | | |
+| [Yleistestaussuunnitelma](dokumentaatio/testaushallinta/yleistestaussuunnitelma.md)| ? | :ok: | | |
 | [Aikataulu & resurssointi](projektin aikataulu ja resurssointi) | HessuHopo | | | |
 | [Projektisuunnitelma](dokumentaatio/projektinhallinta/projektisuunnitelma.md) | GaruWeikko, MikkiHiiri | | | |
 | [Viestintäsuunnitelma](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/viestintasuunnitelma.md) | | | | |
