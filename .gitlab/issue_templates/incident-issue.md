@@ -17,3 +17,6 @@
 
 * Do Assign and add correct stakeholder to fix task
 * 
+
+/label ~Backlog
+/label ~Incident
