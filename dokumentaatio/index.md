@@ -2,7 +2,7 @@
 
 
 Tämä sivusto sisältää esimerkin projektityöympäristöstä, jota voidaan käyttää esim. ohjelmistoprojektin runkona.
-Voit tarvitessasi "kloonata" wiki-sivustot esim. omaan github projektiin pohjaksi.
+Voit tarvitessasi luoda vastaavan projektin rakenteen käyttämällä valmista EXPORT-tiedostoa.
 
 ![](https://openclipart.org/image/300px/svg_to_png/310297/1542412865.png)
 
