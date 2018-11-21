@@ -1,4 +1,4 @@
-### OPF -projekti esimerkki 2019
+# Projektin etusivu
 
 
 Tämä sivusto sisältää esimerkin projektityöympäristöstä, jota voidaan käyttää esim. ohjelmistoprojektin runkona.
