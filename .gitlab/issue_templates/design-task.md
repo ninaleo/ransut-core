@@ -1,13 +1,20 @@
-## Design task to do?
+# What needs to be done?
 
-(Description)
+* step
+* step
+* step
+
+# Remember also?
+
+* askel
+* askel
+* askel
+* 
+
+# Who is responsible?
 
 
-
-
-## Links to other tasks/features?
-
-
-(documentation?)
+# Links & Sources
 
 /label ~Design
+/lable ~Backlog
