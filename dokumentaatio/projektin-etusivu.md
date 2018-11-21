@@ -19,6 +19,6 @@ Voit tarvitessasi "kloonata" wiki-sivustot esim. omaan github projektiin pohjaks
 | [Projektin riskit](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/riskihallintasuunnitelman-pohja.md) | | | | |
 | [Projektisopimus](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/projektisopimuksen-pohja.md) | | | | |
 | [Vaatimusmääritelmä](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-vaatimusmaarittelu.md) | | | | |
-| [Tekninendokumentaatio](suunnittelu-ja-toteutus) | | | | |
+| [Tekninendokumentaatio](dokumentaatio/suunnittelu-totetus/tekninentoteutus.md) | | | | |
 | [Käyttöohjeet & dokumentaatio](installation-guide) | | | | |
 | [Projektin tarkistuslista](https://github.com/JAMK-IT/IIZP2010-system-project/wiki/projektin-tarkistuslista) | | | | |
