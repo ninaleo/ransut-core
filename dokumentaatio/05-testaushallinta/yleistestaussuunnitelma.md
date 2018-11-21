@@ -1,9 +1,9 @@
 *Tämä dokumentti on elävä dokumenttipohja, jota päivitetään tilanteen mukaan..*
-Versio 4.9.2018 By NarsuMan
+Versio 21.11.2018 By NarsuMan
 
 
 
-# Yleis/päätestaussuunnitelma (Master Test Plan)
+# Yleistestaussuunnitelma - Master Test Plan
 
 ![](https://www.youtube.com/upload_thumbnail?v=yKpIpE_bSGQ&t=3)(https://youtu.be/yKpIpE_bSGQ)
 
