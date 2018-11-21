@@ -16,7 +16,7 @@ Voit tarvitessasi "kloonata" wiki-sivustot esim. omaan github projektiin pohjaks
 | [Aikataulu & resurssointi](projektin aikataulu ja resurssointi) | HessuHopo | | | |
 | [Projektisuunnitelma](dokumentaatio/projektinhallinta/projektisuunnitelma.md) | GaruWeikko, MikkiHiiri | | | |
 | [Viestintäsuunnitelma](dokumentaatio/projektinhallinta/viestintasuunnitelma.md) | ? | :ok: | | |
-| [Riskienhallinta](dokumentaatio/projektinhallinta/riskienhallintasuunnitelma.md) | | | | |
+| [Riskienhallinta](dokumentaatio/projektinhallinta/riskienhallintasuunnitelma.md) | ? | :ok: | | |
 | [Projektisopimus](dokumentaatio/projektinhallinta/projektisopimus.md) | | | | |
 | [Vaatimusmääritelmä](dokumentaatio/vaatimusmaarittely/vaatimusmaarittely.md) | ? | :ok: | | |
 | [Tekninendokumentaatio](dokumentaatio/suunnittelu-totetus/tekninentoteutus.md) | ? | :ok: | | |
