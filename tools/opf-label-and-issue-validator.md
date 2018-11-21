@@ -6,7 +6,7 @@
 
 | Issue type | Label | Offical Color | Purpose |
 |:-:|:-:|:-:|:-:|
-| [../.gitlab/issue_templates/bug-report.md](issue_templates/bug-report.md) | ~"Bug" | `#FF0000` | Issue used for bug report |
+| [bug-report.md](../.gitlab/issue_templates/bug-report.md) | ~"Bug" | `#FF0000` | Issue used for bug report |
 | [incident-report.md](issue_templates/incident-report.md) | ~"Incident" | `#FF0000` | Issue used for incident report |     
 | [design-task.md](issue_templates/design-task.md) | ~"Design" |`#1D5299` | Issue to describe design task |
 | [general-task.md](issue_templates/general-task.md) |  ~"General"   | `#1D5299` | Issue for general purpose  | 
