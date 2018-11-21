@@ -13,7 +13,7 @@ Voit tarvitessasi "kloonata" wiki-sivustot esim. omaan github projektiin pohjaks
 | [Tyoajan seuranta](01-projektinhallinta/tuntikirjaukset.md) |  | :ok: | | |
 | [Projektiryhmän esittely](01-projektinhallinta/projektiryhman-esittely.mdy) |  | :ok: | | |
 | [Testaushallinta](05-testaushallinta/yleistestaussuunnitelma.md)|  | :ok: | | |
-| [Aikataulu & resurssointi](01-projektinhallinta/projektisuunnitelma.md) | | :ok: | | |
+| [Sprintit ja etapit](https://gitlab.labranet.jamk.fi/open-project-framework/opf-project-template-v1/milestones) | | :ok: | | |
 | [Projektisuunnitelma](01-projektinhallinta/projektisuunnitelma.md) | ? | :ok: | | |
 | [Viestintäsuunnitelma](01-projektinhallinta/viestintasuunnitelma.md) | ? | :ok: | | |
 | [Julkaisusuunnitelma](04-julkaisusuunnitelma/julkaisusuunnitelma.md) | ? | :ok: | | |
