@@ -1,6 +1,7 @@
+# Suunnitteludokumentaatio
 
 
-## 1.JOHDANTO
+# 1.JOHDANTO
 Luku antaa yleiskuvan suunnittelusta.
 ### 1.1		Tarkoitus ja kattavuus
 Esitetään dokumentin tarkoitus, miksi se on tehty ja mihin tarkoituk-seen ja kenelle se on tarkoitettu (oman firman toteutusporukka vai ali-hankkija vai kuka).
