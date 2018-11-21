@@ -7,11 +7,12 @@ Voit tarvitessasi "kloonata" wiki-sivustot esim. omaan github projektiin pohjaks
 ![](https://openclipart.org/image/300px/svg_to_png/310297/1542412865.png)
 
 | Mitä | Vastuullinen | Muuta | Huomiota | 
-|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|4
 | [Projektin tilannekatsaus](00-tilannekatsaus/projektin-tilannekatsaus.md) | ? | :ok:  | | |
+| [Backlog](https://gitlab.labranet.jamk.fi/open-project-framework/opf-project-template-v1/boards?milestone_title=Backlog&)
 | [Tyoajan seuranta](01-projektinhallinta/tuntikirjaukset.md) | ? | :ok: | | |
 | [Projektiryhmän esittely](projektiryhman-esittely) | GaruWeikko | | | |
-| [Yleistestaussuunnitelma](05-testaushallinta/yleistestaussuunnitelma.md)| ? | :ok: | | |
+| [Testaushallinta](05-testaushallinta/yleistestaussuunnitelma.md)| ? | :ok: | | |
 | [Aikataulu & resurssointi](projektin aikataulu ja resurssointi) | HessuHopo | | | |
 | [Projektisuunnitelma](01-projektinhallinta/projektisuunnitelma.md) | ? | :ok: | | |
 | [Viestintäsuunnitelma](01-projektinhallinta/viestintasuunnitelma.md) | ? | :ok: | | |
