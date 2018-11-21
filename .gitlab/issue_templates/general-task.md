@@ -12,4 +12,4 @@
 
 
 /label ~"General"
-/lable ~"Backlog"
+/milestone Backlog
