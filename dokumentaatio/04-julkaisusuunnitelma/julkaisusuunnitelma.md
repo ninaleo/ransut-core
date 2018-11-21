@@ -6,9 +6,9 @@ gantt
     title Julkaisusuunnitelma
     dateFormat  YYYY-MM-DD
     section Section
-    Feature 1 v 1.0         :2019-01-01, 60d
-    Feature 2 v 1.0         :2019-14-01, 2019-26-02
-    Feature 3 v 1.1         : 
+    Feature 1         :v 1.0, 2019-01-01, 2019-02-03
+    Feature 2         :v 1.0, 2019-14-01, 2019-26-02
+    Feature 3         : 
     
 ```
 
