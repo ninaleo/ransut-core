@@ -1,4 +1,4 @@
-# Describe what is needed
+# What should be done?
 
 1. Update issue topic according description
 2. ..
@@ -10,6 +10,5 @@
 
 # Links & Sources
 
-
 /label ~Design
-/lable ~Backlog
+/label ~Backlog

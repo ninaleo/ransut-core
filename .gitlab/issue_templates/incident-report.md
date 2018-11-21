@@ -1,4 +1,4 @@
-# What should be done?
+# What should be done for incident?
 
 1. Update issue topic according description
 2. ..
@@ -10,6 +10,5 @@
 
 # Links & Sources
 
-
-/label ~"Job Story"
-/lable ~"Backlog"
+/label "~Incident"
+/label "~Backlog"
