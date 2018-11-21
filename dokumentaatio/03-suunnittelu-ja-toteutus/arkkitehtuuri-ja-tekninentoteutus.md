@@ -1,4 +1,4 @@
-# Dokumentista
+# Arkkitehtuuri ja tekniset ratkaisut
 
 Tämä dokumentti on "elävä"-dokumentti, joka päivittyy jatkuvasti. Se on nykymuodossaan vain karkea runko, jota "voi" käyttää projektien teknisen dokumentoinnin pohjana. Rakennetta saa ja pitää muokata! Tavoitteena on luoda dokumentti, joka yhdistää suunnitteludokumentaation saumattomasti yhteen projektin muun dokumentaation kanssa. Tekijä ei ota mitään vastuuta dokumentin sisällöstä.
 
