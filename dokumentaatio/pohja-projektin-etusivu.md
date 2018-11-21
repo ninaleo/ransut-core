@@ -7,7 +7,7 @@ Voit tarvitessasi "kloonata" wiki-sivustot esim. omaan github projektiin pohjaks
 ![](https://openclipart.org/image/300px/svg_to_png/235516/DigitalArtFrame4x3.png&disposition=attachment)
 
 | Mitä | Kuka vastaa | Muuta | Huomiota | 
-|:----:|:----:|:-----:|:-----:|:-----:|
+|:----:|:----:|:-----:|:-----:|
 | [Aikataulut](projektin-aikataulu) | HessuHopo | | | |
 | [Projektin tilannekatsaus](projektin-status) | MikkiHiiri | Valmiina  | | |
 | [Tyoajan seuranta](tyoajan-seuranta) | Rambo2 | | | |
