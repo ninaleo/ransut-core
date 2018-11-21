@@ -14,7 +14,7 @@ Katselmoinnissa läsnä:
 
 Poikkeamat kirjataan issueina ja linkitetää tähän tehdyt muutokset
 
-#1
+[#1]
 
 
 
