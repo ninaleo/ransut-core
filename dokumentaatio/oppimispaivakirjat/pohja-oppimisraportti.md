@@ -1,10 +1,8 @@
-Alkuperäinen dokumentti löytyy [täältä](http://homes.jamk.fi/~huojo/opetus/mallit/Oppimisraportti.dot) 
-
-
-[![Intro](https://i.ytimg.com/vi/CkpUA8Sbww4/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCr8XsyLD8yXO80-Z_00x6bWenKpQ)](https://www.youtube.com/watch?v=CkpUA8Sbww4&index=6&list=PLOyRnRI1_Cl47Q6tiFByWSVBialcz_bxp)
 
 
 # Henkilökohtainen oppimisraportti
+
+
 
 Kirjaa opintojakson aikana keskeiset oppimasi asiat tähän asiakirjaan, omaan blogiisi, muistioon tms. Voit kirjoittaa myös aiheeseen liittyvistä epäselvistä asioista tai ongelmista ja kuinka ne ratkaistiin. Lopuksi voit arvioida omaa oppimistasi, esimerkiksi pääsitkö asettamiisi tavoitteisiin ja jos et päässyt niin mistä se johtui.
 Voit poistaa tai muuttaa näitä valmiita tekstikohtia aivan vapaasti. Jos sinulla tulee kysymyksiä tai ongelmia tämän täyttämisen suhteen niin ota yhteys opettajaan.
@@ -32,4 +30,7 @@ Voit kirjata myös omassa (työ)elämässäsi heränneitä ajatuksia tai etsiä 
 
 Kirjaa opintojakson päätteeksi, miten saavutit 1) asettamasi tavoitteet ja 2) opintojaksolle asetetut osaamistavoitteet. Kerro vaikeimmat ongelmat ja kuinka ne ratkaisit. Kerro myös, miten aiot jatkossa tehostaa omaa tapaasi oppia uusia asioita. Anna myös itsellesi rehellisesti arvosana perusteluineen. Viimeiseksi kirjaa muutama asia, kuinka kehittäisit opintojaksoa tai opettajan opetustyyliä eteenpäin.
 
+## Lähteet
+
+Alkuperäinen dokumentti löytyy [täältä](http://homes.jamk.fi/~huojo/opetus/mallit/Oppimisraportti.dot) 
 
