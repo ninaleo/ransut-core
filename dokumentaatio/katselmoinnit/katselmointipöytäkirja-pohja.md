@@ -12,7 +12,7 @@ Katselmoinnissa läsnä:
 
 # Huomiot
 
-Poikkeamat kirjataan issueina ja linkitetää tähän tehdyt muutokset
+Poikkeamat kirjataan issueina ja linkitetään tähän alle
 
 [#1]
 
