@@ -1,4 +1,4 @@
-# Esitelmän runko
+# Loppukatselmointi ja seminaari
 
 * Tämä on runko aiheista, joita on asiallaista käsitellä projektin loppukatselmoinnissa
 
