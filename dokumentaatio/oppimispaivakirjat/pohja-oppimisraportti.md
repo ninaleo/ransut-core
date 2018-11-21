@@ -4,7 +4,7 @@ Alkuperäinen dokumentti löytyy [täältä](http://homes.jamk.fi/~huojo/opetus/
 [![Intro](https://i.ytimg.com/vi/CkpUA8Sbww4/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCr8XsyLD8yXO80-Z_00x6bWenKpQ)](https://www.youtube.com/watch?v=CkpUA8Sbww4&index=6&list=PLOyRnRI1_Cl47Q6tiFByWSVBialcz_bxp)
 
 
-## OPPIMISRAPORTTI
+# Henkilökohtainen oppimisraportti
 
 Kirjaa opintojakson aikana keskeiset oppimasi asiat tähän asiakirjaan, omaan blogiisi, muistioon tms. Voit kirjoittaa myös aiheeseen liittyvistä epäselvistä asioista tai ongelmista ja kuinka ne ratkaistiin. Lopuksi voit arvioida omaa oppimistasi, esimerkiksi pääsitkö asettamiisi tavoitteisiin ja jos et päässyt niin mistä se johtui.
 Voit poistaa tai muuttaa näitä valmiita tekstikohtia aivan vapaasti. Jos sinulla tulee kysymyksiä tai ongelmia tämän täyttämisen suhteen niin ota yhteys opettajaan.
