@@ -1,20 +1,15 @@
-# What needs to be done?
+# Describe what is needed
 
-* step
-* step
-* step
+1. Update issue topic according description
+2. ..
+3. ..
 
-# Remember also?
+# Responsible
 
-* askel
-* askel
-* askel
-* 
-
-# Who is responsible?
-
+* name/stakeholder
 
 # Links & Sources
+
 
 /label ~Design
 /lable ~Backlog
