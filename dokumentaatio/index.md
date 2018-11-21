@@ -8,17 +8,17 @@ Voit tarvitessasi "kloonata" wiki-sivustot esim. omaan github projektiin pohjaks
 
 | Mitä | Vastuullinen | Muuta | Huomiota | 
 |:-:|:-:|:-:|:-:|
-| [Projektin tilannekatsaus](dokumentaatio/tilannekatsaus/projektin-tilannekatsaus.md) | ? | :ok:  | | |
-| [Tyoajan seuranta](dokumentaatio/projektinhallinta/tuntikirjaukset.md) | ? | :ok: | | |
+| [Projektin tilannekatsaus](dokumentaatio/00-tilannekatsaus/projektin-tilannekatsaus.md) | ? | :ok:  | | |
+| [Tyoajan seuranta](dokumentaatio/01-projektinhallinta/tuntikirjaukset.md) | ? | :ok: | | |
 | [Projektiryhmän esittely](projektiryhman-esittely) | GaruWeikko | | | |
-| [Yleistestaussuunnitelma](dokumentaatio/testaushallinta/yleistestaussuunnitelma.md)| ? | :ok: | | |
+| [Yleistestaussuunnitelma](dokumentaatio/05-testaushallinta/yleistestaussuunnitelma.md)| ? | :ok: | | |
 | [Aikataulu & resurssointi](projektin aikataulu ja resurssointi) | HessuHopo | | | |
-| [Projektisuunnitelma](dokumentaatio/projektinhallinta/projektisuunnitelma.md) | ? | :ok: | | |
-| [Viestintäsuunnitelma](dokumentaatio/projektinhallinta/viestintasuunnitelma.md) | ? | :ok: | | |
-| [Julkaisusuunnitelma](dokumentaatio/projektinhallinta/julkaisusuunnitelma.md) | ? | :ok: | | |
-| [Riskienhallinta](dokumentaatio/projektinhallinta/riskienhallintasuunnitelma.md) | ? | :ok: | | |
-| [Projektisopimus](dokumentaatio/projektinhallinta/projektisopimus.md) | ? | :ok: | | |
-| [Vaatimusmääritelmä](dokumentaatio/vaatimusmaarittely/vaatimusmaarittely.md) | ? | :ok: | | |
-| [Tekninendokumentaatio](dokumentaatio/suunnittelu-totetus/tekninentoteutus.md) | ? | :ok: | | |
-| [Käyttöohjeet & dokumentaatio](dokumentaatio/suunnittelu-totetus/kayttoohje.md) | ? | :ok: | | |
+| [Projektisuunnitelma](dokumentaatio/01-projektinhallinta/projektisuunnitelma.md) | ? | :ok: | | |
+| [Viestintäsuunnitelma](dokumentaatio/01-projektinhallinta/viestintasuunnitelma.md) | ? | :ok: | | |
+| [Julkaisusuunnitelma](dokumentaatio/04-julkaisusuunnitelma/julkaisusuunnitelma.md) | ? | :ok: | | |
+| [Riskienhallinta](dokumentaatio/01-projektinhallinta/riskienhallintasuunnitelma.md) | ? | :ok: | | |
+| [Projektisopimus](dokumentaatio/01-projektinhallinta/projektisopimus.md) | ? | :ok: | | |
+| [Vaatimusmääritelmä](dokumentaatio/02-vaatimusmaarittely/vaatimusmaarittely.md) | ? | :ok: | | |
+| [Tekninendokumentaatio](dokumentaatio/03-suunnittelu-ja-toteutus/tekninentoteutus.md) | ? | :ok: | | |
+| [Käyttöohjeet & dokumentaatio](dokumentaatio/09-tuotokset/kayttoohje.md) | ? | :ok: | | |
 
