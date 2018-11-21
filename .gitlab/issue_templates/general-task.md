@@ -1,18 +1,10 @@
 # What needs to be done?
 
-* step
-* step
-* step
-
-# Remember also?
-
-* askel
-* askel
-* askel
-* 
+- [] step
 
 # Who is responsible?
 
+* name/stakeholder
 
 # Links & Sources
 
