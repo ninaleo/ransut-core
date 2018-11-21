@@ -7,9 +7,13 @@ gantt
     dateFormat  DD-MM-YYYY
     section Julkaisut
     Feature 1  v 1.0       :active,v 1.0, 15-01-2019, 02-04-2019
-    Feature 2  v 1.0       :active,v 1.0, 15-01-2019, 01-02-2019
-    Feature 3  v 1.1       :active,v 1.0, 01-02-2019, 02-03-2019
-    Feature 4  v 1.1       :active,v 1.0, 21-02-2019, 25-04-2019
+    Feature 2  v 1.0       :active,v 1.0, 15-01-2019, 20-03-2019
+    Feature 3  v 1.1       :active,v 1.0, 01-02-2019, 02-04-2019
+    Feature 4  v 1.1       :active,v 1.0, 21-02-2019, 02-04-2019
+    Feature 5  v 2.3       :active,v 1.0, 21-02-2019, 15-03-2019
+    Feature 6  v 0.9       :active,v 1.0, 21-02-2019, 27-03-2019
+    Feature 7  v 1.1       :active,v 1.0, 21-02-2019, 01-04-2019
+
 ```
 
 
