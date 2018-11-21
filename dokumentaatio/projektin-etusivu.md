@@ -8,9 +8,9 @@ Voit tarvitessasi "kloonata" wiki-sivustot esim. omaan github projektiin pohjaks
 
 | Mitä | Vastuullinen | Muuta | Huomiota | 
 |:-:|:-:|:-:|:-:|
-| [Aikataulut](projektin-aikataulu) | [Jasen X]() | | | |
-| [Projektin tilannekatsaus](dokumentaatio/tilannekatsaus/projektin-tilannekatsaus.md) | MikkiHiiri | :ok:  | | |
-| [Tyoajan seuranta](tyoajan-seuranta) | Rambo2 | | | |
+| [Aikataulut](projektin-aikataulu) | ? | | | |
+| [Projektin tilannekatsaus](dokumentaatio/tilannekatsaus/projektin-tilannekatsaus.md) | ? | :ok:  | | |
+| [Tyoajan seuranta](dokumentaatio/projektinhallinta/tuntikirjaukset.md) | ? | :ok: | | |
 | [Projektiryhmän esittely](projektiryhman-esittely) | GaruWeikko | | | |
 | [Aikataulu & resurssointi](projektin aikataulu ja resurssointi) | HessuHopo | | | |
 | [Projektisuunnitelma](dokumentaatio/projektinhallinta/projektisuunnitelma.md) | GaruWeikko, MikkiHiiri | | | |
