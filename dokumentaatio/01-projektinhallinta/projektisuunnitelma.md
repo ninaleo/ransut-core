@@ -127,8 +127,8 @@ gantt
     dateFormat  DD-MM-YYYY
     section GANTT
     Aloitus             :active,, 15-01-2019, 20-01-2019
-    Katselmointi        :active,, 25-01-2019, 20-03-2019
-    Koekäytöt           :active,, 0, 01-02-2019, 02-04-2019
+    Katselmointi        :active,, after Aloitus, 20-03-2019
+    Koekäytöt           :active,, after , 01-02-2019, 02-04-2019
     Lopetus             :active,, 21-03-2019, 02-04-2019
 
 ```
