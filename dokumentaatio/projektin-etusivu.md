@@ -15,7 +15,7 @@ Voit tarvitessasi "kloonata" wiki-sivustot esim. omaan github projektiin pohjaks
 | [Yleistestaussuunnitelma](dokumentaatio/testaushallinta/yleistestaussuunnitelma.md)| ? | :ok: | | |
 | [Aikataulu & resurssointi](projektin aikataulu ja resurssointi) | HessuHopo | | | |
 | [Projektisuunnitelma](dokumentaatio/projektinhallinta/projektisuunnitelma.md) | GaruWeikko, MikkiHiiri | | | |
-| [Viestintäsuunnitelma](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/viestintasuunnitelma.md) | | | | |
+| [Viestintäsuunnitelma](dokumentaatio/projektinhallinta/viestintasuunnitelma.md) | ? | :ok: | | |
 | [Projektin riskit](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/riskihallintasuunnitelman-pohja.md) | | | | |
 | [Projektisopimus](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/projektisopimuksen-pohja.md) | | | | |
 | [Vaatimusmääritelmä](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-vaatimusmaarittelu.md) | | | | |
