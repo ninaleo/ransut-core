@@ -1,8 +1,3 @@
-# Lähde
-
-Tämä wiki-dokumentin runko pohjautuu seuraavaan lähteeseen. http://www.cs.tut.fi/ohj/dokumenttipohjat/pohjat/suunnittelu/hytt_drsuunnittelu.doc
-
-Kiitokset alkuperäisen tekijöille!
 
 
 ## 1.JOHDANTO
@@ -186,3 +181,11 @@ Projektin lopussa tämä luku kerätään projektisuunnitelman loppuun. Jatkokeh
 ## 8.	VIELÄ AVOIMET ASIAT
 
 Luku on epävirallinen ja sitä ei pitäisi olla enää projektin lopussa. Tä-hän voidaan merkitä dokumentin elinkaaren aikana avoinna olevia eli ratkaisua vaativia asioita, jotta ne muistettaisiin selvittää ennen doku-mentin lopullista valmistumista.
+
+
+# Lähde
+
+Tämä dokumentin runko pohjautuu http://www.cs.tut.fi/ohj/dokumenttipohjat/pohjat/suunnittelu/hytt_drsuunnittelu.doc
+
+Kiitokset alkuperäisen tekijöille!
+
