@@ -1,7 +1,8 @@
 
+
+# Projektin loppuraportti
+
 [![](https://i.ytimg.com/vi/ovEr1fBB7kU/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBn8onqOvY-j6AbsUazWUWsp1zQ8g)](https://www.youtube.com/watch?v=ovEr1fBB7kU&list=PLOyRnRI1_Cl47Q6tiFByWSVBialcz_bxp&index=7)
-
-
 
 
 # 1.	JOHDANTO	
@@ -10,8 +11,11 @@ Kerro johdannossa aluksi lyhyesti mihin projektiin tämä dokumentti liittyy, mi
 
 # 2.	TEHTÄVÄ, TAVOITE, TULOKSET
 
+
+
 ## 2.1.	Yhteenveto projektin toteumasta
-Koko projektin toteuma (projektisuunnitelman tavoitteisiin ja tehtäviin peilaten): 
+
+* Koko projektin toteuma (projektisuunnitelman tavoitteisiin ja tehtäviin peilaten): 
 * mitä piti tehdä (eli kertokaa ensin lyhyesti projektin tavoite/tarkoitus), 
 * mitä tehtiin (liitteenä voi olla projektin tulosten yhteenveto), 
 * miten onnistuttiin
@@ -23,20 +27,27 @@ Projektiprosessin osalta raportissa esitellään ainakin seuraavat asiakokonaisu
 *	projektin ulkopuoliset resurssit: konsultaatiot, koulutus, katselmoinnit, testaukset jne.
 
 # 3.	ONGELMAT JA NIIDEN RATKAISUT
-Kuvatkaa ongelmat projektin suunnittelussa ja toteutuksessa (mistä johtui, miten ratkaistiin, mitä olisi pitänyt tehdä toisin ja miten)
+
+* Kuvatkaa ongelmat projektin suunnittelussa ja toteutuksessa (mistä johtui, miten ratkaistiin, mitä olisi pitänyt tehdä toisin ja miten)
 
 ## 3.1.	Ongelmat suunnittelussa
+
 ## 3.2.	Ongelmat toteutuksessa
+
 ## 3.3.	Muut ongelmat tai toteutuneet riskit ja niiden käsittely
 
 # 4.	YHTEENVETO
+
 ## 4.1.	Keskeiset opit
-Listatkaa opitut asiat esim. henkilöittäin ja/tai vaiheittain. Mainitkaa myös hyvin toimineet työskentelytavat, työkalut ja menetelmät (nk. best practises).
+
+* Listatkaa opitut asiat esim. henkilöittäin ja/tai vaiheittain. Mainitkaa myös hyvin toimineet työskentelytavat, työkalut ja menetelmät (nk. best practises).
 
 ## 4.2.	Itsearviointi
-Arvioikaa seuraavia:
+
+* Arvioikaa seuraavia:
 
 ### 4.2.1.	Ryhmätyö
+
 *	projektipäällikkyys (ei henkilöön kohdistuvaa, vaan yleisemmällä tasolla)
 *	erilaisuuden hyödyntäminen
 *	ongelmanratkaisu (ei pelkästään teknisten ongelmien ratkaisemista, viestintä ym.)
@@ -50,6 +61,7 @@ Arvioikaa seuraavia:
 *	oman työn kriittinen kehittäminen	
 
 ### 4.2.2.	Suunnitelmallisuus (projektityöskentely) 
+
 *	suunnitelmat
 *	mitä tehty?
 *	mitä käytetty/valvottu (miten näkynyt projektin arjessa)?
@@ -63,6 +75,7 @@ Arvioikaa seuraavia:
 *	projektiprosessin hallinta
 
 ### 4.2.3.	Vuorovaikutus
+
 *	yhteydenpito sidosryhmiin (ketkä ovat sidosryhmiä?)
 *	tiedonhankinta (toimeksiantajalta tiedon saaminen)
 *	haastattelut ja niiden valmistelu, toteutus ja tiedon jalostus
@@ -82,6 +95,7 @@ Arvioikaa seuraavia:
 *	vuorovaikutuksen tuloksellisuus (Jory, sähköposti, muut)
 
 ### 4.2.4.	Asenne
+
 *	tehtävään 
 *	oppimiseen 
 *	ongelmiin
@@ -89,7 +103,8 @@ Arvioikaa seuraavia:
 *	palautehakuisuus
 
 ### 4.2.5.	Tulos
-Tulosta on kaikki, mitä projekti tavoitteellisesti tarjoaa ryhmän ulkopuolisten hyödyksi
+
+* Tulosta on kaikki, mitä projekti tavoitteellisesti tarjoaa ryhmän ulkopuolisten hyödyksi
 *	mitkä ovat projektin tulokset? 
 *	kuinka hyviä tuotokset ovat?
 *	onko projektilla ”aineettomia” tuloksia? (esim. asennemuutos)
@@ -97,8 +112,9 @@ Tulosta on kaikki, mitä projekti tavoitteellisesti tarjoaa ryhmän ulkopuoliste
 *	jatkotoimenpiteet
 
 ## 4.3.	Arvosanaehdotukset
-Mikä on mielestänne arvosana, jonka ansaitsemme em. kriteerien perusteella?
-Voitte jakaa arvosanaehdotuksen ryhmän sisällä siten, että joku enemmän töitä tehnyt saisi paremman arvosanan (tai työhön vähäisesti osallistunut huonomman).
+
+* Mikä on mielestänne arvosana, jonka ansaitsemme em. kriteerien perusteella?
+* Voitte jakaa arvosanaehdotuksen ryhmän sisällä siten, että joku enemmän töitä tehnyt saisi paremman arvosanan (tai työhön vähäisesti osallistunut huonomman).
 
 # LÄHTEET
 
