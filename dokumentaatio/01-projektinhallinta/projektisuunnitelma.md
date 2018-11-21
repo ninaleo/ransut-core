@@ -161,20 +161,32 @@ Kirjataan minne dokumentit tallennetaan/arkistoidaan, miten ne jaetaan ja kuka o
 
 Listataan riskit, arvioidaan niiden vakavuus ja todennäköisyys ja koetetaan miettiä toimenpiteet kuinka vakavimmat/todennäköisimmät riskit voitaisiin ehkäistä jo ennalta. Lisäksi olisi hyvä olla suunnitelma kuinka toimitaan, jos riski toteutuu.
 
-Liitä seuraava osio tähän mukaan: [Riskienhallintataulukko](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/riskihallintasuunnitelman-pohja.md)
+Liitä seuraava osio tähän mukaan: [Riskienhallintataulukko]()
 
 
 ## 4.5 Katselmointikäytäntö
 
 Luetellaan ja alustavasti aikataulutetaan projektin tuloskatselmukset laaditun toteutussuunnitelman pohjalta. Esitetään luettelomaisesti, mitä katselmuksia pidetään, alustava ajankohta, käsiteltävät asiat, osallistujat sekä käytännöt katselmointimateriaalin toimittamisesta (mitä, milloin, miten).
 
+Linkit katselmointipöytäkirja pohjiin
+
 ## 4.6 Projektisuunnitelmaa täydentävät suunnitelmat
 
 Tässä kohdassa mainitaan, mitä täydentäviä suunnitelmia on käytettävissä tai aiotaan projektin kuluessa laatia (esim. viestintä-, riskienhallinta-, testaus- ja käyttöönottosuunnitelma).
 
+* Vaatimusmäärittely?
+* Riskienhallintasuunnitelma
+* Asiakkaan antama dokumentaatio?
+* Viranoimaislähteet?
+* 
+
+
 ##4.7 Suunnitelmien tarkistus- ja päivitysajankohdat 
 
 Projektisuunnitelman avulla reagoidaan poikkeamiin ja ympäristömuutoksiin, joten sitä päivitetään projektin aikana. Tähän kohtaan kirjataan ne ajankohdat, jolloin suunnitelman ajantasaisuus ainakin on tarkistettava.
+
+
+
 
 ## 4.8 Projektin keskeyttämiskriteerit
 
