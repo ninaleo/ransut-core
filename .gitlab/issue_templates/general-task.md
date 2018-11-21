@@ -1,6 +1,6 @@
 # What needs to be done?
 
--  [] step
+ [] step
 
 # Who is responsible?
 
