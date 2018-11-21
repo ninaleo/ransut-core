@@ -1,11 +1,14 @@
-## Task todo
+# Describe what is needed
 
+1. Update issue topic according description
+2. ..
+3. ..
 
-- [ ] First
-- [ ] First
-- [ ] First
-- [ ] First
-- [ ] First
+# Responsible
 
+* name/stakeholder
+
+# Links & Sources
 
 /label ~Documentation
+/label ~Backlog
