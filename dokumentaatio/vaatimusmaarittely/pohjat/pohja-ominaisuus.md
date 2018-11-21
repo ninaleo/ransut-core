@@ -1,4 +1,4 @@
-# Ominaisuus XXXXXXX
+# Ominaisuus 
 
 | | |
 |:-:|:-:|
