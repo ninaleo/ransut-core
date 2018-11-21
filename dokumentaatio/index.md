@@ -11,9 +11,9 @@ Voit tarvitessasi "kloonata" wiki-sivustot esim. omaan github projektiin pohjaks
 | [Projektin tilannekatsaus](00-tilannekatsaus/projektin-tilannekatsaus.md) | ? | :ok:  | | |
 | [Backlog](https://gitlab.labranet.jamk.fi/open-project-framework/opf-project-template-v1/boards?milestone_title=Backlog&) | ? | :ok:  | | |
 | [Tyoajan seuranta](01-projektinhallinta/tuntikirjaukset.md) | ? | :ok: | | |
-| [Projektiryhmän esittely](projektiryhman-esittely) | GaruWeikko | | | |
+| [Projektiryhmän esittely](projektiryhman-esittely) |  | :ok: | | |
 | [Testaushallinta](05-testaushallinta/yleistestaussuunnitelma.md)|  | :ok: | | |
-| [Aikataulu & resurssointi](01-projektinhallinta/projektisuunnitelma.md/#3_projektin_ajalliset_tavoitteet) | | :ok: | | |
+| [Aikataulu & resurssointi](01-projektinhallinta/projektisuunnitelma.md) | | :ok: | | |
 | [Projektisuunnitelma](01-projektinhallinta/projektisuunnitelma.md) | ? | :ok: | | |
 | [Viestintäsuunnitelma](01-projektinhallinta/viestintasuunnitelma.md) | ? | :ok: | | |
 | [Julkaisusuunnitelma](04-julkaisusuunnitelma/julkaisusuunnitelma.md) | ? | :ok: | | |
