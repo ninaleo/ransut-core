@@ -123,7 +123,7 @@ Lopetus p.k.vvvv – p.k.vvvv (X h)
 
 ```mermaid
 gantt
-    title Julkaisusuunnitelma
+    title Projektin vaiheet
     dateFormat  DD-MM-YYYY
     section GANTT
     Askel 1      :active,k1,15-01-2019, 20-01-2019
