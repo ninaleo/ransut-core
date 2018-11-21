@@ -1,7 +1,7 @@
-### projektiympäristön esimerkki  2017
+### OPF -projekti esimerkki 2019
 
 
-Tämä wiki sisältää esimerkin projektityöympäristöstä, jota voidaan käyttää esim. ohjelmistoprojektin runkona.
+Tämä sivusto sisältää esimerkin projektityöympäristöstä, jota voidaan käyttää esim. ohjelmistoprojektin runkona.
 Voit tarvitessasi "kloonata" wiki-sivustot esim. omaan github projektiin pohjaksi.
 
 ![](https://openclipart.org/image/300px/svg_to_png/235516/DigitalArtFrame4x3.png&disposition=attachment)
