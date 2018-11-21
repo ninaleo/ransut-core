@@ -8,7 +8,6 @@ Voit tarvitessasi "kloonata" wiki-sivustot esim. omaan github projektiin pohjaks
 
 | Mitä | Vastuullinen | Muuta | Huomiota | 
 |:-:|:-:|:-:|:-:|
-| [Aikataulut](projektin-aikataulu) | ? | | | |
 | [Projektin tilannekatsaus](dokumentaatio/tilannekatsaus/projektin-tilannekatsaus.md) | ? | :ok:  | | |
 | [Tyoajan seuranta](dokumentaatio/projektinhallinta/tuntikirjaukset.md) | ? | :ok: | | |
 | [Projektiryhmän esittely](projektiryhman-esittely) | GaruWeikko | | | |
@@ -21,5 +20,5 @@ Voit tarvitessasi "kloonata" wiki-sivustot esim. omaan github projektiin pohjaks
 | [Projektisopimus](dokumentaatio/projektinhallinta/projektisopimus.md) | | | | |
 | [Vaatimusmääritelmä](dokumentaatio/vaatimusmaarittely/vaatimusmaarittely.md) | ? | :ok: | | |
 | [Tekninendokumentaatio](dokumentaatio/suunnittelu-totetus/tekninentoteutus.md) | ? | :ok: | | |
-| [Käyttöohjeet & dokumentaatio](installation-guide) | | | | |
-| [Projektin tarkistuslista](https://github.com/JAMK-IT/IIZP2010-system-project/wiki/projektin-tarkistuslista) | | | | |
+| [Käyttöohjeet & dokumentaatio](dokumentaatio/suunnittelu-totetus/kayttoohje.md) | ? | :ok: | | |
+
