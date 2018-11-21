@@ -1,5 +1,8 @@
-# Yksinkertainen tilakone Mermaid-skriptin avulla
+# Tilakonekuvaus -pohja
 
+
+Voit käyttää tilakonekuvauksia varsin kätevästi osana MarkDown -dokumentaatiota, kun 
+käytät Mermaid -skriptausta.. Tutustu.. 
 
 ```mermaid
 graph TD
