@@ -1,4 +1,4 @@
-# Profiili/persoona/sidosryhmän edustaja XXXXXXX
+# Profiilikuvaus -pohja
 
 
 
