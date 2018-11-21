@@ -140,7 +140,7 @@ Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollici
 
 ## Liitteet
 
-* [Liitteeksi testitapaukset](https://gitlab.labranet.jamk.fi/TTOS0800-TTOS0900/esimerkki-projekti-v1/blob/master/projektidokumentit/Exmple_of_test_case_pool.pdf)
+* [Liitteeksi testitapaukset](https://gitlab.labranet.jamk.fi/open-project-framework/opf-project-template-v1/raw/master/dokumentaatio/05-testaushallinta/Exmple_of_test_case_pool.pdf?inline=false)
 
 
 
