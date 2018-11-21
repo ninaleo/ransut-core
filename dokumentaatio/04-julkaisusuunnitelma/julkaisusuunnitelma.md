@@ -6,10 +6,11 @@ gantt
     title Julkaisusuunnitelma
     dateFormat  YYYY-MM-DD
     section Section
-    Feature 1           :a1, 2014-01-01, 30d
-    Feature 2     :after a1  , 20d
+    Feature 1 v 1.0         :start, 2019-01-01, 60d
+    Feature 2 v 1.0         :after a1  , 20d
+    Feature 3 v 1.1         :after 
     section Another
-    Task in sec      :2014-01-12  , 12d
+    Feature 3      :2014-01-12  , 12d
     another task      : 24d
 ```
 
