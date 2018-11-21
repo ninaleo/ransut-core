@@ -1,11 +1,13 @@
 ## Katselmointipöytäkirja
 
+* Aika: x.x.xxxx
+* Paikka:
+
 
 ## Aihe_______________________
 
-## Aika___________________
 
-## Läsnä_____________________
+Katselmoinnissa läsnä:
 
 
 ## Huomiot
