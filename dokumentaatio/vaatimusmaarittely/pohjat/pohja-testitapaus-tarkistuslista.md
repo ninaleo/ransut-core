@@ -1,4 +1,4 @@
-## Tarkistuslista pohja
+# Tarkistuslista pohja
 
 Tarkasti määritellyn testitapauksen voi tarvittaessa korvata tarkistuslistalla, johon on kerätty tärkeäksi koetut tarkistuskohdat.
 
