@@ -17,7 +17,7 @@ Voit tarvitessasi "kloonata" wiki-sivustot esim. omaan github projektiin pohjaks
 | [Viestintäsuunnitelma](dokumentaatio/projektinhallinta/viestintasuunnitelma.md) | ? | :ok: | | |
 | [Julkaisusuunnitelma](dokumentaatio/projektinhallinta/julkaisusuunnitelma.md) | ? | :ok: | | |
 | [Riskienhallinta](dokumentaatio/projektinhallinta/riskienhallintasuunnitelma.md) | ? | :ok: | | |
-| [Projektisopimus](dokumentaatio/projektinhallinta/projektisopimus.md) | | | | |
+| [Projektisopimus](dokumentaatio/projektinhallinta/projektisopimus.md) | ? | :ok: | | |
 | [Vaatimusmääritelmä](dokumentaatio/vaatimusmaarittely/vaatimusmaarittely.md) | ? | :ok: | | |
 | [Tekninendokumentaatio](dokumentaatio/suunnittelu-totetus/tekninentoteutus.md) | ? | :ok: | | |
 | [Käyttöohjeet & dokumentaatio](dokumentaatio/suunnittelu-totetus/kayttoohje.md) | ? | :ok: | | |
