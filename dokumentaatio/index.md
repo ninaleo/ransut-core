@@ -13,7 +13,7 @@ Voit tarvitessasi "kloonata" wiki-sivustot esim. omaan github projektiin pohjaks
 | [Tyoajan seuranta](01-projektinhallinta/tuntikirjaukset.md) | ? | :ok: | | |
 | [Projektiryhmän esittely](projektiryhman-esittely) | GaruWeikko | | | |
 | [Testaushallinta](05-testaushallinta/yleistestaussuunnitelma.md)|  | :ok: | | |
-| [Aikataulu & resurssointi](01-projektinhallinta/projektisuunnitelma/#3_projektin_ajalliset_tavoitteet) | | :ok: | | |
+| [Aikataulu & resurssointi](01-projektinhallinta/projektisuunnitelma.md/#3_projektin_ajalliset_tavoitteet) | | :ok: | | |
 | [Projektisuunnitelma](01-projektinhallinta/projektisuunnitelma.md) | ? | :ok: | | |
 | [Viestintäsuunnitelma](01-projektinhallinta/viestintasuunnitelma.md) | ? | :ok: | | |
 | [Julkaisusuunnitelma](04-julkaisusuunnitelma/julkaisusuunnitelma.md) | ? | :ok: | | |
