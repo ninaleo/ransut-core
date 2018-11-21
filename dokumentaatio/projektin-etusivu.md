@@ -16,9 +16,9 @@ Voit tarvitessasi "kloonata" wiki-sivustot esim. omaan github projektiin pohjaks
 | [Aikataulu & resurssointi](projektin aikataulu ja resurssointi) | HessuHopo | | | |
 | [Projektisuunnitelma](dokumentaatio/projektinhallinta/projektisuunnitelma.md) | GaruWeikko, MikkiHiiri | | | |
 | [Viestintäsuunnitelma](dokumentaatio/projektinhallinta/viestintasuunnitelma.md) | ? | :ok: | | |
-| [Projektin riskit](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/riskihallintasuunnitelman-pohja.md) | | | | |
-| [Projektisopimus](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/projektisopimuksen-pohja.md) | | | | |
-| [Vaatimusmääritelmä](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-vaatimusmaarittelu.md) | | | | |
+| [Riskienhallinta](dokumentaatio/projektinhallinta/riskienhallintasuunnitelma.md) | | | | |
+| [Projektisopimus](dokumentaatio/projektinhallinta/projektisopimus.md) | | | | |
+| [Vaatimusmääritelmä](dokumentaatio/vaatimusmaarittely/vaatimusmaarittely.md) | ? | :ok: | | |
 | [Tekninendokumentaatio](dokumentaatio/suunnittelu-totetus/tekninentoteutus.md) | ? | :ok: | | |
 | [Käyttöohjeet & dokumentaatio](installation-guide) | | | | |
 | [Projektin tarkistuslista](https://github.com/JAMK-IT/IIZP2010-system-project/wiki/projektin-tarkistuslista) | | | | |
