@@ -1,4 +1,4 @@
-# Vaatimukset listana
+# Vaatimuslista -pohja
 
 Tämä malli on varsin käyttökelpoinen, jos lista ei veny kovin pitkäksi. Sama lista voidaan aika kätevästi tehdä Excelillä, mutta se johtaa varsin pian dokumentoinnin monimutkaisuuteen.
 Kun käytetään yhtä ympäristöä keräämään oleellinen tieto on niiden linkittäminen helpompaa ja tieto pysyy ajantasalla paremmin.
