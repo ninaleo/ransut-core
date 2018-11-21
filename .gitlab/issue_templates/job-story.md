@@ -12,4 +12,4 @@
 
 
 /label ~"Job Story"
-/lable ~"Backlog"
+/milestone Backlog

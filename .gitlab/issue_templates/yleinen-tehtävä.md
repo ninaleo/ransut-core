@@ -10,5 +10,5 @@
 
 # Linkkejä & lähteitä
 
-/label ~"Backlog"
-/label ~"General"
+/label ~General
+/milestone Backlog

@@ -12,4 +12,4 @@
 
 
 /label ~Implementation
-/lable ~Backlog
+/milestone Backlog

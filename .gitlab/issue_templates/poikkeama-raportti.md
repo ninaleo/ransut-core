@@ -10,5 +10,5 @@
 
 # Linkkejä & lähteitä
 
-/label ~"Backlog"
 /label "~Incident"
+/milestone Backlog

@@ -11,4 +11,4 @@
 # Links & Sources
 
 /label ~Design
-/label ~Backlog
+/milestone Backlog

@@ -30,5 +30,5 @@ logs, and code as it's very hard to read otherwise.)
 
 
 /label ~Bug
-/label ~Backlog
+/milestone Backlog
 

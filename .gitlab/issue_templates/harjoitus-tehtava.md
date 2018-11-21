@@ -8,5 +8,4 @@ Tee seuraavat asiat... ja siirrä sitten "issue" tehtyjen töiden puolelle
 - [] askel
 
 
-/label ~"Backlog" 
 /label ~"Personal Task"
