@@ -121,6 +121,20 @@ Lopetus p.k.vvvv – p.k.vvvv (X h)
 
 ”Lopettamisvaihe sisältää projektin päättämiseen liittyvät toimenpiteet. Vaiheen aikana projektiryhmä laatii projektin loppuraportin ja esityksen johtoryhmälle. Vaiheen aikana luovutetaan projektin tulos toimeksiantajalle, pidetään viimeinen johtoryhmän kokous viikolla X sekä puretaan projektin organisaatio. Lopettamisvaiheen tuloksena on projektin loppuraportti.”
 
+```mermaid
+gantt
+    title Julkaisusuunnitelma
+    dateFormat  DD-MM-YYYY
+    section GANTT
+    Aloitus             :active,, 15-01-2019, 20-01-2019
+    Katselmointi        :active,, 25-01-2019, 20-03-2019
+    Koekäytöt           :active,, 0, 01-02-2019, 02-04-2019
+    Lopetus             :active,, 21-03-2019, 02-04-2019
+
+```
+
+
+
 # 4. Laadunvarmistus
 
 Projektissa sovellettavat työmenetelmät, välineet, ohjeet ja standardit
