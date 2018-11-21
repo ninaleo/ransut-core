@@ -1,9 +1,9 @@
-# [KORVAA TÄMÄ TOIMEKSIANNON NIMELLÄ]-palvelun vaatimusmäärittely
+# Virallinen vaatimusmäärittely
 
 ![](https://openclipart.org/image/300px/svg_to_png/38449/58294main-The.Brain.in.Space-page-111-experiment-3d-2.png&disposition=attachment)
 
 
-# TTOS0100 Kurssin harjoitustyö HT1 - 
+# XYZ -palvelun vaatimusmäärittely  - 
 
 * Nimimerkki/gitlab tunnus
 * Versionumero X.Y.Z
