@@ -13,6 +13,9 @@ ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
 
 Tunnukset saat kehitysryhmältä sähköpostitse: nikkenakke@nerdo.zorg
 
+## Mistä löydän lähdekoodit ja suoritetut testit
+
+
 ## Mistä saa lisää tietoa tiimistä?
 
 Tiimin kotisivu:
