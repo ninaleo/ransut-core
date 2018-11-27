@@ -48,7 +48,6 @@ Suomeksi
 
 | Issue type | Current Label Color | Offical Color |
 |:-:|:-:|:-:|
-| Backlog | ~"Backlog" | `#F0A921` |
 | Estimate | ~"Estimate" | `#F0A921` |
 | Doing | ~"Doing" | `#F0A921` |
 | Fixed Verify | ~"Fixed Verify" | `#9E760D` | 
