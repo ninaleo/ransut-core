@@ -1,7 +1,7 @@
-site_name: Open Project Framework Template Site
-site_url: http://open-project-framework.pages.labranet.jamk.fi/opf-project-template-v1
+site_name: OPF VANILLA Template Project Site
+site_url: http://open-project-framework.pages.labranet.jamk.fi/opf-vanilla-en
 
-site_author: Team ?X? - JAMK IT
+site_author: Team ?X? 
 
 docs_dir: dokumentaatio
 site_dir: public
