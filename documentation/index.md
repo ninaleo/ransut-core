@@ -1,25 +1,39 @@
-# Projektin etusivu
+# Project Status 
 
 
-Tämä sivusto sisältää esimerkin projektityöympäristöstä, jota voidaan käyttää esim. ohjelmistoprojektin runkona.
-Voit tarvitessasi luoda vastaavan projektin rakenteen käyttämällä valmista [EXPORT-tiedostoa](http://open-project-framework.pages.labranet.jamk.fi/opf-site/).
+[![](http://img.youtube.com/vi/W9_H2HOl-1U/0.jpg)](http://www.youtube.com/watch?v=W9_H2HOl-1U "")
 
-![](https://openclipart.org/image/300px/svg_to_png/310297/1542412865.png)
 
-| Mitä | Vastuullinen | Muuta | Huomiota | 
-|:-:|:-:|:-:|:-:|
-| [Projektin tilannekatsaus](00-tilannekatsaus/projektin-tilannekatsaus.md) | ? | :ok:  | | |
-| [Backlog](https://gitlab.labranet.jamk.fi/open-project-framework/opf-project-template-v1/boards?milestone_title=Backlog&) | ? | :ok:  | | |
-| [Tyoajan seuranta](01-projektinhallinta/tuntikirjaukset.md) | ? | :ok: | | |
-| [Projektiryhmän esittely](01-projektinhallinta/projektiryhman-esittely.mdy) | ?  | :ok: | | |
-| [Testaushallinta](05-testaushallinta/yleistestaussuunnitelma.md)| ?  | :ok: | | |
-| [Sprintit ja etapit](https://gitlab.labranet.jamk.fi/open-project-framework/opf-project-template-v1/milestones) | ? | :ok: | | |
-| [Projektisuunnitelma](01-projektinhallinta/projektisuunnitelma.md) | ? | :ok: | | |
-| [Viestintäsuunnitelma](01-projektinhallinta/viestintasuunnitelma.md) | ? | :ok: | | |
-| [Julkaisusuunnitelma](04-julkaisusuunnitelma/julkaisusuunnitelma.md) | ? | :ok: | | |
-| [Riskienhallinta](01-projektinhallinta/riskienhallintasuunnitelma.md) | ? | :ok: | | |
-| [Projektisopimus](01-projektinhallinta/projektisopimus.md) | ? | :ok: | | |
-| [Vaatimusmääritelmä](02-vaatimusmaarittely/vaatimusmaarittely.md) | ? | :ok: | | |
-| [Tekninendokumentaatio](03-suunnittelu-ja-toteutus/tekninentoteutus.md) | ? | :ok: | | |
-| [Käyttöohjeet & dokumentaatio](09-tuotokset/kayttoohje.md) | ? | :ok: | | |
+## Gitlab Issues
 
+* [Current Issue Board](https://gitlab.labranet.jamk.fi/open-project-framework/opf-vanilla-en/boards)
+* [Issues as a list ](https://gitlab.labranet.jamk.fi/open-project-framework/opf-vanilla-en/issues)
+
+
+
+## Mitä saatu aikaan
+
+Suspendisse interdum tellus a nulla maximus ullamcorper. Donec eu magna sit amet eros finibus rhoncus. Proin in efficitur justo, nec sagittis mauris. 
+
+## Kohdatut ongelmat
+
+* Lista "issueista" ?
+
+Vestibulum ac varius neque. Donec vel sapien libero. Cras fringilla augue quis quam pretium, nec volutpat enim vulputate. 
+
+## Mitä seuraavaksi
+
+
+* Linkki etappiin / sprinttiin ?
+Pellentesque congue odio ut tellus elementum vulputate et dapibus ante. Nunc tincidunt, nibh sit amet lobortis congue, lectus erat rutrum lacus, nec rhoncus urna erat quis felis. Vestibulum laoreet est diam, in euismod tellus ornare at. Donec in egestas enim. Cras ipsum elit, pulvinar consequat viverra id, dictum condimentum justo.
+
+
+### Projektin kokonaiskulut 5.1.201x
+
+* [Linkki tuntikirjauksiin?]()
+
+| Kuluerä | määrä |  hinta a | Yhteensä |
+|:---|:---|:---|:---|
+| Työtunnit | 73 | 50 € | 3650€ |   
+| Hankinnat | 4 | 10 € | 40 € |
+| *Yhteensä:* |- | - | 3690 € |
