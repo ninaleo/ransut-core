@@ -1,9 +1,9 @@
-site_name: OPF Projektirunko kursseille TTOS0800+TTOS0900 
+site_name: OPF for New Project 
 site_url: http://open-project-framework.pages.labranet.jamk.fi/opf-for-ttos0800-ttos0900-v1
-site_author: Team X 
-docs_dir: dokumentit
+site_author: Your team 
+docs_dir: dokuments
 site_dir: public
-site_name: Example site
+site_name: Your Default Site
 
 markdown_extensions:
   - plantuml-markdown
