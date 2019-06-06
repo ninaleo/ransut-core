@@ -1,8 +1,6 @@
 # Project Status 
 
-
-[![](http://img.youtube.com/vi/W9_H2HOl-1U/0.jpg)](http://www.youtube.com/watch?v=W9_H2HOl-1U "")
-
+Where we are now? Where are we going to?
 
 ## Gitlab Issues
 
@@ -11,17 +9,22 @@
 
 
 
-## Mitä saatu aikaan
+## Important tasks
 
 Suspendisse interdum tellus a nulla maximus ullamcorper. Donec eu magna sit amet eros finibus rhoncus. Proin in efficitur justo, nec sagittis mauris. 
 
-## Kohdatut ongelmat
+
+## What we have achieved
+
+Suspendisse interdum tellus a nulla maximus ullamcorper. Donec eu magna sit amet eros finibus rhoncus. Proin in efficitur justo, nec sagittis mauris. 
+
+## Problems ahead?
 
 * Lista "issueista" ?
 
 Vestibulum ac varius neque. Donec vel sapien libero. Cras fringilla augue quis quam pretium, nec volutpat enim vulputate. 
 
-## Mitä seuraavaksi
+## Next Steps
 
 
 * Linkki etappiin / sprinttiin ?
