@@ -1,4 +1,4 @@
-# Theme XXXXXXX
+# Epic XXXXXXX
 
 * Responsible person: Marko Polo
 * Status (Accepted/Postponed/Rejected etc)
