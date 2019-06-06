@@ -1,8 +1,8 @@
 [![](http://img.youtube.com/vi/P_ExkvEoj6k/0.jpg)](http://www.youtube.com/watch?v=P_ExkvEoj6k "")
 
-SOPIMUS OPISKELIJAPROJEKTIYHTEISTYÖSTÄ
+# SOPIMUS OPISKELIJAPROJEKTIYHTEISTYÖSTÄ
 
-# 1 SOPIMUKSEN OSAPUOLET
+## 1 SOPIMUKSEN OSAPUOLET
 
 Tämä projektisopimus (jäljempänä Sopimus) on tehty X Oy:n (jäljempänä 
 
@@ -14,7 +14,7 @@ sopimuksen velvoitteiden täyttämisestä omasta puolestaan (tehdään tarvittae
 
 erillinen sopimus). 
 
-# 2 SOPIMUKSEN KOHDE
+## 2 SOPIMUKSEN KOHDE
 
 Sopimuksella sovitaan IT:n ohjelmistonkehitysprojekteista (jäljempänä Projekti), joissa on 
 
@@ -22,9 +22,9 @@ mukana opiskelijoita. Kunkin projektin tavoitteet määritellään erillisessä
 
 projektisuunnitelmassa.
 
-# 3 SOPIMUKSEN OSAPUOLTEN VELVOLLISUUDET
+## 3 SOPIMUKSEN OSAPUOLTEN VELVOLLISUUDET
 
-## 3.1 Toimeksiantaja
+### 3.1 Toimeksiantaja
 
 Yrityksen velvollisuutena on tarkentaa yhdessä IT:n ja Ryhmän kanssa 
 
@@ -58,9 +58,9 @@ Lisäksi kunkin ryhmän jäsenen velvollisuus on osallistua IT:n järjestämää
 
 tukevaan koulutukseen.
 
-# 4 SOPIMUKSEN OSAPUOLTEN OIKEUDET
+## 4 SOPIMUKSEN OSAPUOLTEN OIKEUDET
 
-## 4.1 Toimeksiantaja
+### 4.1 Toimeksiantaja
 
 
 Toimeksiantaja saa kaikki oikeudet sisältäen muuntelu- ja edelleenluovutusoikeudet 
