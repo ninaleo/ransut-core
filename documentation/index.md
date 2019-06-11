@@ -30,6 +30,3 @@ Vestibulum ac varius neque. Donec vel sapien libero. Cras fringilla augue quis q
 * Linkki etappiin / sprinttiin ?
 Pellentesque congue odio ut tellus elementum vulputate et dapibus ante. Nunc tincidunt, nibh sit amet lobortis congue, lectus erat rutrum lacus, nec rhoncus urna erat quis felis. Vestibulum laoreet est diam, in euismod tellus ornare at. Donec in egestas enim. Cras ipsum elit, pulvinar consequat viverra id, dictum condimentum justo.
 
-
-
-<iframe src="https://atlas.mindmup.com/2019/06/30ceffd088f811e9984ce99c5572ee6c/open_project_framework/index.html"></iframe>
