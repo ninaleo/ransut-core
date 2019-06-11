@@ -1,6 +1,6 @@
 [![](http://img.youtube.com/vi/x3MH8_7oOcE/0.jpg)](http://www.youtube.com/watch?v=x3MH8_7oOcE "")
 
-# Projektisuunnitelma pohja / sisältö
+# Project plan template
 
 
 
