@@ -1,3 +1,0 @@
-# Markkinointisuunnitelma
-
-TBD
