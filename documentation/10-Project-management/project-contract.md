@@ -1,6 +1,9 @@
 [![](http://img.youtube.com/vi/P_ExkvEoj6k/0.jpg)](http://www.youtube.com/watch?v=P_ExkvEoj6k "")
 
-# SOPIMUS OPISKELIJAPROJEKTIYHTEISTYÖSTÄ
+# CONTRACT TEMPLATE
+
+
+SOPIMUS OPISKELIJAPROJEKTIYHTEISTYÖSTÄ
 
 ## 1 SOPIMUKSEN OSAPUOLET
 
