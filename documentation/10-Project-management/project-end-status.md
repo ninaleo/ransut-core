@@ -1,4 +1,4 @@
-# Loppukatselmointi ja seminaari
+# Project end review
 
 * Tämä on runko aiheista, joita on asiallaista käsitellä projektin loppukatselmoinnissa
 
