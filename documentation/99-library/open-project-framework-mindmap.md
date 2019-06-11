@@ -1,4 +1,4 @@
-# Open Project Framework mind map
+# Open Project Framework as Mindmap
 
 
 
