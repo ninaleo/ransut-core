@@ -1,4 +1,4 @@
-# Suunnitteludokumentaatio
+# Design specification template
 
 
 # 1.JOHDANTO
