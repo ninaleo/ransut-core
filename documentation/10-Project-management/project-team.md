@@ -1,5 +1,4 @@
-# Projektiryhmän esittely
-
+# Project team and key stake holders
 ![](https://openclipart.org/image/300px/svg_to_png/309644/1541381381.png)
 
 # Nimi
