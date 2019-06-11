@@ -1,4 +1,4 @@
-# Viestintäsuunnitelma
+# Communication Plan
 
 #	Johdanto
 
