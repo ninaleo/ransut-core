@@ -1,18 +1,22 @@
-site_name: OPF for New Project 
-site_url: http://open-project-framework.pages.labranet.jamk.fi/opf-vanilla-en/ 
-site_author: Your team 
-docs_dir: documentation
+site_name: Open Project Framework (OPF) -projektirunko kursseille TTOS0100 
+site_url: http://narsun-testirata.pages.labranet.jamk.fi/syssy2019/
+
+site_author: Nimesi tulee tähän
+
+docs_dir: dokumentit
 site_dir: public
-site_name: Your Default Site
 
 markdown_extensions:
-  - plantuml-markdown
+  - plantuml-markdown:
+      server: http://www.plantuml.com/plantuml
   - toc:
       anchorlink: True
       separator: "_"
   - admonition
   - tables
   - sane_lists
+
+
 
 theme:
   name: 'material'
