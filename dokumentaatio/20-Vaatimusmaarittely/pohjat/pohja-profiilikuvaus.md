@@ -1,11 +1,13 @@
-# Profiilikuvaus -pohja
+# Profiili:
 
+
+[![](http://img.youtube.com/vi/-TbGB_1wjpM/0.jpg)](http://www.youtube.com/watch?v=-TbGB_1wjpM "")
 
 
 ### viiteryhmä/segmentti:
 
 * Millainen profiili on kyseessä, eli liittyykö profiili suurempaan kokonaisuuteen esim. "asiakkaat"
-* Mitä tämä profiili edustaa?
+* Mitä laajempaa sidosryhmää profiili edustaa?
 
 ### Persoona/sidosryhmän kuvaus
 
