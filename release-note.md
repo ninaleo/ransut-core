@@ -2,6 +2,11 @@
 
 VANILLA
 
+Changes 9.9.2019
+
+* New table of content list
+* Finnish version of requirement specification updated
+* MkDocks updated
 
 
 Changes 3.6.2019
