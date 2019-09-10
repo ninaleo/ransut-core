@@ -1,6 +1,6 @@
 # Release note
 
-VANILLA
+VANILLA OPF
 
 Changes 9.9.2019
 
