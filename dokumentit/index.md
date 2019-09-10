@@ -1,25 +1,20 @@
 # Projektin etusivu
 
 
-Tämä sivusto sisältää esimerkin projektityöympäristöstä, jota voidaan käyttää esim. ohjelmistoprojektin runkona.
-Voit tarvitessasi luoda vastaavan projektin rakenteen käyttämällä valmista [EXPORT-tiedostoa](http://open-project-framework.pages.labranet.jamk.fi/opf-site/).
+Tämä sivusto on OPF-projektirungon oletus näkymä, eli eräänlainen projektin intra/extranet.
 
-![](https://openclipart.org/image/300px/svg_to_png/310297/1542412865.png)
+![](https://openclipart.org/image/300px/svg_to_png/185078/oldmanreadsabook.png&disposition=attachment)
 
-| Mitä | Vastuullinen | Muuta | Huomiota | 
-|:-:|:-:|:-:|:-:|
-| [Projektin tilannekatsaus](00-tilannekatsaus/projektin-tilannekatsaus.md) | ? | :ok:  | | |
-| [Backlog](https://gitlab.labranet.jamk.fi/open-project-framework/opf-project-template-v1/boards?milestone_title=Backlog&) | ? | :ok:  | | |
-| [Tyoajan seuranta](01-projektinhallinta/tuntikirjaukset.md) | ? | :ok: | | |
-| [Projektiryhmän esittely](01-projektinhallinta/projektiryhman-esittely.mdy) | ?  | :ok: | | |
-| [Testaushallinta](05-testaushallinta/yleistestaussuunnitelma.md)| ?  | :ok: | | |
-| [Sprintit ja etapit](https://gitlab.labranet.jamk.fi/open-project-framework/opf-project-template-v1/milestones) | ? | :ok: | | |
-| [Projektisuunnitelma](01-projektinhallinta/projektisuunnitelma.md) | ? | :ok: | | |
-| [Viestintäsuunnitelma](01-projektinhallinta/viestintasuunnitelma.md) | ? | :ok: | | |
-| [Julkaisusuunnitelma](04-julkaisusuunnitelma/julkaisusuunnitelma.md) | ? | :ok: | | |
-| [Riskienhallinta](01-projektinhallinta/riskienhallintasuunnitelma.md) | ? | :ok: | | |
-| [Projektisopimus](01-projektinhallinta/projektisopimus.md) | ? | :ok: | | |
-| [Vaatimusmääritelmä](02-vaatimusmaarittely/vaatimusmaarittely.md) | ? | :ok: | | |
-| [Tekninendokumentaatio](03-suunnittelu-ja-toteutus/tekninentoteutus.md) | ? | :ok: | | |
-| [Käyttöohjeet & dokumentaatio](09-tuotokset/kayttoohje.md) | ? | :ok: | | |
+Vasemmalta laidalta löydät eri osa-alueet 
 
+1. 00
+2. 10
+3. 20
+4. 30
+5. 40
+6. 50
+7. 60
+8. 70
+9. 80
+10. 90
+11. 99
