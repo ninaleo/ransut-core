@@ -1,33 +1,28 @@
 # Current Project Status 
 
 
-[![](http://img.youtube.com/vi/W9_H2HOl-1U/0.jpg)](http://www.youtube.com/watch?v=W9_H2HOl-1U "")
-
-
 ## Gitlab Issues
 
 * [Current Issue Board](https://gitlab.labranet.jamk.fi/open-project-framework/opf-vanilla-en/boards)
-* [Issues as a list ](https://gitlab.labranet.jamk.fi/open-project-framework/opf-vanilla-en/issues)
+* [Issues List](https://gitlab.labranet.jamk.fi/open-project-framework/opf-vanilla-en/issues)
 
+## What have been achieved
 
-
-## What we have achieved
-
-Suspendisse interdum tellus a nulla maximus ullamcorper. Donec eu magna sit amet eros finibus rhoncus. Proin in efficitur justo, nec sagittis mauris. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Existing Problems
 
-* Lista "issueista" ?
+* [List of existing issues and / or problems]()
 
-Vestibulum ac varius neque. Donec vel sapien libero. Cras fringilla augue quis quam pretium, nec volutpat enim vulputate. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
 
 ## Next steps
 
+* [Link to next milestone / sprint]()
 
-* Linkki etappiin / sprinttiin ?
-Pellentesque congue odio ut tellus elementum vulputate et dapibus ante. Nunc tincidunt, nibh sit amet lobortis congue, lectus erat rutrum lacus, nec rhoncus urna erat quis felis. Vestibulum laoreet est diam, in euismod tellus ornare at. Donec in egestas enim. Cras ipsum elit, pulvinar consequat viverra id, dictum condimentum justo.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-## Current budjet
+## Current budget
 
 * [Link to costs]()
