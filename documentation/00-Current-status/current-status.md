@@ -3,8 +3,8 @@
 
 ## Gitlab Issues
 
-* [Current Issue Board](https://gitlab.labranet.jamk.fi/open-project-framework/opf-vanilla-en/boards)
-* [Issues List](https://gitlab.labranet.jamk.fi/open-project-framework/opf-vanilla-en/issues)
+* [Current Issue Board](/boards)
+* [Issues List](/issues)
 
 ## What have been achieved
 
