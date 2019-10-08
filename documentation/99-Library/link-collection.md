@@ -1,16 +1,22 @@
-# Projektin kirjasto
+# Project library
 
 ![](https://openclipart.org/image/300px/svg_to_png/268463/Library-no-text.png)
+
+# Body of knowledge
 
 * [PMBOK](https://www.pmi.org/pmbok-guide-standards)
 * [SWEBOK](https://www.computer.org/web/swebok/v3)
 * [ISTQB](https://www.istqb.org/)
-* 
 
+
+
+# Agile development
+
+* [Agile Essence](https://www.ivarjacobson.com/services/agile-essentials-starter-pack-agile-practices)
 * [blog.crisp.se](https://blog.crisp.se/)
-* 
+ 
 
-# Canvas collection
+# Workshops & canvases
 
 * [Master Facilitator](http://masterfacilitator.com/canvas-collection/)
 * [Team Charter Canvas](https://designabetterbusiness.com/2017/08/24/team-charter-canvas/)
