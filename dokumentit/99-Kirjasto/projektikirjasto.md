@@ -1,4 +1,4 @@
-# Projektin kirjasto
+# Projektikirjasto
 
 ![](https://openclipart.org/image/300px/svg_to_png/268463/Library-no-text.png)
 
