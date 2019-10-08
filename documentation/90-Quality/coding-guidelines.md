@@ -1,3 +1,3 @@
-# Coding Guidelines
+# Code guidelines
 
 TBD
