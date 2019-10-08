@@ -6,6 +6,14 @@
 
 ![](https://openclipart.org/image/300px/svg_to_png/121699/project-schedule.png&disposition=attachment)
 
+## Sprint ja Gitlab Issuet
+
+* CURRENT SPRINT _X_
+
+* [Current Issue Board](https://gitlab.labranet.jamk.fi/open-project-framework/opf-virtual-company-v1/core/-/boards)
+* [Issues List](/issues)
+
+
 ## Mitä saatu aikaan
 
 Suspendisse interdum tellus a nulla maximus ullamcorper. Donec eu magna sit amet eros finibus rhoncus. Proin in efficitur justo, nec sagittis mauris. 
