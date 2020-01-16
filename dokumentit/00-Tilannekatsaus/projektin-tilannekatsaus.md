@@ -8,8 +8,8 @@
 
 **Päivitä linkit osoittamaan omaan projektiin**
 
-* [Kanban -lauta](https://gitlab.labranet.jamk.fi/open-project-framework/opf-virtual-company-v1/core/-/boards)
-* [Nakkilista](/issues)
+* [Issue Board -näkymä](https://gitlab.labranet.jamk.fi/open-project-framework/opf-virtual-company-v1/core/-/boards)
+* [Issue Backlog](https://gitlab.labranet.jamk.fi/open-project-framework/opf-virtual-company-v1/core/issues?scope=all&utf8=%E2%9C%93&state=opened&milestone_title=Backlog)
 
 
 ## Mitä saatu aikaan
