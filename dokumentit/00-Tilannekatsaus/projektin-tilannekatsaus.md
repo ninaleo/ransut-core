@@ -1,17 +1,15 @@
 # Projektin tilannekatsaus
 
-
-[![Projektin riskienhallinta](https://i.ytimg.com/vi/ZC7RVvFLwcA/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLA-AQl85Hv5CpUFH8zqV6R60Rdv_A)](https://www.youtube.com/watch?v=ZC7RVvFLwcA&list=PLOyRnRI1_Cl47Q6tiFByWSVBialcz_bxp&index=10)
-
-
 ![](https://openclipart.org/image/300px/svg_to_png/121699/project-schedule.png&disposition=attachment)
 
 ## Sprint ja Gitlab Issuet
 
 * CURRENT SPRINT _X_
 
-* [Current Issue Board](https://gitlab.labranet.jamk.fi/open-project-framework/opf-virtual-company-v1/core/-/boards)
-* [Issues List](/issues)
+**Päivitä linkit osoittamaan omaan projektiin**
+
+* [Kanban -lauta](https://gitlab.labranet.jamk.fi/open-project-framework/opf-virtual-company-v1/core/-/boards)
+* [Nakkilista](/issues)
 
 
 ## Mitä saatu aikaan
