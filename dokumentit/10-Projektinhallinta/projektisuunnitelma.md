@@ -1,7 +1,4 @@
-
-[![Käyttöohje](https://i.ytimg.com/vi/WBVTXEXkLLI/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBxuIzi6eSPuSVFoi9jBpTueIPueQ)](https://www.youtube.com/watch?v=WBVTXEXkLLI&index=11&list=PLOyRnRI1_Cl47Q6tiFByWSVBialcz_bxp)
-
-
+[![](http://img.youtube.com/vi/x3MH8_7oOcE/0.jpg)](http://www.youtube.com/watch?v=x3MH8_7oOcE "")
 
 # Projektisuunnitelma pohja / sisältö
 
@@ -119,16 +116,18 @@ Lopetus p.k.vvvv – p.k.vvvv (X h)
 
 ”Lopettamisvaihe sisältää projektin päättämiseen liittyvät toimenpiteet. Vaiheen aikana projektiryhmä laatii projektin loppuraportin ja esityksen johtoryhmälle. Vaiheen aikana luovutetaan projektin tulos toimeksiantajalle, pidetään viimeinen johtoryhmän kokous viikolla X sekä puretaan projektin organisaatio. Lopettamisvaiheen tuloksena on projektin loppuraportti.”
 
-``plantuml
-Project starts the 2019-5-15
-[Version v1.0 EarlyAdopter] Starts 2019-5-15 and ends 2019-7-30 
-[Design Phase] Starts 2019-5-15 and ends 2019-6-15
-[Feature 1 v 1.0] Starts 2019-5-25 and ends 2019-6-15
-[Feature 2 v 1.0] Starts 2019-5-25 and ends 2019-7-1
-[Feature 3 v 1.1] Starts 2019-6-15 and ends 2019-7-15
-[Feature 4 v 1.1] Starts 2019-6-25 and ends 2019-7-20
-[Feature 5 v 2.3] Starts 2019-6-1 and ends 2019-7-21
-[Accceptance Testing ] Starts 2019-7-21 and ends 2019-7-23
+```mermaid
+gantt
+    title Projektin vaiheet
+    dateFormat  DD-MM-YYYY
+    section GANTT
+    Askel 1      :active,k1,15-01-2019, 20-01-2019
+    Askel 2      :active,k2,after k1, 20-02-2019
+    Askel 3      :active,k3,after k2, 20-03-2019
+    Askel 4      :active,k4,after k3, 20-04-2019
+
+```
+
 
 
 # 4. Laadunvarmistus
@@ -157,7 +156,7 @@ Kirjataan minne dokumentit tallennetaan/arkistoidaan, miten ne jaetaan ja kuka o
 
 Listataan riskit, arvioidaan niiden vakavuus ja todennäköisyys ja koetetaan miettiä toimenpiteet kuinka vakavimmat/todennäköisimmät riskit voitaisiin ehkäistä jo ennalta. Lisäksi olisi hyvä olla suunnitelma kuinka toimitaan, jos riski toteutuu.
 
-Liitä seuraava osio tähän mukaan: [Riskienhallintataulukko](riskienhallita.md)
+Liitä seuraava osio tähän mukaan: [Riskienhallintataulukko]()
 
 
 ## 4.5 Katselmointikäytäntö
