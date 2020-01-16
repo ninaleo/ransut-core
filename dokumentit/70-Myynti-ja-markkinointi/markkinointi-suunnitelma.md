@@ -1,2 +1,7 @@
-# Markkinointi-suunnitelma
+# Markkinointisuunnitelma
+
+
+* Mitä?
+* Kenelle?
+* Kuka?
 
