@@ -1,7 +1,7 @@
-site_name: Open Project Framework (OPF) -vanilla project environment 
-site_url: http://narsun-testirata.pages.labranet.jamk.fi/syssy2019/
+site_name: Open Project Framework (OPF 0.5) - project environment 
+site_url: http://open-project-framework.pages.labranet.jamk.fi/opf-virtual-company-v1/core/
 
-site_author: Nimesi tulee tähän
+site_author: NarsuMan
 
 docs_dir: dokumentit
 site_dir: public
