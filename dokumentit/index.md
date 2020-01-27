@@ -3,7 +3,7 @@
 
 Tämä sivusto on OPF-projektirungon oletus näkymä, eli eräänlainen projektin intra/extranet.
 
-![](https://openclipart.org/image/300px/svg_to_png/185078/oldmanreadsabook.png&disposition=attachment)
+![](http://wimmalab.pages.labranet.jamk.fi/guides-and-info/opf.png)
 
 Vasemmalta laidalta löydät eri osa-alueet 
 
