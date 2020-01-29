@@ -5,6 +5,7 @@ Open Project Plaform Core for Virtual Companu
 Changes 29.1.2020
 
 * Marketing and contracts folder added for finnish version
+* Default Icon changed
 
 
 Changes 9.9.2019
