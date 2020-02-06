@@ -10,13 +10,13 @@ Elina Monthan, Tommi P, Aleksi L, Jarkko U ja Joonas V
 
 **Alkaa**
 
-# Tarjouksen vastaanottaja:	  Lehtori Karo Saharinen, JAMK
+# Tarjouksen vastaanottaja:	  Mr/MRs X, Company Oy
 
 Viitaten tarjouspyyntöönne 6.9.2018 tarjoamme teille seuraavaa palvelutuotetta: 
 
 ## 1. Tarjouksen kohde ja hankintatilanne
 
-Totetutettvalla OBSIMO – palvelulla tarkoitetaan tässä tapauksessa verkkopalvelua, joka käsittää seuraavat toiminnallisuudet:
+Totetutettvalla "OBSIMOX" – palvelulla tarkoitetaan tässä tapauksessa verkkopalvelua, joka käsittää seuraavat toiminnallisuudet:
 
 * yritys voi äänestää kurssien merkityksellisyydestä [Feature 10]() sekä antaa palautetta [Feature 13]() 
 * oppilaitos voi lisätä kursseja [Feature 5]() , hallinnoida tilejä [Feature 12]() ja kerätä dataa yllä mainituista valinnoista [Feature 15]() + [Feature 18]()
