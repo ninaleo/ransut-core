@@ -40,6 +40,8 @@ koulutusta projektin tavoitteiden saavuttamiseksi. Yrityksen velvollisuutena on 
 
 maksaa sille kuuluvat maksut erillisen sopimuksen mukaisesti.
 
+## 3.2 IT
+
 IT:n velvollisuutena on tarjota Projektille työtila, olemassa olevia tietokonelaitteita, 
 
 ohjelmistoja sekä muita Projektia varten varattuja välineitä ja tarvikkeita. IT tarjoaa myös 
@@ -49,6 +51,8 @@ Ryhmälle projektiprosessin läpivientiä tukevaa ohjausta ja koulutusta Projekt
 Jos Projekti kuuluu IT:n opetusohjelmaan ja sillä on IT:n näkökulmasta opetukselliset 
 
 tavoitteet, niin IT ei vastaa Projektin sisällöllisistä tavoitteista eikä niiden saavuttamisesta.
+
+## 3.3. Ryhmä
 
 Ryhmän tehtävänä on toteuttaa Projekti projektisuunnitelman ja siihen myöhemmin 
 
@@ -71,11 +75,15 @@ Ryhmän Toimeksiantajalle Projektin tuloksina luovuttamiin raportteihin, muihin
 
 dokumentteihin ja aineistoihin, ellei erikseen toisin sovita.
 
+## 4.2 IT
+
 IT on oikeus käyttää projektin tuotoksia rajoitetusti opetustarkoituksiin. Yrityksellä on 
 
 kuitenkin halutessaan oikeus ennen sopimuksen päättymistä tarkastaa ja rajata IT:lle 
 
 jäävä materiaali. IT:llä on oikeus käyttää Projektia referenssinään.
+
+## 4.3 Ryhmä
 
 Ryhmään kuuluvalla opiskelijalla on oikeus halutessaan käyttää Projektia referenssinään. 
 
