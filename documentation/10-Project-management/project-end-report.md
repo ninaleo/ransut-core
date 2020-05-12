@@ -1,119 +1,121 @@
-# Project Closing Report
+# Project End Report
 
 [![](https://i.ytimg.com/vi/ovEr1fBB7kU/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBn8onqOvY-j6AbsUazWUWsp1zQ8g)](https://www.youtube.com/watch?v=ovEr1fBB7kU&list=PLOyRnRI1_Cl47Q6tiFByWSVBialcz_bxp&index=7)
 
+ 
+# 1 INTRODUCTION
+The end report should primarily answer the following questions: what and how was done, why it was done, what was successful, what failed and why, how problems were solved and what was learned.
+Start the introduction by briefly explaining which project is this document about, who were involved (project organization) and what is the meaning and content of this document.
 
-# 1.	JOHDANTO	
-Loppuraportissa tulee ensisijaisesti vastata kysymyksiin: mitä ja miten tehtiin, miksi tehtiin, missä onnistuttiin, mikä meni pieleen, miksi ja miten ongelmat ratkaistiin ja mitä itse asiassa opittiin.
-Kerro johdannossa aluksi lyhyesti mihin projektiin tämä dokumentti liittyy, mitä osapuolia projektissa oli mukana (projektin organisaatio) ja mikä on tämän dokumentin tarkoitus ja sisältö.
+# 2 ASSIGNMENT, TARGET AND RESULTS
+ 
+## 2.1 Overview of the project
+Outcome of the project based on the project objectives and assignments:
+* what was to be done (briefly about the objectives and meaning of the project)
+* what was done (summary of the results of the project may be attached)
+* was it successful
 
-# 2.	TEHTÄVÄ, TAVOITE, TULOKSET
+
+ 
+## 2.2 Success of the project (plan versus result)
+The project process should be introduced by describing at least the following items:
+* structure of the process: stages and tasks, principles of the implementation and schedule
+* internal time resources: planned and realized resources by stage and weekly, distribution between project management and actual content tasks
+* external resources: consultations, training, reviews, testing etc
+
+ 
+# 3 PROBLEMS AND SOLUTIONS
+Describe the problems faced during the planning and/or implementation of the project. Why did the problems occur, how were they resolved, what should have been done differently and how.
+ 
+## 3.1 Problems during planning
+ 
+## 3.2 Problems during implementation
+ 
+## 3.3 Other problems, realized risks and their processing
+ 
+# 4 SUMMARY
+ 
+## 4.1 Most important learnings
+List the things you learned for example by person and/or by stage. Write down the practices that worked well, handy tools and useful methods (so called best practices).
+ 
+## 4.2 Self-evaluation
+Evaluate the following:
+ 
+### 4.2.1 Group work
+* Project management (not personalized, but on general level)
+* Utilizing diversity
+* Problem solving (not limited to technical, other problems too, e.g. communication)
+* Division of workload and management of tasks
+* Groups own work
+* Work by others (support group activities etc.)
+* Utilization of resources (what are your resources?)
+* Guidance and its utilization (did you receive guidance from others than your own supervisor?)
+* Group process (from individuals to team, evolution)
+* Crisis and management
+* Critical development of own work
+
+ 
+### 4.2.2 Planning the project work
+* Plans
+* What’s been done?
+* Tools used for planning and controlling (how does it affect the everyday project work?)
+* What’s been updated and why?
+* How good were the plans?
+* Resource management:
+* planning
+* controlling
+* realization
+* Documentation of project process (for example memos from meetings)
+* Management of project process
 
 
+ 
+### 4.2.3 Interaction
+* Communication with stakeholders (who are they?)
+* Acquiring information (from the client)
+* Interviews and preparations, implementation and processing the knowledge gained
+* Reporting
+* With the client
+* With special target groups
+* With University of Applied Sciences
+* With Other targets and media (if applicable)
+* Work in executive board (preparations, achievement of goals, implementation)
+* Developing and delimiting the task
+    * How?
+    * Who suggested and with what information?
+* Support group activities (sharing knowledge, utilizing experts)
+* General mood and reasons behind it (if ‘down’, how was it improved?)
+* Anticipation of time pressure in communication (travel etc)
+* Use of communication tools (best tool for each case, for example meetings are very expensive use of time)
+* Effectiveness of communication (executive board, email, others)
 
-## 2.1.	Yhteenveto projektin toteumasta
 
-* Koko projektin toteuma (projektisuunnitelman tavoitteisiin ja tehtäviin peilaten): 
-* mitä piti tehdä (eli kertokaa ensin lyhyesti projektin tavoite/tarkoitus), 
-* mitä tehtiin (liitteenä voi olla projektin tulosten yhteenveto), 
-* miten onnistuttiin
+ 
+ 
+### 4.2.4 Attitude
+* Towards the task
+* Towards learning
+* Towards the problems
+* Was the project under control during all the various stages?
+* Asking for feedback
 
-## 2.2.	 Projektin onnistuminen (suunnitelma vs. toteutuma)
-Projektiprosessin osalta raportissa esitellään ainakin seuraavat asiakokonaisuudet:
-*	prosessin rakenne: vaiheet ja tehtävät, niiden toteutusperiaatteet ja aikataulut
-*	projektin sisäiset aikaresurssit: suunnitellut ja toteutuneet vaiheittain ja viikoittain, jakauma tehtävittäin (varsinainen sisältö ja projektin hallinta)
-*	projektin ulkopuoliset resurssit: konsultaatiot, koulutus, katselmoinnit, testaukset jne.
+ 
+### 4.2.5 Result
+Everything that the project offers to the benefit of outsiders.
+* What are the results of the project?
+* How good are they?
+* Are there “intangible” results? (for example, change in attitude)
+* Value of the results to the organization and to others
+* Further steps 
+ 
 
-# 3.	ONGELMAT JA NIIDEN RATKAISUT
+## 4.3 Suggested grades
+What grades do you think you earned based on the above criteria? You can suggest differnet grades to each team member based on achievements and activity, for example the key players should get better grades than those who barely worked at all.
 
-* Kuvatkaa ongelmat projektin suunnittelussa ja toteutuksessa (mistä johtui, miten ratkaistiin, mitä olisi pitänyt tehdä toisin ja miten)
 
-## 3.1.	Ongelmat suunnittelussa
+ 
+# SOURCES
+ 
+# ATTACHMENTS
 
-## 3.2.	Ongelmat toteutuksessa
 
-## 3.3.	Muut ongelmat tai toteutuneet riskit ja niiden käsittely
-
-# 4.	YHTEENVETO
-
-## 4.1.	Keskeiset opit
-
-* Listatkaa opitut asiat esim. henkilöittäin ja/tai vaiheittain. Mainitkaa myös hyvin toimineet työskentelytavat, työkalut ja menetelmät (nk. best practises).
-
-## 4.2.	Itsearviointi
-
-* Arvioikaa seuraavia:
-
-### 4.2.1.	Ryhmätyö
-
-*	projektipäällikkyys (ei henkilöön kohdistuvaa, vaan yleisemmällä tasolla)
-*	erilaisuuden hyödyntäminen
-*	ongelmanratkaisu (ei pelkästään teknisten ongelmien ratkaisemista, viestintä ym.)
-*	työnjako ja tehtävien hallinta
-*	ryhmän oma työ 
-*	toisten työ (esim. tukiryhmätoiminta)
-*	resurssien hyödyntäminen (mitkä ovat teidän resurssinne?)
-*	ohjaus ja sen käyttö (mitä muutakin kuin oma ohjaaja?)
-*	ryhmäprosessi (ryhmällä eri kehitysvaiheita (joukko, klikki, ME, tiimi), miten kehittynyt?)
-*	kriisit ja niistä selviäminen 
-*	oman työn kriittinen kehittäminen	
-
-### 4.2.2.	Suunnitelmallisuus (projektityöskentely) 
-
-*	suunnitelmat
-*	mitä tehty?
-*	mitä käytetty/valvottu (miten näkynyt projektin arjessa)?
-*	mitä päivitetty ja miksi?
-*	miten hyvin tehty?
-*	resurssien hallinta
-*	suunniteltu
-*	valvonta
-*	toteutuminen
-*	projektiprosessin dokumentointi (mm. muistiot eri palavereista)
-*	projektiprosessin hallinta
-
-### 4.2.3.	Vuorovaikutus
-
-*	yhteydenpito sidosryhmiin (ketkä ovat sidosryhmiä?)
-*	tiedonhankinta (toimeksiantajalta tiedon saaminen)
-*	haastattelut ja niiden valmistelu, toteutus ja tiedon jalostus
-*	tiedottaminen
-*	asiakasorganisaatiossa
-*	erityiskohderyhmät
-*	ammattikorkeakoululle
-*	muut kohteet ja mediat (jos näkynyt esim. lehdissä, messuilla tms.)
-*	johtoryhmätyöskentely (valmistautuminen, tavoitteiden saavuttaminen, läpivienti)
-*	tehtävän kehittäminen ja rajaukset 
-*	miten tehty?
-*	kenen esityksestä ja millä tiedoilla?
-*	tukiryhmätoiminta (tiedon saaminen, asiantuntijoiden hyödyntäminen)
-*	”fiilis” ja sen syyt (jos ”alavireinen”, niin kuinka parannettu?)
-*	toisten työkiireiden huomioiminen yhteydenpidossa (ennakointi, matkat ym.)
-*	yhteydenpitovälineiden käyttö (mikä on järkevä väline eri tilanteisiin, palaverit kallista ajankäyttöä)
-*	vuorovaikutuksen tuloksellisuus (Jory, sähköposti, muut)
-
-### 4.2.4.	Asenne
-
-*	tehtävään 
-*	oppimiseen 
-*	ongelmiin
-*	ote projektista sen eri vaiheissa
-*	palautehakuisuus
-
-### 4.2.5.	Tulos
-
-* Tulosta on kaikki, mitä projekti tavoitteellisesti tarjoaa ryhmän ulkopuolisten hyödyksi
-*	mitkä ovat projektin tulokset? 
-*	kuinka hyviä tuotokset ovat?
-*	onko projektilla ”aineettomia” tuloksia? (esim. asennemuutos)
-*	tulosten arvo organisaatiolle ja muille tahoille
-*	jatkotoimenpiteet
-
-## 4.3.	Arvosanaehdotukset
-
-* Mikä on mielestänne arvosana, jonka ansaitsemme em. kriteerien perusteella?
-* Voitte jakaa arvosanaehdotuksen ryhmän sisällä siten, että joku enemmän töitä tehnyt saisi paremman arvosanan (tai työhön vähäisesti osallistunut huonomman).
-
-# LÄHTEET
-
-# LIITTEET
