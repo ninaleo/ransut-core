@@ -110,7 +110,7 @@ Everything that the project offers to the benefit of outsiders.
  
 
 ## 4.3 Suggested grades
-What grades do you think you earned based on the above criteria? You can suggest differnet grades to each team member based on achievements and activity, for example the key players should get better grades than those who barely worked at all.
+What grades do you think you earned based on the above criteria? You can suggest different grades to each team member based on achievements and activity, for example the key players should get better grades than those who barely worked at all.
 
 
  
