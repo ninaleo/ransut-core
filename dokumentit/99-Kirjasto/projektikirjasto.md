@@ -9,6 +9,10 @@
 * [ISTQB](https://www.istqb.org/)
 * []()
 
+# Sanastot
+
+* https://pascal.computer.org/sev_display/index.action
+
 
 # Ketteryys
 
