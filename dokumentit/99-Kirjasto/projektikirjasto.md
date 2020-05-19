@@ -17,10 +17,11 @@
 # Ketteryys
 
 * [Agile Essence](https://www.ivarjacobson.com/services/agile-essentials-starter-pack-agile-practices)
-
-
 * [blog.crisp.se](https://blog.crisp.se/)
-* 
+
+## Tietoturva
+
+* https://www.suomidigi.fi/ohjeet-ja-tuki/tyokalut/turvallisen-sovelluskehityksen-kasikirja
 
 # Canvas collection
 
