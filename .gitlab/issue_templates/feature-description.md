@@ -18,8 +18,9 @@ Linked Use Cases
 
 ### User Storys (User Storys)
 
-* _Käyttäjänä haluan, että lorem ipsum on näkyvillä koko käytön ajan, koska se tuo minulle turvallisen olon_
-* _Ylläpitäjänä haluan, että tervehdysviesti on vaihdettavissa, koska se virkistää työntekoa!_
+* _As a user I want to see Lorem Ipsum on the site, because it makes me feel safe._
+* _As an administrator I want the greeting to change every now and then, because it is refreshing!_
+
 
 Link to real User Storys
 
@@ -39,15 +40,16 @@ Link to real User Storys
 
 ### Functional Requirements
 
-**Esim**
+**For example**
 
-* Käyttäjä näkee jatkuvasti ruudulla "Lorem Ipsum"-viestin
-* Tervehdysviesti on pääkäyttäjän muokattavissa
+* User sees the "Lorem Ipsum" message on screen at all times
+* Administrator can edit the welcome-message
+
 
 ### Non-Functional Requirements
 
 
-* Usability: Uuden tervehdysviestin generointi saa kestää < 0.5 s
+* Usability: Generating the new welcome message takes < 0.5 s
 * Security:
 * Scalability:
 * 
@@ -66,7 +68,7 @@ Link to real User Storys
 | [Test Case 1]( FT1-testitapaus1.md)  | Use Case 1  |  |
 | [Test Case 2]( FT1-testitapaus2.md)  |  |  |
 | [Test Case 3]( FT1-testitapaus3.md)  | Use Case 2 |  |
-| [Test Case 4]( FT1-testitapaus4.md)  | Vaatimus REQ001 |  |
+| [Test Case 4]( FT1-testitapaus4.md)  | Requirement REQ001 |  |
 | [Testitapaus 5]( FT1-testitapaus5.md)  |  |  |
 | [Testitapaus 6]( FT1-testitapaus6.md)  |  |  |
 
