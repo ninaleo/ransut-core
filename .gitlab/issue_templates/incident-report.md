@@ -10,5 +10,5 @@
 
 # Links & Sources
 
-/label "~incident"
+/label "~Incident"
 /milestone Backlog
