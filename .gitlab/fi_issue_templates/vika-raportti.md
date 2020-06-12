@@ -1,32 +1,32 @@
-## Summary
+## Yhteenveto
 
-(Summarize the bug encountered concisely)
-
-
-Steps to reproduce
-
-(How one can reproduce the issue - this is very important)
+(Kerro havaitusta viasta tiiviisti)
 
 
-## What is the current bug behavior?
+Askelmat 
 
-(What actually happens)
-
-
-## What is the expected correct behavior?
-
-(What you should see instead)
+(Kerro kuinka vika voidaan aiheuttaa uudestaan - TÄMÄ ON HYVIN TÄRKEÄÄ)
 
 
-## Relevant logs and/or screenshots
+## Mitä tällä hetkellä tapahtuu?
 
-(Paste any relevant logs - please use code blocks (```) to format console output,
-logs, and code as it's very hard to read otherwise.)
+(Miten vika ilmenee)
 
 
-## Possible fixes
+## Mitä pitäisi tapahtua?
 
-(If you can, link to the line of code that might be responsible for the problem)
+(Mikä on oikea tapahtuma)
+
+
+## Tärkeät logit ja ruutukaappaukset
+
+(Kopioi tähän kaikki asiaankuuluvat logit - käytä koodiblokkeja (```) tekstin muotoiluun, muuten sitä on hankala lukea.)
+
+
+
+## Mahdolliset korjaukset
+
+(Jos voit, linkitä tähän se koodin osa jossa ongelma mahdollisesti sijaitsee.)
 
 
 /label ~"Bug"
