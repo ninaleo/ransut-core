@@ -55,15 +55,15 @@ This section introduces the definitions, terms, and abbreviations used in the pr
  
 The organization of the project includes teachers from Jyväskylä University of Applied Sciences, project staff, students, project team supervisors and the client's representatives. The organization chart is presented in the attachment(x)."
  
-### Project team
+#### Project team
  
 “The project team will perform the tasks assigned to the project by the management team within the available resources. During the project, the roles of group leader and secretary will rotate within the group, with each team member acting once in each role. ”
  
-### Executive team
+#### Executive team
  
 “The executive team consists of elected representatives of the project team, supervisors and the client. If necessary, other persons, e.g. experts, may also be invited to the meetings of the executive team. The composition of the executive team is presented in an attachment of the project agreement. ”
  
-### Support Group
+#### Support Group
  
 The task of the support group is to give the project team substantive guidance on how to complete the task. The section should introduce other stakeholders of the project (customer, external consultants, etc.) at personal level. Any person(s) from the client organization who participate in the project should be introduced. At least name, contact information, job description and role in the project should be introduced for any person(s) from the client organization who participate in the project.
  
