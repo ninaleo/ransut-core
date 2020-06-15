@@ -70,9 +70,9 @@ The task of the support group is to give the project team substantive guidance o
 ### 2.2 Responsibilities and decision-making process
 This part describes the responsibilities of all members of the project organization (e.g. executive team, project manager, secretary, team, supervisors) as well as the decision-making process (e.g. the project manager prepares and presents any items to the executive team for decision…).
  
-# 3 Time objectives of the project
+## 3 Time objectives of the project
  
-## 3.1 Partitioning and phasing
+### 3.1 Partitioning and phasing
 
 Partitioning a project means dividing the project into clear sub-assemblies and their corresponding implementation entities (sub-projects, phases, task entities and tasks). The progress of research and development projects is characterized by the formation of the end result and the refinement of the goal step by step. The partitioning of a project should be based on this (also applies to student projects at the IT Institute).
 
@@ -99,6 +99,7 @@ Starting a project essentially involves project planning and the preparation of 
 End dd.mm.yy - dd.mm.yy (X h)
 
 “The closure phase includes measures related to the completion of the project. During the phase, the project team prepares a final project report and a presentation to the executive team. During the phase, the result of the project will be handed over to the client, the last meeting of the executive team will be held in week X and the project organization will be dissolved. The final phase will result in a final report on the project. ”
+
 GANT
 
 ## 4 Quality management
@@ -107,59 +108,61 @@ This section lists all the methods, tools, and standards used with their version
 The course sets certain requirements for project monitoring tools and reporting, which should be taken into account. However, the course does not force a certain way to use the tools, so it is worth making a plan for their use at this point.
 The basics of project information and version control need to be clarified so that all project stakeholders know the location of the latest versions of documents. There will be several versions of the project plan and all other key documents of the project, to which version history must be added in order to be able to follow the progress of the project afterwards. If an individual piece of hardware or software rises to a critical position in terms of project implementation, it is a good idea to appoint a responsible person from within the team. The person should be familiar with the device or software, if possible. Below is a list of things to plan and document:
  
-4.1 Procedure for approving interim and final results
+### 4.1 Procedure for approving interim and final results
 The approval procedure that has been agreed in the project is recorded here.
  
-4.2 Change Management
+### 4.2 Change Management
 Describe the change management procedure for changes related to project policies or project results.
  
-4.3 Documentation
+### 4.3 Documentation
 Write down where the documents are stored / archived, how they are distributed and who is responsible for the different documents.
  
-4.4 Risk management
+### 4.4 Risk management
 List the risks, assess their severity and probability, and try to consider measures on how the most serious / probable risks could be prevented in advance. In addition, it would be good to have a plan of how to act if the risk materializes.
 Attach the following section here: Risk Management Table
  
-4.5 Review Policy
+### 4.5 Review Policy
 List and tentatively schedule project performance reviews based on the prepared implementation plan. List the reviews that will be held, the tentative date, the issues to be addressed, the participants, and the practices for delivering the review material (what, when, how).
 Links to review protocol documents.
  
-4.6 Plans to supplement the project plan
+### 4.6 Plans to supplement the project plan
 This section indicates which additional plans are available or will be developed during the project (e.g. communication, risk management, testing and deployment plan).
  
-Requirement specification?
-Risk Management plan
-Documentation provided by the client?
-Official sources?
+* Requirement specification?
+* Risk Management plan
+* Documentation provided by the client?
+* Official sources?
+
  
  
  
-## 4.7 Dates for reviewing and updating plans
+### 4.7 Dates for reviewing and updating plans
 The project plan responds to anomalies and environmental changes, so it is updated during the project. The points at which the timelines of the plan must at least be checked are recorded here.
  
-## 4.8 Project Suspension Criteria
+### 4.8 Project Suspension Criteria
 Any real-life project plan also includes project termination criteria. However, these are not used in student projects because the projects use a certain number of hours to produce the result and the result is handed over as it is at the end of the course. However, the project team will make a further development plan from which a possible new project will continue.
  
-5. Communication and monitoring of project progress (communication plan)
+## 5 Communication and monitoring of project progress (communication plan)
 List the workspaces and communication tools agreed in the project, meeting policy and communication, reporting and information.
  
-6. End of the project
+## 6 End of the project
  
-6.1 Delivery, commissioning of the final product
+### 6.1 Delivery, commissioning of the final product
 The end product of the project must also be documented at a reasonable level. The end product may include commissioning training for the customer and possibly an installation or commissioning service. If the role of the training in the project is significant (for example, the users of the software have not been involved in the project and do not know how the system works) the project plan must be accompanied by a plan for the training to be provided to the client. In addition, if necessary, the project plan must also be accompanied by an installation plan and a commissioning plan.
  
-6.2 Recording, archiving and retention period of material produced by the project
+### 6.2 Recording, archiving and retention period of material produced by the project
 "The rest of the project team's documentation for the IT Institute is stored in GitHub." The client should clearly define which documents can be left as lessons for subsequent projects. Typically, the various plans and the final report are such documents.
  
-6.3 Formal closure of the project
+### 6.3 Formal closure of the project
 It is important to determine when, where or how the project will end. A project decision can be a specific date, a certain degree of product readiness, a certain number of hours worked, a certain amount of money spent when a client adopts a product, the warranty period has expired, or when a client accepts a product.
-“The project ends dd.mm.yy, if…”
-"The project ends on dd.mm.yy, when the project agreement expires."
+* “The project ends dd.mm.yy, if…”
+* "The project ends on dd.mm.yy, when the project agreement expires."
+
  
-6.4 Closing Seminar
+### 6.4 Closing Seminar
 Usually projects are closed at a joint closing seminar. The participants and the time are recorded here.
  
-6.5 Final report
+### 6.5 Final report
 The final report of the project will be prepared by the last meeting of the executive team.
 ## Attachments
 Any plans supplementing the project plan are attached here.
