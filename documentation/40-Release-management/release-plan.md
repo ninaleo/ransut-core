@@ -5,11 +5,12 @@
 
 
 
-## Gantt-kaavio PlantUML -notaatiolla
+## Gantt-chart with PlantUML -notation
 
-Julkaisusuunnitelman visualisoidulla muodolla on helpompi esittää ominaisuuksien julkaisut kehityksen aikanan
+The easiest way of presenting the feature releases during development is via visual version of the release plan.
 
-**Huomio** Alla oleva julkaisusuunnitelman kuva ei näy oikein vaatimusmäärittelydokumentin verkkojulkaisu-sivulla
+
+**Note** The picture below does not work correctly on the requirement specification -website.
 
 ```plantuml
 Project starts the 2019-5-15
@@ -25,19 +26,19 @@ Project starts the 2019-5-15
 ```
 
 
-## Julkaisuun liittyvät ominaisuudet
+## Features by patch
 
-Seuraavassa taulukossa on esitelty eri versioissa julkaistavat ominaisuudet taulukon muodossa. 
+The following table shows the features to be released in each patch.
 
 
 
-**Julkaisu "EarlyAdopter"**
+**Patch "EarlyAdopter"**
 
-Versio 1.0
+Version 1.0
 
-**Konfiguraatio**
+**Configuration**
 
-| Ominaisuus | Versio | Testattavissa | Julkaistaan |
+| Feature | Version | Can be tested | To be released |
 |:-:|:-:|:-:|:-:|
 | [Feature 1]() | 1.0 | x.y.201z | x+2,y+3.201z |
 | [Feature 2]() | 1.0 | x.y.201z | x+2,y+3.201z |
@@ -48,13 +49,13 @@ Versio 1.0
 | [Feature 7]() | 1.1 | x.y.201z | x+2,y+3.201z |
 
 
-**Julkaisu "EarlyAdopter Enhanced"**
+**Patch "EarlyAdopter Enhanced"**
 
-Versio 1.1
+Version 1.1
 
-**Konfiguraatio**
+**Configuration**
 
-| Ominaisuus | Versio | Testattavissa | Julkaistaan |
+| Feature | Version | Can be tested | To be released |
 |:-:|:-:|:-:|:-:|
 | [Feature 1]() | 1.0 | x.y.201z | x+2,y+3.201z |
 | [Feature 2]() | 1.1 | x.y.201z | x+2,y+3.201z |
@@ -65,13 +66,13 @@ Versio 1.1
 | [Feature 7]() | 1.2 | x.y.201z | x+2,y+3.201z |
 
 
-**Julkaisu "EarlyAdopter Enhanced and stabilized"**
+**Patch "EarlyAdopter Enhanced and stabilized"**
 
-Versio 1.2
+Version 1.2
 
-**Konfiguraatio**
+**Configuration**
 
-| Ominaisuus | Versio | Testattavissa | Julkaistaan |
+| Feature | Version | Can be tested | To be released |
 |:-:|:-:|:-:|:-:|
 | [Feature 1]() | 1.0 | x.y.201z | x+2,y+3.201z |
 | [Feature 2]() | 1.2 | x.y.201z | x+2,y+3.201z |
