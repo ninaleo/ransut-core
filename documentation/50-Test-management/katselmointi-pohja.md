@@ -1,27 +1,25 @@
-# Katselmointipöytäkirja
+# Review report
 
-* Aika: x.x.xxxx
-* Paikka:
-
-
-#
+* Time: x.x.xxxx
+* Location:
 
 
-Katselmoinnissa läsnä:
+# Participants
 
 
-# Huomiot
-
-Poikkeamat kirjataan issueina ja linkitetään tähän alle
-
-[#1]
+Present during the review:
 
 
+# Comments
+
+Deviations are recorded as issues and linked below
+
+[# 1]
 
 
-# Poikkeamat, jotka vaativat korjauksen
 
 
+# Deviations that require correction
 
 
 
@@ -29,13 +27,15 @@ Poikkeamat kirjataan issueina ja linkitetään tähän alle
 
 
 
-# Milloin korjaukset valmiina
+
+
+# When repairs are ready
 
 
 
 
 
 
-# Allekirjoitukset
+# Signatures
 
 ______________________ _______________________ __________________________
