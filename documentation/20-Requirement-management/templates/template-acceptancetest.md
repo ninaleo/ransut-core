@@ -3,7 +3,7 @@
 
 | | |
 |:-:|:-:|
-| Test case description | Does the customer approve the tested component |
+| Test case description | The scenario to be tested |
 | Test case ID | TCXXX |
 | Test case designer | XXXX XXX |
 | Creation date | X.Y.ABCD |
