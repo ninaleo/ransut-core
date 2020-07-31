@@ -14,7 +14,7 @@ Present during the review:
 
 Deviations are recorded as issues and linked below
 
-[# 1]
+[# 1 link to issue]
 
 
 
