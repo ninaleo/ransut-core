@@ -1,33 +1,33 @@
-# Testitulokset
+# Testresults
 
 
-* Viimeisimmät testit on ajettu versioilla: XXX.XXX.XXX
+* Latest tests done on version: XXX.XXX.XXX
 
 
-## Järjestelmätestauksen tulokset:
+## System Test Results:
 
-* Toiminnnalliset testejä ajettu X kpl
-* Pass Rate Z %
-* Fail 
-* Issues reported: #1, #2, #123 
+* Functional tests run X pcs
+* Pass Rate Z%
+* Fail
+* Issues reported: # 1, # 2, # 123
 
-## Linkki tuloksiin
+## Link to results
 
 <iframe height="1000" src="http://testlink.labranet.jamk.fi/testlink/lnl.php?apikey=24dd003aac8457938e1778808d65efe331b422290d02d734fe503a60dcf3d01b&tproject_id=2&tplan_id=664&type=charts_basic" style="border: currentColor; border-image: none;" width="100%"></iframe>
 
 
 <iframe height="1000" src="http://testlink.labranet.jamk.fi/testlink/lib/results/resultsByStatus.php?type=f&apikey=24dd003aac8457938e1778808d65efe331b422290d02d734fe503a60dcf3d01b&tproject_id=2&tplan_id=664&format=0" style="border: currentColor; border-image: none;" width="100%"></iframe>
 
-## Kuormitus: 5/5
+## Load: 5/5 (Network load)
 
 * 5/5
 
-## Stabiilius: 1/5
+## Stability: 1/5
 
-* Ei suoritettu
+* Not completed
 
-## Laatukatselmointi
+## Quality Review
 
-* Staattisen analyysin tulokset:
+* Results of static analysis:
 
-## Yksikkötestauksen tulokset:
+## Unit Test Results:
