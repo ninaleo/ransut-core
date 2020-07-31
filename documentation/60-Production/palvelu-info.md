@@ -1,27 +1,26 @@
-# Palvelukuvaus
+# Service description
 
 ![](https://openclipart.org/image/300px/svg_to_png/281557/lavagna.png)
 
-Tämän sivun avulla kerrotaa palvelusta lyhyesti tai ohjataan oleellisiin dokumentteihin.
-Tarvittaessa johdatetaan mahdollinen testikäyttäjä toimimaan oikeaan suuntaan :)
+This page is used to briefly describe the service or guide you to relevant documents.
+If necessary, this page can be used to lead a potential test user to work in the right direction :)
 
-lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem 
-ipsum lorem ipsum lorem 
-ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum 
+Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem
+ipsum Lorem ipsum Lorem
+ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
 
-## Mistä lötyy demo-palvelin?
+## Where can I find a demo server?
 
-Tältä sivulta olisi hyvä löytyä tarvittavat tiedot esim. Demo-ympäristön kokeiluun
+This page should contain any necessary information needed, for example, to experiment with the Demo environment
 
-* Demo-palvelun osoite: http://X.Y.Z.4:1234
+* Demo service address: http: //X.Y.Z.4: 1234
 
-Tunnukset saat kehitysryhmältä sähköpostitse: nikkenakke@nerdo.zorg
+You can get the IDs from the development team by e-mail: nikkenakke@nerdo.zorg
 
-## Mistä löydän lähdekoodit ja suoritetut testit
+## Where can I find source code and tests performed
 
-Eli jos haluaa näyttää koodista valikoituja osia, niin linkki tähän...
+That is, if you want to show selected parts of the code, then the link should be here ...
 
-## Mistä saa lisää tietoa tiimistä?
+## Where can I get more information about the team?
 
-Tiimin kotisivu? etc
-
+Team homepage? etc
