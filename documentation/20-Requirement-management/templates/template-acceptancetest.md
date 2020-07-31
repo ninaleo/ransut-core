@@ -10,30 +10,30 @@
 | Classification | Acceptance Test|
 
 
-** Update history **
+**Update history**
 
 * version 0.1 Base
 
-** Test description / objective **
+**Test description / objective**
 
 > The goal of the acceptance test is to ensure that the customer gets what they ordered!
 > Answer the question: Does the component / functionality to be delivered meet the customer's requirements / wishes?
 
 * Description
 
-** Links to requirements or other sources **
+**Links to requirements or other sources**
 
 * Requirement: [Requirement] ()?
 * Use Case: [Use Case.md]?
 * Property: [Property] (base-property.md)?
 
-** Pre-state **
+**Pre-state**
 
 * Initial situation from which the test starts
 
 > The acceptance test includes a broader set, during which the product is examined, for example, from the end user's perspective
 
-** Test Steps **
+**Test Steps**
 
 Step 1 -> check if ...
 Step 2 -> check if ..
@@ -45,12 +45,12 @@ The customer / client may be required to pass the selected use cases as conditio
 
 
 
-** End-State **
+**End-State**
 
 > What happens after the test?
 
 
-** Determination of test result (Pass / Fail Criteria) **
+**Determination of test result (Pass / Fail Criteria)**
 
 > Under what conditions can a test result be accepted and under what conditions is it rejected?
 
