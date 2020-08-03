@@ -1,16 +1,16 @@
-# Tilakone -pohja
+# State machine - template
 
-Esimerkki tilakoneen piirtämisestä soveltaen Mermaid -skpritiä. 
+This is an example of drawing a state machine using Mermaid-script. 
 
 ```mermaid
 graph TD
-    Aloitus-->|This is the text|Työskentely
-    Työskentely-->|Pyydetään palautetta|Palautekeskustelu
-    Palautekeskustelu-->|Jatketaan työskentelyä palautteen pohjalta|Työskentely
-    Työskentely-->|Homma valmis?|Tarkistus
-    Tarkistus-->|Hyväksytään|Luovutus
-    Luovutus-->|Olet vapaa!!|Kotia-kohti
-    Tarkistus-->|Vaatii työstämistä|Työskentely
+    Start-->|This is the text|Working
+    Working-->|Ask for feedback|Feedback discussion
+    Feedback discussion-->|Working based on the feedback|Working
+    Working-->|Think you are ready?|Review
+    Review-->|Accepted|Delivery
+    Delivery-->|You are free!!|Go home
+    Review-->|Needs more work|Working
 
 ```
 
