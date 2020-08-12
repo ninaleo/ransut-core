@@ -8,7 +8,7 @@ When one environment is used to gather relevant information, it is easier to lin
 
 # Business / Customers / Constraints
 
-** Customer Requirements ** 
+**Customer Requirements** 
 
 
 | Requirement ID | Type | Description | Related feature |								
@@ -47,11 +47,11 @@ When one environment is used to gather relevant information, it is easier to lin
 
 **SYSTEM REQUIREMENTS**
 
-Tähän kerätään järjestelmän/palvelun vaatimuksia korkealla tasolla. 
+Tähän kerätään järjestelmän/palvelun vaatimuksia korkealla tasolla.
 
 
 
-**Tekniset vaatimukset**
+**Technical requirements**
 
 Tekniset vaatimukset esitetään yleensä erillään ohjelmiston vaatimuksista. Ne liittyvät oleellisen osana
 järjestelmävaatimuksiin. Teknisiä vaatimuksia voivat olla esim:
