@@ -33,7 +33,7 @@ Kun käytetään yhtä ympäristöä keräämään oleellinen tieto on niiden li
 
 **Rajoitukset / Standardit**
 
-| Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
+| VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |
 |:-:|:-:|:-:|:-:|
 | CONSTRAINT-REQ-S00000 | Constrain | Palvelun kirjautumisprosessin on noudatettava AC5-2009-käytäntöä  | [Kirjautuminen ft1](ft1-ominaisuus.md) |
 | CONSTRAINT-REQ-S00001 | Constrain |||
