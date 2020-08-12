@@ -14,9 +14,9 @@ Remember that the drawn description is only part of the description of the use c
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Edit_an_article.svg/261px-Edit_an_article.svg.png)
 
-In the link above you find a rough example.
+Above you find a rough example. It should be deleted from the actual use case files.
 
-__Watch the video and remove the link from this file if you understand the idea.__
+__Watch the video below and remove the link from this file if you understand the idea.__
 
 [![](http://img.youtube.com/vi/BjQAWfBMpcw/0.jpg)](http://www.youtube.com/watch?v=BjQAWfBMpcw "")
 
