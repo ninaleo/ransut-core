@@ -1,16 +1,15 @@
-# Pohjat -kansio
+# Templates - folder
+
+This folder contains several templates which should be used as parts of the requirement specification.
+
+The following templates are included:
 
 
-Kansion sisältönä on erilaisia pohjia, joita pitää käyttää vaatimusmäärittelyn osana.
-
-Kansiosta löytyvät dokumentit:
-
-
-
-* pohja-kayttotapaus.md	- Käyttötapauskuvaus
-* pohja-ominaisuus.md	- Ominaisuuden määrittelydokumentti
-* pohja-profiilikuvaus.md - Sidosryhmän edustaja/profiilikuvaus
-* pohja-testitapaus-tarkistuslista.md - Esimerkki testitapauksesta, joka on tarkistuslistan muodossa
-* pohja-testitapaus.md - Perinteinen testitapaus, joka on johdettavissa esim. vaatimuksista
-* pohja-tilakone.md - Tilakoneen kuvaus esimerkki
-* pohja-vaatimukset-listana.md - Vaatimukset pitkänä listanan, tähän kannattaa viitata muista dokumenteista
+* template-acceptancetest.md - description of an acceptance test
+* template-feature.md - specification of a feature
+* template-profile.md - description of a stakeholder
+* template-requirementlist.md - requirements as a list. Other documents should be linked to this.
+* template-statemachine.md - example of a state machine
+* template-testcase-checklist.md - example of a test case written as a check list
+* template-testcase.md - traditional test case which can be derived from, for example, requirements
+* template-usecase.md - description of a use case
