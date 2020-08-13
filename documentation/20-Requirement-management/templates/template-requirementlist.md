@@ -71,7 +71,7 @@ Technical requirements are typically separated from software requirements. They 
 
 
 
-### Functional requirements**
+### Functional requirements
 
 | Requirement ID | Type | Description | Related feature |									
 |:-:|:-:|:-:|:-:|
