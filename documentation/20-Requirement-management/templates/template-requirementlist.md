@@ -43,30 +43,28 @@ When one environment is used to gather relevant information, it is easier to lin
 | CONSTRAINT-REQ-S00006 | Constrain |||
 
 
-# Järjestelmätason /Ohjelmiston vaatimukset
+# System / software requirements
 
 **SYSTEM REQUIREMENTS**
 
-Tähän kerätään järjestelmän/palvelun vaatimuksia korkealla tasolla.
-
-
+System/service requirements are gathered here on a higher level.
 
 **Technical requirements**
 
-Tekniset vaatimukset esitetään yleensä erillään ohjelmiston vaatimuksista. Ne liittyvät oleellisen osana
-järjestelmävaatimuksiin. Teknisiä vaatimuksia voivat olla esim:
+Technical requirements are typically separated from software requirements. They are an essential part of system requirements. Technical can, for example, include the following:
 
-* Suoritusympäristö (Linux, Windows, Pilvi etc)
-* Muisti (4GB, 16GB ?)
-* Suoritin (Intel/AMD/ARM ?)
-* Tietokanta (MySQL, DynamoDB, Orient etc?)
-* Ajoalustan ratkaisut JAVA VM, Docker Container ?
+
+* Execution environment (Linux, Windows, Pilvi etc)
+* Memory (4GB, 16GB ?)
+* Processor (Intel/AMD/ARM ?)
+* Database (MySQL, DynamoDB, Orient etc?)
+* Virtualization solutions (JAVA VM, Docker Container?)
  
 
 | Requirement ID | Type | Description | Related feature |								
 |:-:|:-:|:-:|:-:|
-| SYSTEM-REQ-0001 | System Requirement | Kirjatumispalvelulla on oltava itsenäinen kolmannen osapuolen toimittama varmistusjärjestelmä | [Kirjautuminen ft1](ft1-ominaisuus.md) |
-| SYSTEM-REQ-0002 | System Requirement | Palvelun tärkeimpien palvelujen on oltava vähintään kahdennettu N+1 | |
+| SYSTEM-REQ-0001 | System Requirement | Login services must have an independent verification system from a third party. | [Login ft1](ft1-ominaisuus.md) |
+| SYSTEM-REQ-0002 | System Requirement | The main parts of the service must be at least reduplicated N+1 | |
 | SYSTEM-REQ-0003 | System Requirement |||
 | SYSTEM-REQ-0004 | System Requirement |||
 | SYSTEM-REQ-0005 | System Requirement |||
@@ -77,7 +75,7 @@ järjestelmävaatimuksiin. Teknisiä vaatimuksia voivat olla esim:
 
 | Requirement ID | Type | Description | Related feature |									
 |:-:|:-:|:-:|:-:|
-| FUNCTIONAL-REQ-C0001 | Functional Requirement | Käyttäjänä (Asiakas Profiilit 1-4) voin kirjautua käyttäen Facebook-tunnuksia | [Kirjautuminen ft1](ft1-ominaisuus.md) |
+| FUNCTIONAL-REQ-C0001 | Functional Requirement | As a user (Customer profiles 1-4) I can login using Facebook-credentials | [Login ft1](ft1-ominaisuus.md) |
 | FUNCTIONAL-REQ-C0002 | Functional Requirement |||
 | FUNCTIONAL-REQ-C0003 | Functional Requirement |||
 | FUNCTIONAL-REQ-C0004 | Functional Requirement |||
@@ -96,7 +94,7 @@ järjestelmävaatimuksiin. Teknisiä vaatimuksia voivat olla esim:
 
 | Requirement ID | Type | Description | Related feature |									
 |:-:|:-:|:-:|:-:|
-| SECURITY-REQ-0001 | Non-Functional Security | Salasanassa on käytettävä vähintään MD5-tason salausta, koska standardi XY112 sitä edellyttää | [Kirjautuminen ft1](ft1-ominaisuus.md) |								
+| SECURITY-REQ-0001 | Non-Functional Security | At least level MD5 encryption must be used for the password, because it is required in standard XY112 | [Kirjautuminen ft1](ft1-ominaisuus.md) |								
 | SECURITY-REQ-0002 | Non-Functional Security |||
 | SECURITY-REQ-0003 | Non-Functional Security |||
 | SECURITY-REQ-0004 | Non-Functional Security |||
@@ -112,7 +110,7 @@ järjestelmävaatimuksiin. Teknisiä vaatimuksia voivat olla esim:
 
 | Requirement ID | Type | Description | Related feature |								
 |:-:|:-:|:-:|:-:|
-| PERFORMANCE-REQ-0000 | Non-Functional Performance | Kirjautuminen on mahdollista yhtäaikaa 100 käyttäjällä (100 request/s) | [Kirjautuminen ft1](ft1-ominaisuus.md) |								
+| PERFORMANCE-REQ-0000 | Non-Functional Performance | At least 100 users must be able to login at the same time (100 request/s) | [Login ft1](ft1-ominaisuus.md) |								
 | PERFORMANCE-REQ-0001 | Non-Functional Performance |||
 | PERFORMANCE-REQ-0002 | Non-Functional Performance |||
 | PERFORMANCE-REQ-0003 | Non-Functional Performance |||
@@ -124,7 +122,7 @@ järjestelmävaatimuksiin. Teknisiä vaatimuksia voivat olla esim:
 
 | Requirement ID | Type | Description | Related feature |							
 |:-:|:-:|:-:|:-:|
-| USABILITY-REQ-0000 | Non-Functional Usability | Käyttöliittymän on toimittava myös ääniohjattuna, koska käyttäjillä saattaa olla näkövammoja |  [Kirjautuminen ft1](ft1-ominaisuus.md) | |	
+| USABILITY-REQ-0000 | Non-Functional Usability | The user interface must also be voice-controllable, as users may have visual impairments |  [Login ft1](ft1-ominaisuus.md) | |	
 | USABILITY-REQ-0001 | Non-Functional Usability |||
 | USABILITY-REQ-0002 | Non-Functional Usability |||
 | USABILITY-REQ-0003 | Non-Functional Usability |||
@@ -137,7 +135,7 @@ järjestelmävaatimuksiin. Teknisiä vaatimuksia voivat olla esim:
 
 | Requirement ID | Type | Description | Related feature |									
 |:-:|:-:|:-:|:-:|
-| RECOVERY-REQ-00100 | Non-Functional Recovery | Kirjautumis-palvelun on käynnistyttävä ensimmäisen palvelun ylösajon aikana | [Kirjautuminen ft1](ft1-ominaisuus.md)	 |							
+| RECOVERY-REQ-00100 | Non-Functional Recovery | The login service must start during the first service startup | [Login ft1](ft1-ominaisuus.md)	 |							
 | RECOVERY-REQ-00100 | Non-Functional Recovery |||							
 
 
@@ -145,7 +143,7 @@ järjestelmävaatimuksiin. Teknisiä vaatimuksia voivat olla esim:
 
 | Requirement ID | Type | Description | Related feature |								
 |:-:|:-:|:-:|:-:|
-| TESTABILITY-REQ-0000 | Non-Functional Testability | Käyttäjärekisteri on kyettävä palauttamaan alkutilaan ennen testien ajoa  | [Kirjautuminen ft1](ft1-ominaisuus.md)	 |	
+| TESTABILITY-REQ-0000 | Non-Functional Testability | You must be able to reset the user registry before running tests | [Login ft1](ft1-ominaisuus.md)	 |	
 | TESTABILITY-REQ-0001 | Non-Functional Testability |||	
 | TESTABILITY-REQ-0002 | Non-Functional Testability |||	
 | TESTABILITY-REQ-0003 | Non-Functional Testability |||	
@@ -157,7 +155,7 @@ järjestelmävaatimuksiin. Teknisiä vaatimuksia voivat olla esim:
 
 | Requirement ID | Type | Description | Related feature |								
 |:-:|:-:|:-:|:-:|
-| SAFETY-REQ-0000 | Non-Functional Safety |  Tähän tuotteesen ei voida osoittaa turvallisuus vaatimuksia  | [Kirjautuminen ft1](ft1-ominaisuus.md)	|	
+| SAFETY-REQ-0000 | Non-Functional Safety |  No safety requirements can be assigned to this product  | [Login ft1](ft1-ominaisuus.md)	|	
 | SAFETY-REQ-0001 | Non-Functional Safety |||	
 | SAFETY-REQ-0002 | Non-Functional Safety |||	
 | SAFETY-REQ-0003 | Non-Functional Safety |||	
