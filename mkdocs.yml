@@ -1,4 +1,4 @@
-site_name: Open Project Framework (OPF 0.5) - project environment 
+site_name: Open Project Framework (OPF 0.6) - project environment 
 site_url: http://open-project-framework.pages.labranet.jamk.fi/opf-virtual-company-v1/core/
 
 site_author: NarsuMan
@@ -21,7 +21,7 @@ markdown_extensions:
 theme:
   name: 'material'
   palette:
-    primary: 'black'
-    accent: 'black'
+    primary: 'cyan'
+    accent: 'cyan'
   logo:
     icon: 'assignment'
