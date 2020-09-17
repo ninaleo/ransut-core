@@ -1,4 +1,4 @@
-# Open project framework release 0.5 for virtual company
+# Open project framework release 0.6 for virtual company
 
 ## This is the Core repository 
 
