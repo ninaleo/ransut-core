@@ -11,6 +11,17 @@ dokumentaation lukija oikeisiin lähteisiin.
 
 * Viimeisimmät testit on ajettu versioilla: XXX.XXX.XXX
 
+## Tulosten upotus esimerkki (Lähde. Testlink)
+
+<iframe id="TestlinkExampleReport"
+    title="Test Report Example"
+    width="300"
+    height="200"
+    src="https://195.148.22.11/testlink/lnl.php?type=metricsdashboard&apikey=f178de00e53be8f66602c0d5f9e3da394c0859efff47538bc530fc96732b30dd">
+</iframe>
+
+
+
 
 ## Hyväksyntätestaus
 
