@@ -1,8 +1,8 @@
 ![](https://openclipart.org/image/300px/svg_to_png/253205/project_manager.png&disposition=attachment)
 
+Upotetaan tähän EXCEL?
 
-[![Tuntikirjaukset](https://i.ytimg.com/vi/0R51buqmljc/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLB-i549c8QsyErc7TMVVH0DzCmqHg)](https://www.youtube.com/watch?v=0R51buqmljc&list=PLOyRnRI1_Cl47Q6tiFByWSVBialcz_bxp&index=5)
-
+<iframe width="402" height="346" frameborder="0" scrolling="no" src="https://jamkstudent.sharepoint.com/sites/OpenProjectPlatform/_layouts/15/Doc.aspx?sourcedoc={1dacc3b5-7771-4578-8025-6ea524406f6b}&action=embedview&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
 Tuntikirjaukset ja kulut projektissa XXXXX
 
 ### NakkeNakuttaja 1
