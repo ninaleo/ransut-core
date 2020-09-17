@@ -2,19 +2,27 @@
 
 ![](https://openclipart.org/image/300px/svg_to_png/268463/Library-no-text.png)
 
-# Body of knowledge
+Alle on kerätty hyödyllisiä lähteitä, joista on apua projektien kanssa toimittaessa. Sisältö päivittyy ajoittain.
+
+
+
+## Projektitoiminta yleisesti
+
+* [Projektitoiminnan kurssin materiaalit](http://ttc2070.pages.labranet.jamk.fi/amk/20-projektihallinta/projektihallinta/)
+
+## Laajempia tietoläheitä 
 
 * [PMBOK](https://www.pmi.org/pmbok-guide-standards)
 * [SWEBOK](https://www.computer.org/web/swebok/v3)
 * [ISTQB](https://www.istqb.org/)
 * []()
 
-# Sanastot
+## Sanastot
 
 * https://pascal.computer.org/sev_display/index.action
+* [ISTQB-syllabus]()
 
-
-# Ketteryys
+## Ketteryys
 
 * [Agile Essence](https://www.ivarjacobson.com/services/agile-essentials-starter-pack-agile-practices)
 * [blog.crisp.se](https://blog.crisp.se/)
@@ -23,7 +31,7 @@
 
 * https://www.suomidigi.fi/ohjeet-ja-tuki/tyokalut/turvallisen-sovelluskehityksen-kasikirja
 
-# Canvas collection
+## Canvas collection
 
 * [Master Facilitator](http://masterfacilitator.com/canvas-collection/)
 * [Team Charter Canvas](https://designabetterbusiness.com/2017/08/24/team-charter-canvas/)

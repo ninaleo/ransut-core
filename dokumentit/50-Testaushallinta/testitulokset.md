@@ -1,27 +1,39 @@
 # Testitulokset
 
+Tähän sivulle voi koostaa tulokset, jotka on saatu viimeisimmistä testeistä, tai johdattaa
+dokumentaation lukija oikeisiin lähteisiin.
+
+* [Yleistestaus-suunnitelma]()
+* [Testikokoelma]()
+
+
+## Tulokset 
 
 * Viimeisimmät testit on ajettu versioilla: XXX.XXX.XXX
 
 
-## Järjestelmätestauksen tulokset:
+## Hyväksyntätestaus
+
+* TBD
+
+## Järjestelmätestaus:
 
 * Toiminnnalliset testejä ajettu X kpl
+* Ei-toiminnallisia testejä ajettu Y kpl
+* Kattavuus xy %
 * Pass Rate Z %
-* Fail 
-* Issues reported: #1, #2, #123 
+* Failed 
+* Raportoideut viat/bugit #1, #2, #123 
+* Linkki ?
 
+### Suorituskyky (Performance)
 
-## Kuormitus: 6/5
+* TBD
 
-* 6/5
+### Tietoturva (Security) 
 
-## Stabiilius: 1/5
+* TBD
 
-* Ei suoritettu
+### Kuormitus (Load)
 
-## Laatukatselmointi
-
-* Staattisen analyysin tulokset:
-
-## Yksikkötestauksen tulokset:
+* TBD
