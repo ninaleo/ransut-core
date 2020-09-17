@@ -6,6 +6,7 @@ dokumentaation lukija oikeisiin lähteisiin.
 * [Yleistestaus-suunnitelma]()
 * [Testikokoelma]()
 
+* [Esimerkki tuloksista](https://195.148.22.11/testlink/lib/results/printDocument.php?apikey=6410f0b996d935198d068aacae59d5e8f4baef82d5386c60954f5d764132cb47&type=test_report&level=testproject&tproject_id=1&tplan_id=771&header=y&summary=y&toc=y&body=y&passfail=y&cfields=y&metrics=y&author=y&requirement=y&keyword=y&notes=y&headerNumbering=y&format=0)
 
 ## Tulokset 
 
