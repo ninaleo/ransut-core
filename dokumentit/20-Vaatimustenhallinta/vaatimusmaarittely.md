@@ -5,7 +5,7 @@
 * [SIJOITA TOIMEKSIANNON KOODI TÄHÄN] 
 * Nimimerkkisi/gitlab tunnus
 * Dokumentin versionumero X.Y
-* Vaatimusmäärittely pohjan versio 2.1 - 09.09.2020 (NarsuMan)
+* Vaatimusmäärittely pohjan versio 2.1 - 17.09.2020 (NarsuMan)
 
 ## Ohjeita määrittelytyön tekijälle
 
