@@ -1,19 +1,18 @@
 # Julkaisusuunnitelma
 
 
-```mermaid
-gantt
-    title Julkaisusuunnitelma
-    dateFormat  DD-MM-YYYY
-    section Julkaisut
-    Feature 1  v 1.0       :active,v 1.0, 25-01-2019, 02-04-2019
-    Feature 2  v 1.0       :active,v 1.0, 15-01-2019, 20-03-2019
-    Feature 3  v 1.1       :active,v 1.0, 01-02-2019, 02-04-2019
-    Feature 4  v 1.1       :active,v 1.0, 30-03-2019, 02-04-2019
-    Feature 5  v 2.3       :active,v 1.0, 21-01-2019, 15-03-2019
-    Feature 6  v 0.9       :active,v 1.0, 21-02-2019, 27-03-2019
-    Feature 7  v 1.1       :active,v 1.0, 21-02-2019, 01-04-2019
+Esimerkki PlantUML-muodossa
 
+```plantuml
+Project starts the 2019-5-15
+[Version v1.0 EarlyAdopter] Starts 2019-5-15 and ends 2019-7-30 
+[Design Phase] Starts 2019-5-15 and ends 2019-6-15
+[Feature 1 v 1.0] Starts 2019-5-25 and ends 2019-6-15
+[Feature 2 v 1.0] Starts 2019-5-25 and ends 2019-7-1
+[Feature 3 v 1.1] Starts 2019-6-15 and ends 2019-7-15
+[Feature 4 v 1.1] Starts 2019-6-25 and ends 2019-7-20
+[Feature 5 v 2.3] Starts 2019-6-1 and ends 2019-7-21
+[Accceptance Testing ] Starts 2019-7-21 and ends 2019-7-23
 ```
 
 
