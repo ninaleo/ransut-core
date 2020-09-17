@@ -1,4 +1,4 @@
-# Palvelu XYZ:n vaatimusmäärittely (Anna palvelulle nimi)
+# Vaatimusmäärittely runko
 
 > Täydennä seuraavat kentät! 
 
