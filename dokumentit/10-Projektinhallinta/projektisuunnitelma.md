@@ -112,17 +112,10 @@ Lopetus p.k.vvvv – p.k.vvvv (X h)
 
 ”Lopettamisvaihe sisältää projektin päättämiseen liittyvät toimenpiteet. Vaiheen aikana projektiryhmä laatii projektin loppuraportin ja esityksen johtoryhmälle. Vaiheen aikana luovutetaan projektin tulos toimeksiantajalle, pidetään viimeinen johtoryhmän kokous viikolla X sekä puretaan projektin organisaatio. Lopettamisvaiheen tuloksena on projektin loppuraportti.”
 
-```mermaid
-gantt
-    title Projektin vaiheet
-    dateFormat  DD-MM-YYYY
-    section GANTT
-    Askel 1      :active,k1,15-01-2019, 20-01-2019
-    Askel 2      :active,k2,after k1, 20-02-2019
-    Askel 3      :active,k3,after k2, 20-03-2019
-    Askel 4      :active,k4,after k3, 20-04-2019
+## 3.2 Projektin alustavat kustannusarvio
 
-```
+<iframe width="402" height="346" frameborder="0" scrolling="no" src="https://jamkstudent.sharepoint.com/sites/OpenProjectPlatform/_layouts/15/Doc.aspx?sourcedoc={ed6e7d24-77a1-4b0a-abf5-e26a48846387}&action=embedview&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
+
 
 
 
