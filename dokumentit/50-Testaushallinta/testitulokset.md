@@ -17,7 +17,7 @@ dokumentaation lukija oikeisiin lähteisiin.
     title="Test Report Example"
     width="300"
     height="200"
-    src="https://195.148.22.11/testlink/lnl.php?type=metricsdashboard&apikey=f178de00e53be8f66602c0d5f9e3da394c0859efff47538bc530fc96732b30dd">
+    src="https://195.148.22.11/testlink/lib/results/charts.php?apikey=6410f0b996d935198d068aacae59d5e8f4baef82d5386c60954f5d764132cb47&tproject_id=1&tplan_id=771&format=0">
 </iframe>
 
 
