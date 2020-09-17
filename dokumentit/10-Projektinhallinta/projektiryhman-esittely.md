@@ -1,5 +1,9 @@
 # Projektiryhmän esittely
 
+
+Kerätään kaikki ryhmä jäsenet tähän dokumenttiin tai ohjataan "site"-sivustolle, josta tekijät löytyvät.
+
+
 ![](https://openclipart.org/image/300px/svg_to_png/309644/1541381381.png)
 
 # Nimi
