@@ -1,15 +1,13 @@
-# XYZ - Palvelun vaatimusmäärittely
-
+# Palvelu XYZ:n vaatimusmäärittely (Anna palvelulle nimi)
 
 > Täydennä seuraavat kentät! 
 
 * [SIJOITA TOIMEKSIANNON KOODI TÄHÄN] 
 * Nimimerkkisi/gitlab tunnus
 * Dokumentin versionumero X.Y
-* Vaatimusmäärittely pohjan versio 1.8 - 5.9.2019 (NarsuMan)
+* Vaatimusmäärittely pohjan versio 2.1 - 09.09.2020 (NarsuMan)
 
-
-## Ohjeita määrittelijälle
+## Ohjeita määrittelytyön tekijälle
 
 > Pidä sisällysluettelo kunnossa, eli päivitä tarvittaessa MarkDown-ankkurilinkitys. 
 
@@ -24,7 +22,7 @@ hyödyllistä tutustua sen käyttöön http://plantuml.com/ ja pyrkiä soveltama
 > Tutustu seuraavan linkin takaa löytyvään MindMap-kuvaan, siitä miten eri käsitteet liittyvät toisiinsa. Kannattaa keskittyä ymmärtämään yhteyksien merkitys, eli kysyminen kannattaa aina :)
 Kuvaus voi päivittyä kurssin aikana! 
 
-[http://ttos0100.pages.labranet.jamk.fi/eamk-2019/kurssimateriaali/kasitekartta/](http://ttos0100.pages.labranet.jamk.fi/eamk-2019/kurssimateriaali/kasitekartta/)
+[http://ttos0100.pages.labranet.jamk.fi/amk-2020/kurssimateriaali/kasitekartta/](http://ttos0100.pages.labranet.jamk.fi/amk-2020/kurssimateriaali/kasitekartta/)
 
 > HUOMIO! Kun teet harjoitusta, niin poista ennen lopullista luovutusta kaikki ohjekommentit ja video-linkit sisällöstä. 
 
@@ -34,7 +32,6 @@ Kuvaus voi päivittyä kurssin aikana!
 > __Profiili: Asiakas 2__ 
 > __Ominaisuus: Raportti generaattori__
 > Tämä helpottaa hahmottamaan myöhemmin koko vaatimusmäärittelyn rakennetta
-
 
 ## Sisällysluettelo 
 
@@ -67,15 +64,14 @@ Kuvaus voi päivittyä kurssin aikana!
 1. [Julkaisusuunnitelma](#Julkaisusuunnitelma)
 1. [Aiheeseen liityvä standardit ja lähteet](#Aiheeseen liityvä standardit ja lähteet)
 
-
 ## Johdanto
 
 >Kuvaa millaisesta projektista on kyse, hieman taustaa ja aiheeseen olennaisesti liittyviä asioita? Jos kyseessä harjoitustehtävä, niin tarkista voitko 
-käytää todellisten tilaajien oikeita nimiä! Muuta tarvittaessa henkilötiedot ja toimeksiantajan viralliset tiedot
+käytää todellisten tilaajien oikeita nimiä! Muuta aina oletuksena henkilötiedot ja toimeksiantajan viralliset tiedot 
 
 ## Toimeksiantaja
 
->Kuka on vaatimusmäärittelyn tilaaja?
+>Kuka on vaatimusmäärittelyn tilaaja? Muista vaihtaa oikeat tilaajan nimet ja tiedot omiin keksittyihin!
 
 ## Vaatimusmäärittelyn tekijästä
 
@@ -88,8 +84,6 @@ käytää todellisten tilaajien oikeita nimiä! Muuta tarvittaessa henkilötiedo
 >Mitä palvelun avulla voidaan tehdä? Millaisia ovat sen käyttäjät? Mikä sen tehtävä on yleisesti eri sidosryhmien kannalta? 
 Kannattaa nostaa esiin lyhyesti mahdolliset loppukäyttäjä ja oleellisiin palvelusta hyötyviin sidosryhmät
 
-
-
 ## Sidosryhmäkartta
 
 >Mietitään tarkemmin millaisia käyttäjä/sidosryhmiä liittyy suunniteltuun ohjelmisto/palvelukokonaisuuteen? 
@@ -100,6 +94,7 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 
 > Voit tutustu nyt aiemmin mainittuun PlantUML-työkaluun ja kokeilla luoda sidosryhmäkartta käyttäen (http://plantuml.com/)
 > Huomaa! PlantUML-lohkon määrittelyssä käytetään Gitlab-ympäristössä eri avainsanoja @startuml/@enduml- rivien sijaan  
+> Älä käytä skandinaavisia merkkejä PlantUML-kuvauksessa,koska niiden julkaisu www-sivulla ei toimi!**
 
 ```plantuml
 actor profile1
@@ -114,7 +109,9 @@ profile2 -- example_of_service  : benefits
 stake_holder1 -- example_of_service  : threat
 stake_holder2 -- example_of_service  : competitor
 ```
-> Voit kuvata sidosryhmät myös vapaamuotoisemmin, jolloin eri profiilien erot tulevat ehkä "selkeämmin" esiin!
+
+> Voit kuvata sidosryhmät myös esimerkiksi piirtämällä kuvan, jolloin eri profiilien erot tulevat ehkä "selkeämmin" esiin!
+> Jos kuitenkin hyödynnät PlantUML kuvausta, niin päivitys ja kuvauksen ylläpito on huomattavasti nopeampaa
 
 ![](https://camo.githubusercontent.com/0d665c81987cc940b4d93c0dfdfcf0128d1d5754/68747470733a2f2f7777772e6c7563696463686172742e636f6d2f7075626c69635365676d656e74732f766965772f30303736373365342d333361362d346131312d623465312d6163366461633130306537352f696d6167652e706e67)
 
@@ -130,23 +127,27 @@ joilla voi olla eroja motiiveissa/arvoissa, mutta ne kuuluvat kuitenkin olennais
 **Alla olevat profiili/sidosryhmätkuvaukset vain suuntaa antavia! Nimeä ne tarkoituksenmukaisiksi. Varmista, että ne ovat löydettävissä sidosryhmäkartasta!**
 
 > Tässä kohtaa on aika etsiä profiilikuvauksen runkoa /pohjat kansiosta
+> Profiili voi olla siis henkilö tai selkeä sidosryhmä edustaja. Tärkeää on nostaa nämä alkuvaiheessa ja käyttää niitä sitten määrittelyn edetessä
 
-| Sidosryhmä/Profiili | Linkki |  Lisätietoa |
-|:-:|:-:|:-:|
-| Sidosryhmä 1 | [Sidosryhmä-1](pohjat/pohja-profiilikuvaus.md) | |
-| Sidosryhmä 2 | [Sidosryhmä-2](pohjat/pohja-profiilikuvaus.md) | |
-| Henkilö 1 | [Profiili 1](pohjat/pohja-profiilikuvaus.md) | Edustaa sidosryhmää [Sidosryhmä-2](pohjat/pohja-profiilikuvaus.md) |
-| Henkilö 2 | [Profiili 1](pohjat/pohja-profiilikuvaus.md) | Edustaa sidosryhmää [Sidosryhmä-2](pohjat/pohja-profiilikuvaus.md) |
-| Henkilö 3 | [Profiili 1](pohjat/pohja-profiilikuvaus.md) | [Sidosryhmä-1](pohjat/pohja-profiilikuvaus.md) |
+| Sidosryhmä/Profiili | Lisätietoa |
+|:-:|:-:|
+| [Sidosryhmä-1](pohjat/pohja-profiilikuvaus.md) | Edustaa esim x % asiakkaista |
+| [Sidosryhmä-2](pohjat/pohja-profiilikuvaus.md) | Edustaa esim y % asiakaskunnasta |
+| [Henkilö profiili 1](pohjat/pohja-profiilikuvaus.md) | Mieti edustaako profiili joitan määrättyä [Sidosryhmä-2](pohjat/pohja-profiilikuvaus.md) |
+| [Henkilö profiili 1](pohjat/pohja-profiilikuvaus.md) | Edustaako profiili jotain sidosryhmän osaa [Sidosryhmä-3](pohjat/pohja-profiilikuvaus.md) |
+| [Henkilö profiili 1](pohjat/pohja-profiilikuvaus.md) | Vai onko kyseessä ainut [Sidosryhmän-X](pohjat/pohja-profiilikuvaus.md) edustaja |
 
 ## Asiakkaan tarpeet/toiveet?
 
-> Täydennä tätä jatkuvasti kurssin aikana!
-> Pohdi millaisia toiveita/tarpeita on loppukäyttäjällä liittyen palveluun? Haastattele henkilöitä todellisessa tilanteessa?
+> Pohdi millaisia toiveita/tarpeita on loppukäyttäjällä liittyen palveluun? 
+> Mitä kuulet asiakkaan / loppukäyttäjän suusta, kun haastattelet ko. henkilöä?
+> Haastattele henkilöitä todellisessa tilanteessa? Millaisia toiveita hänellä on palvelua kohtaan?
+> Kun keskustelet mahdollisen loppukäyttäjän (palvelun yksi sidosryhmä) kanssa on harvoin vastauksena tekninen toteutustapa tai muus syvälle menevä ratkaisu liittyen palveluun.
+> Vastauksena voit kuitenkin saada kasan toiveita, joita asiakas odottaa palvelulta. Nämä kannattaa kirjata tässä vaiheessa talteen.
 
 | VaatimusID | Tyyppi | Kuvaus | 								
 |:-:|:-:|:-:|
-| CUSTOMER-REQ-0001 | Customer Requirement | Käyttäjänä haluan kirjautua käyttäen Facebook-tunnuksia, ettei tarvise häslätä | 
+| CUSTOMER-REQ-0001 | Customer Requirement | Käyttäjänä haluan kirjautua käyttäen Facebook-tunnuksia, ettei tarvitse turhaan häslätä | 
 | CUSTOMER-REQ-0002 | Customer Requirement ||
 | CUSTOMER-REQ-0003 | Customer Requirement ||
 | CUSTOMER-REQ-0004 | Customer Requirement ||
@@ -155,7 +156,10 @@ joilla voi olla eroja motiiveissa/arvoissa, mutta ne kuuluvat kuitenkin olennais
 ## Liiketoiminnan vaatimukset/tavoitteet?
 
 > Pohdi millaisia toiveita/tarpeita on Liiketoiminnan näkökulmasta liittyen palveluun? 
-> Jos mitään ei tule mieleen, niin pohdi kenen "kassaan" raha tulee palvelusta? Saavutetaanko palvelulla kustannushyötyjä? Parantaako kustannustehokkuutta? etc
+> Jos mitään ei tule mieleen, niin pohdi millä perusteilla "kassaan" saadaa rahaa palvelusta? Saavutetaanko palvelulla kustannushyötyjä? Parantaako kustannustehokkuutta ? Antaako se jotain loppukäyttäjlle, josta hän selkeästi hyötyy ?
+> Jos voit osoittaa selkeitä hyötyjä, niin ne antavat "liiketoiminnalle" merkityksen tuottaa palvelua. 
+
+**VAPAAEHTOINEN**
 
 | VaatimusID | Tyyppi | Kuvaus | 								
 |:-:|:-:|:-:|
@@ -165,24 +169,22 @@ joilla voi olla eroja motiiveissa/arvoissa, mutta ne kuuluvat kuitenkin olennais
 | BUSINESS-REQ-0004 | Business Requirement ||
 | BUSINESS-REQ-0005 | Business Requirement ||
 
-
-
 ## Tunnistetut riskit
 
 > Millaisia riskeja liittyy tuoteen kehittämiseen, tuotteen markkinoihin, mahdollisiin kilpailijoihin, resursseihin? 
 Nämä on hyvä tunnistaa alkuvaiheessa 
 
-> Avainsanat SWOT, Riskianalyysi
+**VAPAAEHTOINEN**
 
+> Avainsanat SWOT, Riskianalyysi
 
 ## Valitut asiakastarinat
 
->Haastattele tai kuvittele haastattelevasi profiili/sidosryhmän edustajaa ja kirjaa suunnittelemasi palvelun käyttöön liittyviä tilanteita. 
-Miten henkilö/sidosryhmä hyötyy/käyttää palvelua. Kirjoita tämä asiakastarinaksi. Kerro mitä se käytännössä tarkoittaa asiakkaan, pääkäyttäjän etc. näkökulmasta! 
-Alla olevassa videossa näet millaisia tarinoita **ei** ole tarkoitus kirjata tähän osioon :)
+> Haastattele tai "kuvittele" haastattelevasi palvelun kannalta olleellisia profiili/sidosryhmän edustajia ja pyydä heitä kuvaamaan palvelun käyttöön liittyviä oleellisia tilanteita. 
+> Miten henkilö/sidosryhmä hyötyy/käyttää palvelua. Kirjoita tämä tarinan muotoon. Kerro mitä palvelun käyttö käytännössä tarkoittaa asiakkaan, pääkäyttäjän etc. näkökulmasta! 
+> Alla olevassa videossa näet millaisia tarinoita **ei** ole tarkoitus kirjata tähän osioon :)
 
 [![](http://img.youtube.com/vi/KKM_7N1-6Ew/0.jpg)](http://www.youtube.com/watch?v=KKM_7N1-6Ew "")
-
 
 > Pyri kirjoittamaan auki tarina vain valitun profiilin/sidosryhmän näkökulmasta (toiset profiilit/sidosryhmät saattavat kyllä esiintyä tarinassa). Tarinassa on kätevä viitata jo aiemmin luotuihin [Profiili](pohjat/pohja-profiilikuvaus.md)-kuvauksiin.** 
 > HUOMIO! Älä sekoita asiakastarinaa (Customer story) käyttäjätarinaan (User Story)
@@ -195,20 +197,19 @@ Alla olevassa videossa näet millaisia tarinoita **ei** ole tarkoitus kirjata t�
 
 [Asiakas-tyyppi 3](pohjat/pohja-profiilikuvaus.md) käynnistää iltapäivällä rakennustyömaalla sementtimyllyä, kun hänelle tulee viesti X-palvelusta.........
 
-
 ## Palveluun liittyviä asiakaspolkuja
 
->Mieti auki aiemmin kirjoittamaasi asiakastarinaa ja piirrä sen pohjalta hahmotelma asiakaspolusta. 
-Mitä tapahtumia siihen liittyy? Mieti palvelua laajempana kokonaisuutena!
-Asiaspolkukuvauksen avulla kuvataan tapahtuma sarjaa joka käydään jossain valitussa tilanteessa läpi palvelun käytön aikana. 
-Asiakas kohtaisia palvelupolkuja voi olla useita, mutta tärkeintä on tunnistaa alkuvaiheessa oleellisimmat. 
-Palvelupolkua kuvattaessa voi hyödyntää esim. Swim lane/BluePrint/tilakone-kuvausta tai muuta sopivaksi katsottua kuvausta.
-Tärkeää on kuitenkin kuvata polku ja käyttää sitä tarvittaessa selkeyttämään ymmärrystä tavoitellusta palvelusta. 
-Käy läpi tekemäsi kuvausta jonkun toisen henkilön kanssa yhdessä? Käy läpi polku ja kerro mitä sen aikana tapahtuu..
+> Mieti auki aiemmin kirjoittamaasi asiakastarinaa ja piirrä sen pohjalta hahmotelma asiakaspolusta. 
+> Mitä tapahtumia siihen liittyy? Mieti palvelua laajempana kokonaisuutena!
+> Asiaspolkukuvauksen avulla kuvataan tapahtuma sarjaa joka käydään jossain valitussa tilanteessa läpi palvelun käytön aikana. 
+> Asiakas kohtaisia palvelupolkuja voi olla useita, mutta tärkeintä on tunnistaa alkuvaiheessa oleellisimmat. 
+> Palvelupolkua kuvattaessa voi hyödyntää esim. Swim lane/BluePrint/tilakone-kuvausta tai muuta sopivaksi katsottua kuvausta.
+> Tärkeää on kuitenkin kuvata polku ja käyttää sitä tarvittaessa selkeyttämään ymmärrystä tavoitellusta palvelusta. 
+> Käy läpi tekemäsi kuvausta jonkun toisen henkilön kanssa yhdessä? Käy läpi polku ja kerro mitä sen aikana tapahtuu..
 
 [![](http://img.youtube.com/vi/kNXjKquK3A0/0.jpg)](http://www.youtube.com/watch?v=kNXjKquK3A0 "")
 
->Asiakaspolun luonnostelu on hyvä aloittaa esim. asiakastarinan pohjalta. Polkuja laaditaan tarvittaessa useampia eri profiilien/tilanteiden näkökulmasta. Yhteen kuvaukseen ei siis kannata upottaa liikaa tapahtumia
+> Asiakaspolun luonnostelu on hyvä aloittaa esim. asiakastarinan pohjalta. Polkuja laaditaan tarvittaessa useampia eri profiilien/tilanteiden näkökulmasta. Yhteen kuvaukseen ei siis kannata upottaa liikaa tapahtumia
 
 [![](http://img.youtube.com/vi/j7U8pqUN9EM/0.jpg)](http://www.youtube.com/watch?v=j7U8pqUN9EM "")
 
@@ -216,7 +217,6 @@ Käy läpi tekemäsi kuvausta jonkun toisen henkilön kanssa yhdessä? Käy läp
 
 > Kokeillaan luonnostella asiakaspolkua PlantUML-työkalun avulla. Kannattaa kokeilla ehdottomasti myös muita tapoja!
 > Sovella esim. PlantUML SDL/Swimlane kuvausta?
-
 
 ```plantuml
 [*] --> Step1
@@ -233,12 +233,13 @@ Step2 --> Step3
 Step3 --> [*]
 ```
 > Palvelupolkujen kuvauksissa voi tarvittaessa soveltaa myös muita työkaluja. Esim. https://canvanizer.com, PowerPoint etc
+> Tutustu esim. Blueprint-kuvaukseen
 
 ## Oleelliset käyttötapaukset
 
-> Palvelupolun  kuljettaessa käydään läpi laajempi ketju palveluun käyttöön liittyviä tapahtumia. Tilanteet joissa käsitellään itse ohjelmistpalvelun 
-sähköisiä rajapintoja/käyttöliittymiä voidaan kuvata käyttötapauksien (Use Case) avulla.   
-> Ohjelmistosuunnittelussa **Käyttötapaus** (Use Case) ymmärretään helposti väärin, koska se liitetään helposti pelkästään tuotteen 
+> Palvelupolun  kuljettaessa käydään läpi laajempi ketju palveluun käyttöön liittyviä käyttötilanteitaa. Näitä tilanteita, joissa käsitellään itse ohjelmistopalvelua 
+sähköisten rajapintojen/käyttöliittymien kautta kuvata ns. käyttötapauksien (Use Case) avulla.   
+> **Käyttötapaus** (Use Case) ymmärretään helposti väärin, koska se liitetään usein pelkästään tuotteen 
 **käyttötarkoituksen** kuvaamiseen. Palvelusta ensi kertaa keskusteltaessa puhutaan sen eri **käyttötarkoituksista**, eli sitä mihin 
 ohjelmistoa/palvelua voidaan hyödyntää. Kun puhutaan palvelun määrittelystä ja siihen liittyvien käyttötapauksien tunnistamisesta 
 on kyseessä hieman eri asia. Käyttötapauksessa keskitytään tarkastelmaan palvelun käyttöä varsin rajatussa tilanteessa. 
@@ -276,7 +277,7 @@ helpommin koko järjestelmää. Huomio! Laajemmassa järjestelmä kokonaisuudess
 > Käyttötapauksen tarkempi kuvaus harjoitusympäristössä tapahtuu käyttötapaus-kohtaisen pohja-tiedoston avulla. Jokaista käyttötapausta varten 
 laaditaan itsenäinen tiedosto.
 
-| Käyttötapaus | Osa-alue | Ominaisuus? |
+| Käyttötapaus | Osa-alue | toiminnallisuus/ominaisuus johon UC -liittyy |
 |:-:|:-:|:-:|
 | [Käyttötapaus 1 - Tilauksen muokkaus](pohjat/pohja-kayttotapaus.md) | Tilausten hallinta | [Tilaushallinta-paneeli](pohjat/pohja-ominaisuus.md) | 
 | [Käyttötapaus 2 - Tilauksen tarkistaminen](pohjat/pohja-kayttotapaus.md) | Tilausten hallinta | [Tilaushallinta-paneeli](pohjat/pohja-ominaisuus.md) | 
@@ -285,28 +286,35 @@ laaditaan itsenäinen tiedosto.
 ## Tärkeimmät ominaisuudet/toiminnallisuudet 
 
 > Hahmotellaan tähän kohtaan ominaisuudet pelkästään "ranskalaisilla viivoilla", eli mitä palvelulla mielestäsi on mahdollista tehdä?
+> Mieti tilannetta, kun joku kysyy mitä palvelulla voi tehdä? Mitä vastaat ja mitkä toiminnot nostatat esiin ehdottomasti valtteina verrattuna muihin vastaaviin palveluihin?
 > Päivitä lista myöhemmin, kun se tarkentuu? 
+> Tässä kohtaa kannattaa tarkistaa mitä olivat asiakkaan esittämät toiveet palvelusta? Niistä voisi löytyä ehkä joitain tässä vaiheessa?
+> Tarkemmat toiminnallisuudet tarkentuvat myöhemmin dokumentissa.  
+> Tässä vaiheessa riittää:
 
-> On hyödyllistä laatia toimeksiantajan kanssa yhdessä tiivistelmä (A4-kokoa), josta löytyy tarvittaessa koko tuote kiteytettynä
-Löydät esimerkin dokumentista [täältä](../pohjat/pohja-tuotekuvaus-a4.md)
 
-> Toiminnallisuudet tullaan kiinnittämään myöhemmin 
+- Oleellisia toimintoja 
+    - Asiaksi-profiili-1 voi lähettää postia toiselle henkilölle
+    - Asiakas-profiili-2 voi saada tietoa aiemmin tehdyistä valinnoista
+    - Ylläpito-henkilö voi poistaa laskun
+    - Ylläpito-henkilö voi luoda uuden laskun
+    - muita?
 
-- Toiminnot 
-    - Käyttäjä voi lähettää postia toiselle henkilölle
-    - Asiakas saa tiedot aiemmin tehdyistä valinnoista
-    - Henkilö voi maksaa laskun 
 
 ## MockUp-prototyyppi
 
 > Suunniteltavan palvelun toimintoja määriteltäessä voi olla hyödyllistä piirtää avuksi MockUp-kuvausta käyttötilanteen 
-tai toiminnallisuuden todentamiseksi. Kun palvelun käyttöliittymää tai palvelupolkua käydään läpi mockup-kuvauksen kautta
-voi hahmottaa huomattavasti helpommin tarvittavia toiminnallisuuksia tai tarpeita, joita voidaan kirjata vaatimusmäärittelyyn. 
-MockUp-kuvaus on hyödyllinen apuväline palvelun tilaajan/toimeksiantajan kanssa käydyissä keskusteluissa.
+> tai toiminnallisuuksien hahmottamiseksi. Kun palvelun käyttöliittymää tai palvelupolkua käydään läpi mockup-kuvauksen kautta
+> voi ymmärtää helpommin mitä tarvittavia toimintoja on kirjattava myös vaatimusmäärittelyyn. 
+> MockUp-kuvaus on myös hyödyllinen apuväline tilaajan/toimeksiantajan väliseen keskusteluun.
 
 [![](http://img.youtube.com/vi/a5qLMBYWv5A/0.jpg)](http://www.youtube.com/watch?v=a5qLMBYWv5A "")
 
 > Kun laadit harjoitustehtävään MockUp-näkymän pohdi haluatko kuvata koko palvelua vai keskittyä yksittäisen toiminnallisuuden tarkasteluun?
+> Harjoitustehtävän kannalta on oleellista, että käytät MockUp-kuvausta tarpeellisen asian esittämiseen. Pyri kuvaamaan kokonaisuutta ja esittämään siinä
+> tunnistamiesi toimintojen tarkoituksen mukaisuutta. Jos huomaat piirtämisvaiheessa puutteita vaatimuksissa tai tarvetta kirjata niitä lisää, niin se on juuri
+> tarkoitus. Vaatimusmäärittely tarkentuu tekemällä aktiivista hahmottelua vaaditusta kokonaisuudesta. 
+
 
 > Voit kokeilla myös PlantUML-kuvausta rajatuissa kohdissa
 
@@ -339,61 +347,51 @@ Sen avulla kuvataan palveluun liittyvää toiminnallisuutta, jolle käyttäjäll
 * Käytännössä ylempi kuvaus on hieman jäykkä ja on järkevitä kirjata storyt suoraan esim. GitLab-issuen muotoon! 
 * Kokeile osoittaa hiirelle linkkejä oikealla ja avaa ne tämän jälkeen ---> #25 tai #26
 
-## Palvelun järjestelmävaatimukset 
+## Palvelun liittyvät tuotannolliset ja tekniset vaatimukset 
 
+**Tämä osa-alue vielä kesken**
 
-> Järjestelmävaatimukset ovat korkeamman tason vaatimuksia, joiden pohjalta järjestelmä kokonaisuutta lähdetään määrittelemään.
-> Palveluita suunniteltaessa nousevat teknisestä näkökulmasta tarkasteltuna esiin vaatimukset, jotka liittyvät eri 
-teknologioihin, laitteistoihin tai totetuksen fyysisiin rakenteisiin. Ohjelmistopalvelua määriteltäessä
-kannattaa tunnistaa ajoissa puhtaasti järjestelmän tekniset/tuotannolliset vaatimukset ja kirjata ne vaatimusmäärittelyyn. 
+> Sähköisiä palveluita määriteltäessa teknisestä vaatimukset liittyvät tarvittaviin
+teknologioihin, laitteistoihin tai palvelun vaatimiin fyysisiin rakenteisiin. Ohjelmistopalvelua määriteltäessä
+kannattaa tunnistaa ajoissa puhtaasti tekniset/tuotannolliset vaatimukset ja kirjata ne vaatimusmäärittelyyn niille varattuun osaan. 
 Liiallinen keskittyminen teknisten tuotanto/toteutusvaatimusten kirjaukseen ei ole välttämättä suositeltavaa, koska 
-suunnittelun aikana ohjelmistoa/palvelun toteutusvaatimukset voivat vielä muuttua. Kehitysvaiheessa näppäräksi koettu ratkaisu 
-voi osoittatua kalliiksi palvelun tuotteistamisvaiheessa.
+suunnittelun aikana ohjelmistoa/palvelun toteutusvaatimukset voivat vielä muuttua. Kehitysvaiheessa kätevästi koettu ratkaisu 
+voi osoittatua kalliiksi palvelun tuotteistamisvaiheessa. 
+> Usein määrittelyn avuksi pyydetään erilaisia asiantuntijalausuntoja liittyen esimerkiksi järjestelmän arkkitehtuuriin ja tuotantoalustaan
+> Yleisesti ottaen tässä osiossa voidaan pohtia esim seuraavia kysymyksiä.
 
-> Tässä osiossa Kannattaa pohtia esim seuraavia kohti
-
-- Miten palvelu tuotetaan? SAAS/PAAS/IAAS/HOSTED-palveluna etc 
+- Miten palvelu tullaan tuottamaan? Pilvessä, omilla palvelimilla etc? 
+- Onko tarkoistus tarjota esim. SAAS/HOSTED-palveluna etc 
 - Käytetäänkö Pilvipalveluita osana ratkaisua vai hyödynnetäänkö omia palvelimia
-- Onko kyseessä ns. Hybridi-palvelu, joka hyödyntää useampia erillis palvelua 
-- Miten palvelu on oltava saatavilla 24/7h 100% ? Niin onko tuo edes mahdollista :) ?
+- Mitä muita palveluita tarvitaan ko. palvelun tueksi? Käyttäjien tunnistamis palvelut?
+- Miten palvelu on oltava saatavilla 24/7h 100% ? 
 - Millainen SLA palvelulle laaditaan?
-- Miten paljon kustannuksia saa palvelun tuotanto tuottaa?
+- Miten paljon kustannuksia saa palvelun tuotannolle sallitaan ?
 - Millaiset tiedonsäilytys/arkistointi tarpeet liittyvät palveluun? 
 
 [![](http://img.youtube.com/vi/s7AcxrxcVd0/0.jpg)](http://www.youtube.com/watch?v=s7AcxrxcVd0 "")
 
-> Järjestelmä tason vaatimuksissa tarkastellaan ohjelmistoa/palvelua kokonaisuutena ja sen pohjalta määritellään 
-esim. tekniset vaatimukset suoritusympäristölle, vaadittaville resursseille palvelun ylläpitoa varten. 
-
-> Järjestelmän suoritusympäristön vaatimukset käsittävät esimerkiksi laitevaatimukset tuotantoympäristöstä tai 
-järjestelmän ajoympäristön vaatimuksia, joihin voivat sisältyä vaatimukset suorituskyvystä, ylläpidosta, varmennuksista etc
-
-> Millaisia suoritusympäristöjä sitten käytetään esim. kaupallisissa ratkaisuissa ? Voit tutkia esimerkkejä [Stack Share](https://stackshare.io/):palvelussa
-
-
+> Millaisia tuotantoympäristöjä/teknologisia ratkaisuja käyteään käytetään oikeasti? Voit tutkia esimerkkejä [Stack Share](https://stackshare.io/):palvelussa
 > Esim. millainen on tekninen ratkaisu toteutukselle ja miten eri teknologioita tullaan hyödyntämään. 
+> Harjoitustehtävässä tekniset vaatimukset jäävät tarkoituksella sivuasemaan. Keskitymme ohjelmiston vaatimuksiin!
+> Voit kuitenkin miettiä millaisia vaatimuksia esim. tuotantoympäristöllä on? 
 
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
 | SYSTEM-HW-REQ-0002 | System Technical Requirement | Palvelun tärkeimpien palvelujen on oltava vähintään kahdennettu N+1 | |
-| SYSTEM-HW-REQ-0003 | System Technical Requirement | Palvelimen muistikapasiteeti >16GB  ||
-| SYSTEM-HW-REQ-0004 | System Technical Requirement | Prosessori Intel/AMD x64||
-| SYSTEM-HW-REQ-0005 | System Technical Requirement | Palvelimen fyysinen sijainti on oltava kotimaassa (Suomi) ||
-| SYSTEM-HW-REQ-0005 | System Technical Requirement | Verkkoyhteyden nopeus >100MB/s ||
-| SYSTEM-HW-REQ-0005 | System Technical Requirement | Laitekaapin suositeltava koko 1m X 1m X 2m ||
+| SYSTEM-HW-REQ-0003 | System Technical Requirement | Palvelimien vähimmäis muistikapasiteeti >32GB  ||
+| SYSTEM-HW-REQ-0004 | System Technical Requirement | Prosessorin tyyppi Intel/AMD x64||
+| SYSTEM-HW-REQ-0005 | System Technical Requirement | Palvelimen fyysinen sijainti on kotimaassa (FI) ||
+| SYSTEM-HW-REQ-0005 | System Technical Requirement | Verkkoyhteyden nopeus palveluun vähintään >100MB/s ||
+| SYSTEM-HW-REQ-0005 | System Technical Requirement | Palvelinkaapin suositeltava koko 1m X 1m X 2m ||
 
+### Palvelun toteuttamisen kannalta tärkeät oleelliset rajaukset ja standardit
 
+Rajaus/rajoite = Constrain
 
-
- 
-> Avainsanat: pilvipalvelun tuotanto, Palveluiden hallinta, SLA 
-
-### Palvelun suunnitteluun vaikuttavat rajaukset ja standardit
-
-> Eri ohjelmistojena/palvelujen toteutusta ja käyttöä ohjaavat usein lait ja säädökset. Näiden edellyttämät vaatimukset kirjataan yleensä rajoitteina 
-ja niiden vaikutus koskee usein koko ohjelmiston/järjestelmän toteuttamista. Tästä syystä ne kannattaa tunnistaa ja selvittää ajoissa, koska vaikutus 
-saataa olla varsin ratkaiseva pitemmällä tähtäimella. Esimerkkinä [EU GDPR-säädös](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation).
-
+> Eri ohjelmistojena/palvelujen toteutusta ja käyttöä ohjaavat usein lait ja säädökset. Näiden edellyttämät vaatimukset voidaan kirjataan tarvittaessa vaatimusmäärittelyyn.
+Rajausten vaikutus koskee usein palvelun jonkin osa-kokonaisuuden toteuttamista. Tästä syystä eri rajoitteet on tunnistettava ajoissa, koska vaikutus 
+saataa olla varsin ratkaiseva pitemmällä tähtäimella. Esimerkkinä tästä on viime vuonna voimaan tullut [EU GDPR-säädös](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation).
 > Kannattaa tutkia esimerkiksi https://www.sfs.fi/aihealueet/terveydenhuolto/laakinnalliset_laitteet tai http://docs.jhs-suositukset.fi/jhs-suositukset/JHS190/JHS190.html
 
 | Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
@@ -407,14 +405,34 @@ saataa olla varsin ratkaiseva pitemmällä tähtäimella. Esimerkkinä [EU GDPR-
 | CONSTRAINT-REQ-S00006 | Constrain |||
 
 
+### Palvelun toiminnalliset vaatimukset (Functional Requirements)
+
+>Mitä toimintoja palveluun liittyy? Nämä kannattaa kirjata ensi ns. toiminnallisina vaatimuksina? Toiminnallisilla vaatimuksilla kuvataan ohjelmistolta/järjestelmältä vaadittuja toimintoja.
+Toiminnalliset vaatimukset ovat helpoimmin tunnistettavia. Vältä useamman vaatimuksen kirjaamista samaan lauseeseen! Jokainen vaatimus erikseen.
 
 
-### Palvelun toiminnallisuudet/ominaisuudet
+[![](http://img.youtube.com/vi/qO2qEIEHy_A/0.jpg)](http://www.youtube.com/watch?v=qO2qEIEHy_A "")
 
-> Kirjataan taulukkoon "kaikki" toiminnot, joista osaa tullaan käsittelemään myöhemmin tuotteen toiminnallisina ominaisuuksina. 
-Kannattaa huomata, että osa toiminnallista vaatimuksista ovat käytännössä oleellisia toimintoja, eli ne voidaan "korottaa" ominaisuuksiksi. 
+| VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
+|:-:|:-:|:-:|:-:|
+| FUNCTIONAL-REQ-C0001 | Functional Requirement | Käyttäjänä (Asiakas Profiilit 1-4) voin kirjautua käyttäen Facebook-tunnuksia | [Kirjautuminen ft1](pohjat/pohja-ominaisuus.md) |
+| FUNCTIONAL-REQ-C0002 | Functional Requirement | Käyttöliittymän on toimittava myös ääniohjattuna, koska käyttäjillä saattaa olla näkövammoja | [Kirjautuminen ft1](pohjat/pohja-ominaisuus.md), [Tilaushallinta](pohjat/pohja-ominaisuus.md) |
+| FUNCTIONAL-REQ-C0003 | Functional Requirement |||
+| FUNCTIONAL-REQ-C0004 | Functional Requirement |||
+| FUNCTIONAL-REQ-C0005 | Functional Requirement |||
+| FUNCTIONAL-REQ-C0006 | Functional Requirement |||
+| FUNCTIONAL-REQ-C0007 | Functional Requirement |||
+| FUNCTIONAL-REQ-C0008 | Functional Requirement |||
+| FUNCTIONAL-REQ-C0009 | Functional Requirement |||
+| FUNCTIONAL-REQ-C0010 | Functional Requirement |||
+
+### Palvelun ohjelmiston ominaisuudet, eli "featuret"
+
+Yllä olevassa listassa on kirjattu muistiin erilaisia toiminteita, joita palvelum avulla voi suorittaa. Mieti seuraavaksi, mitkä näistä toiminnoista liittyvät isompii toiminnallisuuksiin.  
+Kirjaa alla olevaan taulukkoon nämä päätoiminnot. Niitä voidaan kutsua "Featureiksi" ja on tärkeää ymmärtää eri toimintojen kokoluokat. Tunnistat karkeasti päätoiminnallisuuden kun mietit mitä palvelulla on oleellisinta saada aikaan. 
+Ylempänä määritellyt toiminnalliset vaatimukset mahdollisesti tarkentavat tai liittyä oleellisesti päätoiminnallisuuteen.   
 Esimerkkinä Verkkopankki palvelussa on oleellinen toiminto "maksu tililtä", joka on käytännössä tärkeä palvelun ominaisuus. Tähän 
-toiminnallisuuteen liittyy useita muita pienempiä ja tarkentavia toiminnallisia vaatimuksia
+toiminnallisuuteen liittyy useita muita pienempiä ja tarkentavia toiminnallisia vaatimuksia. Mieti millä eri tavoin maksu tililtä toimintoa voi käyttää?
 
 > Jos sinulta kysytään mitä palvelulla/ohjelmistolla voi tehdä pyri tunnistamaan tärkeimmät toiminnot! 
 Ne ovat melko varmasti oleelliset ominaisuudet. 
@@ -455,26 +473,6 @@ Tämä ei tarkoita, että kyseessä on tuoteeen ohjelmiston yksi ominaisuus vaan
 | [Feature 10](pohjat/pohja-ominaisuus.md) | P5 | Esim [FUNCTIONAL-REQ-C0401]() |
 
 
-### Palvelun toiminnalliset vaatimukset
-
->Mitä ovat toiminnalliset vaatimukset? Toiminnallisilla vaatimuksilla kuvataan ohjelmistolta/järjestelmältä vaadittua toimintaa
-Toiminnalliset vaatimukset ovat helpoimmin tunnistettavia. Vältä useamman vaatimuksen kirjaamista samaan lauseeseen! Jokainen vaatimus erikseen..
-Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan kokonaisuuteen
-
-[![](http://img.youtube.com/vi/qO2qEIEHy_A/0.jpg)](http://www.youtube.com/watch?v=qO2qEIEHy_A "")
-
-| VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
-|:-:|:-:|:-:|:-:|
-| FUNCTIONAL-REQ-C0001 | Functional Requirement | Käyttäjänä (Asiakas Profiilit 1-4) voin kirjautua käyttäen Facebook-tunnuksia | [Kirjautuminen ft1](pohjat/pohja-ominaisuus.md) |
-| FUNCTIONAL-REQ-C0002 | Functional Requirement | Käyttöliittymän on toimittava myös ääniohjattuna, koska käyttäjillä saattaa olla näkövammoja | [Kirjautuminen ft1](pohjat/pohja-ominaisuus.md), [Tilaushallinta](pohjat/pohja-ominaisuus.md) |
-| FUNCTIONAL-REQ-C0003 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0004 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0005 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0006 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0007 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0008 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0009 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0010 | Functional Requirement |||
 
 ### Ohjelmiston/palveluun ei-toiminnallisia vaatimuksia
 
@@ -499,6 +497,8 @@ Miten hyvin palvelu/komponentti tai muu osa-alue palvelusta suoriutuu kuormituks
 | PERFORMANCE-REQ-0005 | Non-Functional Performance |||
 
 >Millaisia vaatimuksia palveluun kohdistuu tietoturvan näkökulmasta?
+
+> Tutustu [Ssecurity cards-metodiin](http://securitycards.cs.washington.edu/cards.html)
 
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
@@ -536,6 +536,11 @@ Esimerkkinä voidaan miettiä logien hallintaa, niiden keräämistä, alkutilant
 | TESTABILITY-REQ-0003 | Non-Functional Testability ||[Lisätietoa](https://fi.wikipedia.org/wiki/Ohjelmiston_laatu)|	
 | TESTABILITY-REQ-0004 | Non-Functional Testability ||[Lisätietoa](https://fi.wikipedia.org/wiki/Ohjelmiston_laatu)|	
 | TESTABILITY-REQ-0005 | Non-Functional Testability ||[Lisätietoa](https://fi.wikipedia.org/wiki/Ohjelmiston_laatu)|
+
+
+## Extra
+
+>Kannattaa tutustua :) https://www.etteplan.com/services/testing-and-test-laboratory/product-safety-and-training
 
 ## Ohjelmiston arkkitehtuuri, sijoittelunäkymä, tietokantakuvaus ja integraatiot
 
