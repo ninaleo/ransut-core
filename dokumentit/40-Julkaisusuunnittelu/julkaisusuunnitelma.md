@@ -1,7 +1,21 @@
 # Julkaisusuunnitelma
 
 
-Esimerkki PlantUML-muodossa
+Mitkä ominaisuudet ja milloin ? Tässä suunnitelmassa kuvataan tuoteominaisuuksien julkaisuaikataulua.
+Kannattaa siirtää/linkittää vaatimusmäärittelyssä kuvatut ominaisuudet tälle sivulle. 
+
+| Ominaisuus | Prioriteetti |
+|:-:|:-:|:-:|
+| [Feature 1]() | |1|
+| [Feature 2]() | |2|
+| [Feature 3]() | |3|
+| [Feature 4]() | |1|
+| [Feature 5]() | |2|
+
+
+
+
+## Julkaisusuunnitelma PlantUML-muodossa
 
 ```plantuml
 Project starts the 2019-5-15
