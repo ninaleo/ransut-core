@@ -40,14 +40,17 @@ Määritellään työn keskeisin sisältö tässä projektissa; projektin tehtä
 < Kenelle tulos tuotetaan?>
 ”Projektiryhmän tehtävänä on pitää eri tahot tietoisina projektin tilanteesta. Kunkin vaiheen päätyttyä laaditaan vaiheraportti, jonka avulla johtoryhmälle tiedotetaan projektin edistymisestä.”
 
+* Linkki tarvitavaan aineistoon vaatimusmäärittelyssä
+* Esitellään palvelukuvaus ja sen mahdollinen muutoskohteet projektin myötä
+
+
 ## 1.3 Rajaus ja liittymät
 
-* Wimma Lab-tuotoksia ei tulla kaupallistamaan, vaan tuotokset ovat avoimia innovaatioita tulevien opiskelijoiden ja yritysten hyödyksi
-
-
-Täsmennetään projektin tehtävää rajaamalla ulkopuolelle jäävät osat kohteena olevasta järjestelmästä tai kokonaishankkeesta. Erikseen on syytä kuvata myös tehtävän suorittamista merkittävästi rajoittavat ulkoiset tekijät.
-
-Tässä myös täsmennetään ne tehtäväkokonaisuudet, jotka nyt tehtävään osioon tulevat vielä todennäköisesti jossain vaiheessa liittymään, mutta joita ei tämän projektin puitteissa kuitenkaan tulla toteuttamaan. Tyypillisiä tällaisia tehtäviä voisivat olla mm. käyttöympäristön rakentaminen ja koulutus. Muina rajauksina voisi olla esim. ohjelmiston käyttöliittymässä käytettävä kieli.
+Täsmennetään projektin tehtävää rajaamalla ulkopuolelle jäävät osat kohteena olevasta järjestelmästä tai kokonaishankkeesta.
+Erikseen on syytä kuvata myös tehtävän suorittamista merkittävästi rajoittavat ulkoiset tekijät. Tässä myös täsmennetään
+ne tehtäväkokonaisuudet, jotka nyt tehtävään osioon tulevat vielä todennäköisesti jossain vaiheessa liittymään, mutta
+joita ei tämän projektin puitteissa kuitenkaan tulla toteuttamaan. Tyypillisiä tällaisia tehtäviä voisivat olla 
+mm. käyttöympäristön rakentaminen ja koulutus. Muina rajauksina voisi olla esim. ohjelmiston käyttöliittymässä käytettävä kieli.
 
 Huom.: Projektiopintojakson aikana toteutettavalla projektilla ei saisi olla tiukkoja aikataulullisia liittymiä muihin toimeksiantajan projekteihin
 
@@ -67,6 +70,7 @@ Projektin organisaation kuuluu Jyväskylän ammattikorkeakoulun  opettajia, proj
 
 **Projektiryhmä**
 
+* linkki esittelyyn?
 
 
 ”Projektiryhmä suorittaa johtoryhmän projektille asettamat tehtävät käytettävissä olevien resurssien puitteissa. Projektin aikana ryhmän päällikön ja sihteerin roolit kiertävät ryhmän sisällä siten, että jokainen ryhmän jäsen toimii kerran kummassakin roolissa.”
@@ -103,10 +107,18 @@ Huom.: Seuraavassa on esitetty käynnistys- ja lopetusvaiheet. Kaikista projekti
 
 Käynnistys p.k.vvvv – p.k.vvvv (X h)
 
+* [Sprint 0-?]()
+
 Projektin käynnistämiseen kuuluu olennaisesti projektisuunnittelu ja suunnitteludokumenttien laatiminen sekä yhteydenpitokäytänteiden luominen toimeksiantajayrityksen kanssa. Vaiheen aikana tehdään esim. ryhmän webbisivut, tutustutaan tarkemmin toimeksiantoon, aloitetaan kohdealueeseen perehtyminen ja laaditaan projektisuunnitelma yhteistyössä toimeksiantajan edustajien kanssa. Vaiheen aikana muodostetaan johtoryhmä, pidetään 1. johtoryhmän kokous sekä allekirjoitetaan projektisopimus.
 ”Vaiheen tuloksia ovat ryhmän imagon (nimi, logo ym.) luominen, webbisivut tms. sekä projektisopimus liitteineen.”
 
 <Tähän oman projektinne vaiheet ja tehtävät>
+
+* [Sprint 0-?]()
+* [Sprint 0-?]()
+* [Sprint 0-?]()
+* [Sprint 0-?]()
+* [Sprint 0-?]()
 
 Lopetus p.k.vvvv – p.k.vvvv (X h)
 
@@ -208,3 +220,5 @@ Projektin loppuraportti laaditaan viimeiseen johtoryhmän kokoukseen mennessä.
 
 Projektisuunnitelmaa täydentävät suunnitelmat esitetään liitteenä.
 
+* [Viesintäsuunnitelma]()
+* [Riskienhallinta]()
