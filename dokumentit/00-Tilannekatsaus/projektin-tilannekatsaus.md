@@ -1,4 +1,4 @@
-# Projektin tilannekatsaus
+# Tilannekatsaus
 
 ![](https://openclipart.org/image/300px/svg_to_png/121699/project-schedule.png&disposition=attachment)
 
@@ -9,9 +9,8 @@
 **Päivitä linkit osoittamaan omaan projektiin**
 
 
-* [Board](./-/boards)
+* [Board](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/boards/5192)
 * [Sprint 0](https://gitlab.labranet.jamk.fi/open-project-framework/opf-virtual-company-v1/core/-/milestones/2)
-* [Issue Board -näkymä](https://gitlab.labranet.jamk.fi/open-project-framework/opf-virtual-company-v1/core/-/boards)
 * [Issue Backlog](https://gitlab.labranet.jamk.fi/open-project-framework/opf-virtual-company-v1/core/issues?scope=all&utf8=%E2%9C%93&state=opened&milestone_title=Backlog)
 
 
