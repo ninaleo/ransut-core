@@ -1,5 +1,10 @@
 # Release note
 
+Changes 20.11.2020
+
+* Updated latest page-theme with PlantUML support
+
+
 Open Project Plaform Core for Virtual Companu
 
 Changes 29.1.2020
