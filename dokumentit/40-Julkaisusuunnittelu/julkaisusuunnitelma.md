@@ -5,7 +5,7 @@ Mitkä ominaisuudet ja milloin ? Tässä suunnitelmassa kuvataan tuoteominaisuuk
 Kannattaa siirtää/linkittää vaatimusmäärittelyssä kuvatut ominaisuudet tälle sivulle. 
 
 | Ominaisuus | Prioriteetti |
-|:-:|:-:|:-:|
+|:-:|:-:|
 | [Toiminnallisuus/Ominaisuus 1]() |1|
 | [Toiminnallisuus/Ominaisuus 2]() |1|
 | [Toiminnallisuus/Ominaisuus 3]() |1|
