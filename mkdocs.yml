@@ -1,27 +1,53 @@
-site_name: Open Project Framework (OPF 0.6) - project environment 
-site_url: http://open-project-framework.pages.labranet.jamk.fi/opf-virtual-company-v1/core/
+site_name: ABCD1234 - Example Course
+site_url: http://jamkit.pages.labranet.jamk.fi/templates/mkdocs-jamk-themed
+site_description: Example Course
+site_author: Firstname Lastname / JAMK IT
 
-site_author: NarsuMan
-
-docs_dir: dokumentit
+docs_dir: docs
 site_dir: public
 
 markdown_extensions:
-  - plantuml-markdown:
-      server: http://www.plantuml.com/plantuml
-  - toc:
-      anchorlink: True
-      separator: "_"
-  - admonition
-  - tables
-  - sane_lists
-
-
-
+    - toc:
+        baselevel: 1
+    - admonition
+    - tables
+    - sane_lists
+    - codehilite
+    - pymdownx.superfences:
+        custom_fences:
+            - name: mermaid
+              class: mermaid
+              format: !!python/name:pymdownx.superfences.fence_div_format
+    - pymdownx.details
+    - pymdownx.tabbed
+    - pymdownx.tasklist
+    - pymdownx.critic:
+        mode: view
+    - lightgallery
 theme:
-  name: 'material'
-  palette:
-    primary: 'cyan'
-    accent: 'cyan'
-  logo:
-    icon: 'assignment'
+    name: material
+    language: 'en'
+    history_buttons: false
+    article_nav_bottom: false
+    article_nav_top: false
+    custom_dir: overrides
+    palette:
+        scheme: default
+    font:
+        text: 'Sofia-Pro'
+        code: 'Roboto Mono'
+    logo: 'assets/jamk_logo.png'
+    features:
+        - instant
+extra_css:
+    - assets/extra.css
+    - https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.7.3/css/lightgallery.min.css
+    - https://use.typekit.net/yom0dkv.css
+extra_javascript:
+    - https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+    - https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.7.3/js/lightgallery-all.js
+    - https://unpkg.com/mermaid@8.6.4/dist/mermaid.min.js
+    - assets/lg.js
+google_analytics: 
+    - 'google-analytics-code'
+    - 'auto'
