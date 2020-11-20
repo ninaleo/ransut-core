@@ -3,4 +3,4 @@
 
 This is default page for OPF-based project environment.
 
-![](http://wimmalab.pages.labranet.jamk.fi/guides-and-info/opf.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rw9JVJZ0CnM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
