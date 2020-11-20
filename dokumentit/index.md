@@ -1,6 +1,5 @@
 # Projektin etusivu
 
-![](https://gitlab.labranet.jamk.fi/jamkit/project-templates/ttc2070-core-template-v1/-/raw/master/common/opf-musta.png?inline=false)
 
 Tervetuloa OPF-kehikon etusivulle! 
 
