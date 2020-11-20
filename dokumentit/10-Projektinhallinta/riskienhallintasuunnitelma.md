@@ -1,14 +1,18 @@
-# Riskienhallintasuunnitelma
+# Riskien hallinta
+
+* [Tutustu ensin kurssin materiaaliin](http://ttc2070.pages.labranet.jamk.fi/2-Projektinhallinta/laatu-ja-riskien-hallinta/laatu-ja-riskit/)
 
 
-Kirjataan alla olevaan taulukkoon projektiin kohdistuvat riskit ja pidetään niitä yllä tarpeen mukaan.
+## Tunnistetu riskit listana
+
+__Kirjataan alla olevaan taulukkoon projektiin kohdistuvat riskit ja pidetään niitä yllä tarpeen mukaan. Jokaiselle riskille annetaan tunniste esim. RIS007, koska tämä helpottaa niiden käsittelyä eri tilanteissa.__
 
 
 
 | ID |	Kuvaus | Vakavuus | Todennäköisyys | Kuka vastaa | Miten toimitaan, jos riski "eskaloituu" | 
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| RIS01 | Ryhmän jäsen sairastuu flunssaan |  V3 |  HessuHopo | Ilmoita tiiminvetäjälle ja tarvittaesssa asiakkaalle. |
-| RISXX | [Riskikohtainen alasivu jos tarpeen]() | | | |
+| RISX1 | Ryhmän jäsen sairastuu flunssaan |  V3 | 60 % |[Tiimin jäsen 1]() | Ilmoita [esihenkilölle]() ja tarvittaesssa [asiakkaalle](). |
+| RISX2 | Sähköt katkeavat kehitystyön aikana | V5 | 1  | [Tiimin jäsen 2]() | Varmistetaan, että kaikilla on käytössään varayhteydet esim. puhelimella |
 | RISXX | | | | |
 | RISXX | | | | |
 | RISXX | | | | |
@@ -20,10 +24,12 @@ Kirjataan alla olevaan taulukkoon projektiin kohdistuvat riskit ja pidetään ni
 
 ### Vakauvuusluokka 
 
+__Vakavuusluokka kannattaa määritellä projektille sopivalla tavalla__
+
 | Vakavuusluokka | kuvaus | Muuta |
 |:----:|:----:|:----:|
-| V1 | Erittäin vakava | | 
-| V2 | | | 
-| V3 |  | | 
-| V4 | | | 
-| V5 | Ei haittaa, mutta tarkkailaan | | 
+| V1 | Erittäin vakava, jatkuva tarkkailu || 
+| V2 | Vakava, aktiivinen tarkkailu || 
+| V3 | Normaali, tarkkaillaan  || 
+| V4 | Mahdollinen, tarkkailtava || 
+| V5 | Ei haittaa, mutta tarkkailaan || 

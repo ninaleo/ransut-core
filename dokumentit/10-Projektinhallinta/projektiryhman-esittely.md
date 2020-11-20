@@ -1,38 +1,23 @@
 # Projektiryhmän esittely
 
+## Tiimin Kuvaus
 
-Kerätään kaikki ryhmä jäsenet tähän dokumenttiin tai ohjataan "site"-sivustolle, josta tekijät löytyvät.
+Kerro tiimistä ja sen osaamisista projektin kannalta? Hieman tausta, jos tarpeen etc.
+
+## Tiimin jäsenet
+
+| Nimi | Kuvaus | Yritys/yhteisö | Tehtävä | Vastuut |Linkki |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Erkki Esimerkki | Ohjelmoija | Yritys X | Toteuttaa asiakkaan tavoitteet | Frontend-osa | [LinkedIn]() |
+| Mauri Mainio | Ohjelmoija | Yritys Y |Toteuttaa asiakkaan tavoitteet | Backend-osa | [LinkedIn]() |
+| ... | ... | ... | ... | [LinkedIn]() |
+
+## Kuva tiimistä
 
 
-![](https://openclipart.org/image/300px/svg_to_png/309644/1541381381.png)
-
-# Nimi
-
-![](https://openclipart.org/image/300px/svg_to_png/310624/1542815459.png)
+![](https://openclipart.org/image/400px/svg_to_png/18171/johnny-automatic-pirates.png)
 
 
-* Vastuut
+## Kotisivut
 
-# Nimi
-
-![](https://openclipart.org/image/300px/svg_to_png/310613/1542797915.png)
-
-* Vastuut
-
-# Nimi
-
-![](https://openclipart.org/image/300px/svg_to_png/310279/1542363453.png)
-
-* Vastuut
-
-# Nimi
-
-![](https://openclipart.org/image/300px/svg_to_png/179839/man-with-sleepy-face.png)
-
-* Vastuut
-
-# Nimi
-
-![](https://openclipart.org/image/300px/svg_to_png/6131/sas-face-1-colour.png)
-
-* Vastuut
+* [Tiimin kotisivut]()

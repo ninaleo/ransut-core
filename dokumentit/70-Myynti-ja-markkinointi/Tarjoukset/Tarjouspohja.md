@@ -3,27 +3,23 @@
 
 Tämä on esimerkki tarjouspohjasta, jota voi käyttää oman tuotteen kohdalla. 
 
-Alkuperäisen pohjan laatijat: 
-
-Elina Monthan, Tommi P, Aleksi L, Jarkko U ja Joonas V
-
-
 **Alkaa**
 
-# Tarjouksen vastaanottaja:	  Mr/MRs X, Company Oy
+# Tarjouksen vastaanottaja:	  xxxxx, Company Oy
 
-Viitaten tarjouspyyntöönne 6.9.2018 tarjoamme teille seuraavaa palvelutuotetta: 
+Viitaten tarjouspyyntöönne x.y.zzzz tarjoamme teille seuraavaa palvelutuotetta: 
 
 ## 1. Tarjouksen kohde ja hankintatilanne
 
-Totetutettvalla "OBSIMOX" – palvelulla tarkoitetaan tässä tapauksessa verkkopalvelua, joka käsittää seuraavat toiminnallisuudet:
+Totetutettvalla "XXXX" – ratkaisulla/palvelulla tarkoitetaan tässä tapauksessa kokonaisuutta, joka käsittää seuraavat toiminnallisuudet:
 
-* yritys voi äänestää kurssien merkityksellisyydestä [Feature 10]() sekä antaa palautetta [Feature 13]() 
+__Esimerkiksi__
+
+* Ominaisuus  [Feature 10]() sekä antaa palautetta [Feature 13]() 
 * oppilaitos voi lisätä kursseja [Feature 5]() , hallinnoida tilejä [Feature 12]() ja kerätä dataa yllä mainituista valinnoista [Feature 15]() + [Feature 18]()
 * opiskelija voi  tehdä kurssivalintoja oppilaitoksen asettamista kursseista [Feature 2]()
 
-**Tarkemmat ominaisuuskuvauset löytyvät [vaatimusmäärittelyssä]()**
-
+**Tarkempi kuvaus löytyy [vaatimusmäärittelyssä]()**
 
 ## 2. Tavoitteet, vaatimukset ja ehdotetut ratkaisut
 
@@ -35,10 +31,10 @@ MockUpin mukainen konsepti (liite 1)
 
 ###  Etapit:
 
-* [E1](https://gitlab.labranet.jamk.fi/TTOS0800-TTOS0900/amk-2020/-/milestones/12) Projektisopimuksen allekirjoitus  	12.10.2018
-* [E2](https://gitlab.labranet.jamk.fi/TTOS0800-TTOS0900/amk-2020/-/milestones/12) Päätestaussuunnitelma tehty 	7.11.2018
-* [E3](https://gitlab.labranet.jamk.fi/TTOS0800-TTOS0900/amk-2020/-/milestones/12) Koekäyttö		21.11.2018
-* [E4](https://gitlab.labranet.jamk.fi/TTOS0800-TTOS0900/amk-2020/-/milestones/12) Käyttöönotto		12.12.2018
+* [E1]() Projektisopimuksen allekirjoitus  	12.10.2018
+* [E2]() Päätestaussuunnitelma tehty 	7.11.2018
+* [E3]() Koekäyttö		21.11.2018
+* [E4]() Käyttöönotto	12.12.2018
 
 * Esitestisuunnitelma  (liite 3)
 * Systeemityömenetelmänä ketterä  Scrumban-malli
@@ -53,9 +49,6 @@ Kokonaishinta 81 000,00 € (sis. alv 24%), seuraavan aikataulun mukaisesti
 * E3	Hyväksyntätestaus	20 000,00	28.11.2018
 * E4	Käyttöönotto	20 000,00	19.12.2018
 * Maksun eräpäivä 7 vrk etapista
-
-
-
 
 ### Työn jakautuminen:
 
@@ -81,8 +74,8 @@ Kokonaishinta 81 000,00 € (sis. alv 24%), seuraavan aikataulun mukaisesti
 
 
 Allekirjoitukset
-5.10.2018
-El Alto Jajo
+x.x.xxxx
+
 
 XYZ 
 projektipäällikkö
@@ -90,7 +83,9 @@ projektipäällikkö
 
 ## LIITTEET
 
-Liite 1 	OBSIMO – MockUp Versio 1.0
+__esimerkkejä__
+
+Liite 1 	MockUp Versio käyttöliittymästä1.0
 Liite 2 	Projektisuunnitelma vaiheistus ja aikataulu
 Liite 3 	Vaatimusmääritelmä
 Liite 3     Esitestisuunnitelma

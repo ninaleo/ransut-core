@@ -1,5 +1,6 @@
 # Projektisuunnitelma pohja / sisältö
 
+
 1. Toimeksianto
 tausta ja lähtökohdat, tavoitteet ja tehtävät, rajaus ja liittymät, tulos
 
@@ -18,15 +19,14 @@ projektin aloitus, työtilat ja viestintävälineet, palaverikäytäntö ja yhte
 6. Projektin päättyminen
 luovutus, käyttöönotto, ylläpito, projektin aineiston taltiointi, arkistointi, loppuraportti, projektin virallinen päättäminen
 
+
 ## 1 Projektin ja lopputuotteen kuvaus
 
 ”Tässä dokumentissa kuvataan X-projektin taustaa, tavoitteita, tehtäviä, vaihejakoa, resursseja ja organisaatiota. Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.”
 
 ## 1.1 Tausta ja lähtökohdat
 
-
-Wimma Lab 2018-toiminnan tavoitteena on pyrkiä yhdistämään .... on Yritys Oy:n tarve kehittää” < kohdetta>… ”Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän <ZZPP0100 Työelämäosaajaksi kasvu> ‑opintojakson puitteissa. ”
-
+> Projektin tavoitteena on pyrkiä yhdistämään .... on tarve kehittää” < kohdetta>… ”Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän <TTOS2070> ‑opintojakson puitteissa. ”
 Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä tehtävä. Kohde kuvaa selkeällä tavalla, usein graafiseen esitykseen tukeutuen, millaisesta järjestelmäkokonaisuudesta tai toiminnasta on kyse, johon ollaan tekemässä nyt projektissa jotain osakokonaisuutta/täydennystä. Tässä siis kuvataan nykyjärjestelmää ja asiakkaan nykyistä toimintatapaa.
 
 ## 1.2 Tavoitteet ja tehtävät
@@ -43,7 +43,6 @@ Määritellään työn keskeisin sisältö tässä projektissa; projektin tehtä
 * Linkki tarvitavaan aineistoon vaatimusmäärittelyssä
 * Esitellään palvelukuvaus ja sen mahdollinen muutoskohteet projektin myötä
 
-
 ## 1.3 Rajaus ja liittymät
 
 Täsmennetään projektin tehtävää rajaamalla ulkopuolelle jäävät osat kohteena olevasta järjestelmästä tai kokonaishankkeesta.
@@ -51,8 +50,6 @@ Erikseen on syytä kuvata myös tehtävän suorittamista merkittävästi rajoitt
 ne tehtäväkokonaisuudet, jotka nyt tehtävään osioon tulevat vielä todennäköisesti jossain vaiheessa liittymään, mutta
 joita ei tämän projektin puitteissa kuitenkaan tulla toteuttamaan. Tyypillisiä tällaisia tehtäviä voisivat olla 
 mm. käyttöympäristön rakentaminen ja koulutus. Muina rajauksina voisi olla esim. ohjelmiston käyttöliittymässä käytettävä kieli.
-
-Huom.: Projektiopintojakson aikana toteutettavalla projektilla ei saisi olla tiukkoja aikataulullisia liittymiä muihin toimeksiantajan projekteihin
 
 ## 1.4 Oikeudet
 
@@ -63,6 +60,12 @@ Huom.: Projektiopintojakson aikana toteutettavalla projektilla ei saisi olla tiu
 Tässä kappaleessa esitellään projektisuunnitelmassa esiintyvät määritelmät, termit ja lyhenteet. Esimerkiksi eri projekteissa saattaa sanoilla "tarkastus" ja "katselmointi" olla eri merkitys ja tämä voi aiheuttaa väärinkäsityksiä. Joskus saattaa olla paikallaan sopia eri nimityksiä ryhmän tarkastuksille (oma sisäinen, asiakkaan kanssa, opintojakson suuntaan). Lyhenteet kannattaa avata alkuperäiskielelle ja lisätä lyhyt kuvaus suomeksi. Esimerkiksi CASE = Computer aided software engineering, tietokoneavusteinen systeemityö.
 
 # 2. Projektiorganisaatio
+
+* Tähän voidaan sijoittaa [projektiorganisaation sidosryhmäkartta]()
+ 
+
+
+
 
 ## 2.1 Organisaation esittely
 
@@ -107,18 +110,18 @@ Huom.: Seuraavassa on esitetty käynnistys- ja lopetusvaiheet. Kaikista projekti
 
 Käynnistys p.k.vvvv – p.k.vvvv (X h)
 
-* [Sprint 0-?]()
-
 Projektin käynnistämiseen kuuluu olennaisesti projektisuunnittelu ja suunnitteludokumenttien laatiminen sekä yhteydenpitokäytänteiden luominen toimeksiantajayrityksen kanssa. Vaiheen aikana tehdään esim. ryhmän webbisivut, tutustutaan tarkemmin toimeksiantoon, aloitetaan kohdealueeseen perehtyminen ja laaditaan projektisuunnitelma yhteistyössä toimeksiantajan edustajien kanssa. Vaiheen aikana muodostetaan johtoryhmä, pidetään 1. johtoryhmän kokous sekä allekirjoitetaan projektisopimus.
 ”Vaiheen tuloksia ovat ryhmän imagon (nimi, logo ym.) luominen, webbisivut tms. sekä projektisopimus liitteineen.”
 
 <Tähän oman projektinne vaiheet ja tehtävät>
 
-* [Sprint 0-?]()
-* [Sprint 0-?]()
-* [Sprint 0-?]()
-* [Sprint 0-?]()
-* [Sprint 0-?]()
+
+* [Etappi 0]()
+* [Etappi 1]()
+* [Etappi 2]()
+* [Etappi 3]()
+* [Etappi 4]()
+
 
 Lopetus p.k.vvvv – p.k.vvvv (X h)
 
