@@ -1,6 +1,5 @@
-# Projektiryhmän esittely
+# Tiimiesittely
 
-## Tiimin Kuvaus
 
 Kerro tiimistä ja sen osaamisista projektin kannalta? Hieman tausta, jos tarpeen etc.
 
