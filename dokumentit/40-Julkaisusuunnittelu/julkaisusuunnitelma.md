@@ -6,11 +6,11 @@ Kannattaa siirt채채/linkitt채채 vaatimusm채채rittelyss채 kuvatut ominaisuudet t�
 
 | Ominaisuus | Prioriteetti |
 |:-:|:-:|:-:|
-| [Feature 1]() | |1|
-| [Feature 2]() | |2|
-| [Feature 3]() | |3|
-| [Feature 4]() | |1|
-| [Feature 5]() | |2|
+| [Toiminnallisuus/Ominaisuus 1]() |1|
+| [Toiminnallisuus/Ominaisuus 2]() |1|
+| [Toiminnallisuus/Ominaisuus 3]() |1|
+| [Toiminnallisuus/Ominaisuus 4]() |1|
+| [Toiminnallisuus/Ominaisuus 5]() |1|
 
 
 
