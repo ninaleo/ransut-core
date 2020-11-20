@@ -3,7 +3,7 @@ site_url: http://jamkit.pages.labranet.jamk.fi/templates/mkdocs-jamk-themed
 site_description: Example Course
 site_author: Firstname Lastname / JAMK IT
 
-docs_dir: docs
+docs_dir: dokumentit
 site_dir: public
 
 markdown_extensions:
