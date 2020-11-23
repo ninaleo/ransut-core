@@ -1,6 +1,6 @@
 # Tuntikirjaukset
 
-![](https://openclipart.org/image/300px/svg_to_png/253205/project_manager.png&disposition=attachment)
+![](https://openclipart.org/image/800px/324819)
 
 Upotetaan tähän EXCEL?
 
