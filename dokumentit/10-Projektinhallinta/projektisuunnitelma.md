@@ -192,12 +192,11 @@ Linkit katselmointipöytäkirja pohjiin
 
 Tässä kohdassa mainitaan, mitä täydentäviä suunnitelmia on käytettävissä tai aiotaan projektin kuluessa laatia (esim. viestintä-, riskienhallinta-, testaus- ja käyttöönottosuunnitelma).
 
-* [Projektisopimus]()
+* [Projektisopimus](..//10-Projektinhallinta/projektisuunnitelma.md)
 * [Vaatimusmäärittely](../20-Vaatimustenhallinta/vaatimusmaarittely.md)
-* [Muu annettu dokumentaatio]()
 * [Viestintäsuunnitelma](..//10-Projektinhallinta/viestintasuunnitelma.md)
 * [Riskihallintasuunnitelma](../10-Projektinhallinta/riskihallinta-suunnitelma.md)
-
+* [Muu annettu dokumentaatio]()
 
 
 ##4.7 Suunnitelmien tarkistus- ja päivitysajankohdat 
