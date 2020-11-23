@@ -57,14 +57,6 @@ Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä te
 * Tähän voidaan sijoittaa [projektiorganisaation sidosryhmäkartta]()
 
 
-```plantuml
-[*] --> Ratkaisu_tai_tuotos
-Ratkaisu_tai_tuotos -- Sidosryhma1
-Ratkaisu_tai_tuotos -- Sidosryhma2
-Ratkaisu_tai_tuotos -- Sidosryhma3
-Ratkaisu_tai_tuotos -- Sidosryhma4
-Ratkaisu_tai_tuotos -- Sidosryhma5
-```
 
 
 ## 2. Projektiorganisaatio 
