@@ -12,9 +12,11 @@
 
 * versio 0.x 
 
+
+
 **Testin kuvaus / tavoite**
 
-* Kuvaus
+Hyväksyntä testissä voidaan rajata suoritus esim. valittujen käyttötapauksien pohjalta,
 
 **Linkit vaatimuksiin tai muihin lähteisin**
 
@@ -24,29 +26,25 @@
 
 **Testin alkutilanne (Pre-state)** 
 
-* Alkutilanne
 
 **Testiaskeleet (Test Steps)**
 
-Hyväksyntä testissä voidaan rajata suoritus esim. valittujen käyttötapauksien pohjalta
-
-Suoritetaan Use Case 1, 2 ja 17
+| Askel | Mitä pitää tarkistaa | Huomioitavaa |
+|:-:|:-:|:-:|
+| Askel1 | Tarkista, että... | Katso myös... |
+| Askel2 | Tarkista, että... | Katso myös.. |
+| Askel3| Tarkista, että... | Katso myös.. |
+| Askel4 | Tarkista, että... | Katso myös.. |
 
 **Testin lopputilanne (End-State)**
 
-
-* Mitä tapahtuu testin ajon jälkeen
-
-
-
-**Huomioitava testin aikana**
-
-* Huomio 1
-* Huomio 2
-
+Mitä tapahtuu testin ajon jälkeen
 
 **Testin "tuomio"/tulos (Pass/Fail Criteria)**
 
+Millä perusteella voidaan testin tulos hyväksyä? 
+
+PASS/FAIL Kriteerit:  
 
 * PASS ehto? 
 * FAIL ehto ?
