@@ -1,6 +1,6 @@
-# Ohjelmiston arkkitehtuuri ja tekniset ratkaisut
+# Ohjelmistoarkkitehtuuri
 
-https://openclipart.org/image/400px/svg_to_png/290580/dogskeleton.png
+![](https://openclipart.org/image/400px/svg_to_png/290580/dogskeleton.png)
 
 Tämä dokumentti on "elävä"-dokumentti, joka päivittyy jatkuvasti. Se on nykymuodossaan vain karkea runko, jota "voi" käyttää projektien teknisen dokumentoinnin pohjana. Rakennetta saa ja pitää muokata! Tavoitteena on luoda dokumentti, joka yhdistää suunnitteludokumentaation saumattomasti yhteen projektin muun dokumentaation kanssa. Tekijä ei ota mitään vastuuta dokumentin sisällöstä.
 
