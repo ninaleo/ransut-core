@@ -1,20 +1,16 @@
-# Hyväksyntätestin -pohja
-
-[![](http://img.youtube.com/vi/YQ9rZBOMs6g/0.jpg)](http://www.youtube.com/watch?v=YQ9rZBOMs6g "")
-
+# Hyväksyntätesti (Anna kuvaava nimi)
 
 | | |
 |:-:|:-:|
 | Testitapauksen kuvaus | Kelpuutetaan asiakkaalla skenaario...   |
 | Testitapaus ID | XXXX |
 | Testitapauksen suunnittelija | XXXXX XXX | 
-| Testitapauksen hyväksyjä: | XXXXX XXX |
 | Luontipvm | X.Y.ABCD |
 | Luokitus | Hyväksyntätesti / Acceptance Test |
 
 **Päivityshistoria**
 
-* versio 0.1 
+* versio 0.x 
 
 **Testin kuvaus / tavoite**
 
