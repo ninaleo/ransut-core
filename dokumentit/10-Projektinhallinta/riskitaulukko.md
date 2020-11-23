@@ -19,7 +19,7 @@ __Kirjataan alla olevaan taulukkoon projektiin kohdistuvat riskit ja pidetään 
 | RISXX | | | | |
 | RISXX | | | | |
 
-### Vakauvuusluokka ja todennäköisyys
+## Vakauvuusluokat ja todennäköisyydet
 
 **Vakavuusluokka kannattaa määritellä projektille sopivalla tavalla**
 
@@ -30,6 +30,8 @@ __Kirjataan alla olevaan taulukkoon projektiin kohdistuvat riskit ja pidetään 
 | V3 | Normaali, tarkkaillaan  || 
 | V4 | Mahdollinen, tarkkailtava || 
 | V5 | Ei haittaa, mutta tarkkailaan || 
+
+**Todennäköisyys**
 
 | Todennäköisyys | Taso | 
 |:-:|:-:|
