@@ -113,10 +113,10 @@ luovutus, käyttöönotto, ylläpito, projektin aineiston taltiointi, arkistoint
 
 ```plantuml
 Project starts the 2021-5-15
-[Projekti aktiivinen] Starts 2021-5-15 and ends 2021-7-30 
+[Projekti aktiivinen] Starts 2021-5-15 and ends 2021-7-15 
 [Vaihe1] Starts 2021-5-15 and ends 2021-5-20
 [Vaihe2] Starts 2021-5-20 and ends 2021-6-5
-[Vaihe3] Starts 2021-6-5 and ends 2021-7-30
+[Vaihe3] Starts 2021-6-5 and ends 2021-7-15
 ```
 
 
