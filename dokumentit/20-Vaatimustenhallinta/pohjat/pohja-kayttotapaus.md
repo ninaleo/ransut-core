@@ -26,12 +26,11 @@ Hallinto_1 -- (Tilauksen muokkaus)
 
 **Käyttötapauksen kuvaus**
 
-1. askel
-2. askel
-3. askel
-4. askel
-5. askel
-6. askel
+| Askel | Tavoite | Huomio |
+| 1. | Asiakas avaa ... | Huomaa, että |
+| 2. | -  | -  | 
+| 3. | -  | -  | 
+| 4. | -  | -  | 
 
 **Poikkeukset**
  
