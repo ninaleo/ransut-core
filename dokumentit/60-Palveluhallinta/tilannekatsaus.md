@@ -7,9 +7,19 @@ Tarvittaessa johdatetaan mahdollinen testikäyttäjä toimimaan oikeaan suuntaan
 
 # Tuotannon metrikkaa
 
+* Kävijämäärä?
+* Asiakkaat?
+* Mahdolliset asiakkaat?
 * Käytössä olevat palvelimet
-* Käyttöaste
+* Palvelimien käyttöaste
 * Kulut ?
+
+## Uhkia ja mahdollisuuksia
+
+* Tietoturva "ilmasto"
+
+
+## Tarpeita tulevalle?
 
 
 ## Asiakkaat ja oleellinen
