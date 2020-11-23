@@ -1,4 +1,4 @@
-# TUOTANTO
+# Palvelutuotannon tilannekatsaus
 
 ![](https://openclipart.org/image/300px/svg_to_png/281557/lavagna.png)
 
@@ -21,3 +21,6 @@ Eli jos haluaa näyttää koodista valikoituja osia, niin linkki tähän...
 
 Tiimin kotisivu? etc
 
+![](https://openclipart.org/image/400px/svg_to_png/138289/Cartoon-monster3.png)
+
+Vielä vaiheessa!
