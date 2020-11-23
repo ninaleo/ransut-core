@@ -1,38 +1,25 @@
 # Tuntikirjaukset
 
-![](https://openclipart.org/image/800px/324819)
+![](https://openclipart.org/image/400px/svg_to_png/324819/studying-boy-and-girl.png)
+
+
+## EXCEL-muoto
 
 Upotetaan tähän EXCEL?
 
 <iframe width="402" height="346" frameborder="0" scrolling="no" src="https://jamkstudent.sharepoint.com/sites/OpenProjectPlatform/_layouts/15/Doc.aspx?sourcedoc={1dacc3b5-7771-4578-8025-6ea524406f6b}&action=embedview&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
 Tuntikirjaukset ja kulut projektissa XXXXX
 
-### NakkeNakuttaja 1
+**Tuntikirjaukset**
 
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|:-:|
-| NakkeNakuttaja1 | 1.1.2018 | 7.25h | Suunnittelua 4h, toteutettu 3,25h |
-| NakkeNakuttaja1| 2.1.2018 | 7.25h |
-| NakkeNakuttaja1 | 3.1.2018 | 7.25h |
-| NakkeNakuttaja1 | 4.1.2018 | 7.25h |
-| NakkeNakuttaja1 | 5.1.2018 | 7.25h |
+| Nimi | x.x.202x | 1h | Tehtävä |
+| Nimi | x.x.202x | 1h | Tehtävä |
+| Nimi | x.x.202x | 1h | Tehtävä |
+| Nimi | x.x.202x | 1h | Tehtävä |
 
-Yhteensä:36,5h
-
-### NakkeNakuttaja 2
-
-
-| Tekijä | Päivämäärä | Tunnit |
-|:-:|:-:|:-:|
-| NakkeNakuttaja2 | 1.1.2018 | 7.25h |
-| NakkeNakuttaja2 | 2.1.2018 | 7.25h |
-| NakkeNakuttaja2 | 3.1.2018 | 7.25h |
-| NakkeNakuttaja2 | 4.1.2018 | 7.25h |
-| NakkeNakuttaja2 | 5.1.2018 | 7.25h |
-
-Yhteensä:36,5h
-
-### Hankinnat projektille
+**Muut kulut**
 
 | Hankinnatä | Päivämäärä | Hinta |
 |:-:|:-:|:-:|
@@ -44,7 +31,7 @@ Yhteensä:36,5h
 Yhteensä: 40€  
 
 
-### Projektin kokonaiskulut 5.1.2018
+**Projektin kokonaiskulut 5.1.2018**
 
 | Kuluerä | määrä |  hinta a | Yhteensä |
 |:-:|:-:|:-:|:-:|
