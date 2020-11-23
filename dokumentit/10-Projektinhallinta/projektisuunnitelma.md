@@ -109,6 +109,23 @@ luovutus, käyttöönotto, ylläpito, projektin aineiston taltiointi, arkistoint
 
 ## 3.1 Osittaminen ja vaiheistus
 
+## Julkaisusuunnitelma PlantUML-muodossa
+
+```plantuml
+Project starts the 2021-5-15
+[Projekti kaynnissa] Starts 2021-5-15 and ends 2021-9-30 
+[Vaatimukset] Starts 2021-5-15 and ends 2021-6-15
+[Suunnittelu] Starts 2019-5-25 and ends 2019-6-15
+[Toteutus] Starts 2019-5-25 and ends 2019-7-1
+[Hyväksyntätestaus] Starts 2019-6-15 and ends 2019-7-15
+[Luovutus] Starts 2019-6-25 and ends 2019-7-20
+[Lopetus] Starts 2019-6-1 and ends 2019-7-21
+[Accceptance Testing ] Starts 2019-7-21 and ends 2019-7-23
+```
+
+
+
+
 > Projektin osittamisella tarkoitetaan projektin jakamista selkeisiin osakokonaisuuksiin ja niitä vastaaviin toteutuskokonaisuuksiin (osaprojekteihin, vaiheisiin, tehtäväkokonaisuuksiin ja tehtäviin). > > Tutkimus- ja kehitysprojektien etenemiselle on tyypillistä lopputuloksen muodostuminen ja tavoitteen tarkentuminen vaihe vaiheelta. Projektin osituksen tulee perustua tähän lähtökohtaan (koskee myös > > IT-instituutin opiskelijaprojekteja). 
 
 Projektin elinkaari voidaan jakaa erityyppisiin vaiheisiin. Kussakin vaiheessa tuotetaan määrätyt tuotteet, kuten selvitys, suunnitelmat, prototyyppi, laite jne. Kunkin vaiheen loppuun sovitaan arviointi, hyväksyntä tai katselmointi.
