@@ -1,13 +1,12 @@
-# Testitapaus:
+# Testitapaus: (Anna kuvaus testille)
 
 
 | | |
 |:-:|:-:|
-| Testitapauksen kuvaus | Tarkistetaan, onko testattava kohde toteutettu suunnitelmien mukaan   |
 | Testitapaus ID | TCXXX |
 | Testitapauksen suunnittelija | XXXX XXX | 
 | Luontipvm | X.Y.ABCD |
-| Luokitus | Toiminnallinen/suorituskyky/käytettävyys/tietoturva ? |
+| Luokitus | esim: toiminnallinen/suorituskyky/saavutettavuus/tietoturva |
 
 **Testin kuvaus / tavoite**
 
