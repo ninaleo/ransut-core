@@ -1,26 +1,34 @@
 # Testitulokset
 
-Tähän sivulle voi koostaa tulokset, jotka on saatu viimeisimmistä testeistä, tai johdattaa
-dokumentaation lukija oikeisiin lähteisiin.
+> Tähän sivulle koostetaa testauksen tulokset eri testaus osa-alueilta. 
+> Kannattaa lisätä myös tarpeellisen dokumentaation linkit.
+
+** Tärkeimmäit osa-alueet:**
+
+* Toiminnalliset testit
+* Suorituskykytestit
+* Tietoturvatestet
+* Saavutettavuustestit
+
+## Viralliset suunnitelmat
 
 * [Yleistestaus-suunnitelma]()
-* [Testikokoelma]()
+* [Julkaisusuunnitelma]()
+* [Testisuunnitelma]()
 
-* [Esimerkki tuloksista](https://195.148.22.11/testlink/lib/results/printDocument.php?apikey=6410f0b996d935198d068aacae59d5e8f4baef82d5386c60954f5d764132cb47&type=test_report&level=testproject&tproject_id=1&tplan_id=771&header=y&summary=y&toc=y&body=y&passfail=y&cfields=y&metrics=y&author=y&requirement=y&keyword=y&notes=y&headerNumbering=y&format=0)
+## Tuloksia 
 
-## Tulokset 
+* Viimeisimmät testit on ajettu [Testikohteen konfiguraatio]() versioilla:  x.y.202Z
 
-* Viimeisimmät testit on ajettu versioilla: XXX.XXX.XXX
 
-## Tulosten upotus esimerkki (Lähde. Testlink)
+**Hyväksyntätestaus**
+
+* Asiakkaan hyväksyntätestit suoritettu 0/15 kpl
+
+
+**Toiminnalliset testit**
 
 ![](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/raw/master/dokumentit/50-Testaushallinta/Results-demo.PNG?inline=false)
-
-## Hyväksyntätestaus
-
-* TBD
-
-## Järjestelmätestaus:
 
 * Toiminnnalliset testejä ajettu X kpl
 * Ei-toiminnallisia testejä ajettu Y kpl
@@ -30,14 +38,15 @@ dokumentaation lukija oikeisiin lähteisiin.
 * Raportoideut viat/bugit #1, #2, #123 
 * Linkki ?
 
-### Suorituskyky (Performance)
+**Suorituskyky (Performance)**
 
 * TBD
 
-### Tietoturva (Security) 
+**Tietoturva (Security)** 
 
 * TBD
 
-### Kuormitus (Load)
+**Saavutettavuus (Availability)**
 
 * TBD
+
