@@ -1,8 +1,5 @@
 # Projektin loppuraportti
 
-[![](https://i.ytimg.com/vi/ovEr1fBB7kU/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBn8onqOvY-j6AbsUazWUWsp1zQ8g)](https://www.youtube.com/watch?v=ovEr1fBB7kU&list=PLOyRnRI1_Cl47Q6tiFByWSVBialcz_bxp&index=7)
-
-
 # 1.	JOHDANTO	
 Loppuraportissa tulee ensisijaisesti vastata kysymyksiin: mitä ja miten tehtiin, miksi tehtiin, missä onnistuttiin, mikä meni pieleen, miksi ja miten ongelmat ratkaistiin ja mitä itse asiassa opittiin.
 Kerro johdannossa aluksi lyhyesti mihin projektiin tämä dokumentti liittyy, mitä osapuolia projektissa oli mukana (projektin organisaatio) ja mikä on tämän dokumentin tarkoitus ja sisältö.
