@@ -58,11 +58,11 @@ Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä te
 
 ```plantuml
 [*] --> tuotos
-tuotos -- Sidosryhma1
-tuotos -- Sidosryhma2
-tuotos -- Sidosryhma3
-tuotos -- Sidosryhma4
-tuotos -- Sidosryhma5
+tuotos --> Sidosryhma1
+tuotos --> Sidosryhma2
+tuotos --> Sidosryhma3
+tuotos --> Sidosryhma4
+tuotos --> Sidosryhma5
 ```
 
 
