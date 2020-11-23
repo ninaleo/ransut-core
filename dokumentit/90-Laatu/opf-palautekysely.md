@@ -1,5 +1,6 @@
-# Palautekysely OPF
+# Open Project Framework -palautekysely 
 
+![](https://openclipart.org/image/400px/svg_to_png/286038/Neutral_Smiley_-_White.png)
 
 > Kyselyssä pyydetään vastaamaan Open Project Framework-kehikon käyttöön liittyviin kysymyksiin. Voit vastata aina kun sinulle sopii 
 
