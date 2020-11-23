@@ -24,13 +24,6 @@ Palvelun tuotanto versio löytyy osoitteesta https://X.Y.Z.4:1234
 
 
 
-
-
-
-## Muuta oleellista?
-
-Tiimin kotisivu? etc
-
 ![](https://openclipart.org/image/400px/svg_to_png/138289/Cartoon-monster3.png)
 
 Vielä vaiheessa!
