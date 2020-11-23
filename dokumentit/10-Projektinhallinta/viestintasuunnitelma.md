@@ -1,5 +1,7 @@
 # Viestintäsuunnitelma
 
+![](https://openclipart.org/image/400px/svg_to_png/19234/johnny-automatic-birds-talking.png)
+
 #	Johdanto
 
 Tämä viestintäsuunnitelman tarkoituksena on määritellä X projektin yhteydessä käytetyt viestintämenetelmät ja  kanavat. Selkeällä ja yhdenmukaisella viestinnällä varmistetaan informaation kulku ja vaikutetaan projektin laatutavoitteiden toteutumiseen.
