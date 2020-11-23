@@ -26,6 +26,7 @@ Kayttaja -- (Tilauksen muokkaus)
 **Käyttötapauksen askelkuvaus**
 
 | Askel | Tavoite | Huomio |
+|:-:|:-:|:-:|
 | 1. | Asiakas avaa ... | Huomaa, että P1 |
 | 2. | Ohjaaja nostaa ..  | -  | 
 | 3. | Kayttja painaa..  | -  | 
