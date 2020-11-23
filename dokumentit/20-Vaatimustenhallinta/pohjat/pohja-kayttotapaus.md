@@ -1,27 +1,18 @@
 # Käyttötapaus: (Nimeä asianmukaisesti)
 
-## Use Case 
+* Mitä käyttötapauksella tavoitellaan
 
-Tähän on hyvä liittää näkymä valitusta asiaan liittyvistä käyttötapauskuvauksesta. 
 
+* Laatija: Nimi
+* Prosessiosa-alue: 
+
+> Päivitä kuvaus asianmukaiseksi
 
 ```plantuml
 Tilaaja -- (Tilauksen muokkaus)
 Hallinto_1 -- (Tilauksen muokkaus)
 ```
 
-Yllä PlantUML esimerkki, joka pitää muokata asianmukaiseksi ..
-
-__Tsekkaa video ja poista linkki, jos homma selvä__
-
-[![](http://img.youtube.com/vi/BjQAWfBMpcw/0.jpg)](http://www.youtube.com/watch?v=BjQAWfBMpcw "")
-
-
-
-* Laatija:
-* Päiväys / Versio?.
-* Prosessiosa-alue?
-	
 **Käyttäjäroolit**	
 
 1. rooli?
