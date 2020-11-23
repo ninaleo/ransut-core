@@ -5,19 +5,21 @@
 
 ## EXCEL-muoto
 
-Upotetaan tähän EXCEL?
+> Tuntikirjaukset voi tehdä esim EXCEL-taulukkona ja liittää dokumentti lähteenä tähän verkkosivulle
 
 <iframe width="402" height="346" frameborder="0" scrolling="no" src="https://jamkstudent.sharepoint.com/sites/OpenProjectPlatform/_layouts/15/Doc.aspx?sourcedoc={1dacc3b5-7771-4578-8025-6ea524406f6b}&action=embedview&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
 Tuntikirjaukset ja kulut projektissa XXXXX
+
+## Tehdyt Tunnit
 
 **Tuntikirjaukset**
 
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|:-:|
-| Nimi | x.x.202x | 1h | Tehtävä |
-| Nimi | x.x.202x | 1h | Tehtävä |
-| Nimi | x.x.202x | 1h | Tehtävä |
-| Nimi | x.x.202x | 1h | Tehtävä |
+| A-tekijä | x.x.202x | 1h | Tehtävä |
+| B-Tekijä | x.x.202x | 1h | Tehtävä |
+| A-tekijä | x.x.202x | 1h | Tehtävä |
+| B-tekijä | x.x.202x | 1h | Tehtävä |
 
 **Muut kulut**
 
