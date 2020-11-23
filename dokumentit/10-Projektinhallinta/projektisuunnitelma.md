@@ -58,8 +58,8 @@ Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä te
 
 
 ```plantuml
-[*] --> Tuote
-Tuote --> Ratkaisu_tai_tuotos
+[*] --> Projekti
+Projekti --> Ratkaisu_tai_tuotos
 Ratkaisu_tai_tuotos --> Sidosryhma1
 Ratkaisu_tai_tuotos --> Sidosryhma2
 Ratkaisu_tai_tuotos --> Sidosryhma3
