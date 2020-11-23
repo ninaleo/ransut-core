@@ -56,6 +56,15 @@ Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä te
 
 * Tähän voidaan sijoittaa [projektiorganisaation sidosryhmäkartta]()
 
+```plantuml
+[*] --> tuotos
+tuotos -- Sidosryhma1
+tuotos -- Sidosryhma2
+tuotos -- Sidosryhma3
+tuotos -- Sidosryhma4
+tuotos -- Sidosryhma5
+```
+
 
 
 
