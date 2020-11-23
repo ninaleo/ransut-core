@@ -1,17 +1,15 @@
 # Projektisuunnitelma
 
-**Sisältö**
 
 ## 1. Toimeksianto 
 
-* Tausta ja lähtökohdat
-* tavoitteet ja tehtävät
-* rajaus ja liittymät
-* tulos
+>Kuvataan toimeksiantoa lyhyesti johdannon muodossa.  Tarpeen mukaan ohjataan lukijaa tarkastelemaan vaatimusmäärittelydokumentti, jos se toimeksiannon kannalta oleellista.
 
 ## 1 Projektin ja lopputuotteen kuvaus
 
-> ”Tässä dokumentissa kuvataan X-projektin taustaa, tavoitteita, tehtäviä, vaihejakoa, resursseja ja organisaatiota. Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.”
+* Mikä on tavoite tila tai ratkaisu?
+
+> Tähän voidaan liittää lähteeksi vaatimusmäärittely
 
 ## 1.1 Tausta ja lähtökohdat
 
@@ -20,25 +18,26 @@ Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä te
 
 ## 1.2 Tavoitteet ja tehtävät
 
+
 * Tuottaa ratkaisu mihin ?
 * Tuottaa toimiva demo (Proof Of Concept)
+* Aikataulu ja yleinen eteneminen
+> ”Tässä dokumentissa kuvataan X-projektin taustaa, tavoitteita, tehtäviä, vaihejakoa, resursseja ja organisaatiota. Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.”
 > Määritellään työn keskeisin sisältö tässä projektissa; projektin tehtävä liittyy projektin kohteessa kuvattuun kokonaisuuteen. 
 * Mitä aiotaan tehdä?> / < Mitä toimintaa aiotaan kehittää ja miten?>
 > Visio tulevasta tilasta> / < Mikä on tuotettava lopputulos (konkreettinen)?> / < Mitkä ovat osa- tai välitulokset?>
 *  Kenelle tulos tuotetaan?>
-
 ”Projektiryhmän tehtävänä on pitää eri tahot tietoisina projektin tilanteesta. Kunkin vaiheen päätyttyä laaditaan vaiheraportti, jonka avulla johtoryhmälle tiedotetaan projektin edistymisestä.”
-
 * Linkki tarvitavaan aineistoon vaatimusmäärittelyssä
 * Esitellään palvelukuvaus ja sen mahdollinen muutoskohteet projektin myötä
 
 ## 1.3 Rajaus ja liittymät
 
-Täsmennetään projektin tehtävää rajaamalla ulkopuolelle jäävät osat kohteena olevasta järjestelmästä tai kokonaishankkeesta.
-Erikseen on syytä kuvata myös tehtävän suorittamista merkittävästi rajoittavat ulkoiset tekijät. Tässä myös täsmennetään
-ne tehtäväkokonaisuudet, jotka nyt tehtävään osioon tulevat vielä todennäköisesti jossain vaiheessa liittymään, mutta
-joita ei tämän projektin puitteissa kuitenkaan tulla toteuttamaan. Tyypillisiä tällaisia tehtäviä voisivat olla 
-mm. käyttöympäristön rakentaminen ja koulutus. Muina rajauksina voisi olla esim. ohjelmiston käyttöliittymässä käytettävä kieli.
+>Täsmennetään projektin tehtävää rajaamalla ulkopuolelle jäävät osat kohteena olevasta järjestelmästä tai kokonaishankkeesta. 
+Erikseen on syytä kuvata myös tehtävän suorittamista merkittävästi rajoittavat ulkoiset tekijät. Tässä myös täsmennetään ne 
+tehtäväkokonaisuudet, jotka nyt tehtävään osioon tulevat vielä todennäköisesti jossain vaiheessa liittymään, mutta joita ei 
+tämän projektin puitteissa kuitenkaan tulla toteuttamaan. Tyypillisiä tällaisia tehtäviä voisivat olla mm. käyttöympäristön
+rakentaminen ja koulutus. Muina rajauksina voisi olla esim. ohjelmiston käyttöliittymässä käytettävä kieli.
 
 ## 1.4 Oikeudet
 
@@ -109,30 +108,27 @@ Seuraavassa käydään jokainen vaihe, niiden vaatimat aikaresurssit ja tulokset
 
 Huom.: Seuraavassa on esitetty käynnistys- ja lopetusvaiheet. Kaikista projektin vaiheista, niiden kestoista ja työmääristä laaditaan myös nk. Gantt-kaavio (liitteenä), jossa näkyy myös vaiheiden väliset riippuvuudet ja tärkeimmät etapit (esim. johtoryhmän kokouspäivämäärät).
 
-Käynnistys p.k.vvvv – p.k.vvvv (X h)
+**Käynnistys p.k.vvvv – p.k.vvvv (X h)**
 
 Projektin käynnistämiseen kuuluu olennaisesti projektisuunnittelu ja suunnitteludokumenttien laatiminen sekä yhteydenpitokäytänteiden luominen toimeksiantajayrityksen kanssa. Vaiheen aikana tehdään esim. ryhmän webbisivut, tutustutaan tarkemmin toimeksiantoon, aloitetaan kohdealueeseen perehtyminen ja laaditaan projektisuunnitelma yhteistyössä toimeksiantajan edustajien kanssa. Vaiheen aikana muodostetaan johtoryhmä, pidetään 1. johtoryhmän kokous sekä allekirjoitetaan projektisopimus.
 ”Vaiheen tuloksia ovat ryhmän imagon (nimi, logo ym.) luominen, webbisivut tms. sekä projektisopimus liitteineen.”
 
 <Tähän oman projektinne vaiheet ja tehtävät>
 
+* [Etappi 0](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/2)
+* [Etappi 1](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/3)
+* [Etappi 2](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/4)
+* [Etappi 3](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/5)
+* [Etappi 4](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/6)
 
-* [Etappi 0]()
-* [Etappi 1]()
-* [Etappi 2]()
-* [Etappi 3]()
-* [Etappi 4]()
 
-
-Lopetus p.k.vvvv – p.k.vvvv (X h)
+**Lopetus p.k.vvvv – p.k.vvvv (X h)**
 
 ”Lopettamisvaihe sisältää projektin päättämiseen liittyvät toimenpiteet. Vaiheen aikana projektiryhmä laatii projektin loppuraportin ja esityksen johtoryhmälle. Vaiheen aikana luovutetaan projektin tulos toimeksiantajalle, pidetään viimeinen johtoryhmän kokous viikolla X sekä puretaan projektin organisaatio. Lopettamisvaiheen tuloksena on projektin loppuraportti.”
 
 ## 3.2 Projektin alustavat kustannusarvio
 
 <iframe width="402" height="346" frameborder="0" scrolling="no" src="https://jamkstudent.sharepoint.com/sites/OpenProjectPlatform/_layouts/15/Doc.aspx?sourcedoc={ed6e7d24-77a1-4b0a-abf5-e26a48846387}&action=embedview&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
-
-
 
 
 # 4. Laadunvarmistus
@@ -174,7 +170,7 @@ Linkit katselmointipöytäkirja pohjiin
 
 Tässä kohdassa mainitaan, mitä täydentäviä suunnitelmia on käytettävissä tai aiotaan projektin kuluessa laatia (esim. viestintä-, riskienhallinta-, testaus- ja käyttöönottosuunnitelma).
 
-* Vaatimusmäärittely?
+* [Vaatimusmäärittely](dokumentit/20-Vaatimustenhallinta/vaatimusmaarittely.md)
 * Riskienhallintasuunnitelma
 * Asiakkaan antama dokumentaatio?
 * Viranoimaislähteet?
