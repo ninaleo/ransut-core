@@ -1,6 +1,6 @@
 # Palvelutuotannon tilannekatsaus
 
-![](https://openclipart.org/image/300px/svg_to_png/281557/lavagna.png)
+![](https://openclipart.org/image/400px/svg_to_png/185842/cocktail-waiter-frame.png)
 
 Tämän sivun avulla kerrotaa palvelusta lyhyesti tai ohjataan oleellisiin dokumentteihin.
 Tarvittaessa johdatetaan mahdollinen testikäyttäjä toimimaan oikeaan suuntaan :)
