@@ -1,4 +1,9 @@
-# Vaatimusmäärittely runko
+# Vaatimusmäärittely
+
+
+![](https://openclipart.org/image/400px/svg_to_png/3051/ryanlerch-flight-simulator-plan.png)
+
+
 
 > Täydennä seuraavat kentät! 
 
@@ -6,8 +11,6 @@
 * Nimimerkkisi/gitlab tunnus
 * Dokumentin versionumero X.Y
 * Vaatimusmäärittely pohjan versio 2.1 - 17.09.2020 (NarsuMan)
-
-![](https://openclipart.org/image/400px/svg_to_png/3051/ryanlerch-flight-simulator-plan.png)
 
 ## Ohjeita määrittelytyön tekijälle
 
