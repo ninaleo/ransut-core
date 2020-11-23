@@ -1,7 +1,4 @@
-# Ominaisuus:
-
-[![](http://img.youtube.com/vi/45aSdlg6NK0/0.jpg)](http://www.youtube.com/watch?v=45aSdlg6NK0 "")
-
+# Ominaisuus/toiminnallisuus : (Anna kuvaava nimi)
 
 | | |
 |:-:|:-:|
