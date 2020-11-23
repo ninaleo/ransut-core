@@ -34,18 +34,17 @@
 | Testiaskel | Tapahtuma | Tarkista | Muuta |
 |:-:|:-:|:-:|:-:|
 | 1. | Avaa.... | Onko | |
-| 2. | Paina..  |  | |
-| 3. | Raahaa.. | | |
+| 2. | Paina..  | Näkyykö | |
+| 3. | Raahaa.. | Näyttääkö | |
 | 4. | Sulje... | | |
 
 **Testin lopputilanne (End-State)**
 
 > Mitä tapahtuu testin suorituksen jälkeen? Millainen lopputulos olisi saavutettava?
 
-
 **Testin tuloksen määrittyminen (Pass/Fail Criteria)**
 
 > Millä ehdoin testin tulos voidaan hyväksyä ja millä se hylätään?
 
-* PASS ehto? 
-* FAIL ehto ?
+* PASS ehto:  
+* FAIL ehto:
