@@ -1,5 +1,4 @@
-# Vaatimukset yhdistettynä listana
-
+# Vaatimukset listattuna
 > Jos kirjaat vaatimukset yhteen listaan tulee esille haaste miten osoittaa mikä vaatimus vaikuttaa milläkin tasolla toteutettavaa ratkaisua.
 
 
