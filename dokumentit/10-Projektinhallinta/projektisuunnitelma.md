@@ -1,6 +1,7 @@
 # Projektisuunnitelma
 
-![](https://openclipart.org/image/400px/svg_to_png/224376/BaobabTree.png)
+![](https://openclipart.org/image/400px/svg_to_png/198173/mono-package-games-strategy.png)
+
 
 ## 1. Toimeksianto 
 
