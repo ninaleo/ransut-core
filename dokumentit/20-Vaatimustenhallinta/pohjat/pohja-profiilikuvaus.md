@@ -1,8 +1,6 @@
-# Profiili:
+# Profiili: (Korvaa)
 
-
-[![](http://img.youtube.com/vi/-TbGB_1wjpM/0.jpg)](http://www.youtube.com/watch?v=-TbGB_1wjpM "")
-
+![](https://openclipart.org/image/400px/svg_to_png/17910/Angelo-Gemmi-female-face.png)
 
 ### viiteryhmä/segmentti:
 
@@ -11,17 +9,11 @@
 
 ### Persoona/sidosryhmän kuvaus
 
-![](https://openclipart.org/image/300px/svg_to_png/293286/Unknown-With-Background.png)
-
-
 **nimi ja taustaa**
-
-
 
 ### Motiivi käyttää/soveltaa palvelua? 
 
 * Mikä on tämä profiilin motiivi käyttää/hyödyntää/soveltaa palvelua
-
 
 ![](https://openclipart.org/image/300px/svg_to_png/291313/why.png)
 
