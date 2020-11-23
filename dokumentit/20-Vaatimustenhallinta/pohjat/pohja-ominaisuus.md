@@ -1,4 +1,4 @@
-# Ominaisuus/toiminnallisuus : (Anna kuvaava nimi)
+# Ominaisuus - toiminnallisuus (Anna kuvaava nimi)
 
 | | |
 |:-:|:-:|
