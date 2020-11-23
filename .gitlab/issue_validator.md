@@ -28,7 +28,8 @@ In English
 | User Story.md | ~"User Story" | `#1D5299` |
 | Job Story.md  | ~"Job Story" | `#1D5299` |
 | Assignment | ~"Assignment" | `#2B7BE5` |
-| Risk | ~"Risk" | `#2B7BE5` |
+| Risk | ~"Risk" |  |
+| Customer-feedback | ~"CustomerFeedback" | |
 
 
 Suomeksi
