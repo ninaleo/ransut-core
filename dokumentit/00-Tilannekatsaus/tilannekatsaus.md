@@ -1,6 +1,6 @@
 # Tilannekatsaus
 
-![](https://openclipart.org/image/300px/svg_to_png/121699/project-schedule.png&disposition=attachment)
+![](https://openclipart.org/image/800px/270501)
 
 ## Sprint ja Gitlab Issuet
 
