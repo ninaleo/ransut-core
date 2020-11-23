@@ -1,5 +1,6 @@
-# Esimerkki tarjouspohjasta
+# Tarjouspohjasta
 
+![](https://openclipart.org/image/800px/297363)
 
 Tämä on esimerkki tarjouspohjasta, jota voi käyttää oman tuotteen kohdalla. 
 
