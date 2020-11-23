@@ -1,4 +1,4 @@
-# Hyväksyntätesti (Anna kuvaava nimi)
+# Hyväksyntätesti (anna kuvaava nimi)
 
 | | |
 |:-:|:-:|
