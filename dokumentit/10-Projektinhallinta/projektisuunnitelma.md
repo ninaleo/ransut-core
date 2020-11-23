@@ -211,6 +211,8 @@ Tässä kohdassa mainitaan, mitä täydentäviä suunnitelmia on käytettäviss�
 
 * [Projektisopimus](..//10-Projektinhallinta/projektisuunnitelma.md)
 * [Vaatimusmäärittely](../20-Vaatimustenhallinta/vaatimusmaarittely.md)
+* [Julkaisusuunnitelma](../40-Julkaisusuunnittelu/julkaisusuunnitelma.md)
+* [Yleistestisuunnitelma](../40-Julkaisusuunnittelu/julkaisusuunnitelma.md)
 * [Viestintäsuunnitelma](..//10-Projektinhallinta/viestintasuunnitelma.md)
 * [Riskihallintasuunnitelma](../10-Projektinhallinta/riskihallinta-suunnitelma.md)
 * [Muu annettu dokumentaatio]()
