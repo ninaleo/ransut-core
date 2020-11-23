@@ -1,6 +1,8 @@
-# Sopimus projektiyhteistyöstä
+# Projektisopimus
 
-SOPIMUS OPISKELIJAPROJEKTIYHTEISTYÖSTÄ
+https://openclipart.org/image/400px/svg_to_png/319126/stretchyhandpaperman-1911.png
+
+**Esimerkki: SOPIMUS OPISKELIJAPROJEKTIYHTEISTYÖSTÄ**
 
 # 1 SOPIMUKSEN OSAPUOLET
 
