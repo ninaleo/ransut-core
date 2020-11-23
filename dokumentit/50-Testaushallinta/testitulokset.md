@@ -1,32 +1,34 @@
 # Testitulokset
 
-> Tähän sivulle koostetaa testauksen tulokset eri testaus osa-alueilta. 
+> Tähän sivulle koostetaan testauksen tuottamat tulokset eri osa-alueiden näkökulmasta. 
 > Kannattaa lisätä myös tarpeellisen dokumentaation linkit.
 
-** Tärkeimmäit osa-alueet:**
+**toiminnallisen testauksen osa-alueet:**
 
-* Toiminnalliset testit
-* Suorituskykytestit
-* Tietoturvatestet
-* Saavutettavuustestit
+* Toiminnalliset testit (Functionality)
 
-## Viralliset suunnitelmat
+**ei-toiminnallisen testauksen osa-alueet:** 
+
+* Suorituskykytestit (Performance)
+* Tietoturvatestet (Security)
+* Saavutettavuustestit (Availability)
+
+## Viralliset dokumentaatit ja suunnitelmat
 
 * [Yleistestaus-suunnitelma]()
 * [Julkaisusuunnitelma]()
 * [Testisuunnitelma]()
 
-## Tuloksia 
+## Tulokset osa-alueittain 
 
 * Viimeisimmät testit on ajettu [Testikohteen konfiguraatio]() versioilla:  x.y.202Z
-
 
 **Hyväksyntätestaus**
 
 * Asiakkaan hyväksyntätestit suoritettu 0/15 kpl
 
 
-**Toiminnalliset testit**
+**Toiminnalliset/ei-toiminnalliset testit**
 
 ![](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/raw/master/dokumentit/50-Testaushallinta/Results-demo.PNG?inline=false)
 
@@ -40,13 +42,13 @@
 
 **Suorituskyky (Performance)**
 
-* TBD
+* Suoritettu 0/20 Testiä
 
 **Tietoturva (Security)** 
 
-* TBD
+* Suoritettu 0/100 Testiä
 
 **Saavutettavuus (Availability)**
 
-* TBD
+* Suoritettu 0/40 Testiä* TBD
 
