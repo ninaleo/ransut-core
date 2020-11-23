@@ -2,7 +2,7 @@
 
 
 
-## Tunnistetu riskit listana
+## Tunnistetu riskit taulukkona
 
 __Kirjataan alla olevaan taulukkoon projektiin kohdistuvat riskit ja pidetään niitä yllä tarpeen mukaan. Jokaiselle riskille annetaan yksilöllinen tunniste esim. RIS007, koska tämä helpottaa niiden käsittelyä eri tilanteissa.__
 
@@ -19,9 +19,9 @@ __Kirjataan alla olevaan taulukkoon projektiin kohdistuvat riskit ja pidetään 
 | RISXX | | | | |
 | RISXX | | | | |
 
-### Vakauvuusluokka 
+### Vakauvuusluokka ja todennäköisyys
 
-__Vakavuusluokka kannattaa määritellä projektille sopivalla tavalla__
+**Vakavuusluokka kannattaa määritellä projektille sopivalla tavalla**
 
 | Vakavuusluokka | kuvaus | Muuta |
 |:----:|:----:|:----:|
@@ -30,3 +30,11 @@ __Vakavuusluokka kannattaa määritellä projektille sopivalla tavalla__
 | V3 | Normaali, tarkkaillaan  || 
 | V4 | Mahdollinen, tarkkailtava || 
 | V5 | Ei haittaa, mutta tarkkailaan || 
+
+| Todennäköisyys | Taso | 
+|:-:|:-:|
+| 10 % | Vähemmän todennäköinen |
+| 50 % | todennäköinen |
+| 90 % | Ehdottomasti todennäköinen |
+
+
