@@ -1,8 +1,12 @@
 # Julkaisusuunnitelma
 
 
-Mitkä ominaisuudet ja milloin ? Tässä suunnitelmassa kuvataan tuoteominaisuuksien julkaisuaikataulua.
-Kannattaa siirtää/linkittää vaatimusmäärittelyssä kuvatut ominaisuudet tälle sivulle. 
+
+![](https://openclipart.org/image/400px/svg_to_png/297870/Path_ColouringBook.png)
+
+
+> Mitkä ominaisuudet ja milloin ? Tässä suunnitelmassa kuvataan tuoteominaisuuksien julkaisuaikataulua.
+> Kannattaa siirtää/linkittää vaatimusmäärittelyssä kuvatut ominaisuudet tälle sivulle. 
 
 | Ominaisuus | Prioriteetti |
 |:-:|:-:|
