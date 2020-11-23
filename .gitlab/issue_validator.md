@@ -18,7 +18,7 @@ In English
 | Job Story.md  | ~"Job Story" | `#1D5299` |
 | Assignment | ~"Assignment" | `#2B7BE5` |
 | Risk | ~"Risk" |  |
-| Customer-feedback | ~"CustomerFeedback" | |
+| Customer-feedback | ~"CustomerFeedback" | #5CB85C |
 
 **Issue State Labels**
 
