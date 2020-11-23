@@ -1,5 +1,7 @@
 # Testitulokset
 
+![](https://openclipart.org/image/400px/svg_to_png/189715/fixingabrain.png)
+
 > Tähän sivulle koostetaan testauksen tuottamat tulokset eri osa-alueiden näkökulmasta. 
 > Kannattaa lisätä myös tarpeellisen dokumentaation linkit.
 
