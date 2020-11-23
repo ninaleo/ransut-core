@@ -1,28 +1,17 @@
-# Projektisuunnitelma pohja / sisältö
+# Projektisuunnitelma
 
+**Sisältö**
 
-1. Toimeksianto
-tausta ja lähtökohdat, tavoitteet ja tehtävät, rajaus ja liittymät, tulos
+## 1. Toimeksianto 
 
-2. Projektiorganisaatio
-organisaation esittely, vastuut ja päätöksentekoprosessi
-
-3. Projektin vaiheet ja taloudelliset tavoitteet
-tehtäväkokonaisuudet, osittelu ja vaiheistus, välitulokset, aikataulut ja resurssissuunnitelmat, budjetti
-
-4. Laadun varmistus
-menetelmät, standardit, hyväksymismenettely, muutosten hallinta, dokumentointi, katselmoinnit, riskien hallinta, muut täydentävät suunnitelmat
-
-5. Tiedonvälitys ja projektin etenemisen seuranta
-projektin aloitus, työtilat ja viestintävälineet, palaverikäytäntö ja yhteydenpito, raportointi ja tiedotus, projektikansio
-
-6. Projektin päättyminen
-luovutus, käyttöönotto, ylläpito, projektin aineiston taltiointi, arkistointi, loppuraportti, projektin virallinen päättäminen
-
+* Tausta ja lähtökohdat
+* tavoitteet ja tehtävät
+* rajaus ja liittymät
+* tulos
 
 ## 1 Projektin ja lopputuotteen kuvaus
 
-”Tässä dokumentissa kuvataan X-projektin taustaa, tavoitteita, tehtäviä, vaihejakoa, resursseja ja organisaatiota. Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.”
+> ”Tässä dokumentissa kuvataan X-projektin taustaa, tavoitteita, tehtäviä, vaihejakoa, resursseja ja organisaatiota. Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.”
 
 ## 1.1 Tausta ja lähtökohdat
 
@@ -31,13 +20,13 @@ Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä te
 
 ## 1.2 Tavoitteet ja tehtävät
 
-* Tuottaa ratkaisu
+* Tuottaa ratkaisu mihin ?
 * Tuottaa toimiva demo (Proof Of Concept)
+> Määritellään työn keskeisin sisältö tässä projektissa; projektin tehtävä liittyy projektin kohteessa kuvattuun kokonaisuuteen. 
+* Mitä aiotaan tehdä?> / < Mitä toimintaa aiotaan kehittää ja miten?>
+> Visio tulevasta tilasta> / < Mikä on tuotettava lopputulos (konkreettinen)?> / < Mitkä ovat osa- tai välitulokset?>
+*  Kenelle tulos tuotetaan?>
 
-Määritellään työn keskeisin sisältö tässä projektissa; projektin tehtävä liittyy projektin kohteessa kuvattuun kokonaisuuteen. 
-< Mitä aiotaan tehdä?> / < Mitä toimintaa aiotaan kehittää ja miten?>
-< Visio tulevasta tilasta> / < Mikä on tuotettava lopputulos (konkreettinen)?> / < Mitkä ovat osa- tai välitulokset?>
-< Kenelle tulos tuotetaan?>
 ”Projektiryhmän tehtävänä on pitää eri tahot tietoisina projektin tilanteesta. Kunkin vaiheen päätyttyä laaditaan vaiheraportti, jonka avulla johtoryhmälle tiedotetaan projektin edistymisestä.”
 
 * Linkki tarvitavaan aineistoon vaatimusmäärittelyssä
@@ -62,10 +51,22 @@ Tässä kappaleessa esitellään projektisuunnitelmassa esiintyvät määritelm�
 # 2. Projektiorganisaatio
 
 * Tähän voidaan sijoittaa [projektiorganisaation sidosryhmäkartta]()
- 
 
+##2. Projektiorganisaatio 
 
+organisaation esittely, vastuut ja päätöksentekoprosessi
 
+3. Projektin vaiheet ja taloudelliset tavoitteet
+tehtäväkokonaisuudet, osittelu ja vaiheistus, välitulokset, aikataulut ja resurssissuunnitelmat, budjetti
+
+4. Laadun varmistus
+menetelmät, standardit, hyväksymismenettely, muutosten hallinta, dokumentointi, katselmoinnit, riskien hallinta, muut täydentävät suunnitelmat
+
+5. Tiedonvälitys ja projektin etenemisen seuranta
+projektin aloitus, työtilat ja viestintävälineet, palaverikäytäntö ja yhteydenpito, raportointi ja tiedotus, projektikansio
+
+6. Projektin päättyminen
+luovutus, käyttöönotto, ylläpito, projektin aineiston taltiointi, arkistointi, loppuraportti, projektin virallinen päättäminen
 
 ## 2.1 Organisaation esittely
 
