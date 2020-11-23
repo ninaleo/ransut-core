@@ -1,4 +1,4 @@
-# Projektin loki
+# Projektiloki
 
 ## Mitä on viimeaikoina tapahtunut?
 
