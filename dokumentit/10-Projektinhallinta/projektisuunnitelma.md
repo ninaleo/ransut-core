@@ -66,25 +66,9 @@ Ratkaisu_tai_tuotos --> Sidosryhma3
 Ratkaisu_tai_tuotos --> Sidosryhma4
 Ratkaisu_tai_tuotos --> Sidosryhma5
 ```
-
-
-
-
-##2. Projektiorganisaatio 
+## 2. Projektiorganisaatio 
 
 organisaation esittely, vastuut ja päätöksentekoprosessi
-
-3. Projektin vaiheet ja taloudelliset tavoitteet
-tehtäväkokonaisuudet, osittelu ja vaiheistus, välitulokset, aikataulut ja resurssissuunnitelmat, budjetti
-
-4. Laadun varmistus
-menetelmät, standardit, hyväksymismenettely, muutosten hallinta, dokumentointi, katselmoinnit, riskien hallinta, muut täydentävät suunnitelmat
-
-5. Tiedonvälitys ja projektin etenemisen seuranta
-projektin aloitus, työtilat ja viestintävälineet, palaverikäytäntö ja yhteydenpito, raportointi ja tiedotus, projektikansio
-
-6. Projektin päättyminen
-luovutus, käyttöönotto, ylläpito, projektin aineiston taltiointi, arkistointi, loppuraportti, projektin virallinen päättäminen
 
 ## 2.1 Organisaation esittely
 
@@ -109,11 +93,23 @@ Tukiryhmän tehtävänä on antaa projektiryhmälle sisällöllistä opastusta t
 
 Tähän kirjataan kaikkien projektiorganisaatioon kuuluvien (esim. johtoryhmä, projektipäällikkö, sihteeri, ryhmä, ohjaajat) vastuut sekä päätöksentekoprosessi (esim. projektipäällikkö valmistelee ja esittää johtoryhmän päätettäväksi…).
 
+## 2.3. Projektin vaiheet ja taloudelliset tavoitteet
+tehtäväkokonaisuudet, osittelu ja vaiheistus, välitulokset, aikataulut ja resurssissuunnitelmat, budjetti
+
+## 2.4. Laadun varmistus
+menetelmät, standardit, hyväksymismenettely, muutosten hallinta, dokumentointi, katselmoinnit, riskien hallinta, muut täydentävät suunnitelmat
+
+## 2.5. Tiedonvälitys ja projektin etenemisen seuranta
+projektin aloitus, työtilat ja viestintävälineet, palaverikäytäntö ja yhteydenpito, raportointi ja tiedotus, projektikansio
+
+## 2.6. Projektin päättyminen
+luovutus, käyttöönotto, ylläpito, projektin aineiston taltiointi, arkistointi, loppuraportti, projektin virallinen päättäminen
+
 # 3. Projektin ajalliset tavoitteet	
 
 ## 3.1 Osittaminen ja vaiheistus
 
-Projektin osittamisella tarkoitetaan projektin jakamista selkeisiin osakokonaisuuksiin ja niitä vastaaviin toteutuskokonaisuuksiin (osaprojekteihin, vaiheisiin, tehtäväkokonaisuuksiin ja tehtäviin). Tutkimus- ja kehitysprojektien etenemiselle on tyypillistä lopputuloksen muodostuminen ja tavoitteen tarkentuminen vaihe vaiheelta. Projektin osituksen tulee perustua tähän lähtökohtaan (koskee myös IT-instituutin opiskelijaprojekteja). 
+> Projektin osittamisella tarkoitetaan projektin jakamista selkeisiin osakokonaisuuksiin ja niitä vastaaviin toteutuskokonaisuuksiin (osaprojekteihin, vaiheisiin, tehtäväkokonaisuuksiin ja tehtäviin). > > Tutkimus- ja kehitysprojektien etenemiselle on tyypillistä lopputuloksen muodostuminen ja tavoitteen tarkentuminen vaihe vaiheelta. Projektin osituksen tulee perustua tähän lähtökohtaan (koskee myös > > IT-instituutin opiskelijaprojekteja). 
 
 Projektin elinkaari voidaan jakaa erityyppisiin vaiheisiin. Kussakin vaiheessa tuotetaan määrätyt tuotteet, kuten selvitys, suunnitelmat, prototyyppi, laite jne. Kunkin vaiheen loppuun sovitaan arviointi, hyväksyntä tai katselmointi.
 
