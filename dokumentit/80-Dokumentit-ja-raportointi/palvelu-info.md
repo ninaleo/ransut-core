@@ -1,13 +1,11 @@
-# Palvelukuvaus
+# Ratkaisun kokeiluversio
 
-![](https://openclipart.org/image/300px/svg_to_png/281557/lavagna.png)
+![](https://openclipart.org/image/400px/svg_to_png/15461/johnny-automatic-the-dynamometer-test.png)
 
-lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem 
-ipsum lorem ipsum lorem 
-ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum 
+> Kuvataan lyhyesti tuote ja siihen liittyvät pääkohdat
 
 
-## Mistä lötyy testipalvelin?
+## Mistä demon voi löytää?
 
 * Demo-palvelun osoite: http://X.Y.Z.4:1234
 
