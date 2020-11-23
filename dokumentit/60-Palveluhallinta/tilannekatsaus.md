@@ -5,17 +5,27 @@
 Tämän sivun avulla kerrotaa palvelusta lyhyesti tai ohjataan oleellisiin dokumentteihin.
 Tarvittaessa johdatetaan mahdollinen testikäyttäjä toimimaan oikeaan suuntaan :)
 
+# Tuotannon metrikkaa
+
+* Käytössä olevat palvelimet
+* Käyttöaste
+* Kulut ?
+
+
+## Asiakkaat ja oleellinen
+
+* Uusia asiakkaita
+* Asiakkaita yhteensä
+* Kävijät
+
 ## Mistä lötyy tuotanto-palvelin?
 
 Palvelun tuotanto versio löytyy osoitteesta https://X.Y.Z.4:1234
 
-## Palautetta
 
-Tunnukset saat kehitysryhmältä sähköpostitse: nikkenakke@nerdo.zorg
 
-## Mistä löydän lähdekoodit ja suoritetut testit
 
-Eli jos haluaa näyttää koodista valikoituja osia, niin linkki tähän...
+
 
 ## Muuta oleellista?
 
