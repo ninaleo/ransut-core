@@ -115,8 +115,8 @@ luovutus, käyttöönotto, ylläpito, projektin aineiston taltiointi, arkistoint
 Project starts the 2021-5-15
 [Projekti aktiivinen] Starts 2021-5-15 and ends 2021-7-30 
 [Vaihe1] Starts 2021-5-15 and ends 2021-5-20
-[Vaihe2] Starts 2021-5-20 and ends 2019-6-5
-[Vaihe3] Starts 2019-5-25 and ends 2019-7-1
+[Vaihe2] Starts 2021-5-20 and ends 2021-6-5
+[Vaihe3] Starts 2021-6-5 and ends 2021-7-30
 ```
 
 
