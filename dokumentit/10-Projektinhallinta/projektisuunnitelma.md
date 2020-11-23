@@ -65,6 +65,8 @@ Ratkaisu_tai_tuotos -- Sidosryhma3
 Ratkaisu_tai_tuotos -- Sidosryhma4
 Ratkaisu_tai_tuotos -- Sidosryhma5
 ```
+
+
 ## 2. Projektiorganisaatio 
 
 organisaation esittely, vastuut ja päätöksentekoprosessi
