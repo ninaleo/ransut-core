@@ -1,4 +1,4 @@
-# Käyttötapaus: (Nimeä)
+# Käyttötapaus: (Nimeä asianmukaisesti)
 
 ## Use Case 
 
