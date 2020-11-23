@@ -9,10 +9,6 @@
 | Luontipvm | X.Y.ABCD |
 | Luokitus | Toiminnallinen/suorituskyky/käytettävyys/tietoturva ? |
 
-**Päivityshistoria**
-
-* versio 0.1 Pohja
-
 **Testin kuvaus / tavoite**
 
 > Testin tarkoituksena on tarkistaa, eli verifioida tehtyä toteutusta suhteessa suunniteltuun 
@@ -35,10 +31,12 @@
 
 > Kirjataan läpikäytävät askeleet ja niihin liittyvät tarkistuspisteet
 
-1. askel --> tarkista onko...
-1. askel --> tarkista onko..
-1. askel --> tarkista samalla..
-1. askel --> tarkista toisaalla..
+| Testiaskel | Tapahtuma | Tarkista | Muuta |
+|:-:|:-:|:-:|:-:|
+| 1. | Avaa.... | Onko | |
+| 2. | Paina..  |  | |
+| 3. | Raahaa.. | | |
+| 4. | Sulje... | | |
 
 **Testin lopputilanne (End-State)**
 
