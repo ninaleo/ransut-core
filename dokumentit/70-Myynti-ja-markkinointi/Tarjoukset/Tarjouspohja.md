@@ -1,6 +1,6 @@
 # Tarjouspohjasta
 
-![](https://openclipart.org/image/800px/297363)
+![](https://openclipart.org/image/400px/svg_to_png/297363/elfframe.png)
 
 Tämä on esimerkki tarjouspohjasta, jota voi käyttää oman tuotteen kohdalla. 
 
