@@ -1,8 +1,9 @@
 # Riskihallinta
 
 
+![](https://openclipart.org/image/400px/svg_to_png/163063/dontlifttoomuch.png)
 
-## Tunnistetu riskit taulukkona
+## Tunnistetut riskit taulukon muodossa
 
 > Kirjataan alla olevaan taulukkoon projektiin kohdistuvat riskit ja pidetään niitä yllä tarpeen mukaan. Jokaiselle riskille annetaan yksilöllinen tunniste esim. RIS007, koska tämä helpottaa niiden käsittelyä eri tilanteissa.
 
