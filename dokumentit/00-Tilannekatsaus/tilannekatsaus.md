@@ -8,9 +8,11 @@
 
 **Päivitä linkit osoittamaan projektin repositoriota!**
 
-* [Gilab-Board](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/boards/5192)
-* [Milestone - Sprint 0](https://gitlab.labranet.jamk.fi/open-project-framework/opf-virtual-company-v1/core/-/milestones/2)
-* [Gitlab-Backlog](https://gitlab.labranet.jamk.fi/open-project-framework/opf-virtual-company-v1/core/issues?scope=all&utf8=%E2%9C%93&state=opened&milestone_title=Backlog)
+
+* [Repositorio]()
+* [Tehtävä - Board](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/boards/5192)
+* [Työlista - Backlog](https://gitlab.labranet.jamk.fi/open-project-framework/opf-virtual-company-v1/core/issues?scope=all&utf8=%E2%9C%93&state=opened&milestone_title=Backlog)
+* [Etappi- Sprint 0](https://gitlab.labranet.jamk.fi/open-project-framework/opf-virtual-company-v1/core/-/milestones/2)
 
 
 ## Mitä saatu aikaan
