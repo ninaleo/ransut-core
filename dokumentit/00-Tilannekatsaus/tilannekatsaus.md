@@ -24,21 +24,13 @@
 
 ## Mitä seuraavaksi
 
-
 * Linkki etappiin / sprinttiin ?
 
 ## Projektin kokonaiskulut x.y.202z
 
+* [Tuntikirjaukset]()
 
+## Projektilogi
 
-* Tässä voi olla linkki mahdollisiin tuntikirjauksiin?]()
-* Tai voitte upottaa "EXCEL"-tiedoston etc.
-* Taulukko on helpoin vaihtoehto ?
+* [Projektiloki ja historia](projektiloki.md)
 
-
-
-| Kuluerä | määrä |  hinta a | Yhteensä |
-|:---|:---|:---|:---|
-| Työtunnit | 73 | 50 € | 3650€ |   
-| Hankinnat | 4 | 10 € | 40 € |
-| *Yhteensä:* |- | - | 3690 € |
