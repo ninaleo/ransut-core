@@ -1,9 +1,8 @@
 # Henkilökohtainen projektioppimisraportti 
 
 
-* Sovelletaan OPF-kehikon varaan toteutetuissa opintojaksoissa
-* Tämä dokumentti toimii runkona raportille!
-* Palauta raportti Kansilehdillä varustettuna Optiman-kansioon PDF-muodossa.
+> Sovelletaan OPF-kehikon varaan toteutetuissa opintojaksoissa
+> Tämä dokumentti toimii runkona raportille!
 
 # Ohjeita
 
