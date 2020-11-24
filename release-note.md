@@ -3,6 +3,16 @@
 
 ## OPF - Release 0.9
 
+Changes 24.11.2020
+
+* New issue color lay out implemented
+* New Logo deployed 
+* Black default outlook enabled
+* Lot of document fixes
+* Removed obsolote videos form requirement specification
+* Short requiment specification created
+* Document layout and images fixed
+
 Changes 20.11.2020
 
 * Updated latest page-theme with PlantUML support
