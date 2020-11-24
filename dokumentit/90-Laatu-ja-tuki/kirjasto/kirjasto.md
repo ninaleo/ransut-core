@@ -21,6 +21,16 @@ Alle on kerätty hyödyllisiä lähteitä, joista on apua projektien kanssa toim
 * [Team Charter Canvas](https://designabetterbusiness.com/2017/08/24/team-charter-canvas/)
 * [Design Criteria Canvas](https://skillsofthemodernage.com.au/downloads/playshop/dabb-design-criteria-canvas.pdf)
 
+## Ohjelmistokehityksen ohjeita
+
+* [Turvallisen sovelluskehityksen käsikirja](https://www.suomidigi.fi/ohjeet-ja-tuki/tyokalut/turvallisen-sovelluskehityksen-kasikirja)
+
+
+
+## Järjestöt ja osaamisyhteisöt
+
+
+
 
 ## [Body Of Knowledge](https://en.wikipedia.org/wiki/Body_of_knowledge) järkäleet
 
@@ -33,14 +43,7 @@ Alle on kerätty hyödyllisiä lähteitä, joista on apua projektien kanssa toim
 
 ## Sanastoja
 
-* https://pascal.computer.org/sev_display/index.action
+* [https://pascal.computer.org/sev_display/index.action]()
 * [ISTQB-syllabus]()
 
-
-
-
-
-## Tietoturva
-
-* https://www.suomidigi.fi/ohjeet-ja-tuki/tyokalut/turvallisen-sovelluskehityksen-kasikirja
 
