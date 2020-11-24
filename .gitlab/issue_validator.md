@@ -22,7 +22,8 @@ In English
 
 | Issue type | Current Label Color | Offical Color |
 |:-:|:-:|:-:|
-| To Do | ~"To Do" | `#48cb8d` |
+| Backlog | ~"Backlog" | `#48cb8d` |
+| To Do | ~"To Do" |  `#03aa7e` |
 | In Progress | ~"In Progress" | `#F0A921` |
 | Verified | ~"Verified" | `#69D121` |
 | Waiting Review | ~"Waiting review" | `#ec0855` |
