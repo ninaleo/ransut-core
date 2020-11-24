@@ -1,5 +1,8 @@
 # Projektin loppuraportti
 
+> Käytä tarvittaessa tätä pohjaa, jos ryhmältäsi edellytetään projektin loppuraportointia OPF-kehikon varaan toteutetuissa opintojaksoissa! Tarvittaessa ohjaaja antaa lisätietoja!
+
+
 # 1.	JOHDANTO	
 Loppuraportissa tulee ensisijaisesti vastata kysymyksiin: mitä ja miten tehtiin, miksi tehtiin, missä onnistuttiin, mikä meni pieleen, miksi ja miten ongelmat ratkaistiin ja mitä itse asiassa opittiin.
 Kerro johdannossa aluksi lyhyesti mihin projektiin tämä dokumentti liittyy, mitä osapuolia projektissa oli mukana (projektin organisaatio) ja mikä on tämän dokumentin tarkoitus ja sisältö.
