@@ -14,13 +14,13 @@ As a < type of user >, I want < some goal > so that < some reason >
 
 ## Definition of Done
 
-* [Definition of Done]()
+* [Link to common definition of done description]()
 
-- [] Implemented
-* Tested
-* Documented
-* Pair reviewed
-* ?
+- [ ] Implemented
+- [ ] Tested
+- [ ] Documented
+- [ ] Pair Reviewed
+- [ ] ?
 
 
 ## Acceptance Criterias
