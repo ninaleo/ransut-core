@@ -24,10 +24,9 @@ In English
 |:-:|:-:|:-:|
 | To Do | ~"To Do" | `#48cb8d` |
 | In Progress | ~"In Progress" | `#F0A921` |
-| Fixed Verify | ~"Fixed Verify" | `#9E760D` | 
 | Verified | ~"Verified" | `#69D121` |
 | Waiting Review | ~"Waiting Review" | `#ec0855` |
-| Reviewed | ~"Reviewed" | `#69D121` |
+| Waiting Verify | ~"Waiting Verify" | `#69D121` |
 | Done | ~"Done" | `#29510D` |
 
 Reserved Labels for future:
