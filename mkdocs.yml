@@ -32,7 +32,7 @@ theme:
     font:
         text: 'Sofia-Pro'
         code: 'Roboto Mono'
-    logo: 'assets/opf-musta.png'
+    logo: 'assets/opf-logo-musta-tekstilla.png'
     features:
         - instant
 extra_css:
