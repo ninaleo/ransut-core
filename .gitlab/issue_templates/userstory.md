@@ -1,6 +1,8 @@
-### Story (Change name of file according story name)
+As a < type of user >, I want < some goal > so that < some reason >
 
-As a < type of user >, I want < some goal > so that < some reason >.
+## Description
+
+* Purpose
 
 
 
@@ -10,9 +12,11 @@ As a < type of user >, I want < some goal > so that < some reason >.
 * [Link to UseCase]()
 * [Link to constraint]()
 
-## Definition of done
+## Definition of Done
 
-* Implemented
+* [Definition of Done]()
+
+- [] Implemented
 * Tested
 * Documented
 * Pair reviewed
