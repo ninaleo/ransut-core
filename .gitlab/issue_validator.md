@@ -14,8 +14,8 @@ In English
 | general-task.md |  ~"General"   | `#e6e6e6` |       
 | implementation-task.md | ~"Implementation" | `#e6e6e6` |
 | documentation-task.md | ~"Documentation" | `#e6e6e6` |
-| User Story.md | ~"User Story" | `#eaa906` |
-| Job Story.md  | ~"Job Story" | `#eaa906` |
+| User Story.md | ~"User Story" | `#0f0093` |
+| Job Story.md  | ~"Job Story" | `#0f0093` |
 | Risk | ~"Risk" | `#ec0855`  |
 | Customer-feedback | ~"Customer Feedback" | `#fc81a7` |
 
@@ -24,7 +24,7 @@ In English
 | Issue type | Current Label Color | Offical Color |
 |:-:|:-:|:-:|
 | Waiting Info | ~"Waiting Info" | `#48cb8d` |
-| To Do | ~"To Do" |  `#03aa7e` |
+| To Do | ~"To Do" |  `#2b0be8` |
 | In Progress | ~"In Progress" | `#F0A921` |
 | Reviewed | ~"Reviewed" | `#69D121` | 
 | Verified | ~"Verified" | `#69D121` |
