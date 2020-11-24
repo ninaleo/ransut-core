@@ -16,7 +16,7 @@ In English
 | User Story.md | ~"User Story" | `#eaa906` |
 | Job Story.md  | ~"Job Story" | `#eaa906` |
 | Risk | ~"Risk" | `#ec0855`  |
-| Customer-feedback | ~"CustomerFeedback" | `#fc81a7` |
+| Customer-feedback | ~"Customer Feedback" | `#fc81a7` |
 
 **Issue State Labels**
 
