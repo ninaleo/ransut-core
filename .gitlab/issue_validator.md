@@ -1,4 +1,4 @@
-# OPF Issue types-and-labels
+# Official Issue types and labels
 
 
 **Issue Types in english**
