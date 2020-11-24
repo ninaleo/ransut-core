@@ -25,7 +25,7 @@ In English
 | Backlog | ~"Backlog" | `#48cb8d` |
 | To Do | ~"To Do" |  `#03aa7e` |
 | In Progress | ~"In Progress" | `#F0A921` |
-| Reviewed | ~"Reviewed" | | 
+| Reviewed | ~"Reviewed" | `#69D121` | 
 | Verified | ~"Verified" | `#69D121` |
 | Waiting Review | ~"Waiting review" | `#ec0855` |
 | Waiting Verify | ~"Waiting verify" | `#ec0855` |
