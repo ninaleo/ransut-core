@@ -8,7 +8,8 @@ In English
 | Issue type | Current Label Color | Offical Color |
 |:-:|:-:|:-:|
 | bug-report.md | ~"Bug" | `#ec0855` |
-| incident-report.md | ~"Incident" | `#ec0855` |     
+| incident-report.md | ~"Incident" | `#ec0855` |  
+| bug-fix.md | ~"Bug Fix" |  `#e6e6e6` |  
 | design-task.md | ~"Design" | `#e6e6e6` |
 | general-task.md |  ~"General"   | `#e6e6e6` |       
 | implementation-task.md | ~"Implementation" | `#e6e6e6` |
