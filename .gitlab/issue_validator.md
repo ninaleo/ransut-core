@@ -45,12 +45,10 @@ Reserved Labels for future:
 | Issue type | Current Label Color | Offical Color | Tarkoitus |
 |:-:|:-:|:-:|:-:|
 | vika-raportti.md | ~"Bug"  | `#FF0000` ||
-| poikkeama-raportti.md | ~"Incident" | `#FF0000` ||
-| suunnittelu-tehtävä.md | ~"Design" | `#1D5299` | |
-| yleinen-tehtävä.md | ~"General" | `#1D5299` ||
-| toteutus-tehtävä.m | ~"Implementation" | `#1D5299` ||
-| Dokumentointi-tehtävä.md | ~"Documentation" | `#1D5299` ||
-| kysymys-ja-vastaus.md | ~"Q&A" | `#1D5299` ||
-| harjoitustehtava.md  | ~"Assignment" | `#2B7BE5` ||
-| UserStory-Käyttäjätarina.md | ~"User Story"  | `#1D5299` ||
+| poikkeama.md | ~"Incident" | `#FF0000` ||
+| suunnittelu.md | ~"Design" | `#1D5299` | |
+| yleinen.md | ~"General" | `#1D5299` ||
+| toteutus.m | ~"Implementation" | `#1D5299` ||
+| dokumentointi.md | ~"Documentation" | `#1D5299` ||
+| userstory.md | ~"User Story"  | `#1D5299` ||
  
