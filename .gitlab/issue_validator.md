@@ -29,7 +29,9 @@ In English
 | Verified | ~"Verified" | `#69D121` |
 | Waiting Review | ~"Waiting review" | `#ec0855` |
 | Waiting Verify | ~"Waiting verify" | `#ec0855` |
-| Done | ~"Done" | `#29510D` |
+| Done | ~"Done" | `#69e17d` |
+| Closed | ~"Closed" | `#333333` |
+
 
 Reserved Labels for future:
 
