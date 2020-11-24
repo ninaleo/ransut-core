@@ -23,7 +23,7 @@ In English
 
 | Issue type | Current Label Color | Offical Color |
 |:-:|:-:|:-:|
-| Waiting Info | ~"Waiting Info" | `#48cb8d` |
+| Waiting Info | ~"Waiting Info" | `#f7c75c` |
 | To Do | ~"To Do" |  `#2b0be8` |
 | In Progress | ~"In Progress" | `#F0A921` |
 | Reviewed | ~"Reviewed" | `#69D121` | 
