@@ -7,18 +7,16 @@ In English
 		
 | Issue type | Current Label Color | Offical Color |
 |:-:|:-:|:-:|
-| bug-report.md | ~"Bug" | `#FF0000` |
-| incident-report.md | ~"Incident" | `#FF0000` |     
-| design-task.md | ~"Design" |`#1D5299` |
-| general-task.md |  ~"General"   | `#1D5299` |       
-| implementation-task.md | ~"Implementation" | `#1D5299` |
-| documentation-task.md | ~"Documentation" | `#1D5299` |
-| question-and-answer.md | ~"Q&A" | `#1D5299` |
-| User Story.md | ~"User Story" | `#1D5299` |
-| Job Story.md  | ~"Job Story" | `#1D5299` |
-| Assignment | ~"Assignment" | `#2B7BE5` |
-| Risk | ~"Risk" |  |
-| Customer-feedback | ~"CustomerFeedback" | `#5CB85C` |
+| bug-report.md | ~"Bug" | `#ec0855` |
+| incident-report.md | ~"Incident" | `#ec0855` |     
+| design-task.md | ~"Design" | `#e6e6e6` |
+| general-task.md |  ~"General"   | `#e6e6e6` |       
+| implementation-task.md | ~"Implementation" | `#e6e6e6` |
+| documentation-task.md | ~"Documentation" | `#e6e6e6` |
+| User Story.md | ~"User Story" | `#eaa906` |
+| Job Story.md  | ~"Job Story" | `#eaa906` |
+| Risk | ~"Risk" | `#ec0855`  |
+| Customer-feedback | ~"CustomerFeedback" | `#fc81a7` |
 
 **Issue State Labels**
 
