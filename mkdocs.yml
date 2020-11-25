@@ -30,15 +30,14 @@ theme:
     palette:
         scheme: default
     font:
-        text: 'Sofia-Pro'
-        code: 'Roboto Mono'
+        text: 'Lato'
+        code: 'Lato'
     logo: 'assets/opf-logo-musta-tekstilla.png'
     features:
         - instant
 extra_css:
     - assets/extra.css
     - https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.7.3/css/lightgallery.min.css
-    - https://use.typekit.net/yom0dkv.css
 extra_javascript:
     - https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
     - https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.7.3/js/lightgallery-all.js
