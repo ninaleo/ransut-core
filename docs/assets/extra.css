@@ -41,10 +41,23 @@ td > a:hover { color: #e2066f !important
     font-weight: bold;
 }
 
-p > a { 
-    color: #0d004c !important 
+p > a,
+td > a,
+li > a { 
+    color: #6442f0 !important;
 }
 
-p > a:hover { 
-    color: #e2066f !important
+p > a:hover,
+td > a:hover,
+li > a:hover { 
+    color: #0f0093 !important;
+    text-decoration: underline !important;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5 {
+    font-weight: bold;
 }
