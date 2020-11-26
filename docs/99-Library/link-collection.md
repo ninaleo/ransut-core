@@ -12,6 +12,7 @@
 
 # Agile development
 
+* [Scrum Opas](https://www.scrumguides.org/scrum-guide.html)
 * [Agile Essence](https://www.ivarjacobson.com/services/agile-essentials-starter-pack-agile-practices)
 * [blog.crisp.se](https://blog.crisp.se/)
  
