@@ -11,6 +11,7 @@ Alle on kerätty hyödyllisiä lähteitä, joista on apua projektien kanssa toim
 * [Agile Essence](https://www.ivarjacobson.com/services/agile-essentials-starter-pack-agile-practices)
 * [blog.crisp.se](https://blog.crisp.se/)
 
+
 ## Johdanto projektitoimintaan
 
 * [Projektitoiminnan opintojakso TTC2070](http://ttc2070.pages.labranet.jamk.fi)
@@ -21,9 +22,21 @@ Alle on kerätty hyödyllisiä lähteitä, joista on apua projektien kanssa toim
 * [Team Charter Canvas](https://designabetterbusiness.com/2017/08/24/team-charter-canvas/)
 * [Design Criteria Canvas](https://skillsofthemodernage.com.au/downloads/playshop/dabb-design-criteria-canvas.pdf)
 
+## Saavutettavuus
+
+* [UserWay](https://userway.org/)
+
+## Suorituskyky
+
+## Tietoturva
+
+## 
+
 ## Ohjelmistokehityksen ohjeita
 
 * [Turvallisen sovelluskehityksen käsikirja](https://www.suomidigi.fi/ohjeet-ja-tuki/tyokalut/turvallisen-sovelluskehityksen-kasikirja)
+
+
 
 
 
