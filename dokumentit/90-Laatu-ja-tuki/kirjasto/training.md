@@ -5,4 +5,10 @@
  ## Test Automation
  
  
- https://testautomationu.applitools.com/
+* https://testautomationu.applitools.com/
+
+
+ ## Conferences to follow
+
+
+* https://conference.eurostarsoftwaretesting.com/
