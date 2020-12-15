@@ -20,7 +20,6 @@ Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä te
 
 ## 1.2 Tavoitteet ja tehtävät
 
-
 * Tuottaa ratkaisu mihin ?
 * Tuottaa toimiva demo (Proof Of Concept)
 * Aikataulu ja yleinen eteneminen
@@ -32,6 +31,14 @@ Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä te
 ”Projektiryhmän tehtävänä on pitää eri tahot tietoisina projektin tilanteesta. Kunkin vaiheen päätyttyä laaditaan vaiheraportti, jonka avulla johtoryhmälle tiedotetaan projektin edistymisestä.”
 * Linkki tarvitavaan aineistoon vaatimusmäärittelyssä
 * Esitellään palvelukuvaus ja sen mahdollinen muutoskohteet projektin myötä
+
+
+## 1.3 Projektiin liittyvät haasteet
+
+> Tarkastellaan projektin tavoitteita ja laaditaan tueksi SWOT-kuvaus, jossa tarkastellaan koko projektia ja sen toimintaympäristöä. 
+
+![](../assets/SWOT-example.jpg)
+
 
 ## 1.3 Rajaus ja liittymät
 
@@ -67,20 +74,11 @@ tuotos --> Sidosryhma4
 tuotos --> Sidosryhma5
 ```
 
-
-
-
-## 2. Projektiorganisaatio 
-
 organisaation esittely, vastuut ja päätöksentekoprosessi
 
 ## 2.1 Organisaation esittely
 
 Projektin organisaation kuuluu Jyväskylän ammattikorkeakoulun  opettajia, projektihenkilökuntaa opiskelijaa, projektiryhmän ohjaajat sekä toimeksiantajan edustajat. Organisaatiokaavio on esitetty liitteessä <X>.”
-
-**Projektiryhmä**
-
-* linkki esittelyyn?
 
 
 ”Projektiryhmä suorittaa johtoryhmän projektille asettamat tehtävät käytettävissä olevien resurssien puitteissa. Projektin aikana ryhmän päällikön ja sihteerin roolit kiertävät ryhmän sisällä siten, että jokainen ryhmän jäsen toimii kerran kummassakin roolissa.”
@@ -104,16 +102,18 @@ tehtäväkokonaisuudet, osittelu ja vaiheistus, välitulokset, aikataulut ja res
 menetelmät, standardit, hyväksymismenettely, muutosten hallinta, dokumentointi, katselmoinnit, riskien hallinta, muut täydentävät suunnitelmat
 
 ## 2.5. Tiedonvälitys ja projektin etenemisen seuranta
-projektin aloitus, työtilat ja viestintävälineet, palaverikäytäntö ja yhteydenpito, raportointi ja tiedotus, projektikansio
+
+__projektin aloitus, työtilat ja viestintävälineet, palaverikäytäntö ja yhteydenpito, raportointi ja tiedotus, projektikansio__
 
 ## 2.6. Projektin päättyminen
-luovutus, käyttöönotto, ylläpito, projektin aineiston taltiointi, arkistointi, loppuraportti, projektin virallinen päättäminen
+
+__luovutus, käyttöönotto, ylläpito, projektin aineiston taltiointi, arkistointi, loppuraportti, projektin virallinen päättäminen__
 
 # 3. Projektin ajalliset tavoitteet	
 
 ## 3.1 Osittaminen ja vaiheistus
 
-## Julkaisusuunnitelma PlantUML-muodossa
+**GANTT PlantUML-muodossa**
 
 ```plantuml
 Project starts the 2021-5-15
@@ -122,9 +122,6 @@ Project starts the 2021-5-15
 [Vaihe2] Starts 2021-5-20 and ends 2021-6-5
 [Vaihe3] Starts 2021-6-5 and ends 2021-7-15
 ```
-
-
-
 
 > Projektin osittamisella tarkoitetaan projektin jakamista selkeisiin osakokonaisuuksiin ja niitä vastaaviin toteutuskokonaisuuksiin (osaprojekteihin, vaiheisiin, tehtäväkokonaisuuksiin ja tehtäviin). > > Tutkimus- ja kehitysprojektien etenemiselle on tyypillistä lopputuloksen muodostuminen ja tavoitteen tarkentuminen vaihe vaiheelta. Projektin osituksen tulee perustua tähän lähtökohtaan (koskee myös > > IT-instituutin opiskelijaprojekteja). 
 
@@ -182,15 +179,15 @@ Projektin tiedon- ja versionhallinnan perusteet tulee selvittää, jotta kaikki 
 
 ## 4.1 Väli- ja lopputulosten hyväksymismenettely
 
-Tähän kirjataan se hyväksymismenettely, mikä projektissa on sovittu.
+__Tähän kirjataan se hyväksymismenettely, mikä projektissa on sovittu.__
 
 ## 4.2 Muutosten hallinta
 
-Kuvataan muutosten hallintaproseduuri projektinkäytäntöihin tai projektin tuloksiin liittyvien muutosten osalta. 
+__Kuvataan muutosten hallintaproseduuri projektinkäytäntöihin tai projektin tuloksiin liittyvien muutosten osalta.__ 
 
 ## 4.3 Dokumentointi
 
-Kirjataan minne dokumentit tallennetaan/arkistoidaan, miten ne jaetaan ja kuka on vastuussa eri dokumenteista.
+__Kirjataan minne dokumentit tallennetaan/arkistoidaan, miten ne jaetaan ja kuka on vastuussa eri dokumenteista.__
 
 ## 4.4 Riskien hallinta
 
@@ -201,9 +198,7 @@ Liitä seuraava osio tähän mukaan: [Riskienhallintataulukko]()
 
 ## 4.5 Katselmointikäytäntö
 
-Luetellaan ja alustavasti aikataulutetaan projektin tuloskatselmukset laaditun toteutussuunnitelman pohjalta. Esitetään luettelomaisesti, mitä katselmuksia pidetään, alustava ajankohta, käsiteltävät asiat, osallistujat sekä käytännöt katselmointimateriaalin toimittamisesta (mitä, milloin, miten).
-
-Linkit katselmointipöytäkirja pohjiin
+__Luetellaan ja alustavasti aikataulutetaan projektin tuloskatselmukset laaditun toteutussuunnitelman pohjalta. Esitetään luettelomaisesti, mitä katselmuksia pidetään, alustava ajankohta, käsiteltävät asiat, osallistujat sekä käytännöt katselmointimateriaalin toimittamisesta (mitä, milloin, miten).__
 
 ## 4.6 Projektisuunnitelmaa täydentävät suunnitelmat
 
