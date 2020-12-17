@@ -4,6 +4,9 @@
 
 ## Ajanhetki (viikko/sprint)
 
+![](../assets/work-to-do.png)
+
+
 * Tilannekatsauksen ajanhetki _X_
 
 **Päivitä linkit osoittamaan projektin repositoriota!**
