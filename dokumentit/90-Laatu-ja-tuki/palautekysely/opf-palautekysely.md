@@ -1,6 +1,6 @@
 # Open Project Framework -palautekysely 
 
-![](https://openclipart.org/image/400px/svg_to_png/286038/Neutral_Smiley_-_White.png)
+![](https://openclipart.org/image/400px/238687)
 
 Moi!
 
