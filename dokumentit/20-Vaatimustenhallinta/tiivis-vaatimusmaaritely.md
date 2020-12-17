@@ -37,6 +37,9 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 > Huomaa! PlantUML-lohkon määrittelyssä käytetään Gitlab-ympäristössä eri avainsanoja @startuml/@enduml- rivien sijaan  
 > Älä käytä skandinaavisia merkkejä PlantUML-kuvauksessa,koska niiden julkaisu www-sivulla ei toimi!**
 
+![](../assets/work-to-do.png)
+
+
 ```plantuml
 actor tilaaja
 actor ostaja
@@ -53,6 +56,9 @@ loppukayttaja -- projektin_tuotos  : kayttaa_ratkaisua
 
 > Eritellään sidosryhmäkartasta eri sidosryhmät/profiilit listaksi.  Tarvittaessa kuvataan tarkemmin valitut sidosryhmät ja tarkennetaan niitä, jos toimeksianto sitä edellyttää
 
+![](../assets/work-to-do.png)
+
+
 * [Sidosryhmä-001](pohjat/pohja-profiilikuvaus.md) 
 * [Sidosryhmä-002](pohjat/pohja-profiilikuvaus.md) 
 * [Sidosryhmä-003]() 
@@ -60,6 +66,9 @@ loppukayttaja -- projektin_tuotos  : kayttaa_ratkaisua
 * [Sidosryhmä-005]()
 
 ## Tunnistetut riskit
+
+
+![](../assets/work-to-do.png)
 
 > Millaisia riskeja liittyy ratkaisun/ohjelmiston/tuoteen kehittämiseen, tuotteen markkinoihin, mahdollisiin kilpailijoihin, resursseihin? 
 Nämä on hyvä tunnistaa alkuvaiheessa ja kirjata ne listaksi, jossa jokainen riski kuvataan itsenäisen tunnisteen avulla
@@ -99,6 +108,9 @@ Step3 --> [*]
 ```
 
 ## Tärkeimmät toiminnallisuudet/ominaisuudet
+
+![](../assets/work-to-do.png)
+
 
 > Hahmotellaan tähän kohtaan ominaisuudet pelkästään "ranskalaisilla viivoilla", eli mitä palvelulla mielestäsi on mahdollista tehdä?
 > Mieti tilannetta, kun joku kysyy mitä palvelulla voi tehdä? Mitä vastaat ja mitkä toiminnot nostatat esiin ehdottomasti valtteina verrattuna muihin vastaaviin palveluihin?
@@ -177,6 +189,9 @@ näkökulmasta ovat seuraavat: Suorituskyky, tietoturva ja saavutettavuus
 
 ## Suorituskyky vaatimukset
 
+![](../assets/work-to-do.png)
+
+
 >Millaisia vaatimuksia palveluun kohdistuu suorituskyvyn näkökulmasta?
 
 * PERFORMANCE-REQ-0000 | Non-Functional Performance | Kirjautuminen on mahdollista yhtäaikaa 100 käyttäjällä (100 request/s) | [Kirjautuminen ft1](ft1-ominaisuus.md) |								
@@ -185,6 +200,9 @@ näkökulmasta ovat seuraavat: Suorituskyky, tietoturva ja saavutettavuus
 
 
 ## Tietoturva vaatimukset
+
+![](../assets/work-to-do.png)
+
 
 >Millaisia vaatimuksia palveluun kohdistuu tietoturvan näkökulmasta?
 
@@ -195,6 +213,9 @@ näkökulmasta ovat seuraavat: Suorituskyky, tietoturva ja saavutettavuus
 * SECURITY-REQ-0003 |||
 
 ## Saavutettavuus vaatimukset
+
+![](../assets/work-to-do.png)
+
 
 >Mitä tarkoitetaan äyttävyydellä? Millaisia asioita/ohjeistuksia on otettava huomioon palvelua toteutettaessa?
 
