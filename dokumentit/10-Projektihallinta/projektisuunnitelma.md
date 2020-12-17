@@ -5,15 +5,24 @@
 
 ## 1. Toimeksianto 
 
+![](../assets/work-to-do.png)
+
+
 >Kuvataan toimeksiantoa lyhyesti johdannon muodossa.  Tarpeen mukaan ohjataan lukijaa tarkastelemaan vaatimusmäärittelydokumentti, jos se toimeksiannon kannalta oleellista.
 
 ## 1 Projektin ja lopputuotteen kuvaus
+
+![](../assets/work-to-do.png)
+
 
 * Mikä on tavoite tila tai ratkaisu?
 
 > Tähän voidaan liittää lähteeksi vaatimusmäärittely
 
 ## 1.1 Tausta ja lähtökohdat
+
+![](../assets/work-to-do.png)
+
 
 > Projektin tavoitteena on pyrkiä yhdistämään .... on tarve kehittää” < kohdetta>… ”Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän <TTOS2070> ‑opintojakson puitteissa. ”
 Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä tehtävä. Kohde kuvaa selkeällä tavalla, usein graafiseen esitykseen tukeutuen, millaisesta järjestelmäkokonaisuudesta tai toiminnasta on kyse, johon ollaan tekemässä nyt projektissa jotain osakokonaisuutta/täydennystä. Tässä siis kuvataan nykyjärjestelmää ja asiakkaan nykyistä toimintatapaa.
@@ -35,6 +44,9 @@ Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä te
 
 ## 1.3 Projektiin liittyvät haasteet
 
+![](../assets/work-to-do.png)
+
+
 > Tarkastellaan projektin tavoitteita ja laaditaan tueksi SWOT-kuvaus, jossa tarkastellaan koko projektia ja sen toimintaympäristöä. 
 
 ![](../assets/SWOT-example.jpg)
@@ -54,11 +66,16 @@ Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä te
 
 ## 1.5 Termit ja määritelmät
 
+
+
 >Tässä kappaleessa esitellään projektisuunnitelmassa esiintyvät määritelmät, termit ja lyhenteet. Esimerkiksi eri projekteissa saattaa sanoilla "tarkastus" ja "katselmointi" olla eri merkitys ja tämä 
 > voi aiheuttaa väärinkäsityksiä. Joskus saattaa olla paikallaan sopia eri nimityksiä ryhmän tarkastuksille (oma sisäinen, asiakkaan kanssa, opintojakson suuntaan). Lyhenteet kannattaa avata 
 > alkuperäiskielelle ja lisätä lyhyt kuvaus suomeksi. Esimerkiksi CASE = Computer aided software engineering, tietokoneavusteinen systeemityö.
 
 # 2. Projektiorganisaatio
+
+![](../assets/work-to-do.png)
+
 
 > Kuka kuuluu projektiorganisaatioon? 
 > Onko projektiryhmän/tiimin lisäksi muita toimijoita?
@@ -103,6 +120,9 @@ Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä te
 
 ## 2.2 Vastuut ja päätöksentekoprosessi
 
+![](../assets/work-to-do.png)
+
+
 >Tähän kirjataan kaikkien projektiorganisaatioon kuuluvien (esim. johtoryhmä, projektipäällikkö, sihteeri, ryhmä, >ohjaajat) vastuut sekä päätöksentekoprosessi (esim. projektipäällikkö valmistelee ja esittää johtoryhmän päätettäväksi…)
 
 ## 2.3. Projektin vaiheet ja taloudelliset tavoitteet
@@ -125,6 +145,9 @@ __luovutus, käyttöönotto, ylläpito, projektin aineiston taltiointi, arkistoi
 
 ## 3.1 Osittaminen ja vaiheistus
 
+![](../assets/work-to-do.png)
+
+
 **GANTT PlantUML-muodossa**
 
 ```plantuml
@@ -145,6 +168,7 @@ sein edetään inkrementaalisesti eli ensin suunnitellaan ja toteutetaan yksi as
 
 < Mitä tavoitteita  / vaiheita projekti sisältää? (Lyhyt kuvaus kustakin)> <Mitä tuloksia kustakin vaiheesta syntyy? >
 
+![](../assets/work-to-do.png)
 
 
 * [Etappi 0](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/2)
@@ -177,6 +201,9 @@ Huom.: Seuraavassa on esitetty käynnistys- ja lopetusvaiheet. Kaikista projekti
 ”Lopettamisvaihe sisältää projektin päättämiseen liittyvät toimenpiteet. Vaiheen aikana projektiryhmä laatii projektin loppuraportin ja esityksen johtoryhmälle. Vaiheen aikana luovutetaan projektin tulos toimeksiantajalle, pidetään viimeinen johtoryhmän kokous viikolla X sekä puretaan projektin organisaatio. Lopettamisvaiheen tuloksena on projektin loppuraportti.”
 
 ## 3.2 Projektin alustavat kustannusarvio
+
+![](../assets/work-to-do.png)
+
 
 <iframe width="402" height="346" frameborder="0" scrolling="no" src="https://jamkstudent.sharepoint.com/sites/OpenProjectPlatform/_layouts/15/Doc.aspx?sourcedoc={ed6e7d24-77a1-4b0a-abf5-e26a48846387}&action=embedview&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
 
@@ -252,6 +279,9 @@ Oikeaoppiseen projektisuunnitelmaan kuuluu myös projektin keskeyttämiskriteeri
 
 ## 6.3 Projektin virallinen päättäminen
 
+![](../assets/work-to-do.png)
+
+
 >On tärkeää määritellä milloin, mihin tai miten projekti päättyy. Projektin päätös voi olla tietty päivämäärä, tietty tuotteen valmiusaste, tietty työtuntimäärä, tietty kulutettu rahasumma, kun asiakas ottaa tuotteen käyttöön, takuuaika on umpeutunut tai kun asiakas hyväksyy tuotteen.
 
 >”Projekti päättyy p.k.vvvv, jolloin projektisopimuksen voimassaoloaika päättyy.”
@@ -265,6 +295,9 @@ Oikeaoppiseen projektisuunnitelmaan kuuluu myös projektin keskeyttämiskriteeri
 >Projektin loppuraportti laaditaan viimeiseen johtoryhmän kokoukseen mennessä.
 
 ##Liitteet
+
+![](../assets/work-to-do.png)
+
 
 >Projektisuunnitelmaa täydentävät suunnitelmat esitetään liitteenä.
 
