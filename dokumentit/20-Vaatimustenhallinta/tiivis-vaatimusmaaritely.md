@@ -9,6 +9,8 @@
 >Kuvaa millaisesta projektista on kyse, hieman taustaa ja aiheeseen olennaisesti liittyviä asioita? Jos kyseessä harjoitustehtävä, niin tarkista voitko 
 käytää todellisten tilaajien oikeita nimiä! Muuta aina oletuksena henkilötiedot ja toimeksiantajan viralliset tiedot 
 
+![](../assets/work-to-do.png)
+
 >Mitä ratkaisun avulla voidaan tehdä? Millaisia ovat sen käyttäjät? Mikä sen tehtävä on yleisesti eri sidosryhmien kannalta? 
 Kannattaa nostaa esiin lyhyesti mahdolliset loppukäyttäjä ja oleellisiin palvelusta hyötyviin sidosryhmät
 
