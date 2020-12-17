@@ -1,6 +1,6 @@
-# Tiivistetty tavoitemäärittelyn runko
+# Tiivistetty vaatimusmäärittely
 
-* [SIJOITA TOIMEKSIANNON KOODI TÄHÄN] 
+* [SIJOITA TOIMEKSIANNON NIMI TÄHÄN] 
 * Projektimäärittely/vaatimusmäärittely tiivispohja v 0.2 16.10.2020 (NarsuMan)
 
 
