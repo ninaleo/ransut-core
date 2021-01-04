@@ -100,9 +100,9 @@ Step5: Myyjä esittelee tuotteen
 Step6: Asiakas pohdiskelee asiaa
 Step7: Asiakas tekee sopimuksen
 Step8: Asiakas ei ota tuotettava
-
-
-
+Step9: Myyjä suosittelee lisäpalveluita
+Step10: Jne...
+Step11: Asiakas poistuu paikalta
 
 [*] --> Step1
 Step1 --> Step2
@@ -112,7 +112,10 @@ Step3 --> Step4
 Step4 --> Step5
 Step5 --> Step6
 Step6 --> Step7
-Step7 --> Step8
+Step6 --> Step8
+Step8 --> Step11
+Step7 --> Step9
+Step 9 --> Step10
 
 ```
 
