@@ -41,15 +41,22 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 
 
 ```plantuml
-actor tilaaja
-actor ostaja
-actor sijoittaja
-actor loppukayttaja
-cloud projektin_tuotos
-tilaaja -- projektin_tuotos  : tilaa_ratkaisun
-ostaja -- projektin_tuotos  : maksaa_ratkaisusta
-sijoittaja -- projektin_tuotos  : sijoittaa_kehitykseen
-loppukayttaja -- projektin_tuotos  : kayttaa_ratkaisua
+@startmindmap
++ Tuote
+++ Asiakas
++++ Asiakkaan kaveri
++++ Asiakkaan sukulainen
+++ Kilpaileva valmistaja
++++ Kilpailijan kissa
++++ Kilpailijan koira
+-- Kauppias
+--- Varasto
+--- Noutopiste
+-- Valmistaja
+--- Valmistajan kaveri
+--- Valmistajan tiimi
+
+@endmindmap
 ```
 
 ## Sidosryhmät ja profiilit 
