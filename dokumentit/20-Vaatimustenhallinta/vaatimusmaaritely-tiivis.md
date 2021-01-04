@@ -268,11 +268,9 @@ queue "https"{
 }
 }
 
-node "Server 1 / Ubuntu" as csc 
-{
+node "Server 1 / Ubuntu" as csc{ 
 node "Frontend-service"{ 
 }
-
 node "Backend-service" {
 }
 database "MariaDB" {
