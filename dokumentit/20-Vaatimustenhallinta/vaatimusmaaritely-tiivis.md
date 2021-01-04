@@ -264,8 +264,9 @@ kuvauksen avulla voi esittää miten palvelu on tarkoitus toteuttaa käytännös
 @startuml
 actor Asiakas
 
-Node "Client_Host" as WIN10{
-node "Browser"{}
+node "Client_Host" as WIN10{
+node "Browser"{
+}
 }
 
 cloud "Network" as net{
