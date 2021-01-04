@@ -263,7 +263,7 @@ saataa olla varsin ratkaiseva pitemmällä tähtäimella. Esimerkkinä tästä o
 
 ## Palveluun liittyvät muut järjestelmät
 
-> Järjestelmien välisiä tapahtumia voi kuvata tarvittaessa esim. sekvenssikaavion muodossa. 
+> Järjestelmien välisiä yhteyksiä voidaan kuvata tarvittaessa esim. sekvenssikaavion muodossa. 
 
 ```plantuml
 node1 ->node2: Log Start Request
