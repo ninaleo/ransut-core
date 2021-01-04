@@ -296,7 +296,7 @@ node "Backend" {
 database "Mongo" {
 }
 }
-User -- https
+Asiakas -- https
 https -- rpa
 rpa -- http
 rpa -- http
