@@ -262,8 +262,7 @@ kuvauksen avulla voi esittää miten palvelu on tarkoitus toteuttaa käytännös
 
 ```plantuml
 @startuml
-actor Asiakas
-
+actor User
 node "Client_Host" as WIN10{
 node "Browser"{
 }
@@ -283,7 +282,7 @@ database "MariaDB_Container" {
 }
 
 }
-Asiakas -- Client_Host
+User -- Browser
 Browser -- https
 https -- Frontend_Container
 Frontend_Container -- Backend_Container
