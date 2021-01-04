@@ -172,7 +172,9 @@ Project starts the 2021-5-15
 [Määrittely vaihe] Starts 2021-5-15 and ends 2021-5-20
 [Suunittelu] Starts 2021-5-20 and ends 2021-6-5
 [Toteutus+suunnittelu] Starts 2021-6-5 and ends 2021-7-15
-[Hyväksyntä Testaus] Starts 2021-7-16 and ends 2021-8-1
+[Testaus+korjaus] Starts 2021-7-16 and ends 2021-8-1
+[Hyväksyntätestaus] Starts 2021-8-1 and ends 2021-8-10
+[Luovutus] Starts 2021-8-10 and ends 2021-8-15
 ```
 
 > Projektin osittamisella tarkoitetaan projektin jakamista selkeisiin osakokonaisuuksiin ja niitä vastaaviin toteutuskokonaisuuksiin (osaprojekteihin, vaiheisiin, tehtäväkokonaisuuksiin ja tehtäviin). > > Tutkimus- ja kehitysprojektien etenemiselle on tyypillistä lopputuloksen muodostuminen ja tavoitteen tarkentuminen vaihe vaiheelta. Projektin osituksen tulee perustua tähän lähtökohtaan (koskee myös > > IT-instituutin opiskelijaprojekteja). 
