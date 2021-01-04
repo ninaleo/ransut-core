@@ -300,11 +300,16 @@ Logger_Container -- MariaDB_Container
 
 ## Palveluun liittyvät muut järjestelmät
 
-> Järjestelmien välisiä yhteyksiä voidaan kuvata tarvittaessa esim. sekvenssikaavion muodossa. 
+> Järjestelmien välisiä yhteyksiä voidaan kuvata tarvittaessa esim. UML-kuvauksiin liittyvän sekvenssikaavion muodossa (Sequence Diagram). 
 
 ```plantuml
-node1 ->node2: Log Start Request
-node2 --> node1 : Logging started
+Client_Host --> Service_Frontend: Login Request
+Service_Frontend --> Service_Backend : Logging request check
+Service_Backend --> MariaDB : SQL Request for user account
+MariaDB --> Service_Backend : Account and password 
+Service_Backend --> Service_Frontend : Request Result pass
+Service_Frontend --> Client_Host : Logged in
+
 ```
 ## Standardit ja lähteet
 
