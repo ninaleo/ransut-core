@@ -124,13 +124,23 @@ Step9 --> Step10
 
 ![](../assets/work-to-do.png)
 
-
-> Hahmotellaan tähän kohtaan ominaisuudet pelkästään "ranskalaisilla viivoilla", eli mitä palvelulla mielestäsi on mahdollista tehdä?
-> Mieti tilannetta, kun joku kysyy mitä palvelulla voi tehdä? Mitä vastaat ja mitkä toiminnot nostatat esiin ehdottomasti valtteina verrattuna muihin vastaaviin palveluihin?
-> Päivitä lista myöhemmin, kun se tarkentuu? 
+> Hahmotellaan tähän kohtaan ominaisuudet pelkästään ranskalaisilla viivoilla ja MindMap-kuvauksen avulla. Eli mitä tavoitellulla ratkaisulla/palvelulla mielestäsi on mahdollista tehdä? 
+> Mieti tilannetta, kun joku kysyy sinulta mitä palvelulla voi tehdä? Saat aikaa vastata 15 sekuntia. Mitä vastaat ja mitkä toiminnot nostatat esiin ehdottomasti valtteina verrattuna muihin vastaaviin ratkaisuihin/palveluihin?
 > Tässä kohtaa kannattaa tarkistaa mitä olivat asiakkaan esittämät toiveet palvelusta? Niistä voisi löytyä ehkä joitain tässä vaiheessa?
-> Tarkemmat toiminnallisuudet tarkentuvat myöhemmin dokumentissa.  
-> Tässä vaiheessa riittää:
+
+
+- Oleelliset toiminnot (Esimerkkejä) 
+    - Asiaksi-profiili-1 voi lähettää postia toiselle henkilölle
+    - Asiakas-profiili-2 voi saada tietoa aiemmin tehdyistä valinnoista
+    - Ylläpito-henkilö voi poistaa laskun
+    - Ylläpito-henkilö voi luoda uuden laskun
+    - Voi soittaa kaverille
+    - Voi jakaa kuvan
+    - Kykenee tallettamaan tilanteen
+    - Voit liittää ryhmään uuden henkilön
+    - etc..
+
+
 
 ```plantuml
 @startmindmap
@@ -150,12 +160,7 @@ Step9 --> Step10
 @endmindmap
 ```
 
-- Oleellisia toimintoja 
-    - Asiaksi-profiili-1 voi lähettää postia toiselle henkilölle
-    - Asiakas-profiili-2 voi saada tietoa aiemmin tehdyistä valinnoista
-    - Ylläpito-henkilö voi poistaa laskun
-    - Ylläpito-henkilö voi luoda uuden laskun
-    - muita?
+
 
 ## Alustavat käyttäjätarinat
 
