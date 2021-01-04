@@ -249,10 +249,10 @@ näkökulmasta ovat seuraavat: Suorituskyky, tietoturva ja saavutettavuus
 >Mitä tarkoitetaan saavutettavuudella? Millaisia asioita/ohjeistuksia on otettava huomioon palvelua toteutettaessa?
 Tutustu [saavutettavuusdirektiiviin](https://saavutettavuusdirektiivi.fi/saavutettavuus-verkkopalveluissa/) ja kirjaa  
 
-
-| AVAILREQ-0000 | [Toiminnallinen-ominaisuus-1](ft1-ominaisuus.md) | |	
-| AVAILREQ-0001 | [Toiminnallinen-ominaisuus-2](ft2-ominaisuus.md) | |
-| AVAILREQ-0002 |  |
+| ID  | Luokka | Kuvaus | Miten testataan? |
+| AVAILREQ-0000 | Saavutettavuus | | [Testit]() |	
+| AVAILREQ-0001 | Saavutettavuus | | [Testit]() |
+| AVAILREQ-0002 | Saavutettavuus | ... | ... |
 
 
 
@@ -273,9 +273,8 @@ node2 --> node1 : Logging started
 > Vaatimusmäärittelyn osana on oleellista tuoda esiin tärkeät lähteet, joista on hyötyä tai merkitystä kokonaisuuden kannalta. Standardit ja ennalta jaetut ohjeistukset ovat hyödyllisiä lähteitä ja tarvittaessa 
 selkeyttävät vaatimusten merkitystä.
 
-| ID | Linkki |  |  
+| ID | Nimi | Linkki | Kuvaus |  
 |:-:|:-:|:-:|
-| JHS 165 ICT | http://www.jhs-suositukset.fi/c/document_library/get_file?uuid=b8118ad7-8ee4-459a-a12b-f56655e4ab9d&groupId=14 | Vaatimusmäärittely |
-| SO 9241-11 | https://fi.wikipedia.org/wiki/K%C3%A4ytett%C3%A4vyys  | Käytettävyys | 
-| ISO9001 | https://www.sfs.fi/julkaisut_ja_palvelut/tuotteet_valokeilassa/iso_9000_laadunhallinta/iso_9001_2015  | - | 
-| - | -  | - | 
+| REF1 | JHS 165 ICT | [JHS Suositukset - vaatimusmäärittelylle](http://www.jhs-suositukset.fi/c/document_library/get_file?uuid=b8118ad7-8ee4-459a-a12b-f56655e4ab9d&groupId=14) | Vaatimusmäärittelyn suositus |
+| REF2 | SO 9241-11 | [Käytettävyys](https://fi.wikipedia.org/wiki/K%C3%A4ytett%C3%A4vyys)  | Käytettävyys | 
+| REF3 | ... | ... | ... |
