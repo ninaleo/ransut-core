@@ -69,6 +69,7 @@ Nämä on hyvä tunnistaa alkuvaiheessa ja kirjata ne listaksi, jossa jokainen r
 
 
 | ID | Tyyppi | Kuvaus | 
+|:-:|:-:|:-:|
 | RISK-001 | Riski | Tuote tulee markkinoille liian myöhään |  
 | RISK-002 | Riski | Tuotettava ratkaisu liian monimutkainen |  
 | RISK-003 | Riski | ... |  
