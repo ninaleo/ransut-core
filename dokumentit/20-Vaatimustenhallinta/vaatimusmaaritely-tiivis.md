@@ -182,18 +182,7 @@ Sähköisiä ratkaisuja määriteltäessä kannattaa erottaa puhtaasti tekniset/
 | HWREQ-0005 | Tekniset vaatimukset | Verkkoyhteyden nopeus palveluun vähintään >100MB/s ||
 | HWREQ-0005 | ... | ... ||
 
-### Toimeksiannon kannalta tärkeät oleelliset rajaukset
 
-> Eri ohjelmistojena/palvelujen toteutusta ja käyttöä ohjaavat usein lait ja säädökset. Näiden edellyttämät vaatimukset voidaan kirjataan tarvittaessa vaatimusmäärittelyyn.
-Rajausten vaikutus koskee usein palvelun jonkin osa-kokonaisuuden toteuttamista. Tästä syystä eri rajoitteet on tunnistettava ajoissa, koska vaikutus 
-saataa olla varsin ratkaiseva pitemmällä tähtäimella. Esimerkkinä tästä on viime vuonna voimaan tullut [EU GDPR-säädös](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation).
-> Kannattaa tutkia esimerkiksi https://www.sfs.fi/aihealueet/terveydenhuolto/laakinnalliset_laitteet tai http://docs.jhs-suositukset.fi/jhs-suositukset/JHS190/JHS190.html
-
-| ID | Tyyppi | kategoria | Vastuullinen |
-|:-:|:-:|:-:|:-:|
-| CONSTRAIN-000  | Rajaus | Palvelun kirjautumisprosessin on noudatettava JUHTA-hyväksyttyjä käytänteitä  | [Kirjautuminen ft1](pohjat/pohja-ominaisuus.md) |
-| CONSTRAIN-001 | Rajaus | On huomioitava Standardi ZZZ osana palvelun tapahtuma login talletusta | [Log-palvelin](pohjat/pohja-ominaisuus.md)|
-| CONSTRAIN-002 | Rajaus | ... | ... |
 
 
 # Toiminnalliset vaatimukset (Functional Requirements)
@@ -255,7 +244,18 @@ Tutustu [saavutettavuusdirektiiviin](https://saavutettavuusdirektiivi.fi/saavute
 | AVAILREQ-0001 | Saavutettavuus | | [Testit]() |
 | AVAILREQ-0002 | Saavutettavuus | ... | ... |
 
+### Toimeksiannon kannalta tärkeät oleelliset rajaukset
 
+> Eri ohjelmistojena/palvelujen toteutusta ja käyttöä ohjaavat usein lait ja säädökset. Näiden edellyttämät vaatimukset voidaan kirjataan tarvittaessa vaatimusmäärittelyyn.
+Rajausten vaikutus koskee usein palvelun jonkin osa-kokonaisuuden toteuttamista. Tästä syystä eri rajoitteet on tunnistettava ajoissa, koska vaikutus 
+saataa olla varsin ratkaiseva pitemmällä tähtäimella. Esimerkkinä tästä on viime vuonna voimaan tullut [EU GDPR-säädös](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation).
+> Kannattaa tutkia esimerkiksi https://www.sfs.fi/aihealueet/terveydenhuolto/laakinnalliset_laitteet tai http://docs.jhs-suositukset.fi/jhs-suositukset/JHS190/JHS190.html
+
+| ID | Tyyppi | kategoria | Vastuullinen |
+|:-:|:-:|:-:|:-:|
+| CONSTRAIN-000  | Rajaus | Palvelun kirjautumisprosessin on noudatettava JUHTA-hyväksyttyjä käytänteitä  | [Kirjautuminen ft1](pohjat/pohja-ominaisuus.md) |
+| CONSTRAIN-001 | Rajaus | On huomioitava Standardi ZZZ osana palvelun tapahtuma login talletusta | [Log-palvelin](pohjat/pohja-ominaisuus.md)|
+| CONSTRAIN-002 | Rajaus | ... | ... |
 
 
 
