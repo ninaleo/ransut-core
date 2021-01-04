@@ -246,12 +246,15 @@ näkökulmasta ovat seuraavat: Suorituskyky, tietoturva ja saavutettavuus
 
 ![](../assets/work-to-do.png)
 
+>Mitä tarkoitetaan saavutettavuudella? Millaisia asioita/ohjeistuksia on otettava huomioon palvelua toteutettaessa?
+Tutustu [saavutettavuusdirektiiviin](https://saavutettavuusdirektiivi.fi/saavutettavuus-verkkopalveluissa/) ja kirjaa  
 
->Mitä tarkoitetaan äyttävyydellä? Millaisia asioita/ohjeistuksia on otettava huomioon palvelua toteutettaessa?
 
-* AVAILABILITY-REQ-0000 | [Toiminnallinen-ominaisuus-1](ft1-ominaisuus.md) | |	
-* AVAILABILITY-REQ-0001 | [Toiminnallinen-ominaisuus-2](ft2-ominaisuus.md) | |
-* AVAILABILITY-REQ-0002 |  |
+| AVAILREQ-0000 | [Toiminnallinen-ominaisuus-1](ft1-ominaisuus.md) | |	
+| AVAILREQ-0001 | [Toiminnallinen-ominaisuus-2](ft2-ominaisuus.md) | |
+| AVAILREQ-0002 |  |
+
+
 
 
 
