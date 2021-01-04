@@ -264,6 +264,10 @@ kuvauksen avulla voi esittää miten palvelu on tarkoitus toteuttaa käytännös
 @startuml
 actor Asiakas
 
+Node "Client_Host" as WIN10{
+node "Browser"{}
+}
+
 cloud "Network" as net{
 queue "https"{
 }
@@ -278,7 +282,8 @@ database "MariaDB_Container" {
 }
 
 }
-Asiakas -- https
+Asiakas -- Client_Host
+Browser -- https
 https -- Frontend_Container
 Frontend_Container -- Backend_Container
 Backend_Container -- MariaDB_Container
