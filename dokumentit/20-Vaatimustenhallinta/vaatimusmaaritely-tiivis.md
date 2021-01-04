@@ -14,7 +14,9 @@ käytää todellisten tilaajien oikeita nimiä! Muuta aina oletuksena henkilöti
 >Mitä ratkaisun avulla voidaan tehdä? Millaisia ovat sen käyttäjät? Mikä sen tehtävä on yleisesti eri sidosryhmien kannalta? 
 Kannattaa nostaa esiin lyhyesti mahdolliset loppukäyttäjä ja oleellisiin palvelusta hyötyviin sidosryhmät
 
-## Mindmap-yleiskuvaus
+**Mindmap-yleiskuvaus**
+
+Mitä projektin tavoitteet ovat esim. MindMap-muodossa Pohjana esimerkki ohjelmistoratkaisun sisältämisitä toiminnallisuuksista. 
 
 ```plantuml
 @startmindmap
@@ -25,12 +27,12 @@ Kannattaa nostaa esiin lyhyesti mahdolliset loppukäyttäjä ja oleellisiin palv
 ++ Toiminnallisuus B
 +++ Toiminto 3
 +++ Toiminto 4
--- Toiminnallisus C
---- Toiminto 5
---- Toiminto 6
--- Toiminnallisuus D
---- Toiminto 7
---- Toiminto 8
+-- Toiminnallisus C - Viestin suojaus
+--- Toiminto 5 - Suojauksen valinta
+--- Toiminto 6 - Suojauksen vaihto
+-- Toiminnallisuus D - Viestintä
+--- Toiminto 7 - Viestin lähetys
+--- Toiminto 8 - Viestin kuittaus
 
 @endmindmap
 ```
