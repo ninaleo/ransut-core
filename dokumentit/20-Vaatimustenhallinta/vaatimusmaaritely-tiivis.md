@@ -255,7 +255,7 @@ saataa olla varsin ratkaiseva pitemmällä tähtäimella. Esimerkkinä tästä o
 
 
 
-### Palvelun yleinen rakenne sijoittelunäkymänä (Deployment diagram)
+### Palvelun yleinen rakenne UML-sijoittelunäkymänä (Deployment diagram)
 
 > Vaatimusmäärittelyn apuna sovelletaan usein kuvia, joista esimerkkinä UML-kuvauskieleen liittyvä sijoittelu näkymä, eli "Deployment Diagram",
 kuvauksen avulla voi esittää miten palvelu on tarkoitus toteuttaa käytännössä. Missä sijaitsevat eri osat palvelusta ja miten eri osat on kytketty toisiinsa.
@@ -273,12 +273,14 @@ queue "https"{
 }
 }
 
-node "Palvelin 1 / Ubuntu 20.04" as AWS{ 
+node "Uno Server / Ubuntu 20.04" as AWS{ 
 node "Frontend_Container"{ 
 }
 node "Backend_Container" {
 }
 database "MariaDB_Container" {
+}
+node "Logger_Container" {
 }
 
 }
@@ -287,6 +289,9 @@ Browser -- https
 https -- Frontend_Container
 Frontend_Container -- Backend_Container
 Backend_Container -- MariaDB_Container
+Logger_Container -- Frontend_Container
+Logger_Container -- Backend_Container
+Logger_Container -- MariaDB_Container
 
 @enduml
 ```
