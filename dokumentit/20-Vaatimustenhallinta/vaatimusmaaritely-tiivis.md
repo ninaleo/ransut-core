@@ -256,6 +256,54 @@ saataa olla varsin ratkaiseva pitemmällä tähtäimella. Esimerkkinä tästä o
 
 ### Palvelun yleinen rakenne sijoittelunäkymänä (Deployment diagram)
 
+```plantuml
+@startuml
+actor User
+
+cloud "Internet" as net{
+queue "https"{
+}
+}
+
+node "CSC srv1 / Ubuntu" as csc {
+queue http {
+}
+node Docker {
+node "Frontend" {
+}
+node "Backend" {
+}
+database "Mongo" {
+}
+}
+card "Reverse Proxy / Apache" as rpa {
+}
+}
+queue SSH {
+}
+node "CSC srv2 / Ubuntu" as csc2 {
+database "database backup" as dbb {
+}
+database "sercive logs backup" as slb {
+}
+node "Backend" {
+}
+database "Mongo" {
+}
+}
+User -- https
+https -- rpa
+rpa -- http
+rpa -- http
+Backend -- Mongo
+http -- Backend
+http -- Frontend
+csc -- SSH
+SSH -- slb
+SSH -- dbb
+@enduml
+```
+
 ## Palveluun liittyvät muut järjestelmät
 
 > Järjestelmien välisiä yhteyksiä voidaan kuvata tarvittaessa esim. sekvenssikaavion muodossa. 
