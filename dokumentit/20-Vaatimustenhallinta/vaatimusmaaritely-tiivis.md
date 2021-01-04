@@ -67,10 +67,11 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 > Millaisia riskeja liittyy ratkaisun/ohjelmiston/tuoteen kehittämiseen, tuotteen markkinoihin, mahdollisiin kilpailijoihin, resursseihin? 
 Nämä on hyvä tunnistaa alkuvaiheessa ja kirjata ne listaksi, jossa jokainen riski kuvataan itsenäisen tunnisteen avulla
 
-* RISK-001 - Riskin kuvaus 
-* RISK-002 - Riskin kuvaus
-* RISK-003 - Riskin kuvaus
-* RISK-004 - Riskin kuvaus
+
+| ID | Tyyppi | Kuvaus | 
+| RISK-001 | Riski | Tuote tulee markkinoille liian myöhään |  
+| RISK-002 | Riski | Tuotettava ratkaisu liian monimutkainen |  
+| RISK-003 | Riski | ... |  
 
 > Avainsanat SWOT, Riskianalyysi
 
