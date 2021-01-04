@@ -101,9 +101,9 @@ Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä te
 +++ Testipäällikkö
 +++ Testaaja
 +++ Käytettävyystestaaja
-++ Verottaja
-+++ Karhu
-+++ Virkailija
+-- Verottaja
+--- Itse Karhu
+--- Virkailija
 
 @endmindmap
 ```
