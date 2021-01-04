@@ -197,13 +197,13 @@ Huom.: Seuraavassa on esitetty käynnistys- ja lopetusvaiheet. Kaikista projekti
 
 **Etappi 0**
 
-”Vaiheen tuloksia ovat ryhmän imagon (nimi, logo ym.) luominen, webbisivut tms. sekä projektisopimus liitteineen.”
+>”Vaiheen tuloksia ovat ryhmän imagon (nimi, logo ym.) luominen, webbisivut tms. sekä projektisopimus liitteineen.”
 
 **Etappi X**
 
 **Lopetus p.k.vvvv – p.k.vvvv (X h)**
 
-”Lopettamisvaihe sisältää projektin päättämiseen liittyvät toimenpiteet. Vaiheen aikana projektiryhmä laatii projektin loppuraportin ja esityksen johtoryhmälle. Vaiheen aikana luovutetaan projektin tulos toimeksiantajalle, pidetään viimeinen johtoryhmän kokous viikolla X sekä puretaan projektin organisaatio. Lopettamisvaiheen tuloksena on projektin loppuraportti.”
+>”Lopettamisvaihe sisältää projektin päättämiseen liittyvät toimenpiteet. Vaiheen aikana projektiryhmä laatii projektin loppuraportin ja esityksen johtoryhmälle. Vaiheen aikana luovutetaan projektin tulos toimeksiantajalle, pidetään viimeinen johtoryhmän kokous viikolla X sekä puretaan projektin organisaatio. Lopettamisvaiheen tuloksena on projektin loppuraportti.”
 
 ## 3.2 Projektin alustavat kustannusarvio
 
@@ -260,10 +260,9 @@ Liitä seuraava osio tähän mukaan: [Riskienhallintataulukko]()
 * [Muu annettu dokumentaatio]()
 
 
-##4.7 Suunnitelmien tarkistus- ja päivitysajankohdat 
+## 4.7 Suunnitelmien tarkistus- ja päivitysajankohdat 
 
-Projektisuunnitelman avulla reagoidaan poikkeamiin ja ympäristömuutoksiin, joten sitä päivitetään projektin aikana. Tähän kohtaan kirjataan ne ajankohdat, jolloin suunnitelman ajantasaisuus ainakin on tarkistettava.
-
+>Projektisuunnitelman avulla reagoidaan poikkeamiin ja ympäristömuutoksiin, joten sitä päivitetään projektin aikana. Tähän kohtaan kirjataan ne ajankohdat, jolloin suunnitelman ajantasaisuus ainakin on tarkistettava.
 
 ## 4.8 Projektin keskeyttämiskriteerit
 
@@ -281,12 +280,13 @@ Oikeaoppiseen projektisuunnitelmaan kuuluu myös projektin keskeyttämiskriteeri
 
 ## 6.2 Projektin tuottaman aineiston taltiointi, arkistointi ja säilytysaika
 
->”Projektiryhmien dokumentaatiosta IT-instituutille jäävä osa tallennetaan GitHubiin.” Toimeksiantajan tulee selkeästi määritellä, mitkä dokumentit voidaan jättää opiksi seuraaville projekteille. Tyypillisesti eri suunnitelmat ja loppuraportti ovat tällaisia dokumentteja. 
+>”Projektiryhmien dokumentaatiosta jäävä osa tallennetaan X-järjestelmään” 
+>Toimeksiantajan kanssa tulee tarvittaessa voida sopia, mitkä dokumentit voidaan jättää opiksi seuraaville projekteille. 
+>Tyypillisesti eri suunnitelmat ja loppuraportti sopivin osin ovat tällaisia dokumentteja. 
 
 ## 6.3 Projektin virallinen päättäminen
 
 ![](../assets/work-to-do.png)
-
 
 >On tärkeää määritellä milloin, mihin tai miten projekti päättyy. Projektin päätös voi olla tietty päivämäärä, tietty tuotteen valmiusaste, tietty työtuntimäärä, tietty kulutettu rahasumma, kun asiakas ottaa tuotteen käyttöön, takuuaika on umpeutunut tai kun asiakas hyväksyy tuotteen.
 
@@ -300,12 +300,3 @@ Oikeaoppiseen projektisuunnitelmaan kuuluu myös projektin keskeyttämiskriteeri
 
 >Projektin loppuraportti laaditaan viimeiseen johtoryhmän kokoukseen mennessä.
 
-##Liitteet
-
-![](../assets/work-to-do.png)
-
-
->Projektisuunnitelmaa täydentävät suunnitelmat esitetään liitteenä.
-
-* [Viesintäsuunnitelma]()
-* [Riskienhallinta]()
