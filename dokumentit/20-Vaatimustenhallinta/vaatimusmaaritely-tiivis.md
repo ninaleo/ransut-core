@@ -278,15 +278,7 @@ database "MariaDB" {
 
 }
 Asiakas -- https
-https -- rpa
-rpa -- http
-rpa -- http
-Backend -- Mongo
-http -- Backend
-http -- Frontend
-csc -- SSH
-SSH -- slb
-SSH -- dbb
+https -- Frontend-service
 @enduml
 ```
 
