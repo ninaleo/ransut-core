@@ -269,70 +269,23 @@ queue "https"{
 }
 }
 
-node "Server 1 / Ubuntu" as csc{ 
-node "Frontend"{ 
+node "Palvelin 1 / Ubuntu 20.04" as AWS{ 
+node "Frontend_Container"{ 
 }
-node "Backend" {
+node "Backend_Container" {
 }
-database "MariaDB" {
+database "MariaDB_Container" {
 }
 
 }
 Asiakas -- https
-https -- Frontend
+https -- Frontend_Container
+Frontend_Conainer -- Backend_Container
 
 @enduml
 ```
 
 
-
-```plantuml
-@startuml
-actor Asiakas
-
-cloud "Networok" as net{
-queue "https"{
-}
-}
-
-node "Server 1 / Ubuntu" as csc {
-queue http {
-}
-node Container {
-node "Frontend-service" {
-}
-node "Backend-service" {
-}
-database "MariaDB" {
-}
-}
-card "Reverse Proxy / Apache" as rpa {
-}
-}
-queue SSH {
-}
-node "Server 2 / Ubuntu" as csc2 {
-database "database backup" as dbb {
-}
-database "sercive logs backup" as slb {
-}
-node "Backend" {
-}
-database "Mongo" {
-}
-}
-Asiakas -- https
-https -- rpa
-rpa -- http
-rpa -- http
-Backend -- Mongo
-http -- Backend
-http -- Frontend
-csc -- SSH
-SSH -- slb
-SSH -- dbb
-@enduml
-```
 
 ## Palveluun liittyvät muut järjestelmät
 
