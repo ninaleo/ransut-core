@@ -62,9 +62,9 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 -- Kauppias
 --- Varasto
 --- Noutopiste
--- Valmistaja
---- Valmistajan kaveri
---- Valmistajan tiimi
+-- Haasteelliset asiakkaat
+--- Kiusantekijä
+--- Satunnainen säätäjä
 
 @endmindmap
 ```
