@@ -58,6 +58,7 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 > Eritellään sidosryhmäkartasta eri sidosryhmät/profiilit listaksi.  Tarvittaessa kuvataan tarkemmin valitut sidosryhmät ja tarkennetaan niitä, jos toimeksianto sitä edellyttää
 
 | ID | Tyyppi | Nimi | Kuvaus | Motivaatio |
+|:-:|:-:|:-:|
 | SR-001 | Sidosryhmä/Profiili | Asiakas A | Mies 50-60 V |
 | SR-002 | Sidosryhmä/Profiili | Rahoittaja | Sijoittajat HEX | 
 | SR-003 | Sidosryhmä/Profiili | [Asiakas C - Profiili 1 ](pohjat/pohja-profiilikuvaus.md) |   |
@@ -223,19 +224,17 @@ näkökulmasta ovat seuraavat: Suorituskyky, tietoturva ja saavutettavuus
 
 >Millaisia vaatimuksia palveluun kohdistuu suorituskyvyn näkökulmasta?
 
-* PERFORMANCE-REQ-0000 | Non-Functional Performance | Kirjautuminen on mahdollista yhtäaikaa 100 käyttäjällä (100 request/s) | [Kirjautuminen ft1](ft1-ominaisuus.md) |								
-* PERFORMANCE-REQ-0001 | Non-Functional Performance |||
-* PERFORMANCE-REQ-0002 | Non-Functional Performance |||
-
+| ID | Tyyppi | Kuvaus |
+|:-:|:-:|:-:|
+| PERFREQ-0000 | Suorituskyky | Kirjautuminen on mahdollista yhtäaikaa 100 käyttäjällä (100 request/s) |					
+| PERFREQ-0001 | Suorituskyky | Palvelun maksimi käyttäjä määrä on ? |
+| PERFREQ-0002 | Suorituskyky | ... ||
 
 ## Tietoturva vaatimukset
 
 ![](../assets/work-to-do.png)
 
-
 >Millaisia vaatimuksia palveluun kohdistuu tietoturvan näkökulmasta?
-
-> Tutustu [Ssecurity cards-metodiin](http://securitycards.cs.washington.edu/cards.html)
 
 * SECURITY-REQ-0001 | Salasanassa on käytettävä vähintään MD5-tason salausta, koska standardi XY112 sitä edellyttää | [Kirjautuminen ft1](ft1-ominaisuus.md) |
 * SECURITY-REQ-0002 |||
