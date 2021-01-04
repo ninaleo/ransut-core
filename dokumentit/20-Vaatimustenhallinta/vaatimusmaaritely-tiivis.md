@@ -250,6 +250,7 @@ näkökulmasta ovat seuraavat: Suorituskyky, tietoturva ja saavutettavuus
 Tutustu [saavutettavuusdirektiiviin](https://saavutettavuusdirektiivi.fi/saavutettavuus-verkkopalveluissa/) ja kirjaa  
 
 | ID  | Luokka | Kuvaus | Miten testataan? |
+|:-:|:-:|:-:|:-:|
 | AVAILREQ-0000 | Saavutettavuus | | [Testit]() |	
 | AVAILREQ-0001 | Saavutettavuus | | [Testit]() |
 | AVAILREQ-0002 | Saavutettavuus | ... | ... |
