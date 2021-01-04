@@ -68,22 +68,17 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 
 @endmindmap
 ```
-
-## Sidosryhmät ja profiilit 
+**Sidosryhmät ja profiilit** 
 
 > Eritellään sidosryhmäkartasta eri sidosryhmät/profiilit listaksi.  Tarvittaessa kuvataan tarkemmin valitut sidosryhmät ja tarkennetaan niitä, jos toimeksianto sitä edellyttää
 
-![](../assets/work-to-do.png)
 
-
-* [Sidosryhmä-001](pohjat/pohja-profiilikuvaus.md) 
-* [Sidosryhmä-002](pohjat/pohja-profiilikuvaus.md) 
-* [Sidosryhmä-003]() 
-* [Sidosryhmä-004]()
-* [Sidosryhmä-005]()
+* [Asiakas](pohjat/pohja-profiilikuvaus.md) 
+* [Asiakkaan kaveri](pohjat/pohja-profiilikuvaus.md) 
+* [Kilpaileva valmistja]() 
+* [Kauppias]()
 
 ## Tunnistetut riskit
-
 
 ![](../assets/work-to-do.png)
 
