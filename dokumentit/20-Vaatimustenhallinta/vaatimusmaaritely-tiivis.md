@@ -54,13 +54,13 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 
 ![](../assets/work-to-do.png)
 
-> Kuvataan tarkemmin sidosryhmäkartasssa esiteltyhä sidosryhmiä/profiileja. Tarvittaessa kuvataan tarkemmin valitut sidosryhmät ja tarkennetaan niitä, jos toimeksianto sitä edellyttää. Tähän sovelletaan alisivuja, joita tarpeen mukaan kopioidaan "pohjat"-kansiosta Katso esim. **Asiakas C**
+> Kuvataan tarkemmin sidosryhmäkartasssa esiteltyhä sidosryhmiä/profiileja. Tarvittaessa kuvataan tarkemmin valitut sidosryhmät ja tarkennetaan niitä, jos toimeksianto sitä edellyttää. Tähän sovelletaan alisivuja, joita tarpeen mukaan kopioidaan "pohjat"-kansiosta Katso esim. **Asiakas B**
 
 | ID | Tyyppi | Nimi | Kuvaus | Motivaatio |
 |:-:|:-:|:-:|:-:|:-:|
 | SR-001 | Sidosryhmä/Profiili | Asiakas A | Mies 50-60 V | Olemassa oleva tarve palvelulle |
 | SR-002 | Sidosryhmä/Profiili | Rahoittaja | Sijoittajat HEX | Osingot ja tuotot |
-| SR-003 | Sidosryhmä/Profiili | [Asiakas C - Profiili 1 ](pohjat/pohja-profiilikuvaus.md) | ?  |
+| SR-003 | Sidosryhmä/Profiili | [Asiakas B - Profiili 1 ](pohjat/pohja-profiilikuvaus.md) | Tavallisin asiakas  |
 | SR-004 | Sidosryhmä/Profiili | Verottaja | Kerätä verotuloja  |
 
 ## Tunnistetut riskit
@@ -130,14 +130,14 @@ Step9 --> Step10
 
 
 - Oleelliset toiminnot (Esimerkkejä) 
-    - Asiaksi-profiili-1 voi lähettää postia toiselle henkilölle
-    - Asiakas-profiili-2 voi saada tietoa aiemmin tehdyistä valinnoista
-    - Ylläpito-henkilö voi poistaa laskun
-    - Ylläpito-henkilö voi luoda uuden laskun
-    - Voi soittaa kaverille
-    - Voi jakaa kuvan
-    - Kykenee tallettamaan tilanteen
-    - Voit liittää ryhmään uuden henkilön
+    - Asiakas_A voi lähettää postia toiselle henkilölle
+    - Asiakas_A voi saada tietoa aiemmin tehdyistä valinnoista
+    - Ylläpito-henkilö voi poistaa laskun Asiakaalta
+    - Ylläpito-henkilö voi luoda uuden laskun Asiakkaalle 
+    - Asiakas_A voi soittaa tuntemalleen kaverille
+    - Asiakas_B voi jakaa kuvan
+    - Asiakas_B kykenee tallettamaan tilanteen
+    - Asiakas_B voi liittää Asiakkaan_A ryhmään uuden henkilön
     - etc..
 
 
