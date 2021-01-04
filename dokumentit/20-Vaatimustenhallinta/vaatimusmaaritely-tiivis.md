@@ -101,7 +101,7 @@ Step6: Asiakas pohdiskelee asiaa
 Step7: Asiakas tekee sopimuksen
 Step8: Asiakas ei ota tuotettava
 Step9: Myyjä suosittelee lisäpalveluita
-Step10: Jne...
+Step10: Jne
 Step11: Asiakas poistuu paikalta
 
 [*] --> Step1
