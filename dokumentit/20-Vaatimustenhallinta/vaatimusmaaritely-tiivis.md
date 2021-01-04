@@ -268,28 +268,16 @@ queue "https"{
 }
 }
 
-node "Server 1 / Ubuntu" as csc {
-node "Frontend-service" {
+node "Server 1 / Ubuntu" as csc 
+{
+node "Frontend-service"{ 
 }
+
 node "Backend-service" {
 }
 database "MariaDB" {
 }
-}
-card "Reverse Proxy / Apache" as rpa {
-}
-}
-queue SSH {
-}
-node "Server 2 / Ubuntu" as csc2 {
-database "database backup" as dbb {
-}
-database "sercive logs backup" as slb {
-}
-node "Backend" {
-}
-database "Mongo" {
-}
+
 }
 Asiakas -- https
 https -- rpa
