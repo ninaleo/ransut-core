@@ -259,6 +259,51 @@ saataa olla varsin ratkaiseva pitemmällä tähtäimella. Esimerkkinä tästä o
 > Vaatimusmäärittelyn apuna sovelletaan usein kuvia, joista esimerkkinä UML-kuvauskieleen liittyvä sijoittelu näkymä, eli "Deployment Diagram",
 kuvauksen avulla voi esittää miten palvelu on tarkoitus toteuttaa käytännössä. Missä sijaitsevat eri osat palvelusta ja miten eri osat on kytketty toisiinsa.
 
+```plantuml
+@startuml
+actor Asiakas
+
+cloud "Network" as net{
+queue "https"{
+}
+}
+
+node "Server 1 / Ubuntu" as csc {
+node "Frontend-service" {
+}
+node "Backend-service" {
+}
+database "MariaDB" {
+}
+}
+card "Reverse Proxy / Apache" as rpa {
+}
+}
+queue SSH {
+}
+node "Server 2 / Ubuntu" as csc2 {
+database "database backup" as dbb {
+}
+database "sercive logs backup" as slb {
+}
+node "Backend" {
+}
+database "Mongo" {
+}
+}
+Asiakas -- https
+https -- rpa
+rpa -- http
+rpa -- http
+Backend -- Mongo
+http -- Backend
+http -- Frontend
+csc -- SSH
+SSH -- slb
+SSH -- dbb
+@enduml
+```
+
 
 
 ```plantuml
