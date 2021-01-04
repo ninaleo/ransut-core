@@ -91,16 +91,13 @@ Nämä on hyvä tunnistaa alkuvaiheessa ja kirjata ne listaksi, jossa jokainen r
 > Sovella esim. PlantUML SDL/Swimlane kuvausta?
 
 ```plantuml
-[*] --> Asiakas_astuu_sisaan
-Asiakas_astuu_sisaan : Ensimmainen kontakti 
-Step3 : Under Service 
-Step3 : End of service
-Step4 : Queue for service 
-Asiakas_astuu_sisaan --> Step2
-Step1 --> Step4
-Step4 --> Step2
+Step1: Ovesta sisään 
+Step2: Palveluun tutustuminen
+Step3: Palvelun hylkääminen
+
+[*] --> Step1
+Step1 --> Step2
 Step2 --> Step3
-Step3 --> [*]
 ```
 
 ## Tärkeimmät toiminnallisuudet/ominaisuudet
