@@ -256,24 +256,29 @@ saataa olla varsin ratkaiseva pitemmällä tähtäimella. Esimerkkinä tästä o
 
 ### Palvelun yleinen rakenne sijoittelunäkymänä (Deployment diagram)
 
+> Vaatimusmäärittelyn apuna sovelletaan usein kuvia, joista esimerkkinä UML-kuvauskieleen liittyvä sijoittelu näkymä, eli "Deployment Diagram",
+kuvauksen avulla voi esittää miten palvelu on tarkoitus toteuttaa käytännössä. Missä sijaitsevat eri osat palvelusta ja miten eri osat on kytketty toisiinsa.
+
+
+
 ```plantuml
 @startuml
-actor User
+actor Asiakas
 
-cloud "Internet" as net{
-queue "https"{
+cloud "Networok" as net{
+queue "https-connection"{
 }
 }
 
-node "CSC srv1 / Ubuntu" as csc {
+node "Server 1 / Ubuntu" as csc {
 queue http {
 }
-node Docker {
-node "Frontend" {
+node Container {
+node "Frontend-service" {
 }
-node "Backend" {
+node "Backend-service" {
 }
-database "Mongo" {
+database "MariaDB" {
 }
 }
 card "Reverse Proxy / Apache" as rpa {
@@ -281,7 +286,7 @@ card "Reverse Proxy / Apache" as rpa {
 }
 queue SSH {
 }
-node "CSC srv2 / Ubuntu" as csc2 {
+node "Server 2 / Ubuntu" as csc2 {
 database "database backup" as dbb {
 }
 database "sercive logs backup" as slb {
