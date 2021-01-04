@@ -246,6 +246,15 @@ Huom.: Seuraavassa on esitetty käynnistys- ja lopetusvaiheet. Kaikista projekti
 
 >Listataan riskit, arvioidaan niiden vakavuus ja todennäköisyys ja koetetaan miettiä toimenpiteet kuinka vakavimmat/todennäköisimmät riskit voitaisiin ehkäistä jo ennalta. Lisäksi olisi hyvä olla suunnitelma kuinka toimitaan, jos riski toteutuu.
 
+
+> Kirjataan alla olevaan taulukkoon projektiin kohdistuvat riskit ja pidetään niitä yllä tarpeen mukaan. Jokaiselle riskille annetaan yksilöllinen tunniste esim. RIS007, koska tämä helpottaa niiden käsittelyä eri tilanteissa.
+
+| ID |	Kuvaus | Vakavuus | Todennäköisyys | Kuka vastaa | Mitä toimintaan riskin ilmentyessä? | 
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| RIS-001 | Ryhmän jäsen sairastuu flunssaan |  V3 | 60 % |[Tiimin jäsen 1]() | Ilmoita [tiiminvetajalle]() ja tarvittaesssa [toimeksiantajalle](). |
+| RIS-002 | Sähköt katkeavat kehitystyön aikana | V5 | 10 %  | [Tiimin jäsen 2]() | Varmistetaan, että kaikilla on käytössään varayhteydet esim. puhelimella |
+| RIS-003 | ... | ... | ...  | ... |
+
 Liitä seuraava osio tähän mukaan: [Riskienhallintataulukko]()
 
 
