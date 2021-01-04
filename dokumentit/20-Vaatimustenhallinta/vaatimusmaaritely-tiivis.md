@@ -169,21 +169,17 @@ Step9 --> Step10
 * User Story: [Pääkäyttäjän haluan poistaa vanhat tunnukset kokonaan, koska se selkeyttää ylläpitoa]()
 * Käytännössä ylempi kuvaus on hieman jäykkä ja on järkevitä kirjata storyt suoraan esim. GitLab-issuen muotoon! 
 
-## Tekniset vaatimukset
+## Yleiset tekniset vaatimukset
 
-> Teknisiä ratkaisuja määriteltäessa on hyvä tunnistaa eri teknologiat, laitteistoihin tai palvelun vaatimiin fyysisiin ratkaisuihin. 
-Sähköisiä ratkaisuja määriteltäessä kannattaa erottaa puhtaasti tekniset/tuotannolliset vaatimukset ja kirjata ne vaatimusmäärittelyyn teknisinä vaatimuksina. 
+> Teknisiä ratkaisuja määriteltäessa on hyvä tunnistaa tarvittavat teknologiat, laitteistot tai muut tarvittavat fyysiset ratkaisut. 
+Ohjelmiostoratkaisuja määriteltäessä kannattaa erottaa puhtaasti tekniset/tuotannolliset vaatimukset ja kirjata ne vaatimusmäärittelyyn esimerkiksi teknisinä vaatimuksina. 
 
 | ID | Tyyppi | Kuvaus | 
 |:-:|:-:|:-:|
 | HWREQ-0002 | Tekniset vaatimukset | Palvelun tärkeimpien palvelujen on oltava vähintään kahdennettu N+1 | |
-| HWREQ-0003 | Tekniset vaatimukset | Palvelimien vähimmäis muistikapasiteeti >32GB  ||
-| HWREQ-0005 | Tekniset vaatimukset | Palvelimen fyysinen sijainti on kotimaassa (FI) ||
-| HWREQ-0005 | Tekniset vaatimukset | Verkkoyhteyden nopeus palveluun vähintään >100MB/s ||
+| HWREQ-0003 | Tekniset vaatimukset | Palvelimen muistikapasiteeti >32GB  ||
+| HWREQ-0005 | Tekniset vaatimukset | Palvelimen fyysinen sijainti on oltava EU-aluella| |
 | HWREQ-0005 | ... | ... ||
-
-
-
 
 # Toiminnalliset vaatimukset (Functional Requirements)
 
@@ -209,7 +205,6 @@ näkökulmasta ovat seuraavat: Suorituskyky, tietoturva ja saavutettavuus
 ## Suorituskykyyn liittyvät vaatimukset
 
 ![](../assets/work-to-do.png)
-
 
 >Millaisia vaatimuksia palveluun kohdistuu suorituskyvyn näkökulmasta?
 
