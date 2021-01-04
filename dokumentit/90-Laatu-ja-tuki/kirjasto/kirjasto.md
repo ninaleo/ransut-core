@@ -30,6 +30,9 @@ Alle on kerätty hyödyllisiä lähteitä, joista on apua projektien kanssa toim
 
 ## Tietoturva
 
+* Tutustu [Security Cards-metodiin](http://securitycards.cs.washington.edu/cards.html)
+
+
 ## 
 
 ## Ohjelmistokehityksen ohjeita
