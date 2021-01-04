@@ -269,16 +269,17 @@ queue "https"{
 }
 
 node "Server 1 / Ubuntu" as csc{ 
-node "Frontend-service"{ 
+node "Frontend"{ 
 }
-node "Backend-service" {
+node "Backend" {
 }
 database "MariaDB" {
 }
 
 }
 Asiakas -- https
-https -- Frontend-service
+https -- Frontend
+
 @enduml
 ```
 
