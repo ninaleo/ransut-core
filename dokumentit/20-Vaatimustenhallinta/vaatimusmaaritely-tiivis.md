@@ -20,7 +20,7 @@ Mitä projektin tavoitteet ovat esim. MindMap-muodossa Pohjana esimerkki ohjelmi
 
 ```plantuml
 @startmindmap
-+ Tuote
++ Tuote, eli tuotettava ratkaisu
 ++ Toiminnallisuus A
 +++ Toiminto 1
 +++ Toiminto 2
