@@ -287,6 +287,10 @@ Oikeaoppiseen projektisuunnitelmaan kuuluu myös projektin keskeyttämiskriteeri
 
 # 5. Tiedonvälitys ja projektin etenemisen seuranta (viestintäsuunnitelma)
 
+## 5.1 Viestintäsuunnitelma
+
+>Viestintäsuunnitelman tarkoituksena on määritellä X projektin yhteydessä käytetyt viestintämenetelmät ja kanavat. Selkeällä ja yhdenmukaisella viestinnällä varmistetaan >informaation kulku ja vaikutetaan projektin laatutavoitteiden toteutumiseen. Suunnitelma voidaan laatia osana projektisuunnitelmaa tai siihen voidaan viitata omana [alasivunaan](../10-Projektihallinta/viestintasuunnitelma.md)
+
 >Listaa projektissa sovitut työtilat ja viestintävälineet, palaverikäytäntö ja yhteydenpito, raportointi ja tiedotus.
 
 # 6. Projektin päättyminen
@@ -312,6 +316,9 @@ Oikeaoppiseen projektisuunnitelmaan kuuluu myös projektin keskeyttämiskriteeri
 ## 6.4 Lopetustilaisuus
 
 >Yleensä projektit päätetään yhteiseen päätösseminaariin. Tähän kirjataan osallistujat ja ajankohta. 
+
+* Saunailta :)?
+
 
 ## 6.5 Projektin loppuraportti
 
