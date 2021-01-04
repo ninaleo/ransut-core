@@ -63,7 +63,7 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 > Kuvataan tarkemmin sidosryhmäkartasssa esiteltyhä sidosryhmiä/profiileja. Tarvittaessa kuvataan tarkemmin valitut sidosryhmät ja tarkennetaan niitä, jos toimeksianto sitä edellyttää. Tähän sovelletaan alisivuja, joita tarpeen mukaan kopioidaan "pohjat"-kansiosta Katso esim. **Asiakas B**
 
 | ID | Tyyppi | Nimi | Piirteet |  Motivaatio |
-|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|
 | SR-001 | Sidosryhmä/Profiili | Asiakas A | Nuori 16-22V | Selkeä tarve palvelulle ja tarvitsee palvelua usein |
 | SR-002 | Sidosryhmä/Profiili | [Asiakas B - Profiili 1 ](pohjat/pohja-profiilikuvaus.md) | "Aikuinen" 22-45V | Tarve satunnainen, mutta yleisin asiakas  |
 | SR-003 | Sidosryhmä/Profiili | Rahoittaja | Pääomasijoittaja | Palvelun tuottamat tuotot |
