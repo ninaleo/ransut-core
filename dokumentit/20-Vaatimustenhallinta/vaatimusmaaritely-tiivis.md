@@ -13,13 +13,13 @@ käytää olemassa olevia tilaajien oikeita nimiä! Muussa tapauksessa vaihdetaa
 
 ## Tavoitteet 
 
->Mitä ratkaisun avulla voidaan tehdä? Millaisia ovat sen käyttäjät? Mikä sen tehtävä on yleisesti eri sidosryhmien kannalta? 
+>Mitä ratkaisun avulla voidaan tehdä? Mihin pyritään? Tämä osuus voidaan käsitellä myös projektisuunnitelmassa, mutta vaatimusmäärittelyssä voidaan avata tarkemmin
+tavoiteltua ratkaisua.
+
+## Kohderyhmä
+
+Millaisia ovat sen käyttäjät? Mikä tuotoksen tavoite on eri sidosryhmien kannalta? 
 Kannattaa nostaa esiin lyhyesti mahdolliset loppukäyttäjä ja oleellisiin palvelusta hyötyviin sidosryhmät
-
-**Mindmap-yleiskuvaus**
-
-Mitä projektin tavoitteet ovat esim. MindMap-muodossa Pohjana esimerkki ohjelmistoratkaisun sisältämisitä toiminnallisuuksista. 
-
 
 ## Sidosryhmäkartta
 
@@ -31,7 +31,6 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 
 > Voit tutustu nyt aiemmin mainittuun PlantUML-työkaluun ja kokeilla luoda sidosryhmäkartta käyttäen (http://plantuml.com/)
 > Huomaa! PlantUML-lohkon määrittelyssä käytetään Gitlab-ympäristössä eri avainsanoja @startuml/@enduml- rivien sijaan  
-> Älä käytä skandinaavisia merkkejä PlantUML-kuvauksessa,koska niiden julkaisu www-sivulla ei välttämättä toimi!**
 
 ```plantuml
 @startmindmap
@@ -51,12 +50,11 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 @endmindmap
 ```
 
-
 **Tarkennettut sidosryhmäprofiilit** 
 
 ![](../assets/work-to-do.png)
 
-> Eritellään sidosryhmäkartasta eri sidosryhmät/profiilit listaksi.  Tarvittaessa kuvataan tarkemmin valitut sidosryhmät ja tarkennetaan niitä, jos toimeksianto sitä edellyttää
+> Kuvataan tarkemmin sidosryhmäkartasssa esiteltyhä sidosryhmiä/profiileja. Tarvittaessa kuvataan tarkemmin valitut sidosryhmät ja tarkennetaan niitä, jos toimeksianto sitä edellyttää. Tähän sovelletaan alisivuja, joita tarpeen mukaan kopioidaan "pohjat"-kansiosta Katso esim. **Asiakas C**
 
 | ID | Tyyppi | Nimi | Kuvaus | Motivaatio |
 |:-:|:-:|:-:|:-:|:-:|
