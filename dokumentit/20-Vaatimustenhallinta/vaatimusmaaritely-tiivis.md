@@ -56,11 +56,11 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 
 > Kuvataan tarkemmin sidosryhmäkartasssa esiteltyhä sidosryhmiä/profiileja. Tarvittaessa kuvataan tarkemmin valitut sidosryhmät ja tarkennetaan niitä, jos toimeksianto sitä edellyttää. Tähän sovelletaan alisivuja, joita tarpeen mukaan kopioidaan "pohjat"-kansiosta Katso esim. **Asiakas B**
 
-| ID | Tyyppi | Nimi | Kuvaus | Motivaatio |
-|:-:|:-:|:-:|:-:|:-:|
-| SR-001 | Sidosryhmä/Profiili | Asiakas A | Mies 50-60 V | Olemassa oleva tarve palvelulle |
-| SR-002 | Sidosryhmä/Profiili | Rahoittaja | Sijoittajat HEX | Osingot ja tuotot |
-| SR-003 | Sidosryhmä/Profiili | [Asiakas B - Profiili 1 ](pohjat/pohja-profiilikuvaus.md) | Tavallisin asiakas  |
+| ID | Tyyppi | Nimi | Motivaatio |
+|:-:|:-:|:-:|:-:|
+| SR-001 | Sidosryhmä/Profiili | Asiakas A | Mies 50-60 V | Selkeä tarve palvelulle - Tarvitsee jatkuvasti |
+| SR-002 | Sidosryhmä/Profiili | Rahoittaja | Sijoittajat HEX | Palvelun tuottamat tuotot |
+| SR-003 | Sidosryhmä/Profiili | [Asiakas B - Profiili 1 ](pohjat/pohja-profiilikuvaus.md) | Tarve satunnainen, mutta yleisin asiakas  |
 | SR-004 | Sidosryhmä/Profiili | Verottaja | Kerätä verotuloja  |
 
 ## Tunnistetut riskit
