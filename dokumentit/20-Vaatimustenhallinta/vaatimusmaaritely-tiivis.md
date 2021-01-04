@@ -313,8 +313,7 @@ Service_Frontend --> Client_Host : Logged in
 ```
 ## Standardit ja lähteet
 
-> Vaatimusmäärittelyn osana on oleellista tuoda esiin tärkeät lähteet, joista on hyötyä tai merkitystä kokonaisuuden kannalta. Standardit ja ennalta jaetut ohjeistukset ovat hyödyllisiä lähteitä ja tarvittaessa 
-selkeyttävät vaatimusten merkitystä.
+> Vaatimusmäärittelyyn kannattaa liittää mukaan kaikki tärkeät lähteet, joista on hyötyä tai merkitystä kokonaisuuden kannalta. Standardit ja ennalta jaetut ohjeistukset ovat hyödyllisiä lähteitä ja tarvittaessa tukevat esitettyjä vaatimuksia.
 
 | ID | Nimi | Linkki | Kuvaus |  
 |:-:|:-:|:-:|:-:|
