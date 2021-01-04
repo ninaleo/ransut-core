@@ -3,6 +3,12 @@
 * [SIJOITA TOIMEKSIANNON NIMI TÄHÄN] 
 * Projektimäärittely/vaatimusmäärittelyn tiivistetty versio v 0.3 4.1.2021 (NarsuMan)
 
+__Ohjeita ennen aloitusta :)__
+
+**Olet editoimassa tiivistettyä vaatimusmäärittelyä, joka on sisällöltää normaalia OPF:n mukaista [vaatimusmäärittelyä](vaatimusmaarittely.md) rajatumpi. Kannattaa tutustua ehdottomasti laajempaan vaatimusmäärittelyyn. Se sisältää ohjeistuksen lisäksi videomateriaalia.**
+
+
+
 ## Johdanto
 
 ![](../assets/work-to-do.png)
