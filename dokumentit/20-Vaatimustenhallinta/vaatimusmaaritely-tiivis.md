@@ -1,15 +1,17 @@
 # Tiivistetty vaatimusmäärittely
 
 * [SIJOITA TOIMEKSIANNON NIMI TÄHÄN] 
-* Projektimäärittely/vaatimusmäärittely tiivispohja v 0.2 16.10.2020 (NarsuMan)
-
+* Projektimäärittely/vaatimusmäärittelyn tiivistetty versio v 0.3 4.1.2021 (NarsuMan)
 
 ## Johdanto
 
->Kuvaa millaisesta projektista on kyse, hieman taustaa ja aiheeseen olennaisesti liittyviä asioita? Jos kyseessä harjoitustehtävä, niin tarkista voitko 
-käytää todellisten tilaajien oikeita nimiä! Muuta aina oletuksena henkilötiedot ja toimeksiantajan viralliset tiedot 
-
 ![](../assets/work-to-do.png)
+
+
+>Kuvaa tavoiteltua kokonaisuutta, hieman taustaa ja aiheeseen olennaisesti liittyviä asioita? Jos kyseessä harjoitustehtävä, niin tarkista voitko 
+käytää olemassa olevia tilaajien oikeita nimiä! Muussa tapauksessa vaihdetaan kaikki nimet itse keksittyihin :)
+
+## Tavoitteet 
 
 >Mitä ratkaisun avulla voidaan tehdä? Millaisia ovat sen käyttäjät? Mikä sen tehtävä on yleisesti eri sidosryhmien kannalta? 
 Kannattaa nostaa esiin lyhyesti mahdolliset loppukäyttäjä ja oleellisiin palvelusta hyötyviin sidosryhmät
@@ -36,8 +38,9 @@ Mitä projektin tavoitteet ovat esim. MindMap-muodossa Pohjana esimerkki ohjelmi
 @endmindmap
 ```
 
-
 ## Sidosryhmäkartta
+
+![](../assets/work-to-do.png)
 
 >Mietitään tarkemmin millaisia käyttäjä/sidosryhmiä liittyy suunniteltuun ratkaisuun/ohjelmistoon/palvelukokonaisuuteen? 
 Näitä selkeyttääksemme kirjataan kaikki sidosryhmät sidosryhmäkartan muotoon. Nostetaan samalla esiin mikä on 
@@ -45,10 +48,7 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 
 > Voit tutustu nyt aiemmin mainittuun PlantUML-työkaluun ja kokeilla luoda sidosryhmäkartta käyttäen (http://plantuml.com/)
 > Huomaa! PlantUML-lohkon määrittelyssä käytetään Gitlab-ympäristössä eri avainsanoja @startuml/@enduml- rivien sijaan  
-> Älä käytä skandinaavisia merkkejä PlantUML-kuvauksessa,koska niiden julkaisu www-sivulla ei toimi!**
-
-![](../assets/work-to-do.png)
-
+> Älä käytä skandinaavisia merkkejä PlantUML-kuvauksessa,koska niiden julkaisu www-sivulla ei välttämättä toimi!**
 
 ```plantuml
 @startmindmap
@@ -68,10 +68,11 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 
 @endmindmap
 ```
-**Sidosryhmät ja profiilit** 
+**Tarkennettut sidosryhmäprofiilit** 
+
+![](../assets/work-to-do.png)
 
 > Eritellään sidosryhmäkartasta eri sidosryhmät/profiilit listaksi.  Tarvittaessa kuvataan tarkemmin valitut sidosryhmät ja tarkennetaan niitä, jos toimeksianto sitä edellyttää
-
 
 * [Asiakas](pohjat/pohja-profiilikuvaus.md) 
 * [Asiakkaan kaveri](pohjat/pohja-profiilikuvaus.md) 
@@ -79,8 +80,6 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 * [Kauppias]()
 
 ## Tunnistetut riskit
-
-![](../assets/work-to-do.png)
 
 > Millaisia riskeja liittyy ratkaisun/ohjelmiston/tuoteen kehittämiseen, tuotteen markkinoihin, mahdollisiin kilpailijoihin, resursseihin? 
 Nämä on hyvä tunnistaa alkuvaiheessa ja kirjata ne listaksi, jossa jokainen riski kuvataan itsenäisen tunnisteen avulla
@@ -103,7 +102,7 @@ Nämä on hyvä tunnistaa alkuvaiheessa ja kirjata ne listaksi, jossa jokainen r
 
 **asiakaspolku PlantUML-esimerkki tilakoneena**
 
-> Kokeillaan luonnostella asiakaspolkua PlantUML-työkalun avulla. Kannattaa kokeilla ehdottomasti myös muita tapoja!
+> Kokeillaan luonnostella asiakaspolkua PlantUML-työkalun avulla. Kannattaa kokeilla ehdottomasti myös muita tapoja! 
 > Sovella esim. PlantUML SDL/Swimlane kuvausta?
 
 ```plantuml
