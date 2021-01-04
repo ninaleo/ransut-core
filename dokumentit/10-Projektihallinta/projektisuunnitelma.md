@@ -8,20 +8,14 @@
 ![](../assets/work-to-do.png)
 
 
->Kuvataan toimeksiantoa lyhyesti johdannon muodossa.  Tarpeen mukaan ohjataan lukijaa tarkastelemaan vaatimusmäärittelydokumentti, jos se toimeksiannon kannalta oleellista.
+>Kuvataan toimeksiantoa lyhyesti johdannon muodossa.  Tarpeen mukaan ohjataan lukijaa tutustumaan tarkemmin vaatimusmäärittelydokumenttiin.
+
 
 ## 1 Projektin ja lopputuotteen kuvaus
 
 ![](../assets/work-to-do.png)
 
-
-* Mikä on tavoite tila tai ratkaisu?
-
-> Tähän voidaan liittää lähteeksi vaatimusmäärittely
-
 ## 1.1 Tausta ja lähtökohdat
-
-![](../assets/work-to-do.png)
 
 
 > Projektin tavoitteena on pyrkiä yhdistämään .... on tarve kehittää” < kohdetta>… ”Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän <TTOS2070> ‑opintojakson puitteissa. ”
@@ -29,28 +23,36 @@ Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä te
 
 ## 1.2 Tavoitteet ja tehtävät
 
-* Tuottaa ratkaisu mihin ?
-* Tuottaa toimiva demo (Proof Of Concept)
-* Aikataulu ja yleinen eteneminen
 > ”Tässä dokumentissa kuvataan X-projektin taustaa, tavoitteita, tehtäviä, vaihejakoa, resursseja ja organisaatiota. Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.”
-> Määritellään työn keskeisin sisältö tässä projektissa; projektin tehtävä liittyy projektin kohteessa kuvattuun kokonaisuuteen. 
-* Mitä aiotaan tehdä?> / < Mitä toimintaa aiotaan kehittää ja miten?>
-> Visio tulevasta tilasta> / < Mikä on tuotettava lopputulos (konkreettinen)?> / < Mitkä ovat osa- tai välitulokset?>
-*  Kenelle tulos tuotetaan?>
-”Projektiryhmän tehtävänä on pitää eri tahot tietoisina projektin tilanteesta. Kunkin vaiheen päätyttyä laaditaan vaiheraportti, jonka avulla johtoryhmälle tiedotetaan projektin edistymisestä.”
-* Linkki tarvitavaan aineistoon vaatimusmäärittelyssä
-* Esitellään palvelukuvaus ja sen mahdollinen muutoskohteet projektin myötä
 
+* Tuottaa ratkaisu mihin ? 
+
+> Tähän voi liittää lähteeksi vaatimusmäärittelyn sisältöä
+> Määritellään työn keskeisin sisältö tässä projektissa; projektin tehtävä liittyy projektin kohteessa kuvattuun kokonaisuuteen. 
+
+* Mitä aiotaan tehdä? 
+
+> Mitä toimintaa aiotaan kehittää ja miten?>
+> Visio tulevasta tilasta
+> Mikä on tuotettava lopputulos (konkreettinen)?
+> Mitkä ovat osa- tai välitulokset?>
+
+* projektiin liittyvät eri sidosryhmät?
+
+> Mitä henkilöitä, toimijoita tai ryhmiä liittyy projektiin projektin 
+> Tähän voi liittää Sidosryhmäkuvauksen tai käyttää lähteenä vaatimusmäärittelyä ?
+
+* Linkki tarvitavaan aineistoon vaatimusmäärittelyssä
+
+> Esitellään palvelukuvaus ja sen mahdollinen muutoskohteet projektin myötä
 
 ## 1.3 Projektiin liittyvät haasteet
 
 ![](../assets/work-to-do.png)
 
-
 > Tarkastellaan projektin tavoitteita ja laaditaan tueksi SWOT-kuvaus, jossa tarkastellaan koko projektia ja sen toimintaympäristöä. 
 
 ![](../assets/SWOT-example.jpg)
-
 
 ## 1.3 Rajaus ja liittymät
 
@@ -66,8 +68,6 @@ Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä te
 
 ## 1.5 Termit ja määritelmät
 
-
-
 >Tässä kappaleessa esitellään projektisuunnitelmassa esiintyvät määritelmät, termit ja lyhenteet. Esimerkiksi eri projekteissa saattaa sanoilla "tarkastus" ja "katselmointi" olla eri merkitys ja tämä 
 > voi aiheuttaa väärinkäsityksiä. Joskus saattaa olla paikallaan sopia eri nimityksiä ryhmän tarkastuksille (oma sisäinen, asiakkaan kanssa, opintojakson suuntaan). Lyhenteet kannattaa avata 
 > alkuperäiskielelle ja lisätä lyhyt kuvaus suomeksi. Esimerkiksi CASE = Computer aided software engineering, tietokoneavusteinen systeemityö.
@@ -76,27 +76,34 @@ Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä te
 
 ![](../assets/work-to-do.png)
 
-
 > Kuka kuuluu projektiorganisaatioon? 
 > Onko projektiryhmän/tiimin lisäksi muita toimijoita?
 
-* Tähän voidaan sijoittaa [projektiorganisaation sidosryhmäkartta]()
+**Projektiryhmä jäsenet**
+
+
+
+**Projektiorganisaation rakenne**
+
 
 ```plantuml
 @startmindmap
-+ Tuote
-++ Asiakas
-+++ Asiakkaan kaveri
-+++ Asiakkaan sukulainen
-++ Kilpaileva valmistaja
-+++ Kilpailijan kissa
-+++ Kilpailijan koira
--- Kauppias
---- Varasto
---- Noutopiste
--- Valmistaja
---- Valmistajan kaveri
---- Valmistajan tiimi
++ Tuotos
+++ Tiimi
++++ Projektipäällikkö
++++ Henkilö1
++++ Henkilö2
++++ Henkilö3
+-- Tilaaja
+--- Tilaajan edustaja1
+--- Tilaajan edustaja2
+++ Laadunvalvonta organisaatio
++++ Testipäällikkö
++++ Testaaja
++++ Käytettävyystestaaja
+++ Verottaja
++++ Karhu
++++ Virkailija
 
 @endmindmap
 ```
