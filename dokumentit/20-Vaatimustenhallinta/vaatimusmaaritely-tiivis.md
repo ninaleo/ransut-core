@@ -33,19 +33,7 @@ Mitä projektin tavoitteet ovat esim. MindMap-muodossa Pohjana esimerkki ohjelmi
 -- Toiminnallisuus D - Viestintä
 --- Toiminto 7 - Viestin lähetys
 --- Toiminto 8 - Viestin kuittaus
-
 @endmindmap
-```
-
-
-```plantuml
-[*] --> Tuote
-Tuote --> Sidosryhma
-Sidosryhma --> Kiusallinen_henkilo
-Sidosryhma --> Normaali_loppukayttja
-Sidosryhma --> Haasteellinen_loppukayttaja
-Sidosryhma --> Edistynyt_loppukayttaja
-Sidosryhma --> Mahdollinen_asiakas
 ```
 
 
@@ -64,7 +52,7 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 
 ```plantuml
 @startmindmap
-+ Tuote
++ Projektin tuotos
 ++ Asiakas
 +++ Asiakkaan kaveri
 +++ Asiakkaan sukulainen
