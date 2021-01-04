@@ -160,14 +160,19 @@ __luovutus, käyttöönotto, ylläpito, projektin aineiston taltiointi, arkistoi
 
 ![](../assets/work-to-do.png)
 
+
+>Projektin etenemistä voidaan kuvata ns. GANTT-kaaviolla. Sen avulla voidaan esittää eri vaiheiden eteneminen aikajanalla, samalla voidaan osoittaa eri tehtäviin liittyvät kriittiset pisteet.
+
+
 **GANTT PlantUML-muodossa**
 
 ```plantuml
 Project starts the 2021-5-15
-[Projekti aktiivinen] Starts 2021-5-15 and ends 2021-7-15 
+[Projekti aktiivinen] Starts 2021-5-15 and ends 2021-8-15 
 [Vaihe1] Starts 2021-5-15 and ends 2021-5-20
 [Vaihe2] Starts 2021-5-20 and ends 2021-6-5
 [Vaihe3] Starts 2021-6-5 and ends 2021-7-15
+[Hyväksyntä Testaus] Starts 2021-7-16 and ends 2021-8-1
 ```
 
 > Projektin osittamisella tarkoitetaan projektin jakamista selkeisiin osakokonaisuuksiin ja niitä vastaaviin toteutuskokonaisuuksiin (osaprojekteihin, vaiheisiin, tehtäväkokonaisuuksiin ja tehtäviin). > > Tutkimus- ja kehitysprojektien etenemiselle on tyypillistä lopputuloksen muodostuminen ja tavoitteen tarkentuminen vaihe vaiheelta. Projektin osituksen tulee perustua tähän lähtökohtaan (koskee myös > > IT-instituutin opiskelijaprojekteja). 
