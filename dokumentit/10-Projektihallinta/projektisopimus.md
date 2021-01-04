@@ -4,9 +4,11 @@
 
 **Esimerkki:  SOPIMUS OPISKELIJAPROJEKTIYHTEISTYÖSTÄ**
 
+
+
 # 1 SOPIMUKSEN OSAPUOLET
 
-> Tämä projektisopimus (jäljempänä Sopimus) on tehty X Oy:n (jäljempänä Toimeksiantaja) ja Jyväskylän ammattikorkeakoulun teknologiayksikön IT-instituutin (jäljempänä IT) välillä.
+> Tämä projektisopimus (jäljempänä Sopimus) on tehty X Oy:n (jäljempänä Toimeksiantaja) ja esim. Jyväskylän ammattikorkeakoulun teknologiayksikön IT-instituutin (jäljempänä IT) välillä.
 > Kukin projektiryhmän (jäljempänä Ryhmä) jäsen vastaa sopimuksen velvoitteiden täyttämisestä omasta puolestaan (tehdään tarvittaessa erillinen sopimus). 
 
 # 2 SOPIMUKSEN KOHDE
