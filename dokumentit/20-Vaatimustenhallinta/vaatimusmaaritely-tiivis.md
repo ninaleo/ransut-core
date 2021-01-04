@@ -58,11 +58,11 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 > Eritellään sidosryhmäkartasta eri sidosryhmät/profiilit listaksi.  Tarvittaessa kuvataan tarkemmin valitut sidosryhmät ja tarkennetaan niitä, jos toimeksianto sitä edellyttää
 
 | ID | Tyyppi | Nimi | Kuvaus | Motivaatio |
-|:-:|:-:|:-:|
-| SR-001 | Sidosryhmä/Profiili | Asiakas A | Mies 50-60 V |
-| SR-002 | Sidosryhmä/Profiili | Rahoittaja | Sijoittajat HEX | 
-| SR-003 | Sidosryhmä/Profiili | [Asiakas C - Profiili 1 ](pohjat/pohja-profiilikuvaus.md) |   |
-| SR-004 | Sidosryhmä/Profiili | Verottaja |   |
+|:-:|:-:|:-:|:-: |
+| SR-001 | Sidosryhmä/Profiili | Asiakas A | Mies 50-60 V | Olemassa oleva tarve palvelulle |
+| SR-002 | Sidosryhmä/Profiili | Rahoittaja | Sijoittajat HEX | Osingot ja tuotot |
+| SR-003 | Sidosryhmä/Profiili | [Asiakas C - Profiili 1 ](pohjat/pohja-profiilikuvaus.md) | ?  |
+| SR-004 | Sidosryhmä/Profiili | Verottaja | Kerätä verotuloja  |
 
 ## Tunnistetut riskit
 
@@ -217,7 +217,7 @@ näkökulmasta ovat seuraavat: Suorituskyky, tietoturva ja saavutettavuus
 * Tietoturva
 * Saavutettavuus
 
-## Suorituskyky vaatimukset
+## Suorituskykyyn liittyvät vaatimukset
 
 ![](../assets/work-to-do.png)
 
@@ -230,17 +230,19 @@ näkökulmasta ovat seuraavat: Suorituskyky, tietoturva ja saavutettavuus
 | PERFREQ-0001 | Suorituskyky | Palvelun maksimi käyttäjä määrä on ? |
 | PERFREQ-0002 | Suorituskyky | ... ||
 
-## Tietoturva vaatimukset
+## Tietoturvan vaatimukset
 
 ![](../assets/work-to-do.png)
 
 >Millaisia vaatimuksia palveluun kohdistuu tietoturvan näkökulmasta?
 
-* SECURITY-REQ-0001 | Salasanassa on käytettävä vähintään MD5-tason salausta, koska standardi XY112 sitä edellyttää | [Kirjautuminen ft1](ft1-ominaisuus.md) |
-* SECURITY-REQ-0002 |||
-* SECURITY-REQ-0003 |||
+| ID | Tyyppi | Kuvaus | Miten testataan? |
+|:-:|:-:|:-:|:-:|
+| SECURITY-REQ-0001 | Salasanassa on käytettävä vähintään MD5-tason salausta, koska [CONSTRAIN-000]() sitä edellyttää | [Testitapaus X]() |
+| SECURITY-REQ-0002 | Jokainen tapahtuma palvelussa on kirjattava käyttölogiin, että niitä voidaan tarkastella myöhemmin | [Testitapaus Y]() |
+| SECURITY-REQ-0003 | ... | ... |
 
-## Saavutettavuus vaatimukset
+## Saavutettavuuden vaatimukset
 
 ![](../assets/work-to-do.png)
 
