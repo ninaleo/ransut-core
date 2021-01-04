@@ -5,7 +5,7 @@
 
 __Ohjeita ennen aloitusta :)__
 
-**Olet editoimassa tiivistettyä vaatimusmäärittelyä, joka on sisällöltää normaalia OPF:n mukaista [vaatimusmäärittelyä](vaatimusmaarittely.md) rajatumpi. Kannattaa tutustua ehdottomasti laajempaan vaatimusmäärittelyyn. Se sisältää ohjeistuksen lisäksi videomateriaalia.**
+**Olet editoimassa tiivistettyä vaatimusmäärittelyä, joka on normaalia OPF:n laajempaa [vaatimusmäärittelyä](vaatimusmaarittely-laaja.md) rajatumpi. Kannattaa tutustua ehdottomasti laajempaan vaatimusmäärittelyyn, koska se sisältää ohjeistuksen lisäksi videomateriaalia.**
 
 
 
