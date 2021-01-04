@@ -1,38 +1,14 @@
-## Tiivistetty tuotekuvaus:
+## Myyntipuhe projekin edistämiseksi
 
-> Tämä on tuotekuvaus pohja, joka kannattaa tiivistää A4-kokoon
+![](https://openclipart.org/image/400px/277713)
 
-* Palvelukuvaus
+>Sinulta kysytään mitä projekti palvelee? Mitä vastaat?
 
-> Mikä palvelu on kyseessä ja ketä se palvelee?
+**Aikaa 15 s  !!!**
 
-## Liiketoiminnan tarpeet ja tavoitteet
+* Kenelle, miksi ja mitä
 
-* Tarpeet
-* Tavoitteet
 
-## Tärkeät sidosryhmät ja tuotteen kohderyhmä
+"Täydentyy"
 
-* sidosryhmät?
-* Kenelle tuote on tarkoitettu?
 
-## Tärkeimmät hyödyt
-
-* Sidoryhmä X hyötyy....
-
-## Tärkeimmät toiminnallisuudet/ominaisuudet
-
-> Mitkä ominaisuudet ja mille kohderyhmälle? Miten erotutaan markkinoista?
-
-* Feature 1 + Feature 2 --> Kohderyhmä A ?
-* Feature 3 + Feature 4 --> Kohderyhmä B ?
-* Feature 5 + Feature 6 --> Kohderyhmä C ?
-
-## Tekniset vaatimukset
-
-> Mitä tarvitaan palvelun tuottamiseksi?
-
-* System-Technical-Req 1
-* System-Technical-Req 2
-* System-Technical-Req 3
-* System-Technical-Req 4
