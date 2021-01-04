@@ -20,23 +20,6 @@ Kannattaa nostaa esiin lyhyesti mahdolliset loppukäyttäjä ja oleellisiin palv
 
 Mitä projektin tavoitteet ovat esim. MindMap-muodossa Pohjana esimerkki ohjelmistoratkaisun sisältämisitä toiminnallisuuksista. 
 
-```plantuml
-@startmindmap
-+ Tuote, eli tuotettava ratkaisu
-++ Toiminnallisuus A
-+++ Toiminto 1
-+++ Toiminto 2
-++ Toiminnallisuus B
-+++ Toiminto 3
-+++ Toiminto 4
--- Toiminnallisus C - Viestin suojaus
---- Toiminto 5 - Suojauksen valinta
---- Toiminto 6 - Suojauksen vaihto
--- Toiminnallisuus D - Viestintä
---- Toiminto 7 - Viestin lähetys
---- Toiminto 8 - Viestin kuittaus
-@endmindmap
-```
 
 ## Sidosryhmäkartta
 
@@ -130,6 +113,24 @@ Step3 --> [*]
 > Tarkemmat toiminnallisuudet tarkentuvat myöhemmin dokumentissa.  
 > Tässä vaiheessa riittää:
 
+```plantuml
+@startmindmap
++ Tuote, eli tuotettava ratkaisu
+++ Toiminnallisuus A
++++ Toiminto 1
++++ Toiminto 2
+++ Toiminnallisuus B
++++ Toiminto 3
++++ Toiminto 4
+-- Toiminnallisus C - Viestin suojaus
+--- Toiminto 5 - Suojauksen valinta
+--- Toiminto 6 - Suojauksen vaihto
+-- Toiminnallisuus D - Viestintä
+--- Toiminto 7 - Viestin lähetys
+--- Toiminto 8 - Viestin kuittaus
+@endmindmap
+```
+
 - Oleellisia toimintoja 
     - Asiaksi-profiili-1 voi lähettää postia toiselle henkilölle
     - Asiakas-profiili-2 voi saada tietoa aiemmin tehdyistä valinnoista
@@ -139,41 +140,40 @@ Step3 --> [*]
 
 ## Alustavat käyttäjätarinat
 
-> Ketterä kehitys on tuonut mukanaan tavan kuvata asiakkaan tarpeita ns. User Storyjen muodossa. Yritä tunnistaa toimeksiantoon liittyviä käyttäjätarinoita.
+![](../assets/work-to-do.png)
+
+
+> Ketterä kehitys on tuonut mukanaan tavan kuvata asiakkaan tarpeita ns. User Storyjen muodossa. Kirjataan tähän tunnistetut käyttäjätarinat.
 
 * User Story: [Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa]()
 * User Story: [Pääkäyttäjän haluan poistaa vanhat tunnukset kokonaan, koska se selkeyttää ylläpitoa]()
 * Käytännössä ylempi kuvaus on hieman jäykkä ja on järkevitä kirjata storyt suoraan esim. GitLab-issuen muotoon! 
-* Kokeile osoittaa hiirelle linkkejä oikealla ja avaa ne tämän jälkeen ---> #25 tai #26
 
-## Palvelun liittyvät tekniset vaatimukset 
+## Tekniset vaatimukset
 
-**Tämä osa-alue vielä kesken**
-
-> Teknisiä ratkaisuja määriteltäessa vaatimukset liittyvät eri teknologioihin, laitteistoihin tai palvelun vaatimiin fyysisiin ratkaisuihin. 
+> Teknisiä ratkaisuja määriteltäessa on hyvä tunnistaa eri teknologiat, laitteistoihin tai palvelun vaatimiin fyysisiin ratkaisuihin. 
 Sähköisiä ratkaisuja määriteltäessä kannattaa erottaa puhtaasti tekniset/tuotannolliset vaatimukset ja kirjata ne vaatimusmäärittelyyn teknisinä vaatimuksina. 
 
-* HW-REQ-0002 | System Technical Requirement | Palvelun tärkeimpien palvelujen on oltava vähintään kahdennettu N+1 | |
-* HW-REQ-0003 | System Technical Requirement | Palvelimien vähimmäis muistikapasiteeti >32GB  ||
-* HW-REQ-0004 | System Technical Requirement | Prosessorin tyyppi Intel/AMD x64||
-* HW-REQ-0005 | System Technical Requirement | Palvelimen fyysinen sijainti on kotimaassa (FI) ||
-* HW-REQ-0005 | System Technical Requirement | Verkkoyhteyden nopeus palveluun vähintään >100MB/s ||
-* HW-REQ-0005 | System Technical Requirement | Palvelinkaapin suositeltava koko 1m X 1m X 2m ||
+| ID | Tyyppi | Kuvaus | 
+|:-:|:-:|:-:|
+| HWREQ-0002 | Tekniset vaatimukset | Palvelun tärkeimpien palvelujen on oltava vähintään kahdennettu N+1 | |
+| HWREQ-0003 | Tekniset vaatimukset | Palvelimien vähimmäis muistikapasiteeti >32GB  ||
+| HWREQ-0005 | Tekniset vaatimukset | Palvelimen fyysinen sijainti on kotimaassa (FI) ||
+| HWREQ-0005 | Tekniset vaatimukset | Verkkoyhteyden nopeus palveluun vähintään >100MB/s ||
+| HWREQ-0005 | ... | ... ||
 
 ### Toimeksiannon kannalta tärkeät oleelliset rajaukset
-
-(Rajaus = Constrain)
 
 > Eri ohjelmistojena/palvelujen toteutusta ja käyttöä ohjaavat usein lait ja säädökset. Näiden edellyttämät vaatimukset voidaan kirjataan tarvittaessa vaatimusmäärittelyyn.
 Rajausten vaikutus koskee usein palvelun jonkin osa-kokonaisuuden toteuttamista. Tästä syystä eri rajoitteet on tunnistettava ajoissa, koska vaikutus 
 saataa olla varsin ratkaiseva pitemmällä tähtäimella. Esimerkkinä tästä on viime vuonna voimaan tullut [EU GDPR-säädös](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation).
 > Kannattaa tutkia esimerkiksi https://www.sfs.fi/aihealueet/terveydenhuolto/laakinnalliset_laitteet tai http://docs.jhs-suositukset.fi/jhs-suositukset/JHS190/JHS190.html
 
-| Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
+| ID | Tyyppi | kategoria | Vastuullinen |
 |:-:|:-:|:-:|:-:|
-| CONSTRAINT-REQ-S00000 | Constrain | Palvelun kirjautumisprosessin on noudatettava XYZ-käytäntöjä  | [Kirjautuminen ft1](pohjat/pohja-ominaisuus.md) |
-| CONSTRAINT-REQ-S00001 | Constrain | On huomioitava Standardi ZZZ osana palvelun tapahtuma login talletusta | [Log-palvelin](pohjat/pohja-ominaisuus.md)|
-| CONSTRAINT-REQ-S00002 | Constrain |||
+| CONSTRAIN-000  | Rajaus | Palvelun kirjautumisprosessin on noudatettava JUHTA-hyväksyttyjä käytänteitä  | [Kirjautuminen ft1](pohjat/pohja-ominaisuus.md) |
+| CONSTRAIN-001 | Rajaus | On huomioitava Standardi ZZZ osana palvelun tapahtuma login talletusta | [Log-palvelin](pohjat/pohja-ominaisuus.md)|
+| CONSTRAIN-002 | Rajaus | ... | ... |
 
 
 # Toiminnalliset vaatimukset (Functional Requirements)
@@ -181,12 +181,11 @@ saataa olla varsin ratkaiseva pitemmällä tähtäimella. Esimerkkinä tästä o
 >Mitä toimintoja palveluun liittyy? Nämä kannattaa kirjata ensi ns. toiminnallisina vaatimuksina? Toiminnallisilla vaatimuksilla kuvataan ohjelmistolta/järjestelmältä vaadittuja toimintoja.
 Toiminnalliset vaatimukset ovat helpoimmin tunnistettavia. Vältä useamman vaatimuksen kirjaamista samaan lauseeseen! Jokainen vaatimus erikseen.
 
-| VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
+| ID | Tyyppi | Kuvaus | Toiminnallisuus johon vaatimus vaikuttaa |								
 |:-:|:-:|:-:|:-:|
-| FUNCTIONAL-REQ-C0001 | Functional Requirement | Käyttäjänä (Asiakas Profiilit 1-4) voin kirjautua käyttäen Facebook-tunnuksia | [Kirjautuminen ft1](pohjat/pohja-ominaisuus.md) |
-| FUNCTIONAL-REQ-C0002 | Functional Requirement | Käyttöliittymän on toimittava myös ääniohjattuna, koska käyttäjillä saattaa olla näkövammoja | [Kirjautuminen ft1](pohjat/pohja-ominaisuus.md), [Tilaushallinta](pohjat/pohja-ominaisuus.md) |
-| FUNCTIONAL-REQ-C0003 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0004 | Functional Requirement |||
+| FUNCREQ-C0001 | Toiminnallinen vaatimus | Krjautumiseen voi käyttää Facebook-tunnuksia | [Toiminnallisuus X](pohjat/pohja-ominaisuus.md) |
+| FUNCREQ-C0002 | Toiminnallinen vaatimus | Käyttöliittymää voidaan ohjata äänikomennoilla | [Toiminnallisuus Y](pohjat/pohja-ominaisuus.md) |
+| FUNCREQ-C0003 | Toiminnallinen vaatimus | ... | ... |
 
 # Laadulliset eli ei-toiminnalliset vaatimukset
 
