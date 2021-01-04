@@ -57,10 +57,11 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 
 > Eritellään sidosryhmäkartasta eri sidosryhmät/profiilit listaksi.  Tarvittaessa kuvataan tarkemmin valitut sidosryhmät ja tarkennetaan niitä, jos toimeksianto sitä edellyttää
 
-* [Asiakas](pohjat/pohja-profiilikuvaus.md) 
-* [Asiakkaan kaveri](pohjat/pohja-profiilikuvaus.md) 
-* [Kilpaileva valmistja]() 
-* [Kauppias]()
+| ID | Tyyppi | Nimi | Kuvaus | Motivaatio |
+| SR-001 | Sidosryhmä/Profiili | Asiakas A | Mies 50-60 V |
+| SR-002 | Sidosryhmä/Profiili | Rahoittaja | Sijoittajat HEX | 
+| SR-003 | Sidosryhmä/Profiili | [Asiakas C - Profiili 1 ](pohjat/pohja-profiilikuvaus.md) |   |
+| SR-004 | Sidosryhmä/Profiili | Verottaja |   |
 
 ## Tunnistetut riskit
 
