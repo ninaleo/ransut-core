@@ -44,13 +44,14 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 +++ Kilpailijan koira
 -- Kauppias
 --- Varasto
---- Noutopiste
+--- Noutopiste 1.
 -- Haasteelliset asiakkaat
 --- Kiusantekijä
 --- Satunnainen säätäjä
-
 @endmindmap
 ```
+
+
 **Tarkennettut sidosryhmäprofiilit** 
 
 ![](../assets/work-to-do.png)
