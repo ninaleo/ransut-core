@@ -17,6 +17,26 @@ Kannattaa nostaa esiin lyhyesti mahdolliset loppukäyttäjä ja oleellisiin palv
 ## Mindmap-yleiskuvaus
 
 ```plantuml
+@startmindmap
++ Tuote
+++ Toiminnallisuus A
++++ Toiminto 1
++++ Toiminto 2
+++ Toiminnallisuus B
++++ Toiminto 3
++++ Toiminto 4
+-- Toiminnallisus C
+--- Toiminto 5
+--- Toiminto 6
+-- Toiminnallisuus D
+--- Toiminto 7
+--- Toiminto 8
+
+@endmindmap
+```
+
+
+```plantuml
 [*] --> Tuote
 Tuote --> Sidosryhma
 Sidosryhma --> Kiusallinen_henkilo
