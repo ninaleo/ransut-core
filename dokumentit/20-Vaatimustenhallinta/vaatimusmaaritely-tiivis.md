@@ -280,7 +280,8 @@ database "MariaDB_Container" {
 }
 Asiakas -- https
 https -- Frontend_Container
-Frontend_Conainer -- Backend_Container
+Frontend_Container -- Backend_Container
+Backend_Container -- MariaDB_Container
 
 @enduml
 ```
