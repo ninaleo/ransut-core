@@ -69,23 +69,6 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 | SR-003 | Sidosryhmä/Profiili | Rahoittaja | Pääomasijoittaja | Palvelun tuottamat tuotot |
 | SR-004 | Sidosryhmä/Profiili | Verottaja | Nuori karhu | Kerätä verotuloja  |
 
-## Tunnistetut riskit
-
-> Millaisia riskeja liittyy ratkaisun/ohjelmiston/tuoteen kehittämiseen, tuotteen markkinoihin, mahdollisiin kilpailijoihin, resursseihin? 
-Nämä on hyvä tunnistaa alkuvaiheessa ja kirjata ne listaksi, jossa jokainen riski kuvataan itsenäisen tunnisteen avulla
-
-Tähän voidaan myös linkittää tarvittaessa OFP:n [erillinen riskilista](../10-Projektihallinta/riskitaulukko.md)
-
-
-
-| ID | Tyyppi | Prioriteetti | Kuvaus | 
-|:-:|:-:|:-:|
-| RISK-001 | Riski | V2 |  Tuote tulee markkinoille liian myöhään |  
-| RISK-002 | Riski | V3 | Tuotettava ratkaisu liian monimutkainen |  
-| RISK-003 | Riski | | ... |  
-
-> Avainsanat SWOT, Riskianalyysi
-
 ## Palveluun liittyviä asiakaspolkuja
 
 > Mieti toimeksiantoa ja pohdi onko siitä tunnistettavissa ns. palvelupolkuja? 
