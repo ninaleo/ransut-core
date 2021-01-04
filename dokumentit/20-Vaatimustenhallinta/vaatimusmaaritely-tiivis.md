@@ -266,7 +266,7 @@ kuvauksen avulla voi esittää miten palvelu on tarkoitus toteuttaa käytännös
 actor Asiakas
 
 cloud "Networok" as net{
-queue "https-connection"{
+queue "https"{
 }
 }
 
