@@ -122,8 +122,6 @@
 
 ## 2.2 Vastuut ja päätöksentekoprosessi
 
-![](../assets/work-to-do.png)
-
 >Tähän kirjataan kaikkien projektiorganisaatioon kuuluvien (esim. johtoryhmä, projektipäällikkö, sihteeri, ryhmä, >ohjaajat) vastuut sekä päätöksentekoprosessi (esim. projektipäällikkö valmistelee ja esittää johtoryhmän päätettäväksi…)
 
 **Projektiryhmä**
@@ -157,13 +155,11 @@ __luovutus, käyttöönotto, ylläpito, projektin aineiston taltiointi, arkistoi
 
 # 3. Projektin ajalliset tavoitteet	
 
-## 3.1 Osittaminen ja vaiheistus
-
 ![](../assets/work-to-do.png)
 
+## 3.1 Osittaminen ja vaiheistus
 
 >Projektin etenemistä voidaan kuvata ns. GANTT-kaaviolla. Sen avulla voidaan esittää eri vaiheiden eteneminen aikajanalla, samalla voidaan osoittaa eri tehtäviin liittyvät kriittiset pisteet.
-
 
 **GANTT PlantUML-muodossa**
 
@@ -197,19 +193,26 @@ Seuraavassa käydään jokainen vaihe, niiden vaatimat aikaresurssit ja tulokset
 
 Huom.: Seuraavassa on esitetty käynnistys- ja lopetusvaiheet. Kaikista projektin vaiheista, niiden kestoista ja työmääristä laaditaan myös nk. Gantt-kaavio (liitteenä), jossa näkyy myös vaiheiden väliset riippuvuudet ja tärkeimmät etapit (esim. johtoryhmän kokouspäivämäärät).
 
-**Käynnistys p.k.vvvv – p.k.vvvv (X h)**
+**Etappi 0**
+
+__Käynnistys p.k.vvvv – p.k.vvvv (X h)__
 
 >Projektin käynnistämiseen kuuluu olennaisesti projektisuunnittelu ja suunnitteludokumenttien laatiminen sekä yhteydenpitokäytänteiden luominen toimeksiantajayrityksen kanssa. Vaiheen aikana tehdään
 > esim. ryhmän webbisivut, tutustutaan tarkemmin toimeksiantoon, aloitetaan kohdealueeseen perehtyminen ja laaditaan projektisuunnitelma yhteistyössä toimeksiantajan edustajien kanssa. Vaiheen aikana
 > muodostetaan johtoryhmä, pidetään 1. johtoryhmän kokous sekä allekirjoitetaan projektisopimus.
 
-**Etappi 0**
 
 >”Vaiheen tuloksia ovat ryhmän imagon (nimi, logo ym.) luominen, webbisivut tms. sekä projektisopimus liitteineen.”
 
-**Etappi X**
+**Etappi 1**
 
-**Lopetus p.k.vvvv – p.k.vvvv (X h)**
+
+**Etappi 2**
+
+
+**Etappi X** 
+
+__Lopetus p.k.vvvv – p.k.vvvv (X h)__
 
 >”Lopettamisvaihe sisältää projektin päättämiseen liittyvät toimenpiteet. Vaiheen aikana projektiryhmä laatii projektin loppuraportin ja esityksen johtoryhmälle. Vaiheen aikana luovutetaan projektin tulos toimeksiantajalle, pidetään viimeinen johtoryhmän kokous viikolla X sekä puretaan projektin organisaatio. Lopettamisvaiheen tuloksena on projektin loppuraportti.”
 
