@@ -176,8 +176,9 @@ Step9 --> Step10
 > Ketterän kehityksen myötä on yleistynyt tapa kuvata asiakkaan tarpeita ns. käyttötarinoiden (User Story) muodossa. Kirjataan tähän ennalta tunnistetut käyttötarinat. 
 
 | ID | Tyyppi | Kuvaus | Linkki |
+|:-:|:-:|:-:|:-:|
 | US-001 | Käyttötarina | Esim. Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #1 |
-| US-002 | Käyttötarina | Esim. Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #1 |
+| US-002 | Käyttötarina | Esim. Käyttäjänä haluan, että voin poistaa historian tekemistäni ostoista viimeisen kuukauden ajalta, koska en halua muistella menneitä | #2 |
 
 
 ## Yleiset tekniset vaatimukset
