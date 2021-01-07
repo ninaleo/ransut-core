@@ -131,9 +131,7 @@ salt
   "Enter text here   "
   ^This is a droplist^
 }
-```## Ratkaisuun liittyvä MockUp-näkymä
-
-
+```
 
 
 ## Tärkeimmät toiminnallisuudet/ominaisuudet
