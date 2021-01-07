@@ -77,14 +77,12 @@
 
 ![](../assets/work-to-do.png)
 
-
 ## 2.1 Organisaation esittely
 
 > Kuka kuuluu projektiorganisaatioon? 
 > Onko projektiryhmän/tiimin lisäksi muita toimijoita?
 
 >Projektin organisaation kuuluu organisaation X henkilökuntaa ja harjoittelijoita
-
 
 **Projektiryhmä jäsenet**
 
@@ -259,7 +257,6 @@ __Lopetus p.k.vvvv – p.k.vvvv (X h)__
 | RIS-003 | ... | ... | ...  | ... |
 
 Liitä seuraava osio tähän mukaan: [Riskienhallintataulukko]()
-
 
 ## 4.5 Katselmointikäytäntö
 
