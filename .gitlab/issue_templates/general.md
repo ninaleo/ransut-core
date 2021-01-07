@@ -1,14 +1,18 @@
-# What should be done?
+# General task
+
+Describe what should be done?
 
 1. Update issue topic according description
 2. ..
 3. ..
 
-# Responsible
+**Who should work for this?**
 
-* name/stakeholder
 
-# Links & Sources
+**Checklist as a starter**
+
+- [ ] Do X
+- [ ] Do Y
 
 
 /label ~"General"
