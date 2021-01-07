@@ -112,6 +112,30 @@ Step9 --> Step10
 
 ```
 
+### Käyttöliittymänäkymä/mockup 
+
+![](../assets/work-to-do.png)
+
+> Jos projektin tuloksena tuo sähköinen ratkaisu, on sen konkretisoimiseksi hyvä hyödyntää esimerkiksi MockUp-kuvaa.
+Tähän kannattaa liittää tarvittaessa kuvausta kuvan/mockup-näkymän muodossa. Se helpottaa ymmärtämään tarvittaessa oleellisesti tavoiteltua ratkaisua. 
+
+```plantuml
+salt
+{
+  Just plain text
+  [This is my button]
+  ()  Unchecked radio
+  (X) Checked radio
+  []  Unchecked box
+  [X] Checked box
+  "Enter text here   "
+  ^This is a droplist^
+}
+```## Ratkaisuun liittyvä MockUp-näkymä
+
+
+
+
 ## Tärkeimmät toiminnallisuudet/ominaisuudet
 
 ![](../assets/work-to-do.png)
