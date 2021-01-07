@@ -1,26 +1,25 @@
-As a < type of user >, I want < some goal > so that < some reason >
+# USER STORY: As a < type of user >, I want < some goal > so that < some reason > 
 
-## Description
-
-* Purpose
-
-
+* Update Issue topic according your story
+* Do priorization and weight setting with a team
+* Describe a need from customer point of view. 
+* Why this is needed? 
 
 ## Linked Requirements & Use Cases? 
 
-* [Link to ReqID]()
-* [Link to UseCase]()
-* [Link to constraint]()
+* [Link to requirements]()
+* [Link to Use Case]()
+* [Link to other material]
 
 ## Definition of Done
 
-* [Link to common definition of done description]()
+[Link to common definition of done description](DOD.md)
 
 - [ ] Implemented
-- [ ] Tested
-- [ ] Documented
 - [ ] Pair Reviewed
-- [ ] ?
+- [ ] Tested
+- [ ] Documents updated
+- [ ] ? other
 
 
 ## Acceptance Criterias
@@ -28,7 +27,7 @@ As a < type of user >, I want < some goal > so that < some reason >
 - [ ] Check if...
 - [ ] Check also...
 - [ ] Check if...
-- [ ] Check if... test case [Link to test case definition]()
+- [ ] Check if... test case [Link to test case]()
 - [ ] Check if...
 
 /label ~"User Story"
