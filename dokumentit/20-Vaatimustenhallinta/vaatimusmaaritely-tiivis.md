@@ -158,14 +158,12 @@ Step9 --> Step10
 
 ![](../assets/work-to-do.png)
 
-
 > Ketterän kehityksen myötä on yleistynyt tapa kuvata asiakkaan tarpeita ns. käyttötarinoiden (User Story) muodossa. Kirjataan tähän ennalta tunnistetut käyttötarinat. 
 
 | ID | Tyyppi | Kuvaus | Linkki |
 |:-:|:-:|:-:|:-:|
-| US-001 | Käyttötarina | Esim. Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #1 |
-| US-002 | Käyttötarina | Esim. Käyttäjänä haluan, että voin poistaa historian tekemistäni ostoista viimeisen kuukauden ajalta, koska en halua muistella menneitä | #2 |
-
+| US-001 | Käyttäjätarina | Esim. Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #1 |
+| US-002 | Käyttäjätarina | Esim. Käyttäjänä haluan, että voin poistaa historian tekemistäni ostoista viimeisen kuukauden ajalta, koska en halua muistella menneitä | #2 |
 
 ## Yleiset tekniset vaatimukset
 
@@ -250,8 +248,6 @@ saataa olla varsin ratkaiseva pitemmällä tähtäimella. Esimerkkinä tästä o
 | CONSTRAIN-001 | Rajaus | On huomioitava Standardi ZZZ osana palvelun tapahtuma login talletusta | [Log-palvelin](pohjat/pohja-ominaisuus.md)|
 | CONSTRAIN-002 | Rajaus | ... | ... |
 
-
-
 ### Palvelun yleinen rakenne UML-sijoittelunäkymänä (Deployment diagram)
 
 > Vaatimusmäärittelyn apuna sovelletaan usein kuvia, joista esimerkkinä UML-kuvauskieleen liittyvä sijoittelu näkymä, eli "Deployment Diagram",
@@ -292,10 +288,8 @@ Logger_Container -- MariaDB_Container
 
 @enduml
 ```
-
-
-
 ## Palveluun liittyvät muut järjestelmät
+
 
 > Järjestelmien välisiä yhteyksiä voidaan kuvata tarvittaessa esim. UML-kuvauksiin liittyvän sekvenssikaavion muodossa (Sequence Diagram). 
 
