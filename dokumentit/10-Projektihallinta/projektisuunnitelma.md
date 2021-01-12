@@ -7,16 +7,9 @@
 
 ![](../assets/work-to-do.png)
 
-
->Kuvataan toimeksiantoa lyhyesti johdannon muodossa.  Tarpeen mukaan ohjataan lukijaa tutustumaan tarkemmin vaatimusmäärittelydokumenttiin.
-
-
-## 1 Projektin ja lopputuotteen kuvaus
-
-![](../assets/work-to-do.png)
-
 ## 1.1 Tausta ja lähtökohdat
 
+>Kuvataan toimeksiantoa lyhyesti johdannon muodossa.  Tarpeen mukaan ohjataan lukijaa tutustumaan tarkemmin vaatimusmäärittelydokumenttiin.
 
 >Projektin tavoitteena on pyrkiä yhdistämään .... on tarve kehittää” < kohdetta>… ”Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän <TTOS2070> ‑opintojakson puitteissa. ”
 
@@ -47,13 +40,6 @@
 
 > Esitellään palvelukuvaus ja sen mahdollinen muutoskohteet projektin myötä
 
-## 1.3 Projektiin liittyvät haasteet
-
-![](../assets/work-to-do.png)
-
-> Tarkastellaan projektin tavoitteita ja laaditaan tueksi SWOT-kuvaus, jossa tarkastellaan koko projektia ja sen toimintaympäristöä. 
-
-![](../assets/SWOT-example.jpg)
 
 ## 1.3 Rajaus ja liittymät
 
@@ -72,6 +58,14 @@
 >Tässä kappaleessa esitellään projektisuunnitelmassa esiintyvät määritelmät, termit ja lyhenteet. Esimerkiksi eri projekteissa saattaa sanoilla "tarkastus" ja "katselmointi" olla eri merkitys ja tämä 
 > voi aiheuttaa väärinkäsityksiä. Joskus saattaa olla paikallaan sopia eri nimityksiä ryhmän tarkastuksille (oma sisäinen, asiakkaan kanssa, opintojakson suuntaan). Lyhenteet kannattaa avata 
 > alkuperäiskielelle ja lisätä lyhyt kuvaus suomeksi. Esimerkiksi CASE = Computer aided software engineering, tietokoneavusteinen systeemityö.
+
+## 1.6 Projektiin liittyvät haasteet
+
+![](../assets/work-to-do.png)
+
+> Tarkastellaan projektin tavoitteita ja laaditaan tueksi SWOT-kuvaus, jossa tarkastellaan koko projektia ja sen toimintaympäristöä. 
+
+![](../assets/SWOT-example.jpg)
 
 # 2. Projektiorganisaatio
 
