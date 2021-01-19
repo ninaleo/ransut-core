@@ -115,6 +115,29 @@ stake_holder1 -- example_of_service  : threat
 stake_holder2 -- example_of_service  : competitor
 ```
 
+**Vaihtoehtona myös mindmap**
+
+```plantuml
+@startmindmap
++ Projektin tuotos
+++ Asiakas
++++ Asiakkaan kaveri
++++ Asiakkaan sukulainen
+++ Kilpaileva valmistaja
++++ Kilpailijan kissa
++++ Kilpailijan koira
+-- Kauppias
+--- Varasto
+--- Noutopiste 1.
+-- Haasteelliset asiakkaat
+--- Kiusantekijä
+--- Satunnainen säätäjä
+@endmindmap
+```
+
+
+
+
 > Voit kuvata sidosryhmät myös esimerkiksi piirtämällä kuvan, jolloin eri profiilien erot tulevat ehkä "selkeämmin" esiin!
 > Jos kuitenkin hyödynnät PlantUML kuvausta, niin päivitys ja kuvauksen ylläpito on huomattavasti nopeampaa
 
