@@ -28,3 +28,11 @@ Victor Basil -tutkimusryhmä
 
 
 * [https://en.wikipedia.org/wiki/GQM](https://en.wikipedia.org/wiki/GQM)
+
+## Työlistaan mahdollisesti liitettäviä laadun kehittämistaskeja
+
+| User Story/General | Kuvaus | Vastuu | 
+| General- Ylläpidettävyyden tarkastelu | Asiakkaana haluan tietää miten palvelua tullaan ylläpitämään? | Kehitys+tuotanto |
+| General- Ylläpidettävyyden tarkastelu | Koodin laatu? Miten paljon sisältää vanhaa koodia/kirjastoja | Kehitys+tuotanto |
+| General- Testattavuuden tarkastelu | Selvitetään tarvittavat rajapinnat, joiden kautta testaustyötä edistetään | Kehitys+tuotanto |
+
