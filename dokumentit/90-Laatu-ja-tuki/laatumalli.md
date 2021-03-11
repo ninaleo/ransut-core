@@ -22,7 +22,7 @@ Tämä siis vielä vaatii tekemistä!
 * Uudelleenkäytettävyys
 * Yhteensopivuus
 
-## Goal/Question/Check
+## Goal/Question/Metrics
 
 Victor Basil -tutkimusryhmä
 
