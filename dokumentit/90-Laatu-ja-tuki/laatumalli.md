@@ -1,6 +1,8 @@
 # Laatumalli
 
-Tämä vielä vaatii tekemistä!
+Tähän rakennetaan projektikohtainen laatumalli, jossa painotetaan lisäarvon tuottamista laadullisista näkökulmista.
+
+Tämä siis vielä vaatii tekemistä!
 
 * Pohjana mielenkiintoinen artikkeli TIVI 2021 Maaliskuu
 
