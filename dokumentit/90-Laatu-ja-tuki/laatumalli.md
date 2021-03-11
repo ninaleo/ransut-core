@@ -25,3 +25,6 @@ Tämä siis vielä vaatii tekemistä!
 ## Goal/Question/Check
 
 Victor Basil -tutkimusryhmä
+
+
+* [https://en.wikipedia.org/wiki/GQM](https://en.wikipedia.org/wiki/GQM)
