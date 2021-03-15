@@ -420,7 +420,7 @@ Rajaus/rajoite = Constrain
 > Eri ohjelmistojena/palvelujen toteutusta ja käyttöä ohjaavat usein lait ja säädökset. Näiden edellyttämät vaatimukset voidaan kirjataan tarvittaessa vaatimusmäärittelyyn.
 Rajausten vaikutus koskee usein palvelun jonkin osa-kokonaisuuden toteuttamista. Tästä syystä eri rajoitteet on tunnistettava ajoissa, koska vaikutus 
 saataa olla varsin ratkaiseva pitemmällä tähtäimella. Esimerkkinä tästä on viime vuonna voimaan tullut [EU GDPR-säädös](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation).
-> Kannattaa tutkia esimerkiksi https://www.sfs.fi/aihealueet/terveydenhuolto/laakinnalliset_laitteet tai http://docs.jhs-suositukset.fi/jhs-suositukset/JHS190/JHS190.html
+> Kannattaa tutkia esimerkiksi https://sfs.fi/standardeista/tutustu-standardeihin/suositut-standardit/laakinnalliset-laitteet/ tai https://www.suomidigi.fi/ohjeet-ja-tuki/jhs-suositukset/jhs-173-ict-palvelujen-kehittaminen-vaatimusmaarittely-vanhentunut
 
 | Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
 |:-:|:-:|:-:|:-:|
