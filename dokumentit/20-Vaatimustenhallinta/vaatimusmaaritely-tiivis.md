@@ -180,7 +180,7 @@ salt
 
 ![](../assets/work-to-do.png)
 
-> Ketterän kehityksen myötä on yleistynyt tapa kuvata asiakkaan tarpeita ns. käyttötarinoiden (User Story) muodossa. Kirjataan tähän ennalta tunnistetut käyttötarinat. 
+> Ketterän kehityksen myötä on yleistynyt tapa kuvata asiakkaan tarpeita ns. käyttötarinoiden (User Story) muodossa. Kirjataan tähän ennalta tunnistetut käyttötarinat. Tutustu aiheeseen [User Story](https://en.wikipedia.org/wiki/User_story)
 
 | ID | Tyyppi | Kuvaus | Linkki |
 |:-:|:-:|:-:|:-:|
