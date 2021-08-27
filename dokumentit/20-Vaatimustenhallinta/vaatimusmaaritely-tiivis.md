@@ -234,7 +234,7 @@ näkökulmasta ovat seuraavat: Suorituskyky, tietoturva ja saavutettavuus
 
 ![](../assets/work-to-do.png)
 
->Millaisia vaatimuksia palveluun kohdistuu tietoturvan näkökulmasta?
+>Millaisia vaatimuksia palveluun kohdistuu tietoturvan näkökulmasta? Tutustu samalla [VAHTI ohjeistukseen](https://vm.fi/documents/10623/360844/K%C3%A4sikirjan+liite+Tietoturvavaatimukset/56b3fb8f-bb54-4a65-a37f-79f6985d868c)
 
 | ID | Tyyppi | Kuvaus | Miten testataan? |
 |:-:|:-:|:-:|:-:|
