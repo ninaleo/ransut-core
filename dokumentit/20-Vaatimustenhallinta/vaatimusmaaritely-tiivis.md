@@ -83,6 +83,8 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 > Kokeillaan luonnostella asiakaspolkua PlantUML-työkalun avulla. Kannattaa kokeilla ehdottomasti myös muita tapoja! 
 > Sovella esim. PlantUML SDL/Swimlane kuvausta?
 
+![](../assets/work-to-do.png)
+
 ```plantuml
 Step1: Palvelun kuvaus mainosnäytöllä 
 Step2: Asiakas astuu ovesta sisään 
