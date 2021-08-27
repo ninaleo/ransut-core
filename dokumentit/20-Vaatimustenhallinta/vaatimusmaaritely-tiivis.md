@@ -84,7 +84,6 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 > Sovella esim. PlantUML SDL/Swimlane kuvausta?
 
 ```plantuml
-
 Step1: Palvelun kuvaus mainosnäytöllä 
 Step2: Asiakas astuu ovesta sisään 
 Step3: Palveluun tutustuminen sisätiloissa
@@ -109,7 +108,6 @@ Step6 --> Step8
 Step8 --> Step11
 Step7 --> Step9
 Step9 --> Step10
-
 ```
 
 ### Käyttöliittymänäkymä/mockup 
