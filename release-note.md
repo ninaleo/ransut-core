@@ -1,5 +1,12 @@
 # Release note 
 
+
+## OPF- Releases 0.9.3
+
+* Small fixes and tuning for TE-course
+
+
+
 ## OPF- Releases 0.9.1 
 
 Changes 5.1.2021
