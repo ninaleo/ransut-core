@@ -5,9 +5,10 @@
 
 ## 1. Toimeksianto 
 
-![](../assets/work-to-do.png)
 
 ## 1.1 Tausta ja lähtökohdat
+
+![](../assets/work-to-do.png)
 
 >Kuvataan toimeksiantoa lyhyesti johdannon muodossa.  Tarpeen mukaan ohjataan lukijaa tutustumaan tarkemmin vaatimusmäärittelydokumenttiin.
 
@@ -69,9 +70,11 @@
 
 # 2. Projektiorganisaatio
 
-![](../assets/work-to-do.png)
+
 
 ## 2.1 Organisaation esittely
+
+![](../assets/work-to-do.png)
 
 > Kuka kuuluu projektiorganisaatioon? 
 > Onko projektiryhmän/tiimin lisäksi muita toimijoita?
@@ -147,9 +150,11 @@ __luovutus, käyttöönotto, ylläpito, projektin aineiston taltiointi, arkistoi
 
 # 3. Projektin ajalliset tavoitteet	
 
-![](../assets/work-to-do.png)
+
 
 ## 3.1 Osittaminen ja vaiheistus
+
+![](../assets/work-to-do.png)
 
 >Projektin etenemistä voidaan kuvata ns. GANTT-kaaviolla. Sen avulla voidaan esittää eri vaiheiden eteneminen aikajanalla, samalla voidaan osoittaa eri tehtäviin liittyvät kriittiset pisteet.
 
@@ -209,6 +214,8 @@ __Lopetus p.k.vvvv – p.k.vvvv (X h)__
 >”Lopettamisvaihe sisältää projektin päättämiseen liittyvät toimenpiteet. Vaiheen aikana projektiryhmä laatii projektin loppuraportin ja esityksen johtoryhmälle. Vaiheen aikana luovutetaan projektin tulos toimeksiantajalle, pidetään viimeinen johtoryhmän kokous viikolla X sekä puretaan projektin organisaatio. Lopettamisvaiheen tuloksena on projektin loppuraportti.”
 
 ## 3.2 Projektin alustavat kustannusarvio
+
+Kustannusarvion esittäminen taulukon avulla: 
 
 ![](../assets/work-to-do.png)
 
@@ -290,6 +297,8 @@ Oikeaoppiseen projektisuunnitelmaan kuuluu myös projektin keskeyttämiskriteeri
 # 6. Projektin päättyminen
 
 ## 6.1 Lopputuotteen luovutus, käyttöönotto
+
+![](../assets/work-to-do.png)
 
 >Projektin lopputuote tulee myös dokumentoida järkevällä tasolla. Osana lopputuotetta saattaa olla asiakkaalle tarjottavaa käyttöönottokoulutusta ja mahdollisesti asennus- tai käyttöönotto­palvelua. Mikäli koulutuksen rooli projektin kannalta on huomattava (esimerkiksi ohjelmiston käyttäjät eivät ole olleet mukana projektissa ja eivät tiedä miten järjestelmä toimii) tulee projektisuunnitelmaan liittää suunnitelma asiakkaalle tarjottavasta koulutuksesta. Lisäksi jos on tarpeen, tulee projektisuunnitelmaan liittää myös asennussuunnitelma ja käyttöönottosuunnitelma.
 
