@@ -1,5 +1,3 @@
-[![](http://img.youtube.com/vi/x3MH8_7oOcE/0.jpg)](http://www.youtube.com/watch?v=x3MH8_7oOcE "")
-
 # Project plan template
  
 1.	Assignment background and basis, goals and tasks, delimitations and connections, result
@@ -16,9 +14,9 @@
  
 ### 1.1 Background and basis
  
-“The aim of Wimma Lab's 2018 activities is to unite the....”
+“The aim of project  activities is to unite the....”
 “Enterprise X needs to develop the <object> project”
-“The project will be implemented within the <ZZPP0100 Growth into Working Life Expert> course organized by the Institute of Information Technology of Jyväskylä University of Applied Sciences.”
+“The project will be implemented within the xyz course organized by the Institute of Information Technology of Jyväskylä University of Applied Sciences.”
  
 The object is often a broader concept than the actual task defined for the project. The object describes in a clear way, often based on a graphic representation, what kind of system entity or functionality the current project task will be part of. Thus, the current system and the client's current mode of operation are described here.
  
@@ -33,7 +31,7 @@ Define the main content of the work in this project; the task of the project is 
 ### 1.3 Delimitation and subscriptions
  
 
-*  “Wimma Lab outputs will not be commercialized, but will be open innovations for the benefit of future students and companies.”
+*  “Projects outputs will not be commercialized, but will be open innovations for the benefit of future students and companies.”
  
 Clarify the role of the project by delimiting the excluded parts of the target system or the overall project. The external factors that significantly limit the performance of the task should also be described separately.
  
