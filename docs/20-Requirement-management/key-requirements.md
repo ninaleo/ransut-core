@@ -1,6 +1,6 @@
 # Key Requirements 
 
-This is a short requirement specification
+This is a very short version of requirement specification
 
 
 ## Purpose of solution/product
