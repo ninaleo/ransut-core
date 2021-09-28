@@ -5,26 +5,29 @@ It is a good idea to include a view of the selected relevant use case descriptio
 
 Remember that the drawn description is only part of the description of the use case! The use case should be described in detail in text format.
 
+
+
+* Author: Your name?
+* Date / Version: xx/yy/zzzz
+	
+**User roles**	
+
+1. role? Actor1?
+2. role? Actor2?
+3. role?
+
+**Prerequisites / Conditions**	
+
+1. Condition which should be fulfilled
+2. Condition which should be existing
+
+**Use Case Diagram**
+
 ```plantuml
 Actor1 -- (Modify existing request)
 Actor2 -- (Modify existing request)
 Actor2 -- (Send a new request)
 ```
-
-* Author:
-* Date / Version:
-* Process section ?
-	
-**User roles**	
-
-1. role?
-2. role?
-3. role?
-
-**Prerequisites / Conditions**	
-
-1. Condition
-2. Condition
 
 **Description of use case**
 
