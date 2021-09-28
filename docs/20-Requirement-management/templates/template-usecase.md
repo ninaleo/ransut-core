@@ -5,7 +5,10 @@ It is a good idea to include a view of the selected relevant use case descriptio
 
 Remember that the drawn description is only part of the description of the use case! The use case should be described in detail in text format.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Edit_an_article.svg/261px-Edit_an_article.svg.png)
+```plantuml
+Ohjaaja -- (Tilauksen muokkaus)
+Kayttaja -- (Tilauksen muokkaus)
+```
 
 Above you find a rough example. It should be deleted from the actual use case files.
 
