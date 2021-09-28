@@ -1,4 +1,6 @@
-[![](http://img.youtube.com/vi/eBJpw7Emew8/0.jpg)](http://www.youtube.com/watch?v=eBJpw7Emew8 "")
+## Project time tracking
+
+![](https://openclipart.org/image/400px/svg_to_png/324819/studying-boy-and-girl.png)
 
 Hours and costs of project XXX
 
