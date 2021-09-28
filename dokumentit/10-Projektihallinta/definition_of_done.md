@@ -1,6 +1,9 @@
 # Projektin DOD määrittelyt
 
-__DOD = Definition of Done__
+**DOD = Definition of Done** 
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Definition_of_done_(DoD))
+
 
 Mitä tarkoitetaan, kun jokin tavoite/tehtävä on todellakin tehty?
 
