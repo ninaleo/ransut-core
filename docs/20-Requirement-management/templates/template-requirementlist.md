@@ -1,6 +1,5 @@
 # Requirements as a list template
 
-[![](http://img.youtube.com/vi/rp3DkiZ-Mkk/0.jpg)](http://www.youtube.com/watch?v=rp3DkiZ-Mkk "")
 
 This model is quite useful if the list of requirements isn't very long. The same list can be done quite conveniently with Excel, but it will soon lead to the complexity of documentation.
 When one environment is used to gather relevant information, it is easier to link them to each other and the information stays up to date better.
