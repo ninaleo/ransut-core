@@ -115,61 +115,46 @@ stake_holder2 -- example_of_service  : competitor
 | Stakeholder 3 / End user 3 | Person 46-65 Years old | Because of.... |
 | Admin user | [adminuser-profile](pohjat/pohja-profiilikuvaus.md) | supports service users |
 
-## Asiakkaan tarpeet/toiveet?
+## Customer needs / wishes?
 
-> Täydennä tätä jatkuvasti kurssin aikana!
-> Pohdi millaisia toiveita/tarpeita on loppukäyttäjällä liittyen palveluun? Haastattele henkilöitä todellisessa tilanteessa?
+> Continuously complete this throughout the course!
+> Consider what kind of wishes / needs the end user has regarding the service? Interview people in a real situation?
 
-| VaatimusID | Tyyppi | Kuvaus | 								
+| ReqID | Type | Description | 								
 |:-:|:-:|:-:|
-| CUSTOMER-REQ-0001 | Customer Requirement | Käyttäjänä haluan kirjautua käyttäen Facebook-tunnuksia, ettei tarvise häslätä | 
+| CUSTOMER-REQ-0001 | Customer Requirement | As a user of solution I would like to use Faceboot authentication | 
 | CUSTOMER-REQ-0002 | Customer Requirement ||
 | CUSTOMER-REQ-0003 | Customer Requirement ||
 | CUSTOMER-REQ-0004 | Customer Requirement ||
 | CUSTOMER-REQ-0005 | Customer Requirement ||
 
-## Liiketoiminnan vaatimukset/tavoitteet?
+## Business requirements / goals?
 
-> Pohdi millaisia toiveita/tarpeita on Liiketoiminnan näkökulmasta liittyen palveluun? 
-> Jos mitään ei tule mieleen, niin pohdi kenen "kassaan" raha tulee palvelusta? Saavutetaanko palvelulla kustannushyötyjä? Parantaako kustannustehokkuutta? etc
+> Consider what kind of wishes / needs there are from a business perspective related to the service?
+> If nothing comes to mind, then consider whose "cashier" the money comes from the service? Does the service achieve cost benefits? Does it improve cost efficiency? etc
 
-| VaatimusID | Tyyppi | Kuvaus | 								
+| ReqID | Type | Description | 								
 |:-:|:-:|:-:|
-| BUSINESS-REQ-0001 | Business Requirement | Palvelun kirjautuminen tulee olla helppoa, että voimme saavuttaa laajan käyttäjäkunnan = 35% kohderyhmästä | 
+| BUSINESS-REQ-0001 | Business Requirement | Registration as a new user should be easy for old users, because is's our user focus group 35% | 
 | BUSINESS-REQ-0002 | Business Requirement ||
 | BUSINESS-REQ-0003 | Business Requirement ||
 | BUSINESS-REQ-0004 | Business Requirement ||
 | BUSINESS-REQ-0005 | Business Requirement ||
 
 
+## Customer Storys as background information
 
-## Tunnistetut riskit
+>During requirement gatheringphase for a service/solution it is a good practice to do some interview among possible users and other stakeholders. Gathering some knowledge among this group will help to understand basic need of different user groups. It's important to understand in early phase how the person / stakeholder benefits or uses the solution/service in future. This process could be written as a customer story. 
 
-> Millaisia riskeja liittyy tuoteen kehittämiseen, tuotteen markkinoihin, mahdollisiin kilpailijoihin, resursseihin? 
-Nämä on hyvä tunnistaa alkuvaiheessa 
+> Try to write a story from the perspective of the selected profile/stakeholder (other profiles / stakeholders may appear in the story). It is convenient to refer to previously created [Profile] descriptions as as a back ground of the story.
 
-> Avainsanat SWOT, Riskianalyysi
+**Example of end use/customer story** 
 
+[Profiili 1](template/template-profile.md) wakes up in the morning and checks on his phone if there is room in the X service from the morning. By using application he can find that there is several open slots available .........
 
-## Valitut asiakastarinat
+**end user profile 1 point of view** 
 
->Haastattele tai kuvittele haastattelevasi profiili/sidosryhmän edustajaa ja kirjaa suunnittelemasi palvelun käyttöön liittyviä tilanteita. 
-Miten henkilö/sidosryhmä hyötyy/käyttää palvelua. Kirjoita tämä asiakastarinaksi. Kerro mitä se käytännössä tarkoittaa asiakkaan, pääkäyttäjän etc. näkökulmasta! 
-Alla olevassa videossa näet millaisia tarinoita **ei** ole tarkoitus kirjata tähän osioon :)
-
-[![](http://img.youtube.com/vi/KKM_7N1-6Ew/0.jpg)](http://www.youtube.com/watch?v=KKM_7N1-6Ew "")
-
-
-> Pyri kirjoittamaan auki tarina vain valitun profiilin/sidosryhmän näkökulmasta (toiset profiilit/sidosryhmät saattavat kyllä esiintyä tarinassa). Tarinassa on kätevä viitata jo aiemmin luotuihin [Profiili](pohjat/pohja-profiilikuvaus.md)-kuvauksiin.** 
-> HUOMIO! Älä sekoita asiakastarinaa (Customer story) käyttäjätarinaan (User Story)
-
-**Asiakastarina 1** 
-
-[Profiili 1](pohjat/pohja-profiilikuvaus.md) herää aamusta ja tarkistaa puhelimellaan onko X-palvelussa tilaa aamupäivästä. Huomatessaan, että palvelussa on vapaa aika klo 11:00.........
-
-**Asiakastarina 2** 
-
-[Asiakas-tyyppi 3](pohjat/pohja-profiilikuvaus.md) käynnistää iltapäivällä rakennustyömaalla sementtimyllyä, kun hänelle tulee viesti X-palvelusta.........
+[End user profile  1](pohjat/pohja-profiilikuvaus.md) is goint to start a cement mill on a construction site in the afternoon when she receives a message from the X service .........
 
 
 ## Palveluun liittyviä asiakaspolkuja
