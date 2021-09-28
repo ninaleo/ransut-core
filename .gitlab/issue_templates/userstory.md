@@ -14,7 +14,7 @@
 
 ## Definition of Done
 
-[Link to common definition of done description](DOD.md)
+[Link to common definition of done description](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-2021-ttc2070-core-template-v1/-/blob/master/dokumentit/10-Projektihallinta/definition_of_done.md)
 
 - [ ] Implemented
 - [ ] Pair Reviewed
