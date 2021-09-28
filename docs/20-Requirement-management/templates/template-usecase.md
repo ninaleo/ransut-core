@@ -1,13 +1,6 @@
 # Use Case
 
 
-[![](http://img.youtube.com/vi/cCP8WcQ9dqE/0.jpg)](http://www.youtube.com/watch?v=cCP8WcQ9dqE "")
-
-
-
-
-## Use Case 
-
 It is a good idea to include a view of the selected relevant use case description.
 
 Remember that the drawn description is only part of the description of the use case! The use case should be described in detail in text format.
