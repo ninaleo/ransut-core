@@ -11,64 +11,51 @@
 
 ## Some guidelines for writer of requirement specification
 
-> Pidä sisällysluettelo kunnossa, eli päivitä tarvittaessa MarkDown-ankkurilinkitys. 
+> Keep the table of contents in good condition, ie update the MarkDown anchor link if necessary.
 
-> Dokumentin sisällä viitataan useissa kohdissa kansioon "/pohjat". Kyseinen kansio sisältää ns. "templaatti"-tiedostoja joita käytetään apuna eri määrittelyjen kirjaamisessa. 
-Tämä tarkoittaa, että tuosta kansiosta voi tarvittasessa kopioida tiedostoja.
+> Within the document, the "/ templates" folder is referred to in several places. This folder contains the so-called "template" files used to help record various definitions.
+This means that files can be copied from that folder if 
 
-> PlantUML-työkalun avulla on mahdollista piirtää esim. UML-kuvauskielen mukaisia kuvauksia ja liittää ne osaksi MarkDown-kuvauksia. Kurssin aikana on 
-hyödyllistä tutustua sen käyttöön http://plantuml.com/ ja pyrkiä soveltamaan sitä mahdollisimman paljon eri osa-alueilla.
+> With the PlantUML tool, it is possible to draw, for example, descriptions in the UML markup language and integrate them into MarkDown descriptions. During the course there is
+useful to familiarize yourself with its use http://plantuml.com/ and try to apply it as much as possible in different areas.
 
-> HUOMIO! Älä käytä PlantUML-kuvauksissa skandinaavisia merkkejä, koska tämä johtaa ongelmiin CI/CD-prosessin aikana
-
-> Tutustu seuraavan linkin takaa löytyvään MindMap-kuvaan, siitä miten eri käsitteet liittyvät toisiinsa. Kannattaa keskittyä ymmärtämään yhteyksien merkitys, eli kysyminen kannattaa aina :)
-Kuvaus voi päivittyä kurssin aikana! 
-
-[http://ttos0100.pages.labranet.jamk.fi/eamk-2019/kurssimateriaali/kasitekartta/](http://ttos0100.pages.labranet.jamk.fi/eamk-2019/kurssimateriaali/kasitekartta/)
-
-> HUOMIO! Kun teet harjoitusta, niin poista ennen lopullista luovutusta kaikki ohjekommentit ja video-linkit sisällöstä. 
-
-> Tiedostojen nimeämisestä: Kannattaa pyrkiä nimeämään kaikki tiedostot säännönmukaisesti esim. __use-case-001.md__,  __profiili_asiakas-2__, ominaisuus-ft1.md__ etc
-> Itse MarkDown -tiedostossa ylä otsikko kannattaa täyttää myös samalla menetelmällä.   
-> __Use Case: Uuden käyttäjän kirjautuminen__ 
-> __Profiili: Asiakas 2__ 
-> __Ominaisuus: Raportti generaattori__
-> Tämä helpottaa hahmottamaan myöhemmin koko vaatimusmäärittelyn rakennetta
+> ATTENTION! Do not use Scandinavian characters in PlantUML descriptions, as this will cause problems during the CI / CD process
 
 
-## Sisällysluettelo 
+## Table of contents
+ 
 
-1. [Johdanto](#johdanto)
-1. [Toimeksiantaja](#toimeksiantaja)
-1. [Vaatimusmäärittelyn tekijä](#vaatimusmäärittelyn-tekijä)
-1. [Palvelukuvaus](#Palvelukuvaus)
-1. [Sidosryhmäkartta](#Sidosryhmäkartta)
-1. [Sidosryhmät ja profiilit](#Sidosryhmät ja profiilit) 
-1. [Tunnistetut riskit](#Tunnistetut-riskit)
-1. [Valitut asiakastarinat](#Valitut-asiakastarinat)
-1. [Palveluun liittyviä asiakaspolkuja](#Palveluun-liittyviä-asiakaspolkuja)
-1. [Oleelliset käyttötapaukset](#Oleelliset-käyttötapaukset) 
-1. [Tärkeimmät yleiset ominaisuudet/toiminnallisuudet](#Tärkeimmät-ominaisuudet/toiminnallisuudet) 
-1. [MockUp-prototyyppi](#MockUp-prototyyppi)
-1. [Alustavat Käyttäjätarinat](#Alustavat-käyttäjätarinat)
-1. [Palvelun järjestelmävaatimukset](#Palvelun-järjestelmävaatimukset) 
-1. [Palveluun vaikuttavat rajaukset](#Palveluun vaikuttavat rajaukset) 
-1. [Palvelun liityvät laitevaatimukset](#Palvelun liityvät laitevaatimukset)
-1. [Palvelun suoritusympäristöön liittyvät vaatimukset](#Palvelun suoritusympäristöön liittyvät vaatimukset)
-1. [Palvelun määritellyt ominaisuudet/toiminnnallisuudet](#Palvelun määritellyt ominaisuudet/toiminnnallisuudet)
-1. [Palvelun toiminnalliset vaatimukset](#Palvelun toiminnalliset vaatimukset)
-1. [Palvelun ei-toiminnalliset vaatimukset](#Palvelun ei-toiminnalliset vaatimukset)
-1. [Palvelun alustava arkkitehtuuri](#Palvelun alustava arkkitehtuuri)
-1. [Palvelun alustava sijoittelunäkymä](#Palvelun alustava sijoittelunäkymä)
-1. [Palvelun alustava tietokantakuvaus)](#Palvelun alustava tietokantakuvaus)
-1. [Palvelun integraatiot muihin järjestelmiin](#Palvelun integraatiot muihin järjestelmiin)
-1. [Palvelun laadun varmistuksesta](#Palvelun laadun varmistuksesta)
-1. [Palvelun hyväksyntätestit](#Palvelun hyväksyntätestit)
-1. [Julkaisusuunnitelma](#Julkaisusuunnitelma)
-1. [Aiheeseen liityvä standardit ja lähteet](#Aiheeseen liityvä standardit ja lähteet)
+1. [Introduction] (#introduction)
+1. [Principal / client] (# Principal)
+1. [Requirement Definition Factor] (# Requirement Definition Factor)
+1. [Service Description] (# Service Description)
+1. [Stakeholder Map] (# Stakeholder Map)
+1. [Stakeholders and Profiles] (# Stakeholders and Profiles)
+1. [Identified risks] (# Identified risks)
+1. [Selected Customer Stories] (# Selected Customer Stories)
+1. [Service-Related Customer Paths] (# Service-Related Customer Paths)
+1. [Relevant Use Cases] (# Relevant Use Cases)
+1. [Key General Features / Functionalities] (# Key Features / Functionalities)
+1. [MockUp Prototype] (# MockUp Prototype)
+1. [Preliminary User Stories] (# Preliminary User Stories)
+1. [Service System Requirements] (# Service System Requirements)
+1. [Restrictions Affecting the Service] (# Restrictions Affecting the Service)
+1. [Service Related Equipment Requirements] (# Service Related Equipment Requirements)
+1. [Requirements related to the service execution environment] (# Requirements related to the service execution environment)
+1. [Service-defined features / functionalities] (# Service-defined features / functionalities)
+1. [Functional Requirements for the Service] (# Functional Requirements for the Service)
+1. [Non-functional requirements of the service] (# Non-functional requirements of the service)
+1. [Preliminary Service Architecture] (# Preliminary Service Architecture)
+1. [Preliminary Service Placement View] (# Preliminary Service Placement View)
+1. [Preliminary database description of the service)] (# Preliminary database description of the service)
+1. [Service Integrations with Other Systems] (# Service Integrations with Other Systems)
+1. [On Quality of Service] (# On Quality of Service)
+1. [Service Acceptance Tests] (# Service Acceptance Tests)
+1. [Publication plan] (# Publication plan)
+1. [Related Standards and Sources] (# Related Standards and Sources)
 
 
-## Johdanto
+## Introduction
 
 >Kuvaa millaisesta projektista on kyse, hieman taustaa ja aiheeseen olennaisesti liittyviä asioita? Jos kyseessä harjoitustehtävä, niin tarkista voitko 
 käytää todellisten tilaajien oikeita nimiä! Muuta tarvittaessa henkilötiedot ja toimeksiantajan viralliset tiedot
