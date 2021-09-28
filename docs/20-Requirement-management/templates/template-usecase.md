@@ -29,7 +29,7 @@ Actor2 -- (Modify existing request)
 Actor2 -- (Send a new request)
 ```
 
-**Description of use case**
+**Description of use case -eg. Modify existing request**
 
 1. step
 2. step
