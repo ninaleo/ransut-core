@@ -1,5 +1,8 @@
 # Risk management plan
 
+![](https://openclipart.org/image/400px/svg_to_png/163063/dontlifttoomuch.png)
+
+> Record the risks to the project in the table below and maintain them as needed. Each risk is given a unique identifier, eg RIS007, as this facilitates their handling in different situations.
 
 | RISK ID |	Description | Severity | Probability | Responsible | Action in case the risk escalates | 
 |:--:|:--:|:--:|:--:|:--:|:--:|
@@ -15,6 +18,8 @@
 | RISXX | | | | |
 
 ### Severity descriptions
+
+**The severity class should be defined in a way that suits the project**
 
 | Severity class | Description | Other |
 |:----:|:----:|:----:|
