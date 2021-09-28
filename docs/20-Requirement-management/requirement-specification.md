@@ -531,30 +531,28 @@ node1 -0)- node3 : service Y
 node1 -0)- node4 : service Z
 ```
 
-**Integraation kuvaaminen sekvenssikaaviona**
+** Describing integration as a sequence diagram **
 
-> Järjestelmien välisiä tapahtumia voi kuvata tarvittaessa esim. sekvenssikaavion muodossa. 
-
+> If necessary, events between systems can be described, for example, in the form of a sequence diagram.
 
 ```plantuml
 node1 ->node2: Log Start Request
 node2 --> node1 : Logging started
 ```
 
-## Palvelun laadun varmistus
+## Quality  Assurance
 
->Ohjelmisto
+> Software
 
-### Palvelun/Ohjelmiston alustavat hyväksyntätestit
+### Preliminary Service / Software Acceptance Tests
 
->Hyväksyntätesteissä keskitytään yleisesti asiakkaan/loppukäyttäjän näkökulmaan. Tavoitteena on kelpuuttaa, eli validoida , onko tuote asiakkaan toiveiden mukainen ja täyttääkö se asetetut vaatimukset.
-Hyväksyntätesteillä voidaan selvittää onko tuote myös riittävän suorituskykyinen, käytettävä tai tietoturvallinen asiakkaiden käyttötarkoitukseen. 
+> Acceptance tests generally focus on the customer / end-user perspective. The aim is to validate, ie to validate whether the product meets the customer's wishes and whether it meets the set requirements.
+Acceptance tests can be used to determine whether a product is also sufficiently high-performance, usable, or secure for customer use.
 
 [![](http://img.youtube.com/vi/WfMrCdAr-GM/0.jpg)](http://www.youtube.com/watch?v=WfMrCdAr-GM "")
 
 
-
->Kiinnitetään alustavat hyväksyntätestit vaatimuksiin taulukon muodossa.
+> Attach preliminary acceptance tests to the requirements in tabular form.
 
 | Lähde | Testitapaus Id | Kuvaus | Tyyppi  |								
 |:-:|:-:|:-:|:-:|
@@ -564,10 +562,11 @@ Hyväksyntätesteillä voidaan selvittää onko tuote myös riittävän suoritus
 
 
 
-## Standardit ja lähteet
 
-> Vaatimusmäärittelyn osana on oleellista tuoda esiin tärkeät lähteet, joista on hyötyä tai merkitystä kokonaisuuden kannalta. Standardit ja ennalta jaetut ohjeistukset ovat hyödyllisiä lähteitä ja tarvittaessa 
-selkeyttävät vaatimusten merkitystä.
+## Standards and sources
+
+> As part of the requirements definition, it is essential to identify important sources that are useful or relevant to the whole. Standards and pre-distributed guidelines are useful sources and as needed
+clarify the meaning of the requirements.
 
 | ID | Linkki |  |  
 |:-:|:-:|:-:|
