@@ -1,7 +1,5 @@
 # Project End Report
 
-[![](https://i.ytimg.com/vi/ovEr1fBB7kU/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBn8onqOvY-j6AbsUazWUWsp1zQ8g)](https://www.youtube.com/watch?v=ovEr1fBB7kU&list=PLOyRnRI1_Cl47Q6tiFByWSVBialcz_bxp&index=7)
-
  
 # 1 INTRODUCTION
 The end report should primarily answer the following questions: what and how was done, why it was done, what was successful, what failed and why, how problems were solved and what was learned.
