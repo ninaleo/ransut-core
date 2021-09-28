@@ -1,5 +1,6 @@
-# USER STORY: As a < type of user >, I want < some goal > so that < some reason > 
+# Description:
 
+* Topic text:  __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
 * Update Issue topic according your story
 * Do priorization and weight setting with a team
 * Describe a need from customer point of view. 
