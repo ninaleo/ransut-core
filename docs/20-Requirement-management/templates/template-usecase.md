@@ -6,17 +6,9 @@ It is a good idea to include a view of the selected relevant use case descriptio
 Remember that the drawn description is only part of the description of the use case! The use case should be described in detail in text format.
 
 ```plantuml
-Ohjaaja -- (Tilauksen muokkaus)
-Kayttaja -- (Tilauksen muokkaus)
+Actor1 -- (Modify existing request)
+Actor2 -- (Send a new request)
 ```
-
-Above you find a rough example. It should be deleted from the actual use case files.
-
-__Watch the video below and remove the link from this file if you understand the idea.__
-
-[![](http://img.youtube.com/vi/BjQAWfBMpcw/0.jpg)](http://www.youtube.com/watch?v=BjQAWfBMpcw "")
-
-
 
 * Author:
 * Date / Version:
