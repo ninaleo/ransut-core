@@ -1,5 +1,3 @@
-[![](http://img.youtube.com/vi/P_ExkvEoj6k/0.jpg)](http://www.youtube.com/watch?v=P_ExkvEoj6k "")
-
 # CONTRACT TEMPLATE
 
 AGREEMENT ON STUDENT PROJECT COOPERATION 
