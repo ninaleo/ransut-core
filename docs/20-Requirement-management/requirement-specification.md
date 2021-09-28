@@ -124,9 +124,7 @@ stake_holder2 -- example_of_service  : competitor
 |:-:|:-:|:-:|
 | CUSTOMER-REQ-0001 | Customer Requirement | As a user of solution I would like to use Faceboot authentication | 
 | CUSTOMER-REQ-0002 | Customer Requirement ||
-| CUSTOMER-REQ-0003 | Customer Requirement ||
-| CUSTOMER-REQ-0004 | Customer Requirement ||
-| CUSTOMER-REQ-0005 | Customer Requirement ||
+
 
 ## Business requirements / goals?
 
@@ -137,9 +135,7 @@ stake_holder2 -- example_of_service  : competitor
 |:-:|:-:|:-:|
 | BUSINESS-REQ-0001 | Business Requirement | Registration as a new user should be easy for old users, because is's our user focus group 35% | 
 | BUSINESS-REQ-0002 | Business Requirement ||
-| BUSINESS-REQ-0003 | Business Requirement ||
-| BUSINESS-REQ-0004 | Business Requirement ||
-| BUSINESS-REQ-0005 | Business Requirement ||
+
 
 
 ## Customer Storys as background information
@@ -359,12 +355,8 @@ saataa olla varsin ratkaiseva pitemmällä tähtäimella. Esimerkkinä [EU GDPR-
 | Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
 |:-:|:-:|:-:|:-:|
 | CONSTRAINT-REQ-S00000 | Constrain | Palvelun kirjautumisprosessin on noudatettava XYZ-käytäntöjä  | [Kirjautuminen ft1](pohjat/pohja-ominaisuus.md) |
-| CONSTRAINT-REQ-S00001 | Constrain | On huomioitava Standardi ZZZ osana palvelun tapahtuma login talletusta | [Log-palvelin](pohjat/pohja-ominaisuus.md)|
 | CONSTRAINT-REQ-S00002 | Constrain |||
-| CONSTRAINT-REQ-S00003 | Constrain |||
-| CONSTRAINT-REQ-S00004 | Constrain |||
-| CONSTRAINT-REQ-S00005 | Constrain |||
-| CONSTRAINT-REQ-S00006 | Constrain |||
+
 
 
 
@@ -408,11 +400,8 @@ Tämä ei tarkoita, että kyseessä on tuoteeen ohjelmiston yksi ominaisuus vaan
 | [Feature 3 - avatar-valinta](pohjat/pohja-ominaisuus.md) | P2 | Esim [FUNCTIONAL-REQ-C0023]() |
 | [Feature 4 - oikeushallinta](pohjat/pohja-ominaisuus.md) | P3 | Esim [FUNCTIONAL-REQ-C0133]() |
 | [Feature 5](pohjat/pohja-ominaisuus.md) | P4 | Esim [FUNCTIONAL-REQ-C0231]() |
-| [Feature 6](pohjat/pohja-ominaisuus.md) | P5 | Esim [FUNCTIONAL-REQ-C0221]() |
-| [Feature 7](pohjat/pohja-ominaisuus.md) | P5 | Esim [FUNCTIONAL-REQ-C0021]() |
-| [Feature 8](pohjat/pohja-ominaisuus.md) | P5 | EEsim [FUNCTIONAL-REQ-C0301]() |
-| [Feature 9](pohjat/pohja-ominaisuus.md) | P5 | Esim [FUNCTIONAL-REQ-C0401]() |
-| [Feature 10](pohjat/pohja-ominaisuus.md) | P5 | Esim [FUNCTIONAL-REQ-C0401]() |
+
+
 
 
 ### Palvelun toiminnalliset vaatimukset
@@ -428,13 +417,7 @@ Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.
 | FUNCTIONAL-REQ-C0001 | Functional Requirement | Käyttäjänä (Asiakas Profiilit 1-4) voin kirjautua käyttäen Facebook-tunnuksia | [Kirjautuminen ft1](pohjat/pohja-ominaisuus.md) |
 | FUNCTIONAL-REQ-C0002 | Functional Requirement | Käyttöliittymän on toimittava myös ääniohjattuna, koska käyttäjillä saattaa olla näkövammoja | [Kirjautuminen ft1](pohjat/pohja-ominaisuus.md), [Tilaushallinta](pohjat/pohja-ominaisuus.md) |
 | FUNCTIONAL-REQ-C0003 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0004 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0005 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0006 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0007 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0008 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0009 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0010 | Functional Requirement |||
+
 
 ### Ohjelmiston/palveluun ei-toiminnallisia vaatimuksia
 
@@ -453,10 +436,7 @@ Miten hyvin palvelu/komponentti tai muu osa-alue palvelusta suoriutuu kuormituks
 |:-:|:-:|:-:|:-:|
 | PERFORMANCE-REQ-0000 | Non-Functional Performance | Kirjautuminen on mahdollista yhtäaikaa 100 käyttäjällä (100 request/s) | [Kirjautuminen ft1](ft1-ominaisuus.md) |								
 | PERFORMANCE-REQ-0001 | Non-Functional Performance |||
-| PERFORMANCE-REQ-0002 | Non-Functional Performance |||
-| PERFORMANCE-REQ-0003 | Non-Functional Performance |||
-| PERFORMANCE-REQ-0004 | Non-Functional Performance |||
-| PERFORMANCE-REQ-0005 | Non-Functional Performance |||
+
 
 >Millaisia vaatimuksia palveluun kohdistuu tietoturvan näkökulmasta?
 
@@ -464,14 +444,7 @@ Miten hyvin palvelu/komponentti tai muu osa-alue palvelusta suoriutuu kuormituks
 |:-:|:-:|:-:|:-:|
 | SECURITY-REQ-0001 | Non-Functional Security | Salasanassa on käytettävä vähintään MD5-tason salausta, koska standardi XY112 sitä edellyttää | [Kirjautuminen ft1](ft1-ominaisuus.md) |								
 | SECURITY-REQ-0002 | Non-Functional Security |||
-| SECURITY-REQ-0003 | Non-Functional Security |||
-| SECURITY-REQ-0004 | Non-Functional Security |||
-| SECURITY-REQ-0005 | Non-Functional Security |||
-| SECURITY-REQ-0006 | Non-Functional Security |||
-| SECURITY-REQ-0007 | Non-Functional Security |||
-| SECURITY-REQ-0008 | Non-Functional Security |||
-| SECURITY-REQ-0009 | Non-Functional Security |||
-| SECURITY-REQ-0010 | Non-Functional Security |||
+
 
 >Mitä tarkoitetaan käyttävyydellä? Millaisia asioita/ohjeistuksia on otettava huomioon palvelua toteutettaessa?
 
@@ -479,10 +452,7 @@ Miten hyvin palvelu/komponentti tai muu osa-alue palvelusta suoriutuu kuormituks
 |:-:|:-:|:-:|:-:|
 | USABILITY-REQ-0000 | Non-Functional Usability | | [Kirjautuminen ft1](ft1-ominaisuus.md) | |	
 | USABILITY-REQ-0001 | Non-Functional Usability | | [Käytettävyys](https://fi.wikipedia.org/wiki/K%C3%A4ytett%C3%A4vyys) |
-| USABILITY-REQ-0002 | Non-Functional Usability | | [Käytettävyys](https://fi.wikipedia.org/wiki/K%C3%A4ytett%C3%A4vyys) |
-| USABILITY-REQ-0003 | Non-Functional Usability | | [Käytettävyys](https://fi.wikipedia.org/wiki/K%C3%A4ytett%C3%A4vyys)|
-| USABILITY-REQ-0004 | Non-Functional Usability | | |[Käytettävyys](https://fi.wikipedia.org/wiki/K%C3%A4ytett%C3%A4vyys)|
-| USABILITY-REQ-0005 | Non-Functional Usability | | [Käytettävyys](https://fi.wikipedia.org/wiki/K%C3%A4ytett%C3%A4vyys)|
+
 
 >Millaisia asioita on otettava huomioon tuotteen laadunvarmistamisen kannalta?. Kehityksen aikana ohjelmistotuotteeseen on luotava tarvittavat rajapinnat tai työkalu-ohjelmistoja, 
 joiden avulla voidaan hallita testikohteena olevaa tuoteversiota. Nämä vaatimukset on kirjattava ajoissa, koska ne vaikuttavat ratkaisevasti tuotteen testausmahdollisuuksiin.
@@ -492,10 +462,7 @@ Esimerkkinä voidaan miettiä logien hallintaa, niiden keräämistä, alkutilant
 |:-:|:-:|:-:|:-:|
 | TESTABILITY-REQ-0000 | Non-Functional Testability | Käyttäjärekisteri on kyettävä palauttamaan alkutilaan ennen testien ajoa  | [Kirjautuminen ft1](ft1-ominaisuus.md)	 |	
 | TESTABILITY-REQ-0001 | Non-Functional Testability ||[Lisätietoa](https://fi.wikipedia.org/wiki/Ohjelmiston_laatu)|	
-| TESTABILITY-REQ-0002 | Non-Functional Testability ||[Lisätietoa](https://fi.wikipedia.org/wiki/Ohjelmiston_laatu)|	
-| TESTABILITY-REQ-0003 | Non-Functional Testability ||[Lisätietoa](https://fi.wikipedia.org/wiki/Ohjelmiston_laatu)|	
-| TESTABILITY-REQ-0004 | Non-Functional Testability ||[Lisätietoa](https://fi.wikipedia.org/wiki/Ohjelmiston_laatu)|	
-| TESTABILITY-REQ-0005 | Non-Functional Testability ||[Lisätietoa](https://fi.wikipedia.org/wiki/Ohjelmiston_laatu)|
+
 
 ## Ohjelmiston arkkitehtuuri, sijoittelunäkymä, tietokantakuvaus ja integraatiot
 
@@ -593,42 +560,8 @@ Hyväksyntätesteillä voidaan selvittää onko tuote myös riittävän suoritus
 |:-:|:-:|:-:|:-:|
 | [Feature 1](pohjat/pohja-ominaisuus.md), [FUNCTIONAL-REQ-0001]() | [Testitapaus 1](pohjat/pohja-hyvaksyntatesti.md) | esim. Tarkista kirjautuminen palveluun uutena käyttäjänä  | Hyväksyntätesti  |
 | [Feature 2](pohjat/pohja-ominaisuus.md), [FUNCTIONAL-REQ-0201](), [USE-CASE-017](pohjat/pohja-hyvaksyntatesti.md) | [Testitapaus 2](pohjat/pohja-testitapaus.md) | esim. Tarkista kenkilökohtaisten tietojen poisto | Hyväksyntätesti  |
-| [Feature 3](pohjat/pohja-ominaisuus.md),  | [Testitapaus 101](pohjat/pohja-hyvaksyntatesti.md) | esim. Takista Kirjautuminen toimivalla salasanalla | Hyväksyntätesti  |
+| [Feature 3](pohjat/pohja-ominaisuus.md),  | [Testitapaus 101](pohjat/pohja-hyvaksyntatesti.md) | esim. Tarkista Kirjautuminen toimivalla salasanalla | Hyväksyntätesti  |
 
-## Julkaisusuunnitelma
-
-
-> Julkaisusuunnitelman visualisoidulla muodolla on helpompi esittää ominaisuuksien julkaisut kehityksen aikanan.
-Alla oleva kuva on luotu hyödyntäen PlantUML-työkalua. Sen avulla on luoto ns. Gantt-kaavio ominaisuuksien julkaisuajankohdista.
-
-> Oletamme, että tuotteessa on muutamia ominaisuuksia, joiden järjestys on mietitty ennakkoon..
-
-```plantuml
-Project starts the 2019-5-15
-[Version v1.0 EarlyAdopter] Starts 2019-5-15 and ends 2019-7-30 
-[Design Phase] Starts 2019-5-15 and ends 2019-6-15
-[Feature 1 v 1.0] Starts 2019-5-25 and ends 2019-6-15
-[Feature 2 v 1.0] Starts 2019-5-25 and ends 2019-7-1
-[Feature 3 v 1.1] Starts 2019-6-15 and ends 2019-7-15
-[Feature 4 v 1.1] Starts 2019-6-25 and ends 2019-7-20
-[Feature 5 v 2.3] Starts 2019-6-1 and ends 2019-7-21
-[Accceptance Testing ] Starts 2019-7-21 and ends 2019-7-23
-```
-
-[![](http://img.youtube.com/vi/Z1cSK_IMqMs/0.jpg)](http://www.youtube.com/watch?v=Z1cSK_IMqMs "")
-
->Tuotteen/ohjelmiston eri ominaisuuksista kehitetään usein eri versioita ja tämä johtaa usein erilaisiin tuotekokonaisuuksiin. Puhutaan ns. tuotekonfiguraatiosta, jonka avulla kiinnitetään eri 
-ominaisuusversiot yhteen ohjelmiston julkaisu versionn. 
-
-> Alla olevassa taulukossa on esitelty julkaisuun "EarlyAdopter - Versio 1.0" valitut toiminnallisuudet 
-
-| Ominaisuus/toiminnallisuus | Versio | Milloin testattavissa | Julkaisu  |
-|:-:|:-:|:-:|:-:|
-| [Feature 1](pohjat/pohja-ominaisuus.md) | 1.0 | 15.6.2019 | V1.0 |
-| [Feature 2](pohjat/pohja-ominaisuus.md) | 1.0 | 1.7.2019  | V1.0 |
-| [Feature 3](pohjat/pohja-ominaisuus.md) | 1.1 | 15.7.2019 | V1.0 |
-| [Feature 4](pohjat/pohja-ominaisuus.md) | 1.1 | 20.7.2019 | V1.0 |
-| [Feature 5](pohjat/pohja-ominaisuus.md) | 2.3 | 23.7.2019 | V1.0 |
 
 
 ## Standardit ja lähteet
