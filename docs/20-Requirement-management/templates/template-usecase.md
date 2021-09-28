@@ -7,6 +7,7 @@ Remember that the drawn description is only part of the description of the use c
 
 ```plantuml
 Actor1 -- (Modify existing request)
+Actor2 -- (Modify existing request)
 Actor2 -- (Send a new request)
 ```
 
