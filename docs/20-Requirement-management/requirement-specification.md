@@ -157,26 +157,26 @@ stake_holder2 -- example_of_service  : competitor
 [End user profile  1](pohjat/pohja-profiilikuvaus.md) is goint to start a cement mill on a construction site in the afternoon when she receives a message from the X service .........
 
 
-## Palveluun liittyviä asiakaspolkuja
+## Customer Journey paths in Service/solution 
 
->Mieti auki aiemmin kirjoittamaasi asiakastarinaa ja piirrä sen pohjalta hahmotelma asiakaspolusta. 
-Mitä tapahtumia siihen liittyy? Mieti palvelua laajempana kokonaisuutena!
-Asiaspolkukuvauksen avulla kuvataan tapahtuma sarjaa joka käydään jossain valitussa tilanteessa läpi palvelun käytön aikana. 
-Asiakas kohtaisia palvelupolkuja voi olla useita, mutta tärkeintä on tunnistaa alkuvaiheessa oleellisimmat. 
-Palvelupolkua kuvattaessa voi hyödyntää esim. Swim lane/BluePrint/tilakone-kuvausta tai muuta sopivaksi katsottua kuvausta.
-Tärkeää on kuitenkin kuvata polku ja käyttää sitä tarvittaessa selkeyttämään ymmärrystä tavoitellusta palvelusta. 
-Käy läpi tekemäsi kuvausta jonkun toisen henkilön kanssa yhdessä? Käy läpi polku ja kerro mitä sen aikana tapahtuu..
+> Think about the customer story you wrote earlier and draw an outline of the customer path based on it.
+What events are involved? Think of the service as a whole!
+The case path description is used to describe a series of events that go through a selected situation during the use of the service.
+There can be several customer-specific service paths, but the most important thing is to identify the most relevant at the beginning.
+When describing the service path, you can use, for example, the Swim lane / BluePrint / state machine description or other description deemed appropriate.
+However, it is important to describe the path and use it, if necessary, to clarify the understanding of the service sought.
+Go through the description you made with someone else? Go through the path and tell what happens during it.
 
 [![](http://img.youtube.com/vi/kNXjKquK3A0/0.jpg)](http://www.youtube.com/watch?v=kNXjKquK3A0 "")
 
->Asiakaspolun luonnostelu on hyvä aloittaa esim. asiakastarinan pohjalta. Polkuja laaditaan tarvittaessa useampia eri profiilien/tilanteiden näkökulmasta. Yhteen kuvaukseen ei siis kannata upottaa liikaa tapahtumia
+> It is a good idea to start sketching the customer path, for example on the basis of a customer story. If necessary, several paths are created from the perspective of different profiles / situations. So it is not worth immersing too many events in one description
 
 [![](http://img.youtube.com/vi/j7U8pqUN9EM/0.jpg)](http://www.youtube.com/watch?v=j7U8pqUN9EM "")
 
-**asiakaspolku PlantUML-esimerkki tilakoneena**
+**Customer journey path as PlantUML Statemachine -diagram **
 
-> Kokeillaan luonnostella asiakaspolkua PlantUML-työkalun avulla. Kannattaa kokeilla ehdottomasti myös muita tapoja!
-> Sovella esim. PlantUML SDL/Swimlane kuvausta?
+> Trying to sketch a customer path using the PlantUML tool. Definitely worth trying other ways too!
+> Apply eg PlantUML SDL / Swimlane description?
 
 
 ```plantuml
@@ -193,34 +193,33 @@ Step4 --> Step2
 Step2 --> Step3
 Step3 --> [*]
 ```
-> Palvelupolkujen kuvauksissa voi tarvittaessa soveltaa myös muita työkaluja. Esim. https://canvanizer.com, PowerPoint etc
+> If necessary, other tools can be applied to the descriptions of the service paths. Eg https://canvanizer.com, PowerPoint etc
 
-## Oleelliset käyttötapaukset
+## Mandatory Use Case of service/solution
 
-> Palvelupolun  kuljettaessa käydään läpi laajempi ketju palveluun käyttöön liittyviä tapahtumia. Tilanteet joissa käsitellään itse ohjelmistpalvelun 
-sähköisiä rajapintoja/käyttöliittymiä voidaan kuvata käyttötapauksien (Use Case) avulla.   
-> Ohjelmistosuunnittelussa **Käyttötapaus** (Use Case) ymmärretään helposti väärin, koska se liitetään helposti pelkästään tuotteen 
-**käyttötarkoituksen** kuvaamiseen. Palvelusta ensi kertaa keskusteltaessa puhutaan sen eri **käyttötarkoituksista**, eli sitä mihin 
-ohjelmistoa/palvelua voidaan hyödyntää. Kun puhutaan palvelun määrittelystä ja siihen liittyvien käyttötapauksien tunnistamisesta 
-on kyseessä hieman eri asia. Käyttötapauksessa keskitytään tarkastelmaan palvelun käyttöä varsin rajatussa tilanteessa. 
-Käyttötapaukset (Use Case) kuvaataan UML-kuvauskielen avulla.
+> As user "travels" trough the service/solution by using it several service-related events is traversed. Situations involving the service/solution can be described as Touchpoints of service. All needed usage steps and actions neede can be described as a Use Case.
+> In software design, the ** Use Case ** is easily misunderstood because it is easily associated with the product alone.
+** to describe the purpose **. When discussing a service for the first time, we talk about its different ** uses **, ie what it is for
+the software / service can be utilized. When talking about defining a service and identifying related use cases
+it is a slightly different matter. In the use case, the focus is on the use of the service in a very limited situation.
+Use Cases are described using a UML markup language.
 
->UML Use Case-kuvaus voidaan tehdä PlantUML-kuvauksena, mutta tarkempi käyttötapauksen avaaminen vaatii erillisen kuvaus dokumentin
+> UML Use Case description can be done as PlantUML description, but a more detailed use case requires a separate description document
 
 ```plantuml
 
-rectangle Tilaus {
-Profiili_1--(Tilauksen tekeminen)
-Profiili_1--(Tilauksen muokkaus)
-Profiili_1--(Tilauksen peruminen)
+rectangle Order {
+Profile_1--(Making order)
+Profile_1--(Modifying order)
+Profile_1--(Cancelling order)
 }
 
-rectangle Tilausten_hallinta {
-Hallinto_1--(Tilauksien tarkistaminen)
-Hallinto_1--(Tilauksen muokkaus)
-Hallinto_1--(Tilauksen siirto)
-Huolto_1--(Tilauksen manuaalinen poisto)
-Huolto_1--(Tilauksen tyhjennys)
+rectangle Order_management {
+Hallinto_1--(Checking the Order)
+Hallinto_1--(Modification of order)
+Hallinto_1--(Transferring the order)
+Huolto_1--(Order manual cancelling)
+Huolto_1--(Order clear and restart)
 }
 
 ```
