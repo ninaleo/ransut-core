@@ -3,11 +3,11 @@
 
 > Fill the lines ! 
 
-* [SIJOITA TOIMEKSIANNON KOODI TÄHÄN] 
-* Nimimerkkisi/gitlab tunnus
-* Dokumentin versionumero X.Y
-* Vaatimusmäärittely pohjan versio 1.8 - 5.9.2019 (NarsuMan)
 
+* Project: [INSERT PROJECT NAME HERE]
+* Autohor: [Your Name/Team]
+* Version: Document version number X.Y
+* Template version: 1.9 - 28.9.2021 (NarsuMan)
 
 ## Some guidelines for writer of requirement specification
 
@@ -57,74 +57,66 @@ useful to familiarize yourself with its use http://plantuml.com/ and try to appl
 
 ## Introduction
 
->Kuvaa millaisesta projektista on kyse, hieman taustaa ja aiheeseen olennaisesti liittyviä asioita? Jos kyseessä harjoitustehtävä, niin tarkista voitko 
-käytää todellisten tilaajien oikeita nimiä! Muuta tarvittaessa henkilötiedot ja toimeksiantajan viralliset tiedot
+> Describe what kind of project it is, a little background and essentially related things? If this is an exercise, then check if you can
+use the real names of the real subscribers! If necessary, change the personal data and the official data of the client
 
-## Toimeksiantaja
+## Principal / client
 
->Kuka on vaatimusmäärittelyn tilaaja?
+> Who is the subscriber to the requirements specification?
 
-## Vaatimusmäärittelyn tekijästä
+## About the author 
 
->Kerro lyhyesti itsestäsi (tarvittaessa pseudonyyminä) tai esim. kuvitteellisen yrityksen työntekijänä.
+> Tell us briefly about yourself (as a pseudonym if necessary) or, for example, as an employee of an imaginary company.
 
-## Palvelukuvaus
+## Short description of service/solution
 
-[![](http://img.youtube.com/vi/55H2C0fSiHM/0.jpg)](http://www.youtube.com/watch?v=55H2C0fSiHM "")
-
->Mitä palvelun avulla voidaan tehdä? Millaisia ovat sen käyttäjät? Mikä sen tehtävä on yleisesti eri sidosryhmien kannalta? 
-Kannattaa nostaa esiin lyhyesti mahdolliset loppukäyttäjä ja oleellisiin palvelusta hyötyviin sidosryhmät
+> What can the service do? What are its users like? What is its role in general for the various stakeholders?
+It is worth highlighting briefly the potential end user and the relevant stakeholders who will benefit from the service
 
 
+## Stakeholder map
 
-## Sidosryhmäkartta
 
->Mietitään tarkemmin millaisia käyttäjä/sidosryhmiä liittyy suunniteltuun ohjelmisto/palvelukokonaisuuteen? 
-Näitä selkeyttääksemme kirjataan kaikki sidosryhmät sidosryhmäkartan muotoon. Nostetaan samalla esiin mikä on 
-ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia esim. piirtämällä, MindMap-muodossa tai soveltaen sopivaa UML-notaatiota.
+Let's consider little what kind of user / stakeholders are involved in the planned software / service package?
+To clarify these, all stakeholders are recorded in the form of a stakeholder map. At the same time, let's highlight what is
+ko. motivation related to the service of the stakeholder / representative. The description can be created, for example, by drawing, in MindMap format or by applying a suitable UML notation.
 
 [![](http://img.youtube.com/vi/wiNjgClkJoM/0.jpg)](http://www.youtube.com/watch?v=wiNjgClkJoM "")
 
-> Voit tutustu nyt aiemmin mainittuun PlantUML-työkaluun ja kokeilla luoda sidosryhmäkartta käyttäen (http://plantuml.com/)
-> Huomaa! PlantUML-lohkon määrittelyssä käytetään Gitlab-ympäristössä eri avainsanoja @startuml/@enduml- rivien sijaan  
+> You can now check out the PlantUML tool mentioned earlier and try creating a stakeholder map (http://plantuml.com/)
+> Note! The *PlantUML code block* is defined in the Gitlab's markdown version using different keywords instead of commonly used @ startuml / @ enduml lines. You will find example down below..
 
 ```plantuml
 actor profile1
 actor profile3
 actor stake_holder1
 actor stake_holder3
-
 cloud example_of_service
-
 profile1 -- example_of_service  : uses
 profile2 -- example_of_service  : benefits
 stake_holder1 -- example_of_service  : threat
 stake_holder2 -- example_of_service  : competitor
 ```
-> Voit kuvata sidosryhmät myös vapaamuotoisemmin, jolloin eri profiilien erot tulevat ehkä "selkeämmin" esiin!
+> You can also describe stakeholders using other methods, so that the differences between the different profiles may become visible more "clearer"!
 
 ![](https://camo.githubusercontent.com/0d665c81987cc940b4d93c0dfdfcf0128d1d5754/68747470733a2f2f7777772e6c7563696463686172742e636f6d2f7075626c69635365676d656e74732f766965772f30303736373365342d333361362d346131312d623465312d6163366461633130306537352f696d6167652e706e67)
 
-## Sidosryhmät ja profiilit 
 
-> Määritellään tarkemmin hahmotellusta sidosryhmäkartasta oleelliset sidosryhmät/profiilit. Huomio, että isossa yksittäisessä sidosryhmässä voi 
-olla tarve määritellä useampia eri profiileja. Tämä tarkoittaa sitä, että laaja sidosryhmä, kuten esim. __asiakaskunta__ voi käsittää useita erilaisia asiakasprofiileja, 
-joilla voi olla eroja motiiveissa/arvoissa, mutta ne kuuluvat kuitenkin olennaisesti asiakaskuntaan.    
+## Stakeholders and profiles
+
+> We should define more precise some of relevant stakeholde profiles. Note that a large stakeholder instace (eg. company, institution) can contain several different stakehold profiles. Because of that there may be a need to define several different profiles. Different profiles can be users, but because of different need they can have specific needs, motives and values. We have to find and define those different groups if needed.   
 
 [![](http://img.youtube.com/vi/w5oXMtOGcC4/0.jpg)](http://www.youtube.com/watch?v=w5oXMtOGcC4 "")
 
-> Huomaa! Kaikki määritellyt profiilikuvaukset kirjoitetaan itsenäiseksi MarkDown-tiedostoksi, koska tämä helpottaa niihin viittaamista muualla dokumentaatiossa esim. [Loppukäyttäjä - Keijo Korhonen](profiili-loppukayttaja.md) 
-**Alla olevat profiili/sidosryhmätkuvaukset vain suuntaa antavia! Nimeä ne tarkoituksenmukaisiksi. Varmista, että ne ovat löydettävissä sidosryhmäkartasta!**
 
-> Tässä kohtaa on aika etsiä profiilikuvauksen runkoa /pohjat kansiosta
-
-| Sidosryhmä/Profiili | Linkki |  Lisätietoa |
+| Stakeholde/profile | Info / Link to description | Motivation? |
 |:-:|:-:|:-:|
-| Sidosryhmä 1 | [Sidosryhmä-1](pohjat/pohja-profiilikuvaus.md) | |
-| Sidosryhmä 2 | [Sidosryhmä-2](pohjat/pohja-profiilikuvaus.md) | |
-| Henkilö 1 | [Profiili 1](pohjat/pohja-profiilikuvaus.md) | Edustaa sidosryhmää [Sidosryhmä-2](pohjat/pohja-profiilikuvaus.md) |
-| Henkilö 2 | [Profiili 1](pohjat/pohja-profiilikuvaus.md) | Edustaa sidosryhmää [Sidosryhmä-2](pohjat/pohja-profiilikuvaus.md) |
-| Henkilö 3 | [Profiili 1](pohjat/pohja-profiilikuvaus.md) | [Sidosryhmä-1](pohjat/pohja-profiilikuvaus.md) |
+| Stakeholder 1 | [Sidosryhmä-1](pohjat/template-profileilikuvaus.md) | |
+| Stakeholder 2 | [Sidosryhmä-2](pohjat/pohja-profiilikuvaus.md) | |
+| Stakeholder 3 / End user 1 | Person 17-35 Years old | Benefits x, y and z |
+| Stakeholder 3 / End user 2 | Person 36-45 Years old | Primary reason is... |
+| Stakeholder 3 / End user 3 | Person 46-65 Years old | Because of.... |
+| Admin user | [adminuser-profile](pohjat/pohja-profiilikuvaus.md) | supports service users |
 
 ## Asiakkaan tarpeet/toiveet?
 
