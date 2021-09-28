@@ -16,7 +16,7 @@ This is a very short version of requirement specification
 
 ## Primary needs for customer
 
-* as a <role> I would like to <act>, because <rationale>
+* as a *role* I would like to *act*, because *rationale*
 
 ## Primary Functionalitys/Features
 
