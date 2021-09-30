@@ -1,4 +1,4 @@
-# Communication Plan
+# Template - Communication Plan 
 
 # Introduction
 
