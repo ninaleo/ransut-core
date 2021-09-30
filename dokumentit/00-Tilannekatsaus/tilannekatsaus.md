@@ -1,7 +1,8 @@
 # Tilannekatsaus
 
-![](https://openclipart.org/image/400px/svg_to_png/173434/interview.png)
+![](https://openclipart.org/image/400px/286947)
 
+*Päivitetään tilanne viikottain/sprinteittäin*
 
 ## Gitlab Nakkilista
 
@@ -9,9 +10,9 @@
 * [Issues List - päivitä linkit projektin mukaan](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-2021-ttc2070-core-template-v1/-/issues)
 
 
-*Päivitetään tilanne viikottain/sprinteittäin*
 
-![](https://openclipart.org/image/400px/286947)
+
+
 
 ## Tilanne sprintillä XX 30.9.202X**
 
@@ -31,7 +32,7 @@
 * Sed do eiusmod tempor incididunt ut labore et dolore magn
 * [Link to next milestone / sprint]()
 
-![](https://openclipart.org/image/400px/286947)
+
 
 ## Tilanne aiemmalla sprintillä YY 1.9.202X**
 
