@@ -2,8 +2,8 @@
 
 ## Gitlab Issues
 
-* [Current Issue Board](https://gitlab.labranet.jamk.fi/open-project-framework/opf-virtual-company-v1/core/-/boards)
-* [Issues List](https://gitlab.labranet.jamk.fi/open-project-framework/opf-virtual-company-v1/core/issues)
+* [Backlog - update link according project](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-2021-ttc2070-core-template-v1/-/boards)
+* [Issues List - update link according project](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-2021-ttc2070-core-template-v1/-/issues)
 
 Team should update this status report every sprint.
 
