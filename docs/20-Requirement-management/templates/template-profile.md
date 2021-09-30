@@ -1,9 +1,6 @@
 # Profile description template
 
 
-[![](http://img.youtube.com/vi/-TbGB_1wjpM/0.jpg)](http://www.youtube.com/watch?v=-TbGB_1wjpM "")
-
-
 ## Reference group / segment:
 
 * What kind of a profile is it? Is it a part of a larger entity, for example "customers"?
