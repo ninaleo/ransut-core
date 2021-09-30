@@ -9,7 +9,7 @@ Team should update this status report every sprint.
 
 ![](https://openclipart.org/image/400px/286947)
 
-## Status sprint _?_ Date 30.9.202X**
+## Status of sprint XX Date 30.9.202X**
 
 **What has been achieved**
 
@@ -29,7 +29,7 @@ Team should update this status report every sprint.
 
 ![](https://openclipart.org/image/400px/286947)
 
-## Status sprint _?_ Date 1.9.202X**
+## Status of sprint XY Date 1.9.202X**
 
 **What has been achieved**
 
