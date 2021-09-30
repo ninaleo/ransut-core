@@ -24,6 +24,8 @@ Alle on kerätty hyödyllisiä lähteitä, joista on apua projektien kanssa toim
 
 ## Saavutettavuus
 
+
+* [Näkövammaisten liitto](https://www.nkl.fi/fi)
 * [UserWay](https://userway.org/)
 
 ## Suorituskyky
