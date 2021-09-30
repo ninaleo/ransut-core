@@ -7,10 +7,7 @@
 
 ## Some guidelines for writer of requirement specification
 
-> Keep the table of contents in good condition, ie update the MarkDown anchor link if necessary.
-
-> Within the document, the "/ templates" folder is referred to in several places. This folder contains the so-called "template" files used to help record various definitions.
-This means that files can be copied from that folder if 
+If you need template documents you will find then under [template folder](/templates)
 
 > With the PlantUML tool, it is possible to draw, for example, descriptions in the UML markup language and integrate them into MarkDown descriptions. During the course there is
 useful to familiarize yourself with its use http://plantuml.com/ and try to apply it as much as possible in different areas.
