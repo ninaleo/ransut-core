@@ -5,9 +5,6 @@ A precisely defined test case may be replaced with a check list if needed. This 
 Check list examples are also available online: 
 
 
-* https://nkl.fi/fi/etusivu/saavutettavuus-esteettomyys/saavutettavuus-verkossa-ja-mobiililaitteissa/tarkistuslista-verkkosivujen-tekijoille 
-
-
 | Check point | Status |
 |:---:|:---:|
 | 1. Text counterparts | ? | 
