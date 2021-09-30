@@ -1,7 +1,5 @@
 # Template for check list
  
-[![](http://img.youtube.com/vi/Zz3K7KrQwmI/0.jpg)](http://www.youtube.com/watch?v=Zz3K7KrQwmI "")
-
 A precisely defined test case may be replaced with a check list if needed. This check list contains all the important check points.
 
 Check list examples are also available online: 
