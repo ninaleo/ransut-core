@@ -9,11 +9,7 @@
 
 If you need template documents you will find then under [template folder](./templates)
 
-> With the PlantUML tool, it is possible to draw, for example, descriptions in the UML markup language and integrate them into MarkDown descriptions. During the course there is
-useful to familiarize yourself with its use http://plantuml.com/ and try to apply it as much as possible in different areas.
-
-> ATTENTION! Do not use Scandinavian characters in PlantUML descriptions, as this will cause problems during the CI / CD process
-
+> With the PlantUML tool, it is possible to draw, for example, descriptions in the UML markup language and integrate them into MarkDown descriptions. During the course there is useful to familiarize yourself with its use http://plantuml.com/ and try to apply it as much as possible in different areas.
 
 ## Table of contents
  
