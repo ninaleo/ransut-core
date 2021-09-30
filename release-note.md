@@ -2,6 +2,8 @@
 
 ## OPF- Releases 0.9.4 - 28.9.2021
 
+
+* Translation of english document templates progressing 85 %
 * Lot's of fixed in requirement specification template
 * Some fixing aroudn image. 
 * Rename of project template
