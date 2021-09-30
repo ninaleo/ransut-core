@@ -1,8 +1,8 @@
-# Nice links for project working
+# Internal Project Library
 
 ![](https://openclipart.org/image/400px/svg_to_png/185078/oldmanreadsabook.png)
 
-Alle on kerätty hyödyllisiä lähteitä, joista on apua projektien kanssa toimittaessa. Sisältö päivittyy ajoittain.
+Here is some links which could be valuabe during different phases of project work
 
 ## Agile development
 
