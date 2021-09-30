@@ -1,9 +1,9 @@
 site_name: OPF-Default-Rel 0.9.4
-site_url: http://jamkit.pages.labranet.jamk.fi/project-templates/opf-core-template-v2
+site_url: http://jamkit.pages.labranet.jamk.fi/project-templates/opf-2021-ttc2070-core-template-v1
 site_description: Default Description
 site_author: Firstname Lastname / JAMK IT
 
-docs_dir: docs
+docs_dir: dokumentit
 site_dir: public
 
 markdown_extensions:

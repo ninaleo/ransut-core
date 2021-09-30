@@ -3,10 +3,6 @@
 
 Tarkasti määritellyn testitapauksen voi tarvittaessa korvata tarkistuslistalla, johon on kerätty tärkeäksi koetut tarkistuskohdat.
 
-Valmiita tarkistulistoja on myös tarjolla esimerkkinä :
-
-* https://nkl.fi/fi/etusivu/saavutettavuus-esteettomyys/saavutettavuus-verkossa-ja-mobiililaitteissa/tarkistuslista-verkkosivujen-tekijoille
-
 
 | Tarkistuskohde | Pass/Fail |
 |:---:|:---:|
