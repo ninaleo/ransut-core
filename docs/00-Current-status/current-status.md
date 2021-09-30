@@ -1,13 +1,17 @@
-# Current Project Status 
+# Status of project
+
+![](https://openclipart.org/image/400px/286947)
+
+
+*Team should update this status report every sprint.*
 
 ## Gitlab Issues
 
 * [Backlog - update link according project](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-2021-ttc2070-core-template-v1/-/boards)
 * [Issues List - update link according project](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-2021-ttc2070-core-template-v1/-/issues)
 
-Team should update this status report every sprint.
 
-![](https://openclipart.org/image/400px/286947)
+
 
 ## Status of sprint XX Date 30.9.202X**
 
@@ -27,7 +31,6 @@ Team should update this status report every sprint.
 * Sed do eiusmod tempor incididunt ut labore et dolore magn
 * [Link to next milestone / sprint]()
 
-![](https://openclipart.org/image/400px/286947)
 
 ## Status of sprint XY Date 1.9.202X**
 
