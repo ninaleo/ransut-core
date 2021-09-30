@@ -6,7 +6,7 @@
 
 | RISK ID |	Description | Severity | Probability | Responsible | Action in case the risk escalates | 
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| RIS01 | Team member gets the flu |  S3 | 3 |  HessuHopo | Inform the team leader and the client, if necessary. |
+| RIS01 | Team member gets the flu |  S3 | 3 |  James Pot | Inform the team leader and the client, if necessary. |
 | RISXX | [detailed description of risk, if needed]() | | | |
 | RISXX | | | | |
 | RISXX | | | | |
