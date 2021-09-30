@@ -1,4 +1,6 @@
-# Requirement Specification for Service/Solution X  x.y 
+# Template of Wide Requirement Specification 
+
+## Requirement Specification for Service/Solution X
 
 * Project: [INSERT PROJECT NAME HERE]
 * Autohor: [Your Name/Team]
