@@ -2,39 +2,55 @@
 
 ![](https://openclipart.org/image/400px/svg_to_png/173434/interview.png)
 
-## Ajanhetki (viikko/sprint)
 
-![](../assets/work-to-do.png)
+## Gitlab Nakkilista
 
-
-* Tilannekatsauksen ajanhetki _X_
-
-**Päivitä linkit osoittamaan projektin repositoriota!**
+* [Backlog - päivitä linkit projektin mukaan](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-2021-ttc2070-core-template-v1/-/boards)
+* [Issues List - päivitä linkit projektin mukaan](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-2021-ttc2070-core-template-v1/-/issues)
 
 
-* [Repositorio](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2)
-* [Tehtävä - Board](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/boards/5192)
-* [Työlista - Backlog](https://gitlab.labranet.jamk.fi/open-project-framework/opf-virtual-company-v1/core/issues?scope=all&utf8=%E2%9C%93&state=opened&milestone_title=Backlog)
-* [Etappi- Sprint 0](https://gitlab.labranet.jamk.fi/open-project-framework/opf-virtual-company-v1/core/-/milestones/2)
+*Päivitetään tilanne viikottain/sprinteittäin*
+
+![](https://openclipart.org/image/400px/286947)
+
+## Tilanne sprintillä XX 30.9.202X**
+
+**Mitä on saavutettu?**
+
+* Lorem ipsum dolor sit amet, consectetur adipiscing elit
+* sed do eiusmod tempor incididunt ut labore et dolore magna 
+
+**Millaisia haasteita on tullut eteen?**
+
+* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna 
+* [Links to problematic issue tickets?](), eg. #1, #10 and #9
 
 
-## Mitä saatu aikaan
+**Seuraavat askeleet**
 
-* Tärkeimmät saavutukset?
+* Sed do eiusmod tempor incididunt ut labore et dolore magn
+* [Link to next milestone / sprint]()
 
-## Kohdatut ongelmat
+![](https://openclipart.org/image/400px/286947)
 
-* Onko jotain hankaluuksia
+## Tilanne aiemmalla sprintillä YY 1.9.202X**
 
-## Mitä seuraavaksi
+**Mitä on saavutettu?**
 
-* Linkki etappiin / sprinttiin ?
+* Lorem ipsum dolor sit amet, consectetur adipiscing elit
+* sed do eiusmod tempor incididunt ut labore et dolore magna 
 
-## Projektin kokonaiskulut x.y.202z
+**Millaisia haasteita on tullut eteen?**
 
-* [Tuntikirjaukset]()
+* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna 
+* [Links to problematic issue tickets?](), eg. #1, #10 and #9
 
-## Projektilogi
 
-* [Projektiloki ja historia](projektiloki.md)
+**Seuraavat askeleet**
+
+* Sed do eiusmod tempor incididunt ut labore et dolore magn
+* [Link to next milestone / sprint]()
+
+![](https://openclipart.org/image/400px/286947)
+
 
