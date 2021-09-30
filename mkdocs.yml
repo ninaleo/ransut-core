@@ -3,7 +3,7 @@ site_url: http://jamkit.pages.labranet.jamk.fi/project-templates/opf-2021-ttc207
 site_description: Default Description
 site_author: Firstname Lastname / JAMK IT
 
-docs_dir: docs
+docs_dir: dokumentit
 site_dir: public
 
 markdown_extensions:
