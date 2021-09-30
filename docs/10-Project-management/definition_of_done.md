@@ -1,4 +1,4 @@
-# Projektin DOD määrittelyt
+# DOD of project
 
 **DOD = Definition of Done** 
 
