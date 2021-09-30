@@ -5,13 +5,13 @@
 * [Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Definition_of_done_(DoD))
 
 
-Mitä tarkoitetaan, kun jokin tavoite/tehtävä on todellakin tehty?
+What is meant when a goal / task is indeed done?
 
-Tämä määritellään tiimin kanssa yhdessä:
+This will be defined together with the team:
 
-* Parikatselmointi
-* Testaus
-* Dokumentointi
-* Toteutus versiohallinnassa
-* Yhdessä katselmoitu
-* Mitä muuta?
+* Pair review
+* Testing
+* Documentation
+* Implementation in version control
+* Together reviewed
+* What else?
