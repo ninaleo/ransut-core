@@ -23,8 +23,8 @@ Here is some links which could be valuabe during different phases of project wor
 
 ## Quality Assurance
 
-* [](https://conference.eurostarsoftwaretesting.com/)
-* [](https://testautomationu.applitools.com/)
+* [https://conference.eurostarsoftwaretesting.com/](https://conference.eurostarsoftwaretesting.com/)
+* [https://testautomationu.applitools.com/](https://testautomationu.applitools.com/)
 
 ## Availability
 
