@@ -21,6 +21,11 @@ Here is some links which could be valuabe during different phases of project wor
 * [Team Charter Canvas](https://designabetterbusiness.com/2017/08/24/team-charter-canvas/)
 * [Design Criteria Canvas](https://skillsofthemodernage.com.au/downloads/playshop/dabb-design-criteria-canvas.pdf)
 
+## Quality Assurance
+
+* [https://conference.eurostarsoftwaretesting.com/](https://conference.eurostarsoftwaretesting.com/)
+* [https://testautomationu.applitools.com/](https://testautomationu.applitools.com/)
+
 ## Availability
 
 
