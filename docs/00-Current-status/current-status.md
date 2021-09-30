@@ -28,6 +28,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna 
 
-## Current budget
+## Current costs/gitlabudget
 
-* [Link to costs]()
+* [Link to costs](../10-Project-management/costs-and-time-tracking.md)
