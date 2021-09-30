@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Existing Problems
 
 * [List of existing issues and / or problems]()
-* [Links to issue tickets?](), example [](#1)
+* [Links to issue tickets?](), eg. #1, #10 and #9
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna 
 
