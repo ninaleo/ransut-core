@@ -7,7 +7,7 @@
 
 Team should update this status report every sprint.
 
-
+![](https://openclipart.org/image/400px/286947)
 
 **Status sprint _?_ Date 30.9.202X**
 
@@ -26,6 +26,9 @@ Team should update this status report every sprint.
 
 * Sed do eiusmod tempor incididunt ut labore et dolore magn
 * [Link to next milestone / sprint]()
+
+![](https://openclipart.org/image/400px/286947)
+
 
 **Status sprint _?_ Date 1.9.202X**
 
