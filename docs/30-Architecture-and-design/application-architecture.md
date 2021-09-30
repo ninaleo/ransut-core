@@ -23,6 +23,42 @@ Responsible person
 * Introduction to the document ..
 
 
+```plantuml
+@startuml
+actor User
+node "Client_Host" as WIN10{
+node "Browser"{
+}
+}
+
+cloud "Network" as net{
+queue "https"{
+}
+}
+
+node "Uno Server / Ubuntu 20.04" as AWS{ 
+node "Frontend_Container"{ 
+}
+node "Backend_Container" {
+}
+database "MariaDB_Container" {
+}
+node "Logger_Container" {
+}
+
+}
+User -- Browser
+Browser -- https
+https -- Frontend_Container
+Frontend_Container -- Backend_Container
+Backend_Container -- MariaDB_Container
+Logger_Container -- Frontend_Container
+Logger_Container -- Backend_Container
+Logger_Container -- MariaDB_Container
+
+@enduml
+```
+
 
 
 ## Overview
