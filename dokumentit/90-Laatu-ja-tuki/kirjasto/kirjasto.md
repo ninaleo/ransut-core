@@ -2,4 +2,4 @@
 
 Alla olevasta linkistä siirryt englanninkieliseen kirjastoon:
 
-* [Project Library](../../docs/90-Quality/library.md)
+* [Project Library](../docs/90-Quality/library.md)
