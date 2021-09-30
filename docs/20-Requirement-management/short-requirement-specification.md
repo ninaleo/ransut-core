@@ -1,6 +1,7 @@
-# Key Requirements 
+# Template - Short Requirement Specification 
 
-This is a very short version of requirement specification
+This is a very short version of requirement specification. 
+I
 
 
 ## Purpose of solution/product
