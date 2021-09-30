@@ -1,8 +1,5 @@
 # Feature template
 
-[![](http://img.youtube.com/vi/45aSdlg6NK0/0.jpg)](http://www.youtube.com/watch?v=45aSdlg6NK0 "")
-
-
 | | |
 |:-:|:-:|
 | Feature ID | e.g. FT0101 |
@@ -25,11 +22,10 @@ vitae condimentum. Ut maximus metus nec lorem ultrices elementum.
 
 | | |
 |:-:|:-:|
-| [Use Case 1](FT1-kayttotapaus.md) | |
-| [Use Case 2](FT2-kayttotapaus.md) | |
-| [Requirement ReqID]() |  | 
-| [Requirement ReqID]() |  | 
-| [Requirement ReqID]() |  | 
+| [Use Case 1]() | |
+| [Use Case 2]() | |
+| [Requirement ReqID]() |  |
+| [Requirement ReqID]() |  |
 
 ### Preliminary user stories
 
@@ -47,7 +43,6 @@ e.g. #8 #2
 ### User interface mock-up 
 
 *Add a picture or a link here. The mock-up should be essentially related to the feature/functionality.*
-
 
 ![](https://openclipart.org/image/300px/svg_to_png/247488/1461589195.png)
 
