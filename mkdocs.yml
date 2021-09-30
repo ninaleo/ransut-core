@@ -4,7 +4,7 @@ site_description: Default Description
 site_author: Firstname Lastname / JAMK IT
 
 docs_dir: dokumentit
-site_dir: public
+site_dir: docs
 
 markdown_extensions:
     - plantuml_markdown:
