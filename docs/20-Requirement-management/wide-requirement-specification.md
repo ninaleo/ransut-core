@@ -9,13 +9,11 @@
 
 ## Some guidelines for writer of requirement specification
 
-If you need template documents you will find then under [template folder](./templates)
-
-> With the PlantUML tool, it is possible to draw, for example, descriptions in the UML markup language and integrate them into MarkDown descriptions. During the course there is useful to familiarize yourself with its use http://plantuml.com/ and try to apply it as much as possible in different areas.
+> If you need template documents you will find then under [template folder](./templates). With the PlantUML tool, it is possible to draw, for example, descriptions in the UML markup language and integrate them into MarkDown descriptions. During the course there is useful to familiarize yourself with its use http://plantuml.com/ and try to apply it as much as possible in different areas.
 
 ## Table of contents
  
->Update according you own document..
+>Update table of contents according project needs
 
 1. [Introduction](#introduction)
 1. [Principal / client](#Principal)
@@ -46,7 +44,6 @@ If you need template documents you will find then under [template folder](./temp
 1. [Release plan](#Release plan)
 1. [Related Standards and Sources](#Related Standards and Sources)
 
-
 ## Introduction
 
 > Describe what kind of project it is, a little background and essentially related things? If this is an exercise, then check if you can
@@ -65,16 +62,12 @@ use the real names of the real subscribers! If necessary, change the personal da
 > What can the service do? What are its users like? What is its role in general for the various stakeholders?
 It is worth highlighting briefly the potential end user and the relevant stakeholders who will benefit from the service
 
-
 ## Stakeholder map
 
-
-Let's consider little what kind of user / stakeholders are involved in the planned software / service package?
+>Let's consider little what kind of user / stakeholders are involved in the planned software / service package?
 To clarify these, all stakeholders are recorded in the form of a stakeholder map. At the same time, let's highlight what is
-ko. motivation related to the service of the stakeholder / representative. The description can be created, for example, by drawing, in MindMap format or by applying a suitable UML notation.
-
-> You can now check out the PlantUML tool mentioned earlier and try creating a stakeholder map (http://plantuml.com/)
-> Note! The *PlantUML code block* is defined in the Gitlab's markdown version using different keywords instead of commonly used @ startuml / @ enduml lines. You will find example down below..
+ko. motivation related to the service of the stakeholder / representative. The description can be created, for example, by drawing, in MindMap format or by applying a suitable UML notation. You can now check out the PlantUML tool mentioned earlier and try creating a stakeholder map (http://plantuml.com/)
+Note! The *PlantUML code block* is defined in the Gitlab's markdown version using different keywords instead of commonly used @ startuml / @ enduml lines. You will find example down below..
 
 ```plantuml
 actor profile1
@@ -94,7 +87,7 @@ stake_holder2 -- example_of_service  : competitor
 
 ## Stakeholders and profiles
 
-> We should define more precise some of relevant stakeholde profiles. Note that a large stakeholder instace (eg. company, institution) can contain several different stakehold profiles. Because of that there may be a need to define several different profiles. Different profiles can be users, but because of different need they can have specific needs, motives and values. We have to find and define those different groups if needed.   
+>We should define more precise some of relevant stakeholde profiles. Note that a large stakeholder instace (eg. company, institution) can contain several different stakehold profiles. Because of that there may be a need to define several different profiles. Different profiles can be users, but because of different need they can have specific needs, motives and values. We have to find and define those different groups if needed.   
 
 | Stakeholde/profile | Info / Link to description | Motivation? |
 |:-:|:-:|:-:|
@@ -107,7 +100,7 @@ stake_holder2 -- example_of_service  : competitor
 
 ## Customer needs / wishes?
 
-> Consider what kind of wishes / needs the end user has regarding the service? Interview people in a real situation?
+>Consider what kind of wishes / needs the end user has regarding the service? Interview people in a real situation?
 
 | ReqID | Description | 								
 |:-:|:-:|
@@ -117,7 +110,7 @@ stake_holder2 -- example_of_service  : competitor
 
 ## Business requirements / goals?
 
-> Consider what kind of wishes / needs there are from a business perspective related to the service? If nothing comes to mind, then consider whose bank account the money comes from the service? Does the service achieve cost benefits? Does it improve cost efficiency? etc
+>Consider what kind of wishes / needs there are from a business perspective related to the service? If nothing comes to mind, then consider whose bank account the money comes from the service? Does the service achieve cost benefits? Does it improve cost efficiency? etc
 
 | ReqID | Description | 								
 |:-:|:-:|
@@ -131,11 +124,12 @@ Try to write a story from the perspective of the selected profile/stakeholder (o
 
 **Example of end use/customer story** 
 
-[Profiili 1](template/template-profile.md) wakes up in the morning and checks on his phone if there is room in the X service from the morning. By using application he can find that there is several open slots available .........
+
+*[Profiili 1](template/template-profile.md) wakes up in the morning and checks on his phone if there is room in the X service from the morning. By using application he can find that there is several open slots available .........*
 
 **end user profile 1 point of view** 
 
-[End user profile  1](pohjat/pohja-profiilikuvaus.md) is goint to start a cement mill on a construction site in the afternoon when she receives a message from the X service .........
+*[End user profile  1](pohjat/pohja-profiilikuvaus.md) is goint to start a cement mill on a construction site in the afternoon when she receives a message from the X service .........*
 
 
 ## Customer Journey paths in Service/solution 
