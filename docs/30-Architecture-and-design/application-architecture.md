@@ -119,10 +119,44 @@ In other words, how have those different environments been implemented in the pr
   * Deployment diagram
 
 
-## Database descriptions
+## Database descriptions (Databases as ER-diagram)
 
+> When defining a service, it is common to describe the rough structure of the required data warehouse, eg in the form of an ER diagram.
+This gives an idea of ​​what kind of solution is needed. You can apply PlantUML description to generate an ER diagram.
 
-ER-Scheme
+**Example**
+
+```plantuml
+' hide the spot
+hide circle
+
+' avoid problems with angled crows feet
+skinparam linetype ortho
+
+entity "Entity01" as e01 {
+  *e1_id : number <<generated>>
+  --
+  *name : text
+  description : text
+}
+
+entity "Entity02" as e02 {
+  *e2_id : number <<generated>>
+  --
+  *e1_id : number <<FK>>
+  other_details : text
+}
+
+entity "Entity03" as e03 {
+  *e3_id : number <<generated>>
+  --
+  *e1_id : number <<FK>>
+  other_details : text
+}
+
+e01 ||..o{ e02
+e01 |o..o{ e03
+```
 
 
 ##
