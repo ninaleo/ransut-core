@@ -273,7 +273,7 @@ Open in Google Translate
 - How much does the production of the service cost?
 - What kind of data storage / archiving needs are related to the service?
 
-[![](http://img.youtube.com/vi/s7AcxrxcVd0/0.jpg)](http://www.youtube.com/watch?v=s7AcxrxcVd0 "")
+
 
 > System level requirements look at the software / service as a whole and define it based on it
 e.g., technical requirements for the execution environment, resources required to maintain the service.
@@ -307,9 +307,6 @@ may be quite decisive in the long run. As an example, the [EU GDPR Act] (https:/
 | CONSTRAINT-REQ-S00000 | Constrain | The service login process must follow XYZ policies [Login ft1] (bottoms / bottom property.md)
 | CONSTRAINT-REQ-S00002 | Constrain |||
 
-
-
-
 ### Service functionalities / features
 
 > Record "all" functions in the table, some of which will be treated later as functional properties of the product.
@@ -326,23 +323,17 @@ The features can be specified by functional requirements, which are called expan
 The Finnish word feature may be a bit misleading, because often when presenting products, the aim is to emphasize its "information security" as a feature of the product.
 This is not to say that this is one feature of the product software but a general "design philosophy." The product may contain features that allow it to be called secure.
 
-> Product feature or function?
-
-[! [] (http://img.youtube.com/vi/6dVrBsvUStg/0.jpg)] (http://www.youtube.com/watch?v=6dVrBsvUStg "")
-
-> The real need for features?
-
-[! [] (http://img.youtube.com/vi/pIDSK21PE9M/0.jpg)] (http://www.youtube.com/watch?v=pIDSK21PE9M "")
 
 > Overwrite the underlying proposal and activities based on the assignment and prioritize the most important ones, which you define more precisely.
 
 ** Prioritize essential features / functions **
 
-* P1 = Pakollinen
-* P3 = Tarpeellinen
-* P5 = Tehdään, kun tarve ilmenee
+* P1 = Required
+* P3 = Required
+* P5 = To be done when the need arises
 
-| Ominaisuus | Prioriteetti | Ominaisuuteen liittyvät vaatimukset/käyttötapaukset |
+
+| Feature | Priority  | Feature requirements | uses |
 |:-:|:-:|:-:|
 | [Feature 1 - raportti-generaattori](pohjat/pohja-ominaisuus.md) | P1 | Esim [FUNCTIONAL-REQ-C0001]() | 
 | [Feature 2 - lasku-arkisto](pohjat/pohja-ominaisuus.md) | P1 | Esim [FUNCTIONAL-REQ-C0011]() | 
@@ -350,14 +341,11 @@ This is not to say that this is one feature of the product software but a genera
 | [Feature 4 - oikeushallinta](pohjat/pohja-ominaisuus.md) | P3 | Esim [FUNCTIONAL-REQ-C0133]() |
 | [Feature 5](pohjat/pohja-ominaisuus.md) | P4 | Esim [FUNCTIONAL-REQ-C0231]() |
 
+### Functional requirements of the service
 
-
-
-### Palvelun toiminnalliset vaatimukset
-
->Mitä ovat toiminnalliset vaatimukset? Toiminnallisilla vaatimuksilla kuvataan ohjelmistolta/järjestelmältä vaadittua toimintaa
-Toiminnalliset vaatimukset ovat helpoimmin tunnistettavia. Vältä useamman vaatimuksen kirjaamista samaan lauseeseen! Jokainen vaatimus erikseen..
-Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan kokonaisuuteen
+> What are the functional requirements? Functional requirements describe the operation required of a software / system
+Functional requirements are the most easily identifiable. Avoid writing multiple claims in the same sentence! Each requirement separately ..
+You can present them in a table or refer to [one] (bases / baseline requirements list.md) for a larger entity
 
 [![](http://img.youtube.com/vi/qO2qEIEHy_A/0.jpg)](http://www.youtube.com/watch?v=qO2qEIEHy_A "")
 
@@ -368,100 +356,61 @@ Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.
 | FUNCTIONAL-REQ-C0003 | Functional Requirement |||
 
 
-### Ohjelmiston/palveluun ei-toiminnallisia vaatimuksia
+### Software / service non-functional requirements
 
->Mitä olivat ei-toiminnalliset vaatimukset? Voit esittää eri vaatimuksia erillisessä taulukossa tai viitata tässä [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan taulukkoon.
-[Ei-toiminnalliset vaatimukset](https://en.wikipedia.org/wiki/Non-functional_requirement) sisältää laajan joukko eri näkökulmia ohjelmiostotuotteeseen liittyen. Tärkeimmät kirjoittajan 
-näkökulmasta ovat seuraavat: Suorituskyky, käytettävyys, tietoturva ja ylläpidettävyys 
->Voit esittää eri vaatimuksia erillisessä taulukossa tai viitata tässä [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan taulukkoon..
-Miten hyvin palvelu/komponentti tai muu osa-alue palvelusta suoriutuu kuormituksen aikana? Mitkä ovat pullonkaulat. Mihin vaatimuksiin palvelun tulee kyetä vastaamaan?
+> What were the non-functional requirements? You can present the different requirements in a separate table or refer here to [one] (bases / baseline requirements list.md) larger table.
+[Non-Functional Requirements] (https://en.wikipedia.org/wiki/Non-functional_requirement) includes a wide range of different perspectives on a software purchase product. The main author
+from a perspective are: Performance, usability, security, and maintainability
+> You can present the different requirements in a separate table or refer here to [one] (bases / baseline requirements list.md) larger table.
+How well does the service / component or other part of the service perform during the load? What are the bottlenecks. What requirements should the service be able to meet?
 
 [![](http://img.youtube.com/vi/Tta7bAFlg54/0.jpg)](http://www.youtube.com/watch?v=Tta7bAFlg54 "")
 
 
->Millaisia vaatimuksia palveluun kohdistuu suorituskyvyn näkökulmasta?
 
-| VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
-|:-:|:-:|:-:|:-:|
-| PERFORMANCE-REQ-0000 | Non-Functional Performance | Kirjautuminen on mahdollista yhtäaikaa 100 käyttäjällä (100 request/s) | [Kirjautuminen ft1](ft1-ominaisuus.md) |								
-| PERFORMANCE-REQ-0001 | Non-Functional Performance |||
+> What are the performance requirements for the service?
+
+| ReqID | Type | Description | 								
+|:-:|:-:|:-:|
+| PERFORMANCE-REQ-0000 | Performance | Kirjautuminen on mahdollista yhtäaikaa 100 käyttäjällä (100 request/s) | 							
+| PERFORMANCE-REQ-0001 | Performance ||
 
 
 >Millaisia vaatimuksia palveluun kohdistuu tietoturvan näkökulmasta?
 
-| VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
-|:-:|:-:|:-:|:-:|
-| SECURITY-REQ-0001 | Non-Functional Security | Salasanassa on käytettävä vähintään MD5-tason salausta, koska standardi XY112 sitä edellyttää | [Kirjautuminen ft1](ft1-ominaisuus.md) |								
-| SECURITY-REQ-0002 | Non-Functional Security |||
+| ReqID | Type | Description | 										
+|:-:|:-:|:-:|
+| SECURITY-REQ-0001 | Security | Salasanassa on käytettävä vähintään MD5-tason salausta, koska standardi XY112 sitä edellyttää |					| SECURITY-REQ-0002 | Security ||
 
 
 >Mitä tarkoitetaan käyttävyydellä? Millaisia asioita/ohjeistuksia on otettava huomioon palvelua toteutettaessa?
 
-| VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
-|:-:|:-:|:-:|:-:|
-| USABILITY-REQ-0000 | Non-Functional Usability | | [Kirjautuminen ft1](ft1-ominaisuus.md) | |	
-| USABILITY-REQ-0001 | Non-Functional Usability | | [Käytettävyys](https://fi.wikipedia.org/wiki/K%C3%A4ytett%C3%A4vyys) |
+| ReqID | Type | Description | 								
+|:-:|:-:|:-:|
+| USABILITY-REQ-0000 | Usability | Font should be size at 16pt  |	
+| USABILITY-REQ-0001 | Usability | User interface should be visible in high contrast mode |
+| USABILITY-REQ-0001 | Usability | ...... |
 
+> What issues need to be considered for product quality assurance point of view ?. During development, the necessary interfaces or tool software must be created for the software product,
+to control the product version under test. These requirements need to be recorded in a timely manner as they are crucial to the product’s testing capabilities.
+An example is the management of logs, their collection, initialization.
 
->Millaisia asioita on otettava huomioon tuotteen laadunvarmistamisen kannalta?. Kehityksen aikana ohjelmistotuotteeseen on luotava tarvittavat rajapinnat tai työkalu-ohjelmistoja, 
-joiden avulla voidaan hallita testikohteena olevaa tuoteversiota. Nämä vaatimukset on kirjattava ajoissa, koska ne vaikuttavat ratkaisevasti tuotteen testausmahdollisuuksiin.
-Esimerkkinä voidaan miettiä logien hallintaa, niiden keräämistä, alkutilanteeseen saattamista. 
+* Link to [Master Test Plan]()
+* Link to  [Test plan]()
 
-| VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
-|:-:|:-:|:-:|:-:|
-| TESTABILITY-REQ-0000 | Non-Functional Testability | Käyttäjärekisteri on kyettävä palauttamaan alkutilaan ennen testien ajoa  | [Kirjautuminen ft1](ft1-ominaisuus.md)	 |	
-| TESTABILITY-REQ-0001 | Non-Functional Testability ||[Lisätietoa](https://fi.wikipedia.org/wiki/Ohjelmiston_laatu)|	
+## Software architecture, placement view, database description, and integrations
 
+> Software implementation requirements can be set for pre-defined technologies that must be followed in development.
+This situation often occurs when the software is related to a previously implemented solution
 
-## Ohjelmiston arkkitehtuuri, sijoittelunäkymä, tietokantakuvaus ja integraatiot
-
->Ohjelmiston toteutus vaatimuksiin voidaan asettaa ennalta määriteltyjä teknologioita, joita on noudatettava kehityksessä. 
-Tämä tilanne tulee usein eteen, kun ohjelmisto liittyy aiemmin toteutettuun ratkaisuun
+* Link to [Software architecture]()
+* Link to [Software architecture]()
 
 ### Palvelun sijoittelunäkymä (Deployment diagram )
 
 >Sijoittelunäkyvän avulla voi kuvata miten eri palvelu osat toimivat sen ollessa toiminnassa. 
 
-[![](http://img.youtube.com/vi/tLuiQ9p8RkU/0.jpg)](http://www.youtube.com/watch?v=tLuiQ9p8RkU "")
 
-### Tietokantakuvaus (Database ER-diagram)
-
->Palvelua määriteltäessä on yleistä kuvata tarvittavan tietovaraston karkeaa rakennetta esim. ER-kaavion muodossa. 
-Tämä antaa kuvaa siitä millainen ratkaisu tarvitaan Voit soveltaa PlantUML-kuvausta ER-kaavion tuottamiseen.
-
-**Esimerkki**
-
-```plantuml
-' hide the spot
-hide circle
-
-' avoid problems with angled crows feet
-skinparam linetype ortho
-
-entity "Entity01" as e01 {
-  *e1_id : number <<generated>>
-  --
-  *name : text
-  description : text
-}
-
-entity "Entity02" as e02 {
-  *e2_id : number <<generated>>
-  --
-  *e1_id : number <<FK>>
-  other_details : text
-}
-
-entity "Entity03" as e03 {
-  *e3_id : number <<generated>>
-  --
-  *e1_id : number <<FK>>
-  other_details : text
-}
-
-e01 ||..o{ e02
-e01 |o..o{ e03
-```
 
 ### Integraatiot muihin järjestelmiin
 
