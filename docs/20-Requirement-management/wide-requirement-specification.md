@@ -131,13 +131,10 @@ stake_holder2 -- example_of_service  : competitor
 | BUSINESS-REQ-0001 | Business Requirement | Registration as a new user should be easy for old users, because is's our user focus group 35% | 
 | BUSINESS-REQ-0002 | Business Requirement ||
 
-
-
 ## Customer Storys as background information
 
 >During requirement gatheringphase for a service/solution it is a good practice to do some interview among possible users and other stakeholders. Gathering some knowledge among this group will help to understand basic need of different user groups. It's important to understand in early phase how the person / stakeholder benefits or uses the solution/service in future. This process could be written as a customer story. 
-
-> Try to write a story from the perspective of the selected profile/stakeholder (other profiles / stakeholders may appear in the story). It is convenient to refer to previously created [Profile] descriptions as as a back ground of the story.
+Try to write a story from the perspective of the selected profile/stakeholder (other profiles / stakeholders may appear in the story). It is convenient to refer to previously created [Profile] descriptions as as a back ground of the story.
 
 **Example of end use/customer story** 
 
@@ -154,21 +151,20 @@ stake_holder2 -- example_of_service  : competitor
 What events are involved? Think of the service as a whole!
 The case path description is used to describe a series of events that go through a selected situation during the use of the service.
 There can be several customer-specific service paths, but the most important thing is to identify the most relevant at the beginning.
-When describing the service path, you can use, for example, the Swim lane / BluePrint / state machine description or other description deemed appropriate.
-However, it is important to describe the path and use it, if necessary, to clarify the understanding of the service sought.
+When describing the service path, you can use, for example, the Swim lane / BluePrint / state machine description or other description deemed appropriate. However, it is important to describe the path and use it, if necessary, to clarify the understanding of the service sought.
 Go through the description you made with someone else? Go through the path and tell what happens during it.
 
 [![](http://img.youtube.com/vi/kNXjKquK3A0/0.jpg)](http://www.youtube.com/watch?v=kNXjKquK3A0 "")
 
-> It is a good idea to start sketching the customer path, for example on the basis of a customer story. If necessary, several paths are created from the perspective of different profiles / situations. So it is not worth immersing too many events in one description
+> It is a good idea to start sketching the customer path, for example on the basis of a customer story. If necessary, several paths should be needed to created from the perspective of different profiles. So it is not worth immersing too many events in one description
 
 [![](http://img.youtube.com/vi/j7U8pqUN9EM/0.jpg)](http://www.youtube.com/watch?v=j7U8pqUN9EM "")
 
 **Customer journey path as PlantUML Statemachine -diagram **
 
 > Trying to sketch a customer path using the PlantUML tool. Definitely worth trying other ways too!
-> Apply eg PlantUML SDL / Swimlane description?
-
+If necessary, other tools can be applied to the descriptions of the service paths. Eg https://canvanizer.com, PowerPoint etc
+Try out also PlantUML SDL / Swimlane description?
 
 ```plantuml
 [*] --> Step1
@@ -184,16 +180,11 @@ Step4 --> Step2
 Step2 --> Step3
 Step3 --> [*]
 ```
-> If necessary, other tools can be applied to the descriptions of the service paths. Eg https://canvanizer.com, PowerPoint etc
 
 ## Mandatory Use Case of service/solution
 
-> As user "travels" trough the service/solution by using it several service-related events is traversed. Situations involving the service/solution can be described as Touchpoints of service. All needed usage steps and actions neede can be described as a Use Case.
-> In software design, the ** Use Case ** is easily misunderstood because it is easily associated with the product alone.
-** to describe the purpose **. When discussing a service for the first time, we talk about its different ** uses **, ie what it is for
-the software / service can be utilized. When talking about defining a service and identifying related use cases
-it is a slightly different matter. In the use case, the focus is on the use of the service in a very limited situation.
-Use Cases are described using a UML markup language.
+> While [user]() uses the service there will be  service-related interaction events. Most importatnt scenarios using the service/solution should be described somehow. One way to to define usage scenario is a [Use Case](https://en.wikipedia.org/wiki/Use_case) description.
+Use Cases diagrams can be drawn using [PlantUML](https://plantuml.com/use-case-diagram) scripts.
 
 > UML Use Case description can be done as PlantUML description, but a more detailed use case requires a separate description document
 
@@ -235,31 +226,19 @@ laaditaan itsenäinen tiedosto.
 
 ## Tärkeimmät ominaisuudet/toiminnallisuudet 
 
-> Hahmotellaan tähän kohtaan ominaisuudet pelkästään "ranskalaisilla viivoilla", eli mitä palvelulla mielestäsi on mahdollista tehdä?
-> Päivitä lista myöhemmin, kun se tarkentuu? 
+>Let's outline some of basic features of solution/service as a short list. , i.e. what do you think is possible with the service?
+Update the list later when it refines?
 
 > On hyödyllistä laatia toimeksiantajan kanssa yhdessä tiivistelmä (A4-kokoa), josta löytyy tarvittaessa koko tuote kiteytettynä
-Löydät esimerkin dokumentista [täältä](../pohjat/pohja-tuotekuvaus-a4.md)
-
-> Toiminnallisuudet tullaan kiinnittämään myöhemmin 
-
 - Toiminnot 
     - Käyttäjä voi lähettää postia toiselle henkilölle
     - Asiakas saa tiedot aiemmin tehdyistä valinnoista
     - Henkilö voi maksaa laskun 
 
-## MockUp-prototyyppi
+## Preliminary MockUp-prototype layouts for solution/service
 
-> Suunniteltavan palvelun toimintoja määriteltäessä voi olla hyödyllistä piirtää avuksi MockUp-kuvausta käyttötilanteen 
-tai toiminnallisuuden todentamiseksi. Kun palvelun käyttöliittymää tai palvelupolkua käydään läpi mockup-kuvauksen kautta
-voi hahmottaa huomattavasti helpommin tarvittavia toiminnallisuuksia tai tarpeita, joita voidaan kirjata vaatimusmäärittelyyn. 
-MockUp-kuvaus on hyödyllinen apuväline palvelun tilaajan/toimeksiantajan kanssa käydyissä keskusteluissa.
+> When defining the needed features and functions for service/solution under design, it may be handy method to scetch up some visible elements of service layouts. On web desing those preliminary visions for eg user interface layout are called as "Mockups". Mockups help to valiate development team's understanding of needed design between customer and team. Mockup's are handy to use also to check needed functionalityes during selected use cases. Different layouts and visualisation of service can reveal more easily some hidden needs those should be gather on the requirements specification.
 
-[![](http://img.youtube.com/vi/a5qLMBYWv5A/0.jpg)](http://www.youtube.com/watch?v=a5qLMBYWv5A "")
-
-> Kun laadit harjoitustehtävään MockUp-näkymän pohdi haluatko kuvata koko palvelua vai keskittyä yksittäisen toiminnallisuuden tarkasteluun?
-
-> Voit kokeilla myös PlantUML-kuvausta rajatuissa kohdissa
 
 ```plantuml
 salt
@@ -275,20 +254,14 @@ salt
 }
 ```
 
-## Alustavat käyttäjätarinat
+## Preliminary **User Storys**
 
->**NYT HUOMIO!** Tähän kohtaan kannattaa keskittyä vasta kun kaikki muut osiot on käyty läpi! 
-Kyseessä ei ole asiakastarina vaan ketterässä kehityksessä (Agile Development) käytettävä käyttäjätarina - User Story. 
-Sen avulla kuvataan palveluun liittyvää toiminnallisuutta, jolle käyttäjälle on tarvetta.
-
-[Aiheesta löytyy pohdintoja eri muodossa](https://suomidigi.fi/kayttajatarinoilla-ryhtia-asiakaslahtoisyyteen/)
-
-[![](http://img.youtube.com/vi/ndJdF3R7wqI/0.jpg)](http://www.youtube.com/watch?v=ndJdF3R7wqI "")
-
-* User Story: [Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa]()
-* User Story: [Pääkäyttäjän haluan poistaa vanhat tunnukset kokonaan, koska se selkeyttää ylläpitoa]()
-* Käytännössä ylempi kuvaus on hieman jäykkä ja on järkevitä kirjata storyt suoraan esim. GitLab-issuen muotoon! 
-* Kokeile osoittaa hiirelle linkkejä oikealla ja avaa ne tämän jälkeen ---> #25 tai #26
+| User Story ID |Description / link to issue |
+|:-:|:-:|
+| US3100 | #1 [As a user, I want to be able to generate a report of my purchases for the last month, as it makes it easier to manage my finances]() | #1 | 
+| US3101 | User Story: [As an administrator, I want to delete old accounts completely because it clarifies maintenance] ()
+| US3102 | In practice, the upper description is a bit rigid and it makes sense to record the stories directly in the format of GitLab issue, for example!
+| US3103 | Try pointing your mouse at the links on the right and then open them ---> # 25 or # 26 |
 
 ## Palvelun järjestelmävaatimukset 
 
