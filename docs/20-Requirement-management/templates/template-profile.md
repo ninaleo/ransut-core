@@ -9,14 +9,17 @@
 **name and background**
 
 * Who does this profile represent? Customer? Adminstrator / Other stakeholder?
+* age group?
+
+
 
 **Motivation for service**
 
-* What motivates this profile to use / utilize / apply the service?
+* What motivates this profile/person utilize/apply the service?
 
 **Values**
 
-* What kind of values does this person presents?
+* What kind of values does this profile own/presents?
 
 **Misc**
 
