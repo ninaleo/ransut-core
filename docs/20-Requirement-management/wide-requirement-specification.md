@@ -258,8 +258,8 @@ system runtime requirements, which may include requirements for performance, mai
 | RequirementsID | Description |
 |:-:|:-:|
 | SYSTEM-HW-REQ-0002 | The main services must be at least duplicated N + 1 |
-| SYSTEM-HW-REQ-0003 | Server memory capacity> 16GB ||
-| SYSTEM-HW-REQ-0004 | Intel / AMD x64 processor ||
+| SYSTEM-HW-REQ-0003 | Server memory capacity> 16GB |
+| SYSTEM-HW-REQ-0004 | Intel / AMD x64 processor |
  
 > Keywords: cloud service production, service management, SLA
 
@@ -271,8 +271,8 @@ may be quite decisive in the long run. As an example, the [EU GDPR Act] (https:/
 
 | ReqId | Description |
 |:-:|:-:| 
-| CONSTRAINT-REQ-S00000 |  The service login process must follow XYZ policies [Login ft1] (bottoms / bottom property.md)
-| CONSTRAINT-REQ-S00002 | ... | ... |
+| CONSTRAINT-REQ-S00000 |  The service login process must follow XYZ policies [Login ft1] (bottoms / bottom property.md) |
+| CONSTRAINT-REQ-S00002 | ... | 
 
 ### Service primay features and functionalities
 
@@ -306,7 +306,7 @@ The Finnish word feature may be a bit misleading, because often when presenting 
 Functional requirements are the most easily identifiable. Avoid writing multiple claims in the same sentence! Each requirement separately ..
 You can present them in a table or refer to [one] (bases / baseline requirements list.md) for a larger entity
 
-| ReqID | Description | Ominaisuus johon vaikuttaa |								
+| ReqID | Description | Affected feature? |								
 |:-:|:-:|:-:|
 | FUNC-REQ-C0001 | eg. User profile X is able to authenticate using Faceboot-account | eg.  [Feature 6 - Service Login](templates/template-feature.md) |
 | FUNC-REQ-C0002 | eg. User profile X is able to create weekly report about selling | eg. [Feature 1 - report generator](templates/template-feature.md) |
@@ -320,35 +320,33 @@ from a perspective are: Performance, usability, security, and maintainability
 > You can present the different requirements in a separate table or refer here to [one] (bases / baseline requirements list.md) larger table.
 How well does the service / component or other part of the service perform during the load? What are the bottlenecks. What requirements should the service be able to meet?
 
-
-
 ### Performance Requirements
 
 > What are the performance requirements for the service?
 
-| ReqID |  Description | 								
-|:-:|:-:|:-:|
-| PERFORMANCE-REQ-0000 | Kirjautuminen on mahdollista yhtäaikaa 100 käyttäjällä (100 request/s) | 							
-| PERFORMANCE-REQ-0001 | ... |
+| ReqID | Description | 								
+|:-:|:-:|
+| PERF-REQ-0000 | Login is possible for 100 users at the same time (100 request/s) | 							
+| PERF-REQ-0001 | ... |
 
 ### Security Requirements
 
->Millaisia vaatimuksia palveluun kohdistuu tietoturvan näkökulmasta?
+> What are the requirements for the service from a security perspective?
 
-| ReqID |  Description | 										
+| ReqID | Description | 										
 |:-:|:-:|
-| SECURITY-REQ-0001 |  Salasanassa on käytettävä vähintään MD5-tason salausta, koska standardi XY112 sitä edellyttää |
-| SECURITY-REQ-0002 | ... |
+| SEC-REQ-0001 | The password must use at least MD5-level encryption, as required by the XY112 standard |
+| SEC-REQ-0002 | ... |
 
 ### Availability Requirements
 
->Mitä tarkoitetaan käyttävyydellä? Millaisia asioita/ohjeistuksia on otettava huomioon palvelua toteutettaessa?
+> What is meant by usability? What kind of issues / guidelines must be taken into account when implementing the service?
 
 | ReqID |  Description | 								
 |:-:|:-:|:-:|
-| USABILITY-REQ-0000 | | Font should be size at 16pt  |	
-| USABILITY-REQ-0001 |  User interface should be visible in high contrast mode |
-| USABILITY-REQ-0001 |  ...... |
+| USAB-REQ-0000 | | Font should be size at 16pt  |	
+| USAB-REQ-0001 |  User interface should be visible in high contrast mode |
+| USAB-REQ-0001 |  ...... |
 
 ## Quality Assurance
 
