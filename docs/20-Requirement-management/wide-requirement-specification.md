@@ -91,12 +91,12 @@ stake_holder2 -- example_of_service  : competitor
 
 | Stakeholde/profile | Info / Link to description | Motivation? |
 |:-:|:-:|:-:|
-| eg. Stakeholder 1 | [Stake holder group-1](pohjat/template-profileilikuvaus.md) | |
-| eg. Stakeholder 2 | [Stake holder gorup-2](pohjat/pohja-profiilikuvaus.md) | |
+| eg. Stakeholder 1 | [Stake holder group-1](templates/template-profile.md) | |
+| eg. Stakeholder 2 | [Stake holder gorup-2](templates/template-profile.md) | |
 | eg. Stakeholder 3 / End user 1 | Person 17-35 Years old | Benefits x, y and z |
 | eg. Stakeholder 3 / End user 2 | Person 36-45 Years old | Primary reason is... |
 | eg. Stakeholder 3 / End user 3 | Person 46-65 Years old | Because of.... |
-| eg. Admin user | [adminuser-profile](pohjat/pohja-profiilikuvaus.md) | supports service users |
+| eg. Admin user | [adminuser-profile](templates/template-profile.md) | supports service users |
 
 ## Customer needs / wishes?
 
@@ -104,7 +104,7 @@ stake_holder2 -- example_of_service  : competitor
 
 | ReqID | Description | 								
 |:-:|:-:|
-| CUSTOMER-REQ-0001 | eg.  As a user of solution I would like to use Faceboot authentication | 
+| CUSTOMER-REQ-0001 | eg.  As a [user](templates/template-profile.md) of solution I would like to use Faceboot authentication | 
 | CUSTOMER-REQ-0002 | .... |
 
 
