@@ -1,8 +1,10 @@
 # Profile: Template Description
 
+**Profile X**
+
 ![](https://openclipart.org/image/400px/126787)
 
->Let's describe one selected profile more specicfic by answering next questions:
+*Let's describe one selected profile more specicfic by answering next questions:*
 
 **name and background**
 
