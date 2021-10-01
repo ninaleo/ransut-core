@@ -99,12 +99,12 @@ stake_holder2 -- example_of_service  : competitor
 
 | Stakeholde/profile | Info / Link to description | Motivation? |
 |:-:|:-:|:-:|
-| Stakeholder 1 | [Sidosryhmä-1](pohjat/template-profileilikuvaus.md) | |
-| Stakeholder 2 | [Sidosryhmä-2](pohjat/pohja-profiilikuvaus.md) | |
-| Stakeholder 3 / End user 1 | Person 17-35 Years old | Benefits x, y and z |
-| Stakeholder 3 / End user 2 | Person 36-45 Years old | Primary reason is... |
-| Stakeholder 3 / End user 3 | Person 46-65 Years old | Because of.... |
-| Admin user | [adminuser-profile](pohjat/pohja-profiilikuvaus.md) | supports service users |
+| eg. Stakeholder 1 | [Stake holder group-1](pohjat/template-profileilikuvaus.md) | |
+| eg. Stakeholder 2 | [Stake holder gorup-2](pohjat/pohja-profiilikuvaus.md) | |
+| eg. Stakeholder 3 / End user 1 | Person 17-35 Years old | Benefits x, y and z |
+| eg. Stakeholder 3 / End user 2 | Person 36-45 Years old | Primary reason is... |
+| eg. Stakeholder 3 / End user 3 | Person 46-65 Years old | Because of.... |
+| eg. Admin user | [adminuser-profile](pohjat/pohja-profiilikuvaus.md) | supports service users |
 
 ## Customer needs / wishes?
 
@@ -112,8 +112,8 @@ stake_holder2 -- example_of_service  : competitor
 > Consider what kind of wishes / needs the end user has regarding the service? Interview people in a real situation?
 
 | ReqID | Description | 								
-|:-:|:-:|:-:|
-| CUSTOMER-REQ-0001 |  As a user of solution I would like to use Faceboot authentication | 
+|:-:|:-:|
+| CUSTOMER-REQ-0001 | eg.  As a user of solution I would like to use Faceboot authentication | 
 | CUSTOMER-REQ-0002 | .... |
 
 
@@ -122,8 +122,8 @@ stake_holder2 -- example_of_service  : competitor
 > Consider what kind of wishes / needs there are from a business perspective related to the service?
 > If nothing comes to mind, then consider whose "cashier" the money comes from the service? Does the service achieve cost benefits? Does it improve cost efficiency? etc
 
-| ReqID |  Description | 								
-|:-:|:-:|:-:|
+| ReqID | Description | 								
+|:-:|:-:|
 | BUSINESS-REQ-0001 |  Registration as a new user should be easy for old users, because is's our user focus group 35% | 
 | BUSINESS-REQ-0002 | |
 
@@ -149,11 +149,9 @@ The case path description is used to describe a series of events that go through
 There can be several customer-specific service paths, but the most important thing is to identify the most relevant at the beginning.
 When describing the service path, you can use, for example, the Swim lane / BluePrint / state machine description or other description deemed appropriate. However, it is important to describe the path and use it, if necessary, to clarify the understanding of the service sought.
 Go through the description you made with someone else? Go through the path and tell what happens during it.
+It is a good idea to start sketching the customer path, for example on the basis of a customer story. If necessary, several paths should be needed to created from the perspective of different profiles. So it is not worth immersing too many events in one description
 
-> It is a good idea to start sketching the customer path, for example on the basis of a customer story. If necessary, several paths should be needed to created from the perspective of different profiles. So it is not worth immersing too many events in one description
-
-
-**Customer journey path as PlantUML Statemachine -diagram **
+**Customer journey path as PlantUML Statemachine -diagram**
 
 > Trying to sketch a customer path using the PlantUML tool. Definitely worth trying other ways too!
 If necessary, other tools can be applied to the descriptions of the service paths. Eg https://canvanizer.com, PowerPoint etc
@@ -161,27 +159,24 @@ Try out also PlantUML SDL / Swimlane description?
 
 ```plantuml
 [*] --> Step1
-
 Step1 : First contact to service 
 Step2 : Under Service 
 Step3 : End of service
 Step4 : Queue for service 
-
 Step1 --> Step2
 Step1 --> Step4
 Step4 --> Step2
 Step2 --> Step3
 Step3 --> [*]
 ```
-
 ## Preliminary **User Storys**
 
 | User Story ID |Description / link to issue |
 |:-:|:-:|
-| US3100 | #1 [As a user, I want to be able to generate a report of my purchases for the last month, as it makes it easier to manage my finances]() | #1 | 
-| US3101 | User Story: [As an administrator, I want to delete old accounts completely because it clarifies maintenance] ()
-| US3102 | In practice, the upper description is a bit rigid and it makes sense to record the stories directly in the format of GitLab issue, for example!
-| US3103 | Try pointing your mouse at the links on the right and then open them ---> # 25 or # 26 |
+| US3100 | As a user, I want to be able to generate a report of my purchases for the last month, as it makes it easier to manage my finances | 
+| US3101 | User Story: [As an administrator, I want to delete old accounts completely because it clarifies maintenance]() |
+| US3102 | #10 |
+| US3103 | ... |
 
 ## Mandatory Use Case of service/solution
 
