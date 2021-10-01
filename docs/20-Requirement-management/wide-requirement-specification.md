@@ -340,19 +340,17 @@ How well does the service / component or other part of the service perform durin
 
 ### Availability Requirements
 
-> What is meant by usability? What kind of issues / guidelines must be taken into account when implementing the service?
+> What is meant by Availability? What kind of issues / guidelines must be taken into account when implementing the service available?
 
 | ReqID |  Description | 								
-|:-:|:-:|:-:|
+|:-:|:-:|
 | USAB-REQ-0000 | | Font should be size at 16pt  |	
 | USAB-REQ-0001 |  User interface should be visible in high contrast mode |
 | USAB-REQ-0001 |  ...... |
 
 ## Quality Assurance
 
-> What issues need to be considered for product quality assurance point of view ?. During development, the necessary interfaces or tool software must be created for the software product,
-to control the product version under test. These requirements need to be recorded in a timely manner as they are crucial to the product’s testing capabilities.
-An example is the management of logs, their collection, initialization.
+> What issues need to be considered for product quality assurance point of view ?. 
 
 * Link to [Master Test Plan]()
 * Link to  [Test plan]()
