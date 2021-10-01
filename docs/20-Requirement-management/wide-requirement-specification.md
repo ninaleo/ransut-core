@@ -174,6 +174,15 @@ Step2 --> Step3
 Step3 --> [*]
 ```
 
+## Preliminary **User Storys**
+
+| User Story ID |Description / link to issue |
+|:-:|:-:|
+| US3100 | #1 [As a user, I want to be able to generate a report of my purchases for the last month, as it makes it easier to manage my finances]() | #1 | 
+| US3101 | User Story: [As an administrator, I want to delete old accounts completely because it clarifies maintenance] ()
+| US3102 | In practice, the upper description is a bit rigid and it makes sense to record the stories directly in the format of GitLab issue, for example!
+| US3103 | Try pointing your mouse at the links on the right and then open them ---> # 25 or # 26 |
+
 ## Mandatory Use Case of service/solution
 
 > While [user]() uses the service there will be  service-related interaction events. Most importatnt scenarios using the service/solution should be described somehow. One way to to define usage scenario is a [Use Case](https://en.wikipedia.org/wiki/Use_case) description.
@@ -241,14 +250,7 @@ salt
 }
 ```
 
-## Preliminary **User Storys**
 
-| User Story ID |Description / link to issue |
-|:-:|:-:|
-| US3100 | #1 [As a user, I want to be able to generate a report of my purchases for the last month, as it makes it easier to manage my finances]() | #1 | 
-| US3101 | User Story: [As an administrator, I want to delete old accounts completely because it clarifies maintenance] ()
-| US3102 | In practice, the upper description is a bit rigid and it makes sense to record the stories directly in the format of GitLab issue, for example!
-| US3103 | Try pointing your mouse at the links on the right and then open them ---> # 25 or # 26 |
 
 ## Palvelun järjestelmävaatimukset 
 
