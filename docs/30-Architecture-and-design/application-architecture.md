@@ -1,8 +1,8 @@
 # Template - Architecture Design of Solution
 
-Version number:
-Classification: (Secret / Public etc ..)
-Responsible person:
+* Version number:
+* Classification: (Secret / Public etc ..)
+* Responsible person:
 
 
 ## Architecture and technical solutions
