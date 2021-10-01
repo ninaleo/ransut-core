@@ -347,7 +347,7 @@ This is not to say that this is one feature of the product software but a genera
 Functional requirements are the most easily identifiable. Avoid writing multiple claims in the same sentence! Each requirement separately ..
 You can present them in a table or refer to [one] (bases / baseline requirements list.md) for a larger entity
 
-[![](http://img.youtube.com/vi/qO2qEIEHy_A/0.jpg)](http://www.youtube.com/watch?v=qO2qEIEHy_A "")
+
 
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
@@ -364,7 +364,7 @@ from a perspective are: Performance, usability, security, and maintainability
 > You can present the different requirements in a separate table or refer here to [one] (bases / baseline requirements list.md) larger table.
 How well does the service / component or other part of the service perform during the load? What are the bottlenecks. What requirements should the service be able to meet?
 
-[![](http://img.youtube.com/vi/Tta7bAFlg54/0.jpg)](http://www.youtube.com/watch?v=Tta7bAFlg54 "")
+
 
 
 
@@ -398,6 +398,21 @@ An example is the management of logs, their collection, initialization.
 * Link to [Master Test Plan]()
 * Link to  [Test plan]()
 
+### Preliminary Acceptance Tests
+
+> Acceptance tests generally focus on the customer / end-user perspective. The aim is to validate, ie to validate whether the product meets the customer's wishes and whether it meets the set requirements.
+Acceptance tests can be used to determine whether a product is also sufficiently high-performance, usable, or secure for customer use.
+
+
+| AcceptanceTestId | Description | 							
+|:-:|:-:|:-:|:-:|
+| [ACCTEST001 - Testitapaus 1](pohjat/pohja-hyvaksyntatesti.md) | esim. Tarkista kirjautuminen palveluun uutena käyttäjänä  |
+| [ACCTEST002 - Testitapaus 2](pohjat/pohja-testitapaus.md) | esim. Tarkista kenkilökohtaisten tietojen poisto |
+| [ACCTEST003 - Testitapaus 3](pohjat/pohja-hyvaksyntatesti.md) | esim. Tarkista Kirjautuminen toimivalla salasanalla |
+
+
+
+
 ## Software architecture, placement view, database description, and integrations
 
 > Software implementation requirements can be set for pre-defined technologies that must be followed in development.
@@ -406,18 +421,18 @@ This situation often occurs when the software is related to a previously impleme
 * Link to [Software architecture]()
 * Link to [Software architecture]()
 
-### Palvelun sijoittelunäkymä (Deployment diagram )
+### Deployment diagram
 
->Sijoittelunäkyvän avulla voi kuvata miten eri palvelu osat toimivat sen ollessa toiminnassa. 
+> The placement view allows you to describe how different parts of the service work when it is running.
 
 
 
-### Integraatiot muihin järjestelmiin
+### Integrations with other systems
 
->Vaatimusmäärittelyssä on kuvata palvelun/tuoteen riippuvuus muista järjestelmistä. Onko joitain palvelun osia tarkoitus ostaa ulkopuoliselta palvelun tarjoajalta.
-Esimerkkeinä virtuaalikoneet, laskutusjärjestelmät, valvonta ja muut palvelutuotannon ratkaisut.
+> The requirements definition is to describe the dependence of the service / product on other systems. Are there any parts of the service to be purchased from an external service provider.
+Examples are virtual machines, billing systems, control and other service production solutions.
 
-* [Integraatioista IteWIkissä](https://www.itewiki.fi/opas/integraatiot/)
+
 
 ```plantuml
 node node1
@@ -438,25 +453,6 @@ node1 ->node2: Log Start Request
 node2 --> node1 : Logging started
 ```
 
-## Quality  Assurance
-
-> Software
-
-### Preliminary Service / Software Acceptance Tests
-
-> Acceptance tests generally focus on the customer / end-user perspective. The aim is to validate, ie to validate whether the product meets the customer's wishes and whether it meets the set requirements.
-Acceptance tests can be used to determine whether a product is also sufficiently high-performance, usable, or secure for customer use.
-
-[![](http://img.youtube.com/vi/WfMrCdAr-GM/0.jpg)](http://www.youtube.com/watch?v=WfMrCdAr-GM "")
-
-
-> Attach preliminary acceptance tests to the requirements in tabular form.
-
-| Lähde | Testitapaus Id | Kuvaus | Tyyppi  |								
-|:-:|:-:|:-:|:-:|
-| [Feature 1](pohjat/pohja-ominaisuus.md), [FUNCTIONAL-REQ-0001]() | [Testitapaus 1](pohjat/pohja-hyvaksyntatesti.md) | esim. Tarkista kirjautuminen palveluun uutena käyttäjänä  | Hyväksyntätesti  |
-| [Feature 2](pohjat/pohja-ominaisuus.md), [FUNCTIONAL-REQ-0201](), [USE-CASE-017](pohjat/pohja-hyvaksyntatesti.md) | [Testitapaus 2](pohjat/pohja-testitapaus.md) | esim. Tarkista kenkilökohtaisten tietojen poisto | Hyväksyntätesti  |
-| [Feature 3](pohjat/pohja-ominaisuus.md),  | [Testitapaus 101](pohjat/pohja-hyvaksyntatesti.md) | esim. Tarkista Kirjautuminen toimivalla salasanalla | Hyväksyntätesti  |
 
 
 
