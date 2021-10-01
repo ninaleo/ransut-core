@@ -1,4 +1,4 @@
-# Application Architecture
+# Solution Architecture
 
 # Architecture and technical solutions
 
@@ -161,9 +161,3 @@ e01 |o..o{ e03
 
 ##
 
-
-
-
-
-
-TBD
