@@ -1,20 +1,13 @@
-# Solution Architecture
+# Template - Architecture Design of Solution
 
-# Architecture and technical solutions
+Version number:
+Classification: (Secret / Public etc ..)
+Responsible person:
+
+
+## Architecture and technical solutions
 
 This document is a "living" document that is constantly updated. In its current form, it is only a rough framework that "can" be used as a basis for technical documentation of projects. The structure can and must be modified! The goal is to create a document that seamlessly integrates the design documentation with the rest of the project documentation. The author assumes no responsibility for the content of this document.
-
-TV: NarsuMan
-
-## Title
-
-Version number
-
-Classification (Secret / Public etc ..)
-
-Responsible person
-
-
 
 
 
