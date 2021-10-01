@@ -73,8 +73,6 @@ Let's consider little what kind of user / stakeholders are involved in the plann
 To clarify these, all stakeholders are recorded in the form of a stakeholder map. At the same time, let's highlight what is
 ko. motivation related to the service of the stakeholder / representative. The description can be created, for example, by drawing, in MindMap format or by applying a suitable UML notation.
 
-[![](http://img.youtube.com/vi/wiNjgClkJoM/0.jpg)](http://www.youtube.com/watch?v=wiNjgClkJoM "")
-
 > You can now check out the PlantUML tool mentioned earlier and try creating a stakeholder map (http://plantuml.com/)
 > Note! The *PlantUML code block* is defined in the Gitlab's markdown version using different keywords instead of commonly used @ startuml / @ enduml lines. You will find example down below..
 
@@ -97,8 +95,6 @@ stake_holder2 -- example_of_service  : competitor
 ## Stakeholders and profiles
 
 > We should define more precise some of relevant stakeholde profiles. Note that a large stakeholder instace (eg. company, institution) can contain several different stakehold profiles. Because of that there may be a need to define several different profiles. Different profiles can be users, but because of different need they can have specific needs, motives and values. We have to find and define those different groups if needed.   
-
-[![](http://img.youtube.com/vi/w5oXMtOGcC4/0.jpg)](http://www.youtube.com/watch?v=w5oXMtOGcC4 "")
 
 
 | Stakeholde/profile | Info / Link to description | Motivation? |
@@ -154,11 +150,8 @@ There can be several customer-specific service paths, but the most important thi
 When describing the service path, you can use, for example, the Swim lane / BluePrint / state machine description or other description deemed appropriate. However, it is important to describe the path and use it, if necessary, to clarify the understanding of the service sought.
 Go through the description you made with someone else? Go through the path and tell what happens during it.
 
-[![](http://img.youtube.com/vi/kNXjKquK3A0/0.jpg)](http://www.youtube.com/watch?v=kNXjKquK3A0 "")
-
 > It is a good idea to start sketching the customer path, for example on the basis of a customer story. If necessary, several paths should be needed to created from the perspective of different profiles. So it is not worth immersing too many events in one description
 
-[![](http://img.youtube.com/vi/j7U8pqUN9EM/0.jpg)](http://www.youtube.com/watch?v=j7U8pqUN9EM "")
 
 **Customer journey path as PlantUML Statemachine -diagram **
 
@@ -209,12 +202,6 @@ Huolto_1--(Order clear and restart)
 > On hyödyllistä kirjata kaikki oleelliset käyttötapaukset yhteen laajempaan Use Case-kuvaukseen, koska sen avulla voi tarkastella
 helpommin koko järjestelmää. Huomio! Laajemmassa järjestelmä kokonaisuudessa saattaa olla useita satoja eri käyttötapauksia. 
 
-[![](http://img.youtube.com/vi/DupdE35Ilps/0.jpg)](http://www.youtube.com/watch?v=DupdE35Ilps "")
-
-[![](http://img.youtube.com/vi/-3YtgJGuIek/0.jpg)](http://www.youtube.com/watch?v=-3YtgJGuIek "")
-
-[![](http://img.youtube.com/vi/oVGmIOavB74/0.jpg)](http://www.youtube.com/watch?v=oVGmIOavB74 "")
-
 > Käyttötapauksen tarkempi kuvaus harjoitusympäristössä tapahtuu käyttötapaus-kohtaisen pohja-tiedoston avulla. Jokaista käyttötapausta varten 
 laaditaan itsenäinen tiedosto.
 
@@ -229,11 +216,11 @@ laaditaan itsenäinen tiedosto.
 >Let's outline some of basic features of solution/service as a short list. , i.e. what do you think is possible with the service?
 Update the list later when it refines?
 
-> On hyödyllistä laatia toimeksiantajan kanssa yhdessä tiivistelmä (A4-kokoa), josta löytyy tarvittaessa koko tuote kiteytettynä
-- Toiminnot 
-    - Käyttäjä voi lähettää postia toiselle henkilölle
-    - Asiakas saa tiedot aiemmin tehdyistä valinnoista
-    - Henkilö voi maksaa laskun 
+> It is useful to prepare a summary (A4 size) together with the client, which will contain the whole product in crystallization, if necessary.
+- Functions
+    - The user can send mail to another person
+    - The customer receives information about previous selections
+    - The person can pay the bill
 
 ## Preliminary MockUp-prototype layouts for solution/service
 
@@ -265,97 +252,91 @@ salt
 
 ## Palvelun järjestelmävaatimukset 
 
+> System requirements are higher-level requirements on the basis of which the system as a whole is defined.
+> When designing services, from a technical point of view, different requirements arise
+technologies, equipment, or physical structures of realization. When defining a software service
+it is advisable to identify purely the technical / production requirements of the system in good time and record them in the requirements specification.
+Excessive concentration on the recording of technical production / implementation requirements may not be recommended because
+during design, software / service implementation requirements may still change. A solution that was considered handy during the development phase
+may prove costly during the commercialization phase of the service.
+Open in Google Translate
 
-> Järjestelmävaatimukset ovat korkeamman tason vaatimuksia, joiden pohjalta järjestelmä kokonaisuutta lähdetään määrittelemään.
-> Palveluita suunniteltaessa nousevat teknisestä näkökulmasta tarkasteltuna esiin vaatimukset, jotka liittyvät eri 
-teknologioihin, laitteistoihin tai totetuksen fyysisiin rakenteisiin. Ohjelmistopalvelua määriteltäessä
-kannattaa tunnistaa ajoissa puhtaasti järjestelmän tekniset/tuotannolliset vaatimukset ja kirjata ne vaatimusmäärittelyyn. 
-Liiallinen keskittyminen teknisten tuotanto/toteutusvaatimusten kirjaukseen ei ole välttämättä suositeltavaa, koska 
-suunnittelun aikana ohjelmistoa/palvelun toteutusvaatimukset voivat vielä muuttua. Kehitysvaiheessa näppäräksi koettu ratkaisu 
-voi osoittatua kalliiksi palvelun tuotteistamisvaiheessa.
 
-> Tässä osiossa Kannattaa pohtia esim seuraavia kohti
 
-- Miten palvelu tuotetaan? SAAS/PAAS/IAAS/HOSTED-palveluna etc 
-- Käytetäänkö Pilvipalveluita osana ratkaisua vai hyödynnetäänkö omia palvelimia
-- Onko kyseessä ns. Hybridi-palvelu, joka hyödyntää useampia erillis palvelua 
-- Miten palvelu on oltava saatavilla 24/7h 100% ? Niin onko tuo edes mahdollista :) ?
-- Millainen SLA palvelulle laaditaan?
-- Miten paljon kustannuksia saa palvelun tuotanto tuottaa?
-- Millaiset tiedonsäilytys/arkistointi tarpeet liittyvät palveluun? 
+> In this section, it is worth considering, for example, the following
+
+- How is the service produced? As a SAAS / PAAS / IAAS / HOSTED service etc
+- Whether to use Cloud Services as part of the solution or to utilize our own servers
+- Is it the so-called A hybrid service that utilizes multiple separate services
+- How must the service be available 24 / 7h 100%? So is that even possible :)?
+- What kind of SLA is prepared for the service?
+- How much does the production of the service cost?
+- What kind of data storage / archiving needs are related to the service?
 
 [![](http://img.youtube.com/vi/s7AcxrxcVd0/0.jpg)](http://www.youtube.com/watch?v=s7AcxrxcVd0 "")
 
-> Järjestelmä tason vaatimuksissa tarkastellaan ohjelmistoa/palvelua kokonaisuutena ja sen pohjalta määritellään 
-esim. tekniset vaatimukset suoritusympäristölle, vaadittaville resursseille palvelun ylläpitoa varten. 
+> System level requirements look at the software / service as a whole and define it based on it
+e.g., technical requirements for the execution environment, resources required to maintain the service.
+System performance environment requirements include, for example, equipment requirements for the production environment or
+system runtime requirements, which may include requirements for performance, maintenance, certifications, etc
 
-> Järjestelmän suoritusympäristön vaatimukset käsittävät esimerkiksi laitevaatimukset tuotantoympäristöstä tai 
-järjestelmän ajoympäristön vaatimuksia, joihin voivat sisältyä vaatimukset suorituskyvystä, ylläpidosta, varmennuksista etc
-
-> Millaisia suoritusympäristöjä sitten käytetään esim. kaupallisissa ratkaisuissa ? Voit tutkia esimerkkejä [Stack Share](https://stackshare.io/):palvelussa
+> What kind of execution environments are then used, for example, in commercial solutions? You can explore the examples at [Stack Share] (https://stackshare.io/):
 
 
-> Esim. millainen on tekninen ratkaisu toteutukselle ja miten eri teknologioita tullaan hyödyntämään. 
 
-| VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
-|:-:|:-:|:-:|:-:|
-| SYSTEM-HW-REQ-0002 | System Technical Requirement | Palvelun tärkeimpien palvelujen on oltava vähintään kahdennettu N+1 | |
-| SYSTEM-HW-REQ-0003 | System Technical Requirement | Palvelimen muistikapasiteeti >16GB  ||
-| SYSTEM-HW-REQ-0004 | System Technical Requirement | Prosessori Intel/AMD x64||
-| SYSTEM-HW-REQ-0005 | System Technical Requirement | Palvelimen fyysinen sijainti on oltava kotimaassa (Suomi) ||
-| SYSTEM-HW-REQ-0005 | System Technical Requirement | Verkkoyhteyden nopeus >100MB/s ||
-| SYSTEM-HW-REQ-0005 | System Technical Requirement | Laitekaapin suositeltava koko 1m X 1m X 2m ||
-
+| RequirementsID Type Description Feature affected
+:::::::::::::
+| SYSTEM-HW-REQ-0002 | System Technical Requirement | The main services must be at least duplicated N + 1 |
+| SYSTEM-HW-REQ-0003 | System Technical Requirement | Server memory capacity> 16GB ||
+| SYSTEM-HW-REQ-0004 | System Technical Requirement | Intel / AMD x64 processor ||
 
 
 
  
-> Avainsanat: pilvipalvelun tuotanto, Palveluiden hallinta, SLA 
+> Keywords: cloud service production, service management, SLA
 
-### Palvelun suunnitteluun vaikuttavat rajaukset ja standardit
+### Limitations and standards that affect service design
 
-> Eri ohjelmistojena/palvelujen toteutusta ja käyttöä ohjaavat usein lait ja säädökset. Näiden edellyttämät vaatimukset kirjataan yleensä rajoitteina 
-ja niiden vaikutus koskee usein koko ohjelmiston/järjestelmän toteuttamista. Tästä syystä ne kannattaa tunnistaa ja selvittää ajoissa, koska vaikutus 
-saataa olla varsin ratkaiseva pitemmällä tähtäimella. Esimerkkinä [EU GDPR-säädös](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation).
+> The implementation and use of different software / services is often governed by laws and regulations. The requirements required by these are usually recorded as restrictions
+and their impact often affects the implementation of the entire software / system. For this reason, they should be identified and clarified in a timely manner because of the impact
+may be quite decisive in the long run. As an example, the [EU GDPR Act] (https://en.wikipedia.org/wiki/General_Data_Protection_Regulation).
 
-> Kannattaa tutkia esimerkiksi https://www.sfs.fi/aihealueet/terveydenhuolto/laakinnalliset_laitteet tai http://docs.jhs-suositukset.fi/jhs-suositukset/JHS190/JHS190.html
+> It is worth researching, for example, https://www.sfs.fi/aihealueet/terveydenhuolto/laakinnallinen_laitteet or http://docs.jhs-suositukset.fi/jhs-suositukset/JHS190/JHS190.html
 
-| Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
-|:-:|:-:|:-:|:-:|
-| CONSTRAINT-REQ-S00000 | Constrain | Palvelun kirjautumisprosessin on noudatettava XYZ-käytäntöjä  | [Kirjautuminen ft1](pohjat/pohja-ominaisuus.md) |
+| Id | Description of the requirement | category | Responsible |
+| CONSTRAINT-REQ-S00000 | Constrain | The service login process must follow XYZ policies [Login ft1] (bottoms / bottom property.md)
 | CONSTRAINT-REQ-S00002 | Constrain |||
 
 
 
 
+### Service functionalities / features
 
-### Palvelun toiminnallisuudet/ominaisuudet
+> Record "all" functions in the table, some of which will be treated later as functional properties of the product.
+It is worth noting that some of the functional requirements are in practice essential functions, i.e. they can be "upgraded" to features.
+As an example, the Online Banking service has the essential function "payment from account", which is an important feature of the service in practice. Over here
+there are a number of other smaller and more specific functional requirements associated with functionality
 
-> Kirjataan taulukkoon "kaikki" toiminnot, joista osaa tullaan käsittelemään myöhemmin tuotteen toiminnallisina ominaisuuksina. 
-Kannattaa huomata, että osa toiminnallista vaatimuksista ovat käytännössä oleellisia toimintoja, eli ne voidaan "korottaa" ominaisuuksiksi. 
-Esimerkkinä Verkkopankki palvelussa on oleellinen toiminto "maksu tililtä", joka on käytännössä tärkeä palvelun ominaisuus. Tähän 
-toiminnallisuuteen liittyy useita muita pienempiä ja tarkentavia toiminnallisia vaatimuksia
+> If you are asked what the service / software can do, try to identify the most important functions!
+They are quite certainly essential features.
+> Think about what functions you can do, for example, on the online banking page? What are the most important functions you use most often?
 
-> Jos sinulta kysytään mitä palvelulla/ohjelmistolla voi tehdä pyri tunnistamaan tärkeimmät toiminnot! 
-Ne ovat melko varmasti oleelliset ominaisuudet. 
-> Mieti mitä toimintoja pysyt tekemään esim. verkkopankin sivulla? Mitkä ovat tärkeimmät toiminnot, joita käytät useimmin?
+> Is it worth considering at the definition stage whether all the features are necessary? You should try to group the key features first.
+The features can be specified by functional requirements, which are called expand the feature description. In practice, the features are larger entities that make up the entire service / software.
+The Finnish word feature may be a bit misleading, because often when presenting products, the aim is to emphasize its "information security" as a feature of the product.
+This is not to say that this is one feature of the product software but a general "design philosophy." The product may contain features that allow it to be called secure.
 
-> Kannataa pohtia määrittelyvaiheessa ovatko kaikki ominaisuudet tarpeellisia? Kannattaa pyrkiä ryhmittelemään tärkeimmät ominaisuudet ensin.
-Ominaisuuksia voidaa tarkentaa toiminnallisilla vaatimuksilla, jotka ns. laajentavat ominaisuuden kuvausta. Ominaisuudet ovat käytännössä isompia kokonaisuuksia, joista koko palvelu/ohjelmisto on muodostunut.
-Suomenkielen sana ominaisuus saattaa olla hieman harhaan johtava, koska usein tuotteita esiteltäessä pyritään korostamaan tuotteen ominaisuutena sen "tietoturvallisutta". 
-Tämä ei tarkoita, että kyseessä on tuoteeen ohjelmiston yksi ominaisuus vaan yleinen "suunnittelu filosofia". Tuote voi sisältää ominaisuuksia, joiden myötä sitä voidaan kutsua voidaan tietoturvalliseksi.
+> Product feature or function?
 
-> Tuotteen ominaisuus vai toiminto?
+[! [] (http://img.youtube.com/vi/6dVrBsvUStg/0.jpg)] (http://www.youtube.com/watch?v=6dVrBsvUStg "")
 
-[![](http://img.youtube.com/vi/6dVrBsvUStg/0.jpg)](http://www.youtube.com/watch?v=6dVrBsvUStg "")
+> The real need for features?
 
-> Ominaisuuksien todellinen tarve?
+[! [] (http://img.youtube.com/vi/pIDSK21PE9M/0.jpg)] (http://www.youtube.com/watch?v=pIDSK21PE9M "")
 
-[![](http://img.youtube.com/vi/pIDSK21PE9M/0.jpg)](http://www.youtube.com/watch?v=pIDSK21PE9M "")
+> Overwrite the underlying proposal and activities based on the assignment and prioritize the most important ones, which you define more precisely.
 
-> Ylikirjoita pohjalla olevat ehdotuksen ja toimintoja toimeksiantoon pohjautuen ja priorisoi niistä tärkeimmät toiminnot, joita määrittelet tarkemmin. 
-
-**Priorisoi oleelliset ominaisuudet/toiminnot**
+** Prioritize essential features / functions **
 
 * P1 = Pakollinen
 * P3 = Tarpeellinen
