@@ -84,10 +84,9 @@ stake_holder2 -- example_of_service  : competitor
 
 ![](https://openclipart.org/image/400px/283178)
 
-
 ## Stakeholders and profiles
 
->We should define more precise some of relevant stakeholde profiles. Note that a large stakeholder instace (eg. company, institution) can contain several different stakehold profiles. Because of that there may be a need to define several different profiles. Different profiles can be users, but because of different need they can have specific needs, motives and values. We have to find and define those different groups if needed.   
+>We should define more precise some of relevant stakeholde profiles. Note that a large stakeholder instace (eg. company, institution) can contain several different stakeholder profiles. This is a reason to define several profiles. Different profiles can be at first look normal users, but they have personal needs, motives and values. This information benefits design process at early phase of product development.  
 
 | Stakeholde/profile | Info / Link to description | Motivation? |
 |:-:|:-:|:-:|
