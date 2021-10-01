@@ -111,10 +111,10 @@ stake_holder2 -- example_of_service  : competitor
 > Continuously complete this throughout the course!
 > Consider what kind of wishes / needs the end user has regarding the service? Interview people in a real situation?
 
-| ReqID | Type | Description | 								
+| ReqID | Description | 								
 |:-:|:-:|:-:|
-| CUSTOMER-REQ-0001 | Customer Requirement | As a user of solution I would like to use Faceboot authentication | 
-| CUSTOMER-REQ-0002 | Customer Requirement ||
+| CUSTOMER-REQ-0001 |  As a user of solution I would like to use Faceboot authentication | 
+| CUSTOMER-REQ-0002 | .... |
 
 
 ## Business requirements / goals?
@@ -122,10 +122,10 @@ stake_holder2 -- example_of_service  : competitor
 > Consider what kind of wishes / needs there are from a business perspective related to the service?
 > If nothing comes to mind, then consider whose "cashier" the money comes from the service? Does the service achieve cost benefits? Does it improve cost efficiency? etc
 
-| ReqID | Type | Description | 								
+| ReqID |  Description | 								
 |:-:|:-:|:-:|
-| BUSINESS-REQ-0001 | Business Requirement | Registration as a new user should be easy for old users, because is's our user focus group 35% | 
-| BUSINESS-REQ-0002 | Business Requirement ||
+| BUSINESS-REQ-0001 |  Registration as a new user should be easy for old users, because is's our user focus group 35% | 
+| BUSINESS-REQ-0002 | |
 
 ## Customer Storys as background information
 
@@ -235,7 +235,6 @@ Update the list later when it refines?
 
 > When defining the needed features and functions for service/solution under design, it may be handy method to scetch up some visible elements of service layouts. On web desing those preliminary visions for eg user interface layout are called as "Mockups". Mockups help to valiate development team's understanding of needed design between customer and team. Mockup's are handy to use also to check needed functionalityes during selected use cases. Different layouts and visualisation of service can reveal more easily some hidden needs those should be gather on the requirements specification.
 
-
 ```plantuml
 salt
 {
@@ -250,8 +249,6 @@ salt
 }
 ```
 
-
-
 ## Palvelun järjestelmävaatimukset 
 
 > System requirements are higher-level requirements on the basis of which the system as a whole is defined.
@@ -263,8 +260,6 @@ during design, software / service implementation requirements may still change. 
 may prove costly during the commercialization phase of the service.
 Open in Google Translate
 
-
-
 > In this section, it is worth considering, for example, the following
 
 - How is the service produced? As a SAAS / PAAS / IAAS / HOSTED service etc
@@ -275,8 +270,6 @@ Open in Google Translate
 - How much does the production of the service cost?
 - What kind of data storage / archiving needs are related to the service?
 
-
-
 > System level requirements look at the software / service as a whole and define it based on it
 e.g., technical requirements for the execution environment, resources required to maintain the service.
 System performance environment requirements include, for example, equipment requirements for the production environment or
@@ -284,16 +277,11 @@ system runtime requirements, which may include requirements for performance, mai
 
 > What kind of execution environments are then used, for example, in commercial solutions? You can explore the examples at [Stack Share] (https://stackshare.io/):
 
-
-
-| RequirementsID Type Description Feature affected
-:::::::::::::
-| SYSTEM-HW-REQ-0002 | System Technical Requirement | The main services must be at least duplicated N + 1 |
-| SYSTEM-HW-REQ-0003 | System Technical Requirement | Server memory capacity> 16GB ||
-| SYSTEM-HW-REQ-0004 | System Technical Requirement | Intel / AMD x64 processor ||
-
-
-
+| RequirementsID | Description |
+|:-:|:-:|
+| SYSTEM-HW-REQ-0002 | The main services must be at least duplicated N + 1 |
+| SYSTEM-HW-REQ-0003 | Server memory capacity> 16GB ||
+| SYSTEM-HW-REQ-0004 | Intel / AMD x64 processor ||
  
 > Keywords: cloud service production, service management, SLA
 
@@ -305,9 +293,10 @@ may be quite decisive in the long run. As an example, the [EU GDPR Act] (https:/
 
 > It is worth researching, for example, https://www.sfs.fi/aihealueet/terveydenhuolto/laakinnallinen_laitteet or http://docs.jhs-suositukset.fi/jhs-suositukset/JHS190/JHS190.html
 
-| Id | Description of the requirement | category | Responsible |
-| CONSTRAINT-REQ-S00000 | Constrain | The service login process must follow XYZ policies [Login ft1] (bottoms / bottom property.md)
-| CONSTRAINT-REQ-S00002 | Constrain |||
+| ReqId | Description |
+|:-:|:-:| 
+| CONSTRAINT-REQ-S00000 |  The service login process must follow XYZ policies [Login ft1] (bottoms / bottom property.md)
+| CONSTRAINT-REQ-S00002 | ||
 
 ### Service functionalities / features
 
@@ -330,35 +319,32 @@ This is not to say that this is one feature of the product software but a genera
 
 ** Prioritize essential features / functions **
 
-* P1 = Required
+* P1 = Mandatory
 * P3 = Required
-* P5 = To be done when the need arises
+* P5 = Nice to have
 
+| Feature | Priority  |
+|:-:|:-:|
+| eg. [Feature 1 - report generator](templates/template-feature.md) | P1 | 
+| eg. [Feature 2 - billing log](templates/template-feature.md) | P1 | 
+| eg. [Feature 3 - avatar icon](templates/template-feature.md) | P3 |
+| eg. [Feature 4 - policy manager](templates/template-feature.md) | P3 |
+| eg. [Feature 5 - Theme selector](templates/template-feature.md) | P5 |
+| eg. [Feature 6 - Service Login]
 
-| Feature | Priority  | Feature requirements | uses |
-|:-:|:-:|:-:|
-| [Feature 1 - raportti-generaattori](pohjat/pohja-ominaisuus.md) | P1 | Esim [FUNCTIONAL-REQ-C0001]() | 
-| [Feature 2 - lasku-arkisto](pohjat/pohja-ominaisuus.md) | P1 | Esim [FUNCTIONAL-REQ-C0011]() | 
-| [Feature 3 - avatar-valinta](pohjat/pohja-ominaisuus.md) | P2 | Esim [FUNCTIONAL-REQ-C0023]() |
-| [Feature 4 - oikeushallinta](pohjat/pohja-ominaisuus.md) | P3 | Esim [FUNCTIONAL-REQ-C0133]() |
-| [Feature 5](pohjat/pohja-ominaisuus.md) | P4 | Esim [FUNCTIONAL-REQ-C0231]() |
-
-### Functional requirements of the service
+## Functional requirements of the service
 
 > What are the functional requirements? Functional requirements describe the operation required of a software / system
 Functional requirements are the most easily identifiable. Avoid writing multiple claims in the same sentence! Each requirement separately ..
 You can present them in a table or refer to [one] (bases / baseline requirements list.md) for a larger entity
 
+| ReqID | Description | Ominaisuus johon vaikuttaa |								
+|:-:|:-:|:-:|
+| FUNC-REQ-C0001 | eg. User profile X is able to authenticate using Faceboot-account | eg.  [Feature 6 - Service Login](templates/template-feature.md) |
+| FUNC-REQ-C0002 | eg. User profile X is able to create weekly report about selling | eg. [Feature 1 - report generator](templates/template-feature.md) |
 
 
-| VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
-|:-:|:-:|:-:|:-:|
-| FUNCTIONAL-REQ-C0001 | Functional Requirement | Käyttäjänä (Asiakas Profiilit 1-4) voin kirjautua käyttäen Facebook-tunnuksia | [Kirjautuminen ft1](pohjat/pohja-ominaisuus.md) |
-| FUNCTIONAL-REQ-C0002 | Functional Requirement | Käyttöliittymän on toimittava myös ääniohjattuna, koska käyttäjillä saattaa olla näkövammoja | [Kirjautuminen ft1](pohjat/pohja-ominaisuus.md), [Tilaushallinta](pohjat/pohja-ominaisuus.md) |
-| FUNCTIONAL-REQ-C0003 | Functional Requirement |||
-
-
-### Software / service non-functional requirements
+## Software / service non-functional requirements
 
 > What were the non-functional requirements? You can present the different requirements in a separate table or refer here to [one] (bases / baseline requirements list.md) larger table.
 [Non-Functional Requirements] (https://en.wikipedia.org/wiki/Non-functional_requirement) includes a wide range of different perspectives on a software purchase product. The main author
@@ -368,30 +354,35 @@ How well does the service / component or other part of the service perform durin
 
 
 
-
+### Performance Requirements
 
 > What are the performance requirements for the service?
 
-| ReqID | Type | Description | 								
+| ReqID |  Description | 								
 |:-:|:-:|:-:|
-| PERFORMANCE-REQ-0000 | Performance | Kirjautuminen on mahdollista yhtäaikaa 100 käyttäjällä (100 request/s) | 							
-| PERFORMANCE-REQ-0001 | Performance ||
+| PERFORMANCE-REQ-0000 | Kirjautuminen on mahdollista yhtäaikaa 100 käyttäjällä (100 request/s) | 							
+| PERFORMANCE-REQ-0001 | ... |
 
+### Security Requirements
 
 >Millaisia vaatimuksia palveluun kohdistuu tietoturvan näkökulmasta?
 
-| ReqID | Type | Description | 										
-|:-:|:-:|:-:|
-| SECURITY-REQ-0001 | Security | Salasanassa on käytettävä vähintään MD5-tason salausta, koska standardi XY112 sitä edellyttää |					| SECURITY-REQ-0002 | Security ||
+| ReqID |  Description | 										
+|:-:|:-:|
+| SECURITY-REQ-0001 |  Salasanassa on käytettävä vähintään MD5-tason salausta, koska standardi XY112 sitä edellyttää |
+| SECURITY-REQ-0002 | ... |
 
+### Availability Requirements
 
 >Mitä tarkoitetaan käyttävyydellä? Millaisia asioita/ohjeistuksia on otettava huomioon palvelua toteutettaessa?
 
-| ReqID | Type | Description | 								
+| ReqID |  Description | 								
 |:-:|:-:|:-:|
-| USABILITY-REQ-0000 | Usability | Font should be size at 16pt  |	
-| USABILITY-REQ-0001 | Usability | User interface should be visible in high contrast mode |
-| USABILITY-REQ-0001 | Usability | ...... |
+| USABILITY-REQ-0000 | | Font should be size at 16pt  |	
+| USABILITY-REQ-0001 |  User interface should be visible in high contrast mode |
+| USABILITY-REQ-0001 |  ...... |
+
+## Quality Assurance
 
 > What issues need to be considered for product quality assurance point of view ?. During development, the necessary interfaces or tool software must be created for the software product,
 to control the product version under test. These requirements need to be recorded in a timely manner as they are crucial to the product’s testing capabilities.
@@ -405,15 +396,11 @@ An example is the management of logs, their collection, initialization.
 > Acceptance tests generally focus on the customer / end-user perspective. The aim is to validate, ie to validate whether the product meets the customer's wishes and whether it meets the set requirements.
 Acceptance tests can be used to determine whether a product is also sufficiently high-performance, usable, or secure for customer use.
 
-
 | AcceptanceTestId | Description | 							
 |:-:|:-:|:-:|:-:|
 | [ACCTEST001 - Testitapaus 1](pohjat/pohja-hyvaksyntatesti.md) | esim. Tarkista kirjautuminen palveluun uutena käyttäjänä  |
 | [ACCTEST002 - Testitapaus 2](pohjat/pohja-testitapaus.md) | esim. Tarkista kenkilökohtaisten tietojen poisto |
 | [ACCTEST003 - Testitapaus 3](pohjat/pohja-hyvaksyntatesti.md) | esim. Tarkista Kirjautuminen toimivalla salasanalla |
-
-
-
 
 ## Software architecture, placement view, database description, and integrations
 
