@@ -131,7 +131,6 @@ Try to write a story from the perspective of the selected profile/stakeholder (o
 
 *[End user profile  1](pohjat/pohja-profiilikuvaus.md) is goint to start a cement mill on a construction site in the afternoon when she receives a message from the X service .........*
 
-
 ## Customer Journey paths in Service/solution 
 
 > Think about the customer story you wrote earlier and draw an outline of the customer path based on it.
@@ -164,10 +163,10 @@ Step3 --> [*]
 
 | User Story ID |Description / link to issue |
 |:-:|:-:|
-| US3100 | As a user, I want to be able to generate a report of my purchases for the last month, as it makes it easier to manage my finances | 
-| US3101 | User Story: [As an administrator, I want to delete old accounts completely because it clarifies maintenance]() |
-| US3102 | #10 |
-| US3103 | ... |
+| US1000 | As a user, I want to be able to generate a report of my purchases for the last month, as it makes it easier to manage my finances, #12|
+| US1001 | User Story: As an administrator, I want to delete old accounts completely because it clarifies maintenance |
+| US1002 | eg. you can also add hashtag and issue number here #12 |
+| US1003 | ... |
 
 ## Selected Use Cases of service/solution
 
