@@ -96,7 +96,6 @@ stake_holder2 -- example_of_service  : competitor
 
 > We should define more precise some of relevant stakeholde profiles. Note that a large stakeholder instace (eg. company, institution) can contain several different stakehold profiles. Because of that there may be a need to define several different profiles. Different profiles can be users, but because of different need they can have specific needs, motives and values. We have to find and define those different groups if needed.   
 
-
 | Stakeholde/profile | Info / Link to description | Motivation? |
 |:-:|:-:|:-:|
 | eg. Stakeholder 1 | [Stake holder group-1](pohjat/template-profileilikuvaus.md) | |
@@ -108,7 +107,6 @@ stake_holder2 -- example_of_service  : competitor
 
 ## Customer needs / wishes?
 
-> Continuously complete this throughout the course!
 > Consider what kind of wishes / needs the end user has regarding the service? Interview people in a real situation?
 
 | ReqID | Description | 								
@@ -119,13 +117,12 @@ stake_holder2 -- example_of_service  : competitor
 
 ## Business requirements / goals?
 
-> Consider what kind of wishes / needs there are from a business perspective related to the service?
-> If nothing comes to mind, then consider whose "cashier" the money comes from the service? Does the service achieve cost benefits? Does it improve cost efficiency? etc
+> Consider what kind of wishes / needs there are from a business perspective related to the service? If nothing comes to mind, then consider whose bank account the money comes from the service? Does the service achieve cost benefits? Does it improve cost efficiency? etc
 
 | ReqID | Description | 								
 |:-:|:-:|
 | BUSINESS-REQ-0001 |  Registration as a new user should be easy for old users, because is's our user focus group 35% | 
-| BUSINESS-REQ-0002 | |
+| BUSINESS-REQ-0002 | ... |
 
 ## Customer Storys as background information
 
@@ -203,17 +200,16 @@ Huolto_1--(Order clear and restart)
 
 ```
 
-> On hyödyllistä kirjata kaikki oleelliset käyttötapaukset yhteen laajempaan Use Case-kuvaukseen, koska sen avulla voi tarkastella
-helpommin koko järjestelmää. Huomio! Laajemmassa järjestelmä kokonaisuudessa saattaa olla useita satoja eri käyttötapauksia. 
+>It is useful to record all relevant use cases in one broader Use Case description because it allows you to view
+easier throughout the system. Attention! In the larger system as a whole, there may be several hundred different uses.
+A more detailed description of the use case in the training environment is provided using a use case-specific template file. For every use case
+an independent file is created.
 
-> Käyttötapauksen tarkempi kuvaus harjoitusympäristössä tapahtuu käyttötapaus-kohtaisen pohja-tiedoston avulla. Jokaista käyttötapausta varten 
-laaditaan itsenäinen tiedosto.
-
-| Käyttötapaus | Osa-alue | Ominaisuus? |
+| Use Case | Domain |
 |:-:|:-:|:-:|
-| [Käyttötapaus 1 - Tilauksen muokkaus](pohjat/pohja-kayttotapaus.md) | Tilausten hallinta | [Tilaushallinta-paneeli](pohjat/pohja-ominaisuus.md) | 
-| [Käyttötapaus 2 - Tilauksen tarkistaminen](pohjat/pohja-kayttotapaus.md) | Tilausten hallinta | [Tilaushallinta-paneeli](pohjat/pohja-ominaisuus.md) | 
-| [Käyttötapaus 2 - Tilauksen siirto](pohjat/pohja-kayttotapaus.md) | Tilausten hallinta | [Tilaushallinta-paneeli](pohjat/pohja-ominaisuus.md) |
+| eg. [Use Case 1 - User selects new avatar logo](templates/template-usecase.md) | User settings feature | 
+| eg. [Use Case 2 - User creates new article ](templates/template-usecase.md) | Article feature | 
+| .. | ..| 
 
 ## Tärkeimmät ominaisuudet/toiminnallisuudet 
 
@@ -244,9 +240,9 @@ salt
 }
 ```
 
-## Palvelun järjestelmävaatimukset 
+## System requirements 
 
-> System requirements are higher-level requirements on the basis of which the system as a whole is defined.
+> Commonly System requirements are higher-level requirements on the basis of which the system as a whole is defined.
 > When designing services, from a technical point of view, different requirements arise
 technologies, equipment, or physical structures of realization. When defining a software service
 it is advisable to identify purely the technical / production requirements of the system in good time and record them in the requirements specification.
@@ -280,39 +276,27 @@ system runtime requirements, which may include requirements for performance, mai
  
 > Keywords: cloud service production, service management, SLA
 
-### Limitations and standards that affect service design
+### Constraints and standards that affect on service design
 
 > The implementation and use of different software / services is often governed by laws and regulations. The requirements required by these are usually recorded as restrictions
 and their impact often affects the implementation of the entire software / system. For this reason, they should be identified and clarified in a timely manner because of the impact
 may be quite decisive in the long run. As an example, the [EU GDPR Act] (https://en.wikipedia.org/wiki/General_Data_Protection_Regulation).
 
-> It is worth researching, for example, https://www.sfs.fi/aihealueet/terveydenhuolto/laakinnallinen_laitteet or http://docs.jhs-suositukset.fi/jhs-suositukset/JHS190/JHS190.html
-
 | ReqId | Description |
 |:-:|:-:| 
 | CONSTRAINT-REQ-S00000 |  The service login process must follow XYZ policies [Login ft1] (bottoms / bottom property.md)
-| CONSTRAINT-REQ-S00002 | ||
+| CONSTRAINT-REQ-S00002 | ... | ... |
 
-### Service functionalities / features
+### Service primay features and functionalities
 
-> Record "all" functions in the table, some of which will be treated later as functional properties of the product.
 It is worth noting that some of the functional requirements are in practice essential functions, i.e. they can be "upgraded" to features.
 As an example, the Online Banking service has the essential function "payment from account", which is an important feature of the service in practice. Over here
 there are a number of other smaller and more specific functional requirements associated with functionality
+If you are asked what the service / software can do, try to identify the most important functions!
+They are quite certainly essential features. Think about what functions you can do, for example, on the online banking page? What are the most important functions you use most often? Is it worth considering at the definition stage whether all the features are necessary? You should try to group the key features first. The features can be specified by functional requirements, which are called expand the feature description. In practice, the features are larger entities that make up the entire service / software.
+The Finnish word feature may be a bit misleading, because often when presenting products, the aim is to emphasize its "information security" as a feature of the product. This is not to say that this is one feature of the product software but a general "design philosophy." The product may contain features that allow it to be called secure.
 
-> If you are asked what the service / software can do, try to identify the most important functions!
-They are quite certainly essential features.
-> Think about what functions you can do, for example, on the online banking page? What are the most important functions you use most often?
-
-> Is it worth considering at the definition stage whether all the features are necessary? You should try to group the key features first.
-The features can be specified by functional requirements, which are called expand the feature description. In practice, the features are larger entities that make up the entire service / software.
-The Finnish word feature may be a bit misleading, because often when presenting products, the aim is to emphasize its "information security" as a feature of the product.
-This is not to say that this is one feature of the product software but a general "design philosophy." The product may contain features that allow it to be called secure.
-
-
-> Overwrite the underlying proposal and activities based on the assignment and prioritize the most important ones, which you define more precisely.
-
-** Prioritize essential features / functions **
+**eg. Priorization of essential features / functions **
 
 * P1 = Mandatory
 * P3 = Required
@@ -325,7 +309,9 @@ This is not to say that this is one feature of the product software but a genera
 | eg. [Feature 3 - avatar icon](templates/template-feature.md) | P3 |
 | eg. [Feature 4 - policy manager](templates/template-feature.md) | P3 |
 | eg. [Feature 5 - Theme selector](templates/template-feature.md) | P5 |
-| eg. [Feature 6 - Service Login]
+| eg. [Feature 6 - Service Login](templates/template-feature.md) | P5 |
+| ... | ... |
+
 
 ## Functional requirements of the service
 
