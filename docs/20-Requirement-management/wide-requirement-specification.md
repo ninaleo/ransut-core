@@ -116,9 +116,9 @@ stake_holder2 -- example_of_service  : competitor
 | BUSINESS-REQ-0001 |  Registration as a new user should be easy for old users, because is's our user focus group 35% | 
 | BUSINESS-REQ-0002 | ... |
 
-## Customer Storys as background information
+## Customer story's as background information
 
->During requirement gatheringphase for a service/solution it is a good practice to do some interview among possible users and other stakeholders. Gathering some knowledge among this group will help to understand basic need of different user groups. It's important to understand in early phase how the person / stakeholder benefits or uses the solution/service in future. This process could be written as a customer story. 
+>During requirement gathering process it's a good practice to do some interviewing among possible service users and importanto stakeholders. Gathering some information of different users will help to understand how service should be designed to fit a purpose. This information is valuable to understand in how the person/stakeholder benefits of solution/service in future. This process could be written as a customer story. 
 Try to write a story from the perspective of the selected profile/stakeholder (other profiles / stakeholders may appear in the story). It is convenient to refer to previously created [Profile] descriptions as as a back ground of the story.
 
 **Example of end use/customer story** 
