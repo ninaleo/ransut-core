@@ -169,21 +169,17 @@ Step3 --> [*]
 | US3102 | #10 |
 | US3103 | ... |
 
-## Mandatory Use Case of service/solution
+## Selected Use Cases of service/solution
 
-> While [user]() uses the service there will be  service-related interaction events. Most importatnt scenarios using the service/solution should be described somehow. One way to to define usage scenario is a [Use Case](https://en.wikipedia.org/wiki/Use_case) description.
-Use Cases diagrams can be drawn using [PlantUML](https://plantuml.com/use-case-diagram) scripts.
-
-> UML Use Case description can be done as PlantUML description, but a more detailed use case requires a separate description document
+> While a [user]()uses the service there will be  service-related interaction events. Most importatnt scenarios using the service/solution should be described somehow. One way to to define usage scenario is a [Use Case](https://en.wikipedia.org/wiki/Use_case) description.
+Use Cases diagrams can be drawn using [PlantUML](https://plantuml.com/use-case-diagram) scripts. UML Use Case description can be done as PlantUML description, but a more detailed use case requires a separate description document
 
 ```plantuml
-
 rectangle Order {
 Profile_1--(Making order)
 Profile_1--(Modifying order)
 Profile_1--(Cancelling order)
 }
-
 rectangle Order_management {
 Hallinto_1--(Checking the Order)
 Hallinto_1--(Modification of order)
@@ -191,7 +187,6 @@ Hallinto_1--(Transferring the order)
 Huolto_1--(Order manual cancelling)
 Huolto_1--(Order clear and restart)
 }
-
 ```
 
 >It is useful to record all relevant use cases in one broader Use Case description because it allows you to view
@@ -200,7 +195,7 @@ A more detailed description of the use case in the training environment is provi
 an independent file is created.
 
 | Use Case | Domain |
-|:-:|:-:|:-:|
+|:-:|:-:|
 | eg. [Use Case 1 - User selects new avatar logo](templates/template-usecase.md) | User settings feature | 
 | eg. [Use Case 2 - User creates new article ](templates/template-usecase.md) | Article feature | 
 | .. | ..| 
