@@ -19,7 +19,7 @@
 |:----:|:----:|:----:|
 | S1 | Force Major - Total show stopper |   | 
 | S2 | | | 
-| S3 | Possible Risk | | 
+| S3 | Possible | | 
 | S4 | | | 
 | S5 | No immediate affect, to be observed   |  | 
 
