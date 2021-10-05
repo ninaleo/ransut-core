@@ -378,21 +378,21 @@ Acceptance tests can be used to determine whether a product is also sufficiently
 > Software implementation requirements can be set for pre-defined technologies that must be followed in development.
 This situation often occurs when the software is related to a previously implemented solution
 
-* Link to [Software architecture]()
-* Link to [Software architecture]()
+* Link to [Software architecture](../../30-Architecture-and-design/sw-architecture.md)
+
 
 ### Deployment diagram
 
 > The placement view allows you to describe how different parts of the service work when it is running.
-
-
 
 ### Integrations with other systems
 
 > The requirements definition is to describe the dependence of the service / product on other systems. Are there any parts of the service to be purchased from an external service provider.
 Examples are virtual machines, billing systems, control and other service production solutions.
 
+* Link to [Software architecture](../../30-Architecture-and-design/sw-architecture.md)
 
+**General view of integrations as UML Deployment Diagram**
 
 ```plantuml
 node node1
