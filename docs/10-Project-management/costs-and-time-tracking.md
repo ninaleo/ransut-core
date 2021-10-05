@@ -1,4 +1,4 @@
-## Project time tracking
+## Template of Project time tracking
 
 ![](https://openclipart.org/image/400px/svg_to_png/324819/studying-boy-and-girl.png)
 
