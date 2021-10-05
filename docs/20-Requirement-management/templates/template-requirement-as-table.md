@@ -16,8 +16,6 @@ When one environment is used to gather relevant information, it is easier to lin
 | CUSTOMER-REQ-0002 | ... |||
 | CUSTOMER-REQ-0003 | ... |||
 
-
-
 **Business requirements**
 
 | Requirement ID | Description | Related feature |									
@@ -36,23 +34,9 @@ When one environment is used to gather relevant information, it is easier to lin
 | CONSTRAINT-REQ-S00001 |...||
 | CONSTRAINT-REQ-S00002 |...||
 
-## System / software requirements ?
-
-**SYSTEM REQUIREMENTS**
-
-System/service requirements are gathered here on a higher level.
-
-**Technical requirements**
-
-Technical requirements are typically separated from software requirements. They are an essential part of system requirements. Technical can, for example, include the following:
+## Prodction environment / technical requirements
 
 
-* Execution environment (Linux, Windows, Pilvi etc)
-* Memory (4GB, 16GB ?)
-* Processor (Intel/AMD/ARM ?)
-* Database (MySQL, DynamoDB, Orient etc?)
-* Virtualization solutions (JAVA VM, Docker Container?)
- 
 
 | Requirement ID | Description | Related feature |								
 |:-:|:-:|:-:|
@@ -113,7 +97,7 @@ Technical requirements are typically separated from software requirements. They 
 | Requirement ID | Description | Related feature |									
 |:-:|:-:|:-:|
 | MECHANICAL-REQ-000 | eg. Size of installation board is  (WxLxT) 50 mm x 150 mm x 19mm | | 	
-| MECHANICAL-REQ-001 |  || 	
-| MECHANICAL-REQ-002 |  || 	
+| MECHANICAL-REQ-001 |... || 	
+| MECHANICAL-REQ-002 |...  || 	
 
 
