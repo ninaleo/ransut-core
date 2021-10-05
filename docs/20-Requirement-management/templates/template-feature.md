@@ -22,8 +22,8 @@ vitae condimentum. Ut maximus metus nec lorem ultrices elementum.
 
 | | |
 |:-:|:-:|
-| [Use Case 1](../50-Test-management/templates/test-case-template.md) | |
-| [Use Case 2](../50-Test-management/templates/test-case-template.md) | |
+| [Use Case 1](template-usecase.md) | |
+| [Use Case 2](template-usecase.md) | |
 | [Requirement ReqID]() |  |
 | [Requirement ReqID]() |  |
 
@@ -50,10 +50,10 @@ vitae condimentum. Ut maximus metus nec lorem ultrices elementum.
 
 | Testcase   | Test source  | Responsible  |
 |:-: | :-:|:-:|
-| [Testcase 1]()  | Requirement ID?   |   |
-| [Testcase 2]()  | Requirement ID?   |   |
-| [Testcase 3]()  | Requirement ID?   |   |
-| [Testcase 4]()  | Requirement ID?   |   |
+| [Testcase 1](../50-Test-management/templates/test-case-template.md)  | Requirement ID?   |   |
+| [Testcase 2](../50-Test-management/templates/test-case-template.md)  | Requirement ID?   |   |
+| [Testcase 3](../50-Test-management/templates/test-case-template.md)  | Requirement ID?   |   |
+| [Testcase 4](../50-Test-management/templates/test-case-template.md)  | Requirement ID?   |   |
 | | |
 
 
