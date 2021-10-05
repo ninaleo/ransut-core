@@ -17,3 +17,10 @@
 --- Functionality Z16
 @endmindmap
 ```
+
+| Feature ||| 
+|:-:|:-:|:-:|
+| [Feature X1]()||  
+| [Feature X2]()|| 
+| [Feature X3]()|| 
+| [Feature X4]()|| 
