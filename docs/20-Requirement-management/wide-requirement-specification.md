@@ -61,12 +61,20 @@ use the real names of the real subscribers! If necessary, change the personal da
 > What can the service do? What are its users like? What is its role in general for the various stakeholders?
 It is worth highlighting briefly the potential end user and the relevant stakeholders who will benefit from the service
 
+## Business requirements / goals?
+
+>Consider what kind of wishes / needs there are from a business perspective related to the service? If nothing comes to mind, then consider whose bank account the money comes from the service? Does the service achieve cost benefits? Does it improve cost efficiency? etc
+
+| ReqID | Description | 								
+|:-:|:-:|
+| BUSINESS-REQ-0001 |  Registration as a new user should be easy for old users, because is's our user focus group 35% | 
+| BUSINESS-REQ-0002 | ... |
+
 ## Stakeholder map
 
 >Let's consider little what kind of user / stakeholders are involved in the planned software / service package?
 To clarify these, all stakeholders are recorded in the form of a stakeholder map. At the same time, let's highlight what is
-ko. motivation related to the service of the stakeholder / representative. The description can be created, for example, by drawing, in MindMap format or by applying a suitable UML notation. You can now check out the PlantUML tool mentioned earlier and try creating a stakeholder map (http://plantuml.com/)
-Note! The *PlantUML code block* is defined in the Gitlab's markdown version using different keywords instead of commonly used @ startuml / @ enduml lines. You will find example down below..
+ko. motivation related to the service of the stakeholder / representative. The description can be created, for example, by drawing, in MindMap format or by applying a suitable UML notation. You can now check out the PlantUML tool mentioned earlier and try creating a stakeholder map (http://plantuml.com/) Note! The *PlantUML code block* is defined in the Gitlab's markdown version using different keywords instead of commonly used @ startuml / @ enduml lines. You will find example down below..
 
 ```plantuml
 actor profile1
@@ -92,28 +100,8 @@ stake_holder2 -- example_of_service  : competitor
 | eg. Stakeholder 1 | [Stake holder group-1](templates/template-profile.md) | |
 | eg. Stakeholder 2 | [Stake holder gorup-2](templates/template-profile.md) | |
 | eg. Stakeholder 3 / End user 1 | Person 17-35 Years old | Benefits x, y and z |
-| eg. Stakeholder 3 / End user 2 | Person 36-45 Years old | Primary reason is... |
-| eg. Stakeholder 3 / End user 3 | Person 46-65 Years old | Because of.... |
+| eg. Stakeholder 4 / End user 2 | Person 36-45 Years old | Primary reason is... |
 | eg. Admin user | [adminuser-profile](templates/template-profile.md) | supports service users |
-
-## Customer needs / wishes?
-
->Consider what kind of wishes / needs the end user has regarding the service? Interview people in a real situation?
-
-| ReqID | Description | 								
-|:-:|:-:|
-| CUSTOMER-REQ-0001 | eg.  As a [user](templates/template-profile.md) of solution I would like to use Faceboot authentication | 
-| CUSTOMER-REQ-0002 | .... |
-
-
-## Business requirements / goals?
-
->Consider what kind of wishes / needs there are from a business perspective related to the service? If nothing comes to mind, then consider whose bank account the money comes from the service? Does the service achieve cost benefits? Does it improve cost efficiency? etc
-
-| ReqID | Description | 								
-|:-:|:-:|
-| BUSINESS-REQ-0001 |  Registration as a new user should be easy for old users, because is's our user focus group 35% | 
-| BUSINESS-REQ-0002 | ... |
 
 ## Customer story's as background information
 
@@ -122,12 +110,20 @@ Try to write a story from the perspective of the selected profile/stakeholder (o
 
 **Example of end use/customer story** 
 
-
-*[Profiili 1](template/template-profile.md) wakes up in the morning and checks on his phone if there is room in the X service from the morning. By using application he can find that there is several open slots available .........*
+*[Profile 1](template/template-profile.md) wakes up in the morning and checks on his phone if there is room in the X service from the morning. By using application he can find that there is several open slots available .........*
 
 **end user profile 1 point of view** 
 
 *[End user profile  1](pohjat/pohja-profiilikuvaus.md) is goint to start a cement mill on a construction site in the afternoon when she receives a message from the X service .........*
+
+## Customer need
+
+>Consider what kind of wishes / needs the end user has regarding the service? Interview some potential users in a real life situation? 
+
+| ReqID | Description | 								
+|:-:|:-:|
+| CUSTOMER-REQ-0001 | eg.  As a [user](templates/template-profile.md) of solution I would like to use Faceboot authentication | 
+| CUSTOMER-REQ-0002 |...|
 
 ## Customer Journey paths in Service/solution 
 
@@ -178,11 +174,11 @@ Profile_1--(Modifying order)
 Profile_1--(Cancelling order)
 }
 rectangle Order_management {
-Hallinto_1--(Checking the Order)
-Hallinto_1--(Modification of order)
-Hallinto_1--(Transferring the order)
-Huolto_1--(Order manual cancelling)
-Huolto_1--(Order clear and restart)
+Administration_1--(Checking the Order)
+Administration_1--(Modification of order)
+Administration_1--(Transferring the order)
+Service_1--(Order manual cancelling)
+Service_1--(Order clear and restart)
 }
 ```
 
