@@ -16,7 +16,7 @@ __For example__
 * the institution can add courses [Feature 5](), manage accounts [Feature 12]() and collect data from the above options [Feature 15]() + [Feature 18]()
 * students can make course choices from courses set by the institution [Feature 2]()
 
-** A more detailed description can be found in [requirements specification]() **
+** A more detailed description can be found in [requirements specification](../../20-Requirement-management/wide-requirement-specification.md)**
 
 ## 2. Objectives, requirements and proposed solutions
 
