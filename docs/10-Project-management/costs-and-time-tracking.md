@@ -1,4 +1,4 @@
-## Template of Project time tracking
+## Template of Time tracking
 
 ![](https://openclipart.org/image/400px/svg_to_png/324819/studying-boy-and-girl.png)
 
@@ -9,7 +9,7 @@ Hours and costs of project XXX
 | Person | Date | Hours | Tasks |
 |:-:|:-:|:-:|:-:|
 | Woody Woodpecker 1 | 1.1.2018 | 7.25h | Planning 4h, implementation 3,25h |
-| Woody Woodpecker 1| 2.1.2018 | 7.25h |
+| Woody Woodpecker 1 | 2.1.2018 | 7.25h |
 | Woody Woodpecker 1 | 3.1.2018 | 7.25h |
 | Woody Woodpecker 1 | 4.1.2018 | 7.25h |
 | Woody Woodpecker 1 | 5.1.2018 | 7.25h |
