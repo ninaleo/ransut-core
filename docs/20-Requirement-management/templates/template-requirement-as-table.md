@@ -86,12 +86,10 @@ Technical requirements are typically separated from software requirements. They 
 
 | Requirement ID | Description | Related feature |								
 |:-:|:-:|:-:|
-| PERFORMANCE-REQ-0000 | eg. At least 100 users must be able to login at the same time (100 request/s) | [Feature template](template-feature.md) |								
-| PERFORMANCE-REQ-0001 |||
-| PERFORMANCE-REQ-0002 |||
-| PERFORMANCE-REQ-0003 |||
-| PERFORMANCE-REQ-0004 |||
-| PERFORMANCE-REQ-0005 |||
+| PERFORMANCE-REQ-0000 | eg. At least 100 users must be able to login at the same time (100 request/s) | [Feature template](template-feature.md) |		
+| PERFORMANCE-REQ-0001 |...||
+| PERFORMANCE-REQ-0002 |...||
+
 
 
 **Usability**
@@ -105,10 +103,9 @@ Technical requirements are typically separated from software requirements. They 
 **Safety**
 
 | Requirement ID |  Description | Related feature |								
-|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|
 | SAFETY-REQ-0000 | eg.  No safety requirements can be assigned to this product  | [Feature template](template-feature.md)	|	
 | SAFETY-REQ-0001 |...||	
-
 
 
 ## Mechanical requirements
