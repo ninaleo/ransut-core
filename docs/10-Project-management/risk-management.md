@@ -8,8 +8,8 @@
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | RIS01 | Team member gets the flu |  S3 | 3 |  James Pot | Inform the team leader and the client, if necessary. |
 | RISKXX | [detailed description of risk, if needed]() | | | |
-| RISKXX | ... |... |... |... |
-| RISKXX |... |... |... |... |
+| RISKXX | ... |... |... |... |...|
+| RISKXX |... |... |... |... |...|
 
 ### Severity descriptions
 
