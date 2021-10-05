@@ -16,8 +16,8 @@
 **Links to requirements or other sources**
 
 * Requirement: [ReqId]() ?   
-* Use case: [Use Case](template-use-case.md) ? 
-* Feature: [Feature](teamplate-feature.md) ?
+* Use case: [Use Case](template-usecase.md) ? 
+* Feature: [Feature](template-feature.md) ?
 
 **Test pre-state**
 * Start
