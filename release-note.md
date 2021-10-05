@@ -1,5 +1,12 @@
 # Release note 
 
+## OPF- Releases 0.9.5 - 5.10.2021
+
+* Translation progressing 90 % 
+* Lot's of small changes around requirement specification
+* Reorganization of requirement specification
+
+
 ## OPF- Releases 0.9.4 - 28.9.2021
 
 
