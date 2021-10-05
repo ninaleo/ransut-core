@@ -17,9 +17,9 @@
 
 | Severity class | Description | Other |
 |:----:|:----:|:----:|
-| S1 | Force Major |   | 
+| S1 | Force Major - Total show stopper |   | 
 | S2 | | | 
-| S3 | Problem  | | 
+| S3 | Possible Risk | | 
 | S4 | | | 
 | S5 | No immediate affect, to be observed   |  | 
 
