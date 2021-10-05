@@ -1,4 +1,4 @@
-# Use Case
+# Template of Use Case
 
 
 It is a good idea to include a view of the selected relevant use case description.
