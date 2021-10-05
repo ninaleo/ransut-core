@@ -126,10 +126,14 @@ Describe the change management procedure for changes related to project policies
 Write down where the documents are stored / archived, how they are distributed and who is responsible for the different documents.
  
 ### 4.4 Risk management
+
 List the risks, assess their severity and probability, and try to consider measures on how the most serious / probable risks could be prevented in advance. In addition, it would be good to have a plan of how to act if the risk materializes.
-Attach the following section here: Risk Management Table
- 
+
+* [Risk Management Table](risk-management.md)
+
+
 ### 4.5 Review Policy
+
 List and tentatively schedule project performance reviews based on the prepared implementation plan. List the reviews that will be held, the tentative date, the issues to be addressed, the participants, and the practices for delivering the review material (what, when, how).
 Links to review protocol documents.
  
