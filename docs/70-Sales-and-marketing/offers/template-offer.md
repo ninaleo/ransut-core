@@ -12,9 +12,9 @@ The "XXXX" solution / service to be implemented in this case means an entity com
 
 __For example__
 
-* Feature [Feature 10]() as well as giving feedback [Feature 13]()
-* the institution can add courses [Feature 5](), manage accounts [Feature 12]() and collect data from the above options [Feature 15]() + [Feature 18]()
-* students can make course choices from courses set by the institution [Feature 2]()
+* Feature [Feature 10](../../20-Requirement-management/templates/template-feature.md) as well as giving feedback [Feature 13](../../20-Requirement-management/templates/template-feature.md)
+* the institution can add courses [Feature 5](../../20-Requirement-management/templates/template-feature.md), manage accounts [Feature 12](../../20-Requirement-management/templates/template-feature.md) and collect data from the above options [Feature 15](../../20-Requirement-management/templates/template-feature.md) + [Feature 18](../../20-Requirement-management/templates/template-feature.md)
+* students can make course choices from courses set by the institution [Feature 2](../../20-Requirement-management/templates/template-feature.md)
 
 **A more detailed description can be found in [requirements specification](../../20-Requirement-management/wide-requirement-specification.md)**
 
