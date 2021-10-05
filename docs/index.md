@@ -1,4 +1,4 @@
-# Project front page
+# Welcome to Project X
 
 
 This is default page for OPF-based project environment.
