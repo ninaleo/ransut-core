@@ -1,31 +1,23 @@
-# Test case template
-
-[![](http://img.youtube.com/vi/9PNY4BrAiHQ/0.jpg)](http://www.youtube.com/watch?v=9PNY4BrAiHQ "")
-
+# Template of Test Case
 
 
 | | |
 |:-:|:-:|
-| Testcase description | Check that... |
-| Testcase ID | XXXX |
-| Testcase designer | XXXXX XXX | 
-| Testcase acceptor | XXXXX XXX |
-| Date of creation | X.Y.ABCD |
-| Class | functional/non-functional |
-
-**Update history**
-
-* version 0.1 
+| Test Case description | Check that... |
+| Test Case ID | XXXX |
+| Autohor/Designer | Sigmund Fraud | 
+| Date of creation | X.Y.202x |
+| Class | functional/non-functional/acceptance |
 
 **Test description / objective**
 
-* Description
+*This test case should verify.....*
 
 **Links to requirements or other sources**
 
-* Requirement: [Requirement]() ?   
-* Use case: [Use Case]() ? 
-* Feature: [Feature]() ?
+* Requirement: [ReqId]() ?   
+* Use case: [Use Case](template-use-case.md) ? 
+* Feature: [Feature](teamplate-feature.md) ?
 
 **Test pre-state**
 * Start
