@@ -5,7 +5,7 @@ This model is quite useful if the list of requirements isn't very long. The same
 When one environment is used to gather relevant information, it is easier to link them to each other and the information stays up to date better.
 
 
-## Business / Customers / Constraints
+## Customer & Business
 
 **Customer Requirements** 
 
@@ -29,6 +29,8 @@ When one environment is used to gather relevant information, it is easier to lin
 | BUSINESS-REQ-0004 | Business Requirement |||
 | BUSINESS-REQ-0005 | Business Requirement |||
 
+## Techical or Legal Constraints?
+
 **Constraints and standards**
 
 | Requirement ID | Type | Description | Related feature |
@@ -42,7 +44,7 @@ When one environment is used to gather relevant information, it is easier to lin
 | CONSTRAINT-REQ-S00006 | Constrain |||
 
 
-## System / software requirements
+## System / software requirements ?
 
 **SYSTEM REQUIREMENTS**
 
@@ -117,53 +119,46 @@ Technical requirements are typically separated from software requirements. They 
 
 | Requirement ID | Type | Description | Related feature |							
 |:-:|:-:|:-:|:-:|
-| USABILITY-REQ-0000 | Non-Functional Usability | The user interface must also be voice-controllable, as users may have visual impairments |  [Login ft1](ft1-ominaisuus.md) | |	
+| USABILITY-REQ-0000 | Non-Functional Usability | eg.  | [Feature template](template-feature.md) | |	
 | USABILITY-REQ-0001 | Non-Functional Usability |||
 | USABILITY-REQ-0002 | Non-Functional Usability |||
 | USABILITY-REQ-0003 | Non-Functional Usability |||
-| USABILITY-REQ-0004 | Non-Functional Usability |||
-| USABILITY-REQ-0005 | Non-Functional Usability |||
-
-
 
 **Recovery**
 
 | Requirement ID | Type | Description | Related feature |									
 |:-:|:-:|:-:|:-:|
-| RECOVERY-REQ-00100 | Non-Functional Recovery | The login service must start during the first service startup | [Login ft1](ft1-ominaisuus.md)	 |							
+| RECOVERY-REQ-00100 | Non-Functional Recovery | eg. The login service must start during the first service startup | [Feature template](template-feature.md)	 |							
 | RECOVERY-REQ-00100 | Non-Functional Recovery |||							
 
 
 **Testability**
 
-| Requirement ID | Type | Description | Related feature |								
-|:-:|:-:|:-:|:-:|
-| TESTABILITY-REQ-0000 | Non-Functional Testability | You must be able to reset the user registry before running tests | [Login ft1](ft1-ominaisuus.md)	 |	
-| TESTABILITY-REQ-0001 | Non-Functional Testability |||	
-| TESTABILITY-REQ-0002 | Non-Functional Testability |||	
-| TESTABILITY-REQ-0003 | Non-Functional Testability |||	
-| TESTABILITY-REQ-0004 | Non-Functional Testability |||	
-| TESTABILITY-REQ-0005 | Non-Functional Testability |||	
+| Requirement ID |  Description | Related feature |								
+|:-:|:-:|:-:|
+| TESTABILITY-REQ-0000 | eg. You must be able to reset the user registry before running tests | [Feature template](template-feature.md) |	
+| TESTABILITY-REQ-0001 |||	
+| TESTABILITY-REQ-0002 |||	
+| TESTABILITY-REQ-0003 |||	
+
 
 
 **Safety**
 
-| Requirement ID | Type | Description | Related feature |								
+| Requirement ID |  Description | Related feature |								
 |:-:|:-:|:-:|:-:|
-| SAFETY-REQ-0000 | Non-Functional Safety |  No safety requirements can be assigned to this product  | [Login ft1](ft1-ominaisuus.md)	|	
-| SAFETY-REQ-0001 | Non-Functional Safety |||	
-| SAFETY-REQ-0002 | Non-Functional Safety |||	
-| SAFETY-REQ-0003 | Non-Functional Safety |||	
+| SAFETY-REQ-0000 | eg.  No safety requirements can be assigned to this product  | [Login ft1](ft1-ominaisuus.md)	|	
+| SAFETY-REQ-0001 |||	
+| SAFETY-REQ-0002 |||	
+| SAFETY-REQ-0003 |||	
 
 
-# Mechanical requirements
+## Mechanical requirements
 
-| Requirement ID | Type | Description | Related feature |									
-|:-:|:-:|:-:|:-:|
-| MECHANICAL-REQ-000 | Mechanical Requirement | || 	
-| MECHANICAL-REQ-001 | Mechanical Requirement | || 	
-| MECHANICAL-REQ-002 | Mechanical Requirement | || 	
-| MECHANICAL-REQ-003 | Mechanical Requirement | || 	
-| MECHANICAL-REQ-004 | Mechanical Requirement | || 	
-| MECHANICAL-REQ-005 | Mechanical Requirement | || 	
+| Requirement ID | Description | Related feature |									
+|:-:|:-:|:-:|
+| MECHANICAL-REQ-000 | eg. Size of installation board is  (WxLxT) 50 mm x 150 mm x 19mm | | 	
+| MECHANICAL-REQ-001 |  || 	
+| MECHANICAL-REQ-002 |  || 	
+
 
