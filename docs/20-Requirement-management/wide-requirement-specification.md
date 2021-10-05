@@ -270,15 +270,15 @@ Update the list later when it refines?
 ```plantuml
 @startmindmap
 + Product
-++ Feature X1
+++ Feature Internal Mail
 +++ The user can send mail to another person
 +++ Functionality Z2
-++ Feature X2
+++ Feature Bill Management
 +++ The person can pay the bill
 +++ Functionality Z3
--- Feature X3
+-- Feature Cart Manager
 --- Functionality Z10
---- The user can send mail to another person
+--- The customer receives information about previous selections
 -- Feature X4
 --- Functionality Z15
 --- Functionality Z16
