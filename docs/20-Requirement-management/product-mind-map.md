@@ -20,7 +20,7 @@
 
 | Feature ||| 
 |:-:|:-:|:-:|
-| [Feature X1]()||  
-| [Feature X2]()|| 
-| [Feature X3]()|| 
-| [Feature X4]()|| 
+| [Feature X1](/templates/template-feature.md)||  
+| [Feature X2](/templates/template-feature.md)|| 
+| [Feature X3](/templates/template-feature.md)|| 
+| [Feature X4](/templates/template-feature.md)|| 
