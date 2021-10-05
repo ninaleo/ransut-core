@@ -1,4 +1,4 @@
-# Project end review
+# Template of Project End Report
 
 * This document shows the topics you should talk about in the end seminar, if your NDA allows it.
 
