@@ -1,4 +1,4 @@
-# Template of Wide Requirement Specification 
+# Template of Requirement Specification 
 
 ## Requirement Specification for Service/Solution X
 
