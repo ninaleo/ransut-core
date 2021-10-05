@@ -1,4 +1,4 @@
-# Feature template
+# Template of Feature Description
 
 | | |
 |:-:|:-:|
