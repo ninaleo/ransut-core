@@ -1,6 +1,6 @@
-# Project Library
+# Project library
 
-![](https://openclipart.org/image/400px/svg_to_png/185078/oldmanreadsabook.png)
+![](https://openclipart.org/image/300px/svg_to_png/268463/Library-no-text.png)
 
 Here is some links which could be valuabe during different phases of project work
 
@@ -69,9 +69,4 @@ Here is some links which could be valuabe during different phases of project wor
 ## Misc 
 * [https://pascal.computer.org/sev_display/index.action]()
 * [ISTQB-syllabus]()
-
-# Project library
-
-![](https://openclipart.org/image/300px/svg_to_png/268463/Library-no-text.png)
-
 
