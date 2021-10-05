@@ -1,4 +1,4 @@
-# Template - Project Plam
+# Template of Project Plan
  
 1.	Assignment background and basis, goals and tasks, delimitations and connections, result
 2.	Project organization: introduction, responsibilities and decision-making process
