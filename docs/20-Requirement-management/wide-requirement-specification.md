@@ -267,6 +267,25 @@ Update the list later when it refines?
     - The customer receives information about previous selections
     - The person can pay the bill
 
+```plantuml
+@startmindmap
++ Product
+++ Feature X1
++++ The user can send mail to another person
++++ Functionality Z2
+++ Feature X2
++++ The person can pay the bill
++++ Functionality Z3
+-- Feature X3
+--- Functionality Z10
+--- The user can send mail to another person
+-- Feature X4
+--- Functionality Z15
+--- Functionality Z16
+@endmindmap
+```
+
+
 * Describe main features by using [Product Mind Map](product-mind-map.md)?
 
 It is worth noting that some of the functional requirements are in practice essential functions, i.e. they can be "upgraded" to features.
