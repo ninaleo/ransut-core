@@ -10,9 +10,9 @@ When one environment is used to gather relevant information, it is easier to lin
 **Customer Requirements** 
 
 
-| Requirement ID | Type | Description | Related feature |								
+| Requirement ID | Description | Related feature |								
 |:-:|:-:|:-:|:-:|
-| CUSTOMER-REQ-0001 | Customer Requirement | As a user I want to login using my Facebook credentials to avoid any hassle. | [Login ft1](ft1-ominaisuus.md) | 
+| CUSTOMER-REQ-0001 | eg.  As a user I want to login using my Facebook credentials to avoid any hassle. | [Feature template](template-feature.md) | 
 | CUSTOMER-REQ-0002 | Customer Requirement |||
 | CUSTOMER-REQ-0003 | Customer Requirement |||
 | CUSTOMER-REQ-0004 | Customer Requirement |||
@@ -23,7 +23,7 @@ When one environment is used to gather relevant information, it is easier to lin
 
 | Requirement ID | Type | Description | Related feature |									
 |:-:|:-:|:-:|:-:|
-| BUSINESS-REQ-0001 | Business Requirement | Logging in to the service should be easy so that we can reach a wide user base = 35% of the target group | [Login ft1](ft1-ominaisuus.md) | 
+| BUSINESS-REQ-0001 | Business Requirement | Logging in to the service should be easy so that we can reach a wide user base = 35% of the target group | [Feature template](template-feature.md) | 
 | BUSINESS-REQ-0002 | Business Requirement |||
 | BUSINESS-REQ-0003 | Business Requirement |||
 | BUSINESS-REQ-0004 | Business Requirement |||
@@ -35,7 +35,7 @@ When one environment is used to gather relevant information, it is easier to lin
 
 | Requirement ID | Type | Description | Related feature |
 |:-:|:-:|:-:|:-:|
-| CONSTRAINT-REQ-S00000 | Constrain | Login process must follow the AC5-2009 standard.  | [Login ft1](ft1-ominaisuus.md) |
+| CONSTRAINT-REQ-S00000 | Constrain | Login process must follow the AC5-2009 standard.  | [Feature template](template-feature.md) |
 | CONSTRAINT-REQ-S00001 | Constrain |||
 | CONSTRAINT-REQ-S00002 | Constrain |||
 | CONSTRAINT-REQ-S00003 | Constrain |||
@@ -62,28 +62,22 @@ Technical requirements are typically separated from software requirements. They 
 * Virtualization solutions (JAVA VM, Docker Container?)
  
 
-| Requirement ID | Type | Description | Related feature |								
+| Requirement ID | Description | Related feature |								
 |:-:|:-:|:-:|:-:|
-| SYSTEM-REQ-0001 | System Requirement | Login services must have an independent verification system from a third party. | [Login ft1](ft1-ominaisuus.md) |
-| SYSTEM-REQ-0002 | System Requirement | The main parts of the service must be at least reduplicated N+1 | |
-| SYSTEM-REQ-0003 | System Requirement |||
-| SYSTEM-REQ-0004 | System Requirement |||
-| SYSTEM-REQ-0005 | System Requirement |||
+| SYSTEM-REQ-0001 | eg. Login services must have an independent verification system from a third party. | [Feature template](template-feature.md) |
+| SYSTEM-REQ-0002 | eg.  The main parts of the service must be at least reduplicated N+1 | |
+| SYSTEM-REQ-0003 |...||
+| SYSTEM-REQ-0004 |...||
+
 
 ## Functional requirements
 
-| Requirement ID | Type | Description | Related feature |									
+| Requirement ID | Description | Related feature |									
 |:-:|:-:|:-:|:-:|
-| FUNCTIONAL-REQ-C0001 | Functional Requirement | As a user (Customer profiles 1-4) I can login using Facebook-credentials | [Login ft1](ft1-ominaisuus.md) |
-| FUNCTIONAL-REQ-C0002 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0003 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0004 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0005 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0006 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0007 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0008 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0009 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0010 | Functional Requirement |||
+| FUNCTIONAL-REQ-C0001 | eg.  As a user (Customer profiles 1-4) I can login using Facebook-credentials | [Feature template](template-feature.md) |
+| FUNCTIONAL-REQ-C0002 |...||
+| FUNCTIONAL-REQ-C0003 |...||
+
 
 ## Non-functional requirements
 
@@ -91,28 +85,21 @@ Technical requirements are typically separated from software requirements. They 
 
 | Requirement ID | Type | Description | Related feature |									
 |:-:|:-:|:-:|:-:|
-| SECURITY-REQ-0001 | Non-Functional Security | At least level MD5 encryption must be used for the password, because it is required in standard XY112 | [Kirjautuminen ft1](ft1-ominaisuus.md) |								
-| SECURITY-REQ-0002 | Non-Functional Security |||
-| SECURITY-REQ-0003 | Non-Functional Security |||
-| SECURITY-REQ-0004 | Non-Functional Security |||
-| SECURITY-REQ-0005 | Non-Functional Security |||
-| SECURITY-REQ-0006 | Non-Functional Security |||
-| SECURITY-REQ-0007 | Non-Functional Security |||
-| SECURITY-REQ-0008 | Non-Functional Security |||
-| SECURITY-REQ-0009 | Non-Functional Security |||
-| SECURITY-REQ-0010 | Non-Functional Security |||
+| SECURITY-REQ-0001 | eg. At least level MD5 encryption must be used for the password, because it is required in standard XY112 | [Feature template](template-feature.md) |								
+| SECURITY-REQ-0002 |...||
+| SECURITY-REQ-0003 |...||
 
 
 **Performance**
 
-| Requirement ID | Type | Description | Related feature |								
+| Requirement ID | Description | Related feature |								
 |:-:|:-:|:-:|:-:|
-| PERFORMANCE-REQ-0000 | Non-Functional Performance | At least 100 users must be able to login at the same time (100 request/s) | [Login ft1](ft1-ominaisuus.md) |								
-| PERFORMANCE-REQ-0001 | Non-Functional Performance |||
-| PERFORMANCE-REQ-0002 | Non-Functional Performance |||
-| PERFORMANCE-REQ-0003 | Non-Functional Performance |||
-| PERFORMANCE-REQ-0004 | Non-Functional Performance |||
-| PERFORMANCE-REQ-0005 | Non-Functional Performance |||
+| PERFORMANCE-REQ-0000 | eg. At least 100 users must be able to login at the same time (100 request/s) | [Feature template](template-feature.md) |								
+| PERFORMANCE-REQ-0001 |||
+| PERFORMANCE-REQ-0002 |||
+| PERFORMANCE-REQ-0003 |||
+| PERFORMANCE-REQ-0004 |||
+| PERFORMANCE-REQ-0005 |||
 
 
 **Usability**
