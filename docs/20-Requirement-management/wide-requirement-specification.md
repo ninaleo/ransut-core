@@ -197,17 +197,6 @@ an independent file is created.
 | eg. [Use Case 2 - User creates new article ](templates/template-usecase.md) | Article feature | 
 | .. | ..| 
 
-## Tärkeimmät ominaisuudet/toiminnallisuudet 
-
->Let's outline some of basic features of solution/service as a short list. , i.e. what do you think is possible with the service?
-Update the list later when it refines?
-
-> It is useful to prepare a summary (A4 size) together with the client, which will contain the whole product in crystallization, if necessary.
-- Functions
-    - The user can send mail to another person
-    - The customer receives information about previous selections
-    - The person can pay the bill
-
 ## Preliminary MockUp-prototype layouts for solution/service
 
 > When defining the needed features and functions for service/solution under design, it may be handy method to scetch up some visible elements of service layouts. On web desing those preliminary visions for eg user interface layout are called as "Mockups". Mockups help to valiate development team's understanding of needed design between customer and team. Mockup's are handy to use also to check needed functionalityes during selected use cases. Different layouts and visualisation of service can reveal more easily some hidden needs those should be gather on the requirements specification.
@@ -275,6 +264,17 @@ may be quite decisive in the long run. As an example, the [EU GDPR Act] (https:/
 
 ### Service primay features and functionalities
 
+>Let's outline some of basic features of solution/service as a short list. , i.e. what do you think is possible with the service?
+Update the list later when it refines?
+
+> It is useful to prepare a summary (A4 size) together with the client, which will contain the whole product in crystallization, if necessary.
+- Functions
+    - The user can send mail to another person
+    - The customer receives information about previous selections
+    - The person can pay the bill
+
+* Describe main features by using [Product Mind Map](product-mind-map.md)?
+
 It is worth noting that some of the functional requirements are in practice essential functions, i.e. they can be "upgraded" to features.
 As an example, the Online Banking service has the essential function "payment from account", which is an important feature of the service in practice. Over here
 there are a number of other smaller and more specific functional requirements associated with functionality
@@ -293,11 +293,6 @@ The Finnish word feature may be a bit misleading, because often when presenting 
 | eg. [Feature 1 - report generator](templates/template-feature.md) | P1 | 
 | eg. [Feature 2 - billing log](templates/template-feature.md) | P1 | 
 | eg. [Feature 3 - avatar icon](templates/template-feature.md) | P3 |
-| eg. [Feature 4 - policy manager](templates/template-feature.md) | P3 |
-| eg. [Feature 5 - Theme selector](templates/template-feature.md) | P5 |
-| eg. [Feature 6 - Service Login](templates/template-feature.md) | P5 |
-| ... | ... |
-
 
 ## Functional requirements of the service
 
