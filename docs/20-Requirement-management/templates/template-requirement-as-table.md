@@ -11,7 +11,7 @@ When one environment is used to gather relevant information, it is easier to lin
 
 
 | Requirement ID | Description | Related feature |								
-|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|
 | CUSTOMER-REQ-0001 | eg.  As a user I want to login using my Facebook credentials to avoid any hassle. | [Feature template](template-feature.md) | 
 | CUSTOMER-REQ-0002 | Customer Requirement |||
 | CUSTOMER-REQ-0003 | Customer Requirement |||
@@ -21,13 +21,11 @@ When one environment is used to gather relevant information, it is easier to lin
 
 **Business requirements**
 
-| Requirement ID | Type | Description | Related feature |									
-|:-:|:-:|:-:|:-:|
-| BUSINESS-REQ-0001 | Business Requirement | Logging in to the service should be easy so that we can reach a wide user base = 35% of the target group | [Feature template](template-feature.md) | 
-| BUSINESS-REQ-0002 | Business Requirement |||
-| BUSINESS-REQ-0003 | Business Requirement |||
-| BUSINESS-REQ-0004 | Business Requirement |||
-| BUSINESS-REQ-0005 | Business Requirement |||
+| Requirement ID | Description | Related feature |									
+|:-:|:-:|:-:|
+| BUSINESS-REQ-0001 | eg.  Logging in to the service should be easy so that we can reach a wide user base = 35% of the target group | [Feature template](template-feature.md) | 
+| BUSINESS-REQ-0002 |...||
+| BUSINESS-REQ-0003 |...||
 
 ## Techical or Legal Constraints?
 
