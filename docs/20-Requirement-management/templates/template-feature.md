@@ -31,13 +31,10 @@ vitae condimentum. Ut maximus metus nec lorem ultrices elementum.
 
 *Write preliminary user stories here*
 
-* As a user I want to be able to.... (check issue #10)
+* As a user I want to be able to.... (transferred to issue tracker --> check issue #10)
 * As an administrator I want...
 
-
 **These should be transferred to issue descriptions as soon as possible*
-
-e.g. #8 #2
 
 
 ### User interface mock-up 
