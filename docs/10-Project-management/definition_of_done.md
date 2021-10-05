@@ -1,4 +1,4 @@
-# DOD of project
+# Template of Definition of Done
 
 **DOD = Definition of Done** 
 
