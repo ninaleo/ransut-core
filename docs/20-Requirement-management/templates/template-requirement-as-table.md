@@ -13,10 +13,9 @@ When one environment is used to gather relevant information, it is easier to lin
 | Requirement ID | Description | Related feature |								
 |:-:|:-:|:-:|
 | CUSTOMER-REQ-0001 | eg.  As a user I want to login using my Facebook credentials to avoid any hassle. | [Feature template](template-feature.md) | 
-| CUSTOMER-REQ-0002 | Customer Requirement |||
-| CUSTOMER-REQ-0003 | Customer Requirement |||
-| CUSTOMER-REQ-0004 | Customer Requirement |||
-| CUSTOMER-REQ-0005 | Customer Requirement |||
+| CUSTOMER-REQ-0002 | ... |||
+| CUSTOMER-REQ-0003 | ... |||
+
 
 
 **Business requirements**
@@ -31,16 +30,11 @@ When one environment is used to gather relevant information, it is easier to lin
 
 **Constraints and standards**
 
-| Requirement ID | Type | Description | Related feature |
-|:-:|:-:|:-:|:-:|
-| CONSTRAINT-REQ-S00000 | Constrain | Login process must follow the AC5-2009 standard.  | [Feature template](template-feature.md) |
-| CONSTRAINT-REQ-S00001 | Constrain |||
-| CONSTRAINT-REQ-S00002 | Constrain |||
-| CONSTRAINT-REQ-S00003 | Constrain |||
-| CONSTRAINT-REQ-S00004 | Constrain |||
-| CONSTRAINT-REQ-S00005 | Constrain |||
-| CONSTRAINT-REQ-S00006 | Constrain |||
-
+| Requirement ID |  Description | Related feature |
+|:-:|:-:|:-:|
+| CONSTRAINT-REQ-S00000 |  Login process must follow the AC5-2009 standard.  | [Feature template](template-feature.md) |
+| CONSTRAINT-REQ-S00001 |...||
+| CONSTRAINT-REQ-S00002 |...||
 
 ## System / software requirements ?
 
@@ -61,7 +55,7 @@ Technical requirements are typically separated from software requirements. They 
  
 
 | Requirement ID | Description | Related feature |								
-|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|
 | SYSTEM-REQ-0001 | eg. Login services must have an independent verification system from a third party. | [Feature template](template-feature.md) |
 | SYSTEM-REQ-0002 | eg.  The main parts of the service must be at least reduplicated N+1 | |
 | SYSTEM-REQ-0003 |...||
@@ -81,8 +75,8 @@ Technical requirements are typically separated from software requirements. They 
 
 **Security**
 
-| Requirement ID | Type | Description | Related feature |									
-|:-:|:-:|:-:|:-:|
+| Requirement ID |  Description | Related feature |									
+|:-:|:-:|:-:|
 | SECURITY-REQ-0001 | eg. At least level MD5 encryption must be used for the password, because it is required in standard XY112 | [Feature template](template-feature.md) |								
 | SECURITY-REQ-0002 |...||
 | SECURITY-REQ-0003 |...||
@@ -91,7 +85,7 @@ Technical requirements are typically separated from software requirements. They 
 **Performance**
 
 | Requirement ID | Description | Related feature |								
-|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|
 | PERFORMANCE-REQ-0000 | eg. At least 100 users must be able to login at the same time (100 request/s) | [Feature template](template-feature.md) |								
 | PERFORMANCE-REQ-0001 |||
 | PERFORMANCE-REQ-0002 |||
@@ -102,40 +96,19 @@ Technical requirements are typically separated from software requirements. They 
 
 **Usability**
 
-| Requirement ID | Type | Description | Related feature |							
-|:-:|:-:|:-:|:-:|
-| USABILITY-REQ-0000 | Non-Functional Usability | eg.  | [Feature template](template-feature.md) | |	
-| USABILITY-REQ-0001 | Non-Functional Usability |||
-| USABILITY-REQ-0002 | Non-Functional Usability |||
-| USABILITY-REQ-0003 | Non-Functional Usability |||
-
-**Recovery**
-
-| Requirement ID | Type | Description | Related feature |									
-|:-:|:-:|:-:|:-:|
-| RECOVERY-REQ-00100 | Non-Functional Recovery | eg. The login service must start during the first service startup | [Feature template](template-feature.md)	 |							
-| RECOVERY-REQ-00100 | Non-Functional Recovery |||							
-
-
-**Testability**
-
-| Requirement ID |  Description | Related feature |								
+| Requirement ID |  Description | Related feature |							
 |:-:|:-:|:-:|
-| TESTABILITY-REQ-0000 | eg. You must be able to reset the user registry before running tests | [Feature template](template-feature.md) |	
-| TESTABILITY-REQ-0001 |||	
-| TESTABILITY-REQ-0002 |||	
-| TESTABILITY-REQ-0003 |||	
-
-
+| USABILITY-REQ-0000 |  eg.  | [Feature template](template-feature.md) | |	
+| USABILITY-REQ-0001 |... ||
+| USABILITY-REQ-0002 |... ||
 
 **Safety**
 
 | Requirement ID |  Description | Related feature |								
 |:-:|:-:|:-:|:-:|
-| SAFETY-REQ-0000 | eg.  No safety requirements can be assigned to this product  | [Login ft1](ft1-ominaisuus.md)	|	
-| SAFETY-REQ-0001 |||	
-| SAFETY-REQ-0002 |||	
-| SAFETY-REQ-0003 |||	
+| SAFETY-REQ-0000 | eg.  No safety requirements can be assigned to this product  | [Feature template](template-feature.md)	|	
+| SAFETY-REQ-0001 |...||	
+
 
 
 ## Mechanical requirements
