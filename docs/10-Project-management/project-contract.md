@@ -1,4 +1,4 @@
-# Template - Project Contract
+# Template of Project Contract
 
 AGREEMENT ON STUDENT PROJECT COOPERATION 
 
