@@ -367,11 +367,11 @@ How well does the service / component or other part of the service perform durin
 > Acceptance tests generally focus on the customer / end-user perspective. The aim is to validate, ie to validate whether the product meets the customer's wishes and whether it meets the set requirements.
 Acceptance tests can be used to determine whether a product is also sufficiently high-performance, usable, or secure for customer use.
 
-| AcceptanceTestId | Description | 							
-|:-:|:-:|:-:|:-:|
-| [ACCTEST001 - Acceptance Test 1](../../50-Test-management/templates/acceptance-test.md) | esim. Tarkista kirjautuminen palveluun uutena käyttäjänä  |
-| [ACCTEST002 - Testitapaus 2](../../50-Test-management/templates/acceptance-test.md) | esim. Tarkista kenkilökohtaisten tietojen poisto |
-| [ACCTEST003 - Testitapaus 3](../../50-Test-management/templates/acceptance-test.md) | esim. Tarkista Kirjautuminen toimivalla salasanalla |
+| AcceptanceTestId | Description | Feature 	|						
+|:-:|:-:|:-:|
+| [ACCTEST001 - Acceptance Test 1](../../50-Test-management/templates/acceptance-test.md) | eg. Verify login as new user | [Feature X]() |
+| [ACCTEST002 - Acceptance Test 2](../../50-Test-management/templates/acceptance-test.md) | eg. Verify remove of personal data | [Feature Y]() |
+| [ACCTEST003 - Acceptance Test 3](../../50-Test-management/templates/acceptance-test.md) | eg. Verify login with correct password | [Feature Z]() |
 
 ## Software architecture, placement view, database description, and integrations
 
