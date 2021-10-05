@@ -1,11 +1,11 @@
-# Requirements as a list template
+# Template of Requirements table
 
 
 This model is quite useful if the list of requirements isn't very long. The same list can be done quite conveniently with Excel, but it will soon lead to the complexity of documentation.
 When one environment is used to gather relevant information, it is easier to link them to each other and the information stays up to date better.
 
 
-# Business / Customers / Constraints
+## Business / Customers / Constraints
 
 **Customer Requirements** 
 
@@ -42,7 +42,7 @@ When one environment is used to gather relevant information, it is easier to lin
 | CONSTRAINT-REQ-S00006 | Constrain |||
 
 
-# System / software requirements
+## System / software requirements
 
 **SYSTEM REQUIREMENTS**
 
@@ -68,9 +68,7 @@ Technical requirements are typically separated from software requirements. They 
 | SYSTEM-REQ-0004 | System Requirement |||
 | SYSTEM-REQ-0005 | System Requirement |||
 
-
-
-### Functional requirements
+## Functional requirements
 
 | Requirement ID | Type | Description | Related feature |									
 |:-:|:-:|:-:|:-:|
@@ -85,9 +83,7 @@ Technical requirements are typically separated from software requirements. They 
 | FUNCTIONAL-REQ-C0009 | Functional Requirement |||
 | FUNCTIONAL-REQ-C0010 | Functional Requirement |||
 
-
-### Non-functional requirements
-
+## Non-functional requirements
 
 **Security**
 
