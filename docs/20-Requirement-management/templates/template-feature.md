@@ -22,8 +22,8 @@ vitae condimentum. Ut maximus metus nec lorem ultrices elementum.
 
 | | |
 |:-:|:-:|
-| [Use Case 1](template-usecase.md) | |
-| [Use Case 2](template-usecase.md) | |
+| [Use Case 1](../50-Test-management/templates/test-case-template.md) | |
+| [Use Case 2](../50-Test-management/templates/test-case-template.md) | |
 | [Requirement ReqID]() |  |
 | [Requirement ReqID]() |  |
 
