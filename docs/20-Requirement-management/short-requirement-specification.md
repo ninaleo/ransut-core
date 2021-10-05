@@ -1,4 +1,4 @@
-# Template - Short Requirement Specification 
+# Template - Short Key Requirement Specification 
 
 This is a very short version of requirement specification. 
 I
