@@ -2,6 +2,9 @@
 
 ![](https://openclipart.org/image/400px/svg_to_png/163063/dontlifttoomuch.png)
 
+List the risks, assess their severity and probability, and try to consider measures on how the most serious / probable risks could be prevented in advance. In addition, it would be good to have a plan of how to act if the risk materializes.
+Attach the following section here: 
+
 > Record the risks to the project in the table below and maintain them as needed. Each risk is given a unique identifier, eg RIS007, as this facilitates their handling in different situations.
 
 | RISK ID |	Description | Severity | Probability | Responsible | Action in case the risk escalates | 
