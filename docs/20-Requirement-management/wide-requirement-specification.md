@@ -21,7 +21,6 @@
 1. [Service Description](#Service Description)
 1. [Stakeholder Map](#Stakeholder Map)
 1. [Stakeholders and Profiles](#Stakeholders and Profiles)
-1. [Identified risks](#Identified risks)
 1. [Selected Customer Stories](#Selected Customer Stories)
 1. [Service-Related Customer Paths](#Service-Related Customer Paths)
 1. [Relevant Use Cases](#Relevant Use Cases)
