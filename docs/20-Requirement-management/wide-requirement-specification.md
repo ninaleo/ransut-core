@@ -249,8 +249,6 @@ system runtime requirements, which may include requirements for performance, mai
 | SYSTEM-HW-REQ-0003 | Server memory capacity> 16GB |
 | SYSTEM-HW-REQ-0004 | Intel / AMD x64 processor |
  
-> Keywords: cloud service production, service management, SLA
-
 ### Constraints and standards that affect on service design
 
 > The implementation and use of different software / services is often governed by laws and regulations. The requirements required by these are usually recorded as restrictions
@@ -303,7 +301,7 @@ You can present them in a table or refer to [one] (bases / baseline requirements
 | ReqID | Description | Affected feature? |								
 |:-:|:-:|:-:|
 | FUNC-REQ-C0001 | eg. User profile X is able to authenticate using Faceboot-account | eg.  [Feature 6 - Service Login](templates/template-feature.md) |
-| FUNC-REQ-C0002 | eg. User profile X is able to create weekly report about selling | eg. [Feature 1 - report generator](templates/template-feature.md) |
+| FUNC-REQ-C0002 | eg. User profile X is able to create weekly report about selling | eg. [Feature 1 - report generator](templates/template-feature.md)|
 
 
 ## Software / service non-functional requirements
@@ -356,9 +354,9 @@ Acceptance tests can be used to determine whether a product is also sufficiently
 
 | AcceptanceTestId | Description | 							
 |:-:|:-:|:-:|:-:|
-| [ACCTEST001 - Testitapaus 1](pohjat/pohja-hyvaksyntatesti.md) | esim. Tarkista kirjautuminen palveluun uutena käyttäjänä  |
-| [ACCTEST002 - Testitapaus 2](pohjat/pohja-testitapaus.md) | esim. Tarkista kenkilökohtaisten tietojen poisto |
-| [ACCTEST003 - Testitapaus 3](pohjat/pohja-hyvaksyntatesti.md) | esim. Tarkista Kirjautuminen toimivalla salasanalla |
+| [ACCTEST001 - Acceptance Test 1](../../50-Test-management/templates/acceptance-test.md) | esim. Tarkista kirjautuminen palveluun uutena käyttäjänä  |
+| [ACCTEST002 - Testitapaus 2](../../50-Test-management/templates/acceptance-test.md) | esim. Tarkista kenkilökohtaisten tietojen poisto |
+| [ACCTEST003 - Testitapaus 3](../../50-Test-management/templates/acceptance-test.md) | esim. Tarkista Kirjautuminen toimivalla salasanalla |
 
 ## Software architecture, placement view, database description, and integrations
 
