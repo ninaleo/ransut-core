@@ -1,92 +1,82 @@
-# Tarjouspohjasta
+# Template of offer
 
 ![](https://openclipart.org/image/400px/svg_to_png/297363/elfframe.png)
 
-Tämä on esimerkki tarjouspohjasta, jota voi käyttää oman tuotteen kohdalla. 
+This is an example of a offer template that can be used for as baseline for project.
 
-**Alkaa**
+**Start**
 
-# Tarjouksen vastaanottaja:	  xxxxx, Company Oy
+# Recipient of the offer: xxxxx, Company Ltd.
 
-Viitaten tarjouspyyntöönne x.y.zzzz tarjoamme teille seuraavaa palvelutuotetta: 
+Referring to your request for quotation x.y.zzzz, we offer you the following service product:
 
-## 1. Tarjouksen kohde ja hankintatilanne
+## 1. Object of the tender and procurement situation
 
-Totetutettvalla "XXXX" – ratkaisulla/palvelulla tarkoitetaan tässä tapauksessa kokonaisuutta, joka käsittää seuraavat toiminnallisuudet:
+The "XXXX" solution / service to be implemented in this case means an entity comprising the following functionalities:
 
-__Esimerkiksi__
+__For example__
 
-* Ominaisuus  [Feature 10]() sekä antaa palautetta [Feature 13]() 
-* oppilaitos voi lisätä kursseja [Feature 5]() , hallinnoida tilejä [Feature 12]() ja kerätä dataa yllä mainituista valinnoista [Feature 15]() + [Feature 18]()
-* opiskelija voi  tehdä kurssivalintoja oppilaitoksen asettamista kursseista [Feature 2]()
+* Feature [Feature 10] () as well as giving feedback [Feature 13] ()
+* the institution can add courses [Feature 5] (), manage accounts [Feature 12] () and collect data from the above options [Feature 15] () + [Feature 18] ()
+* students can make course choices from courses set by the institution [Feature 2] ()
 
-**Tarkempi kuvaus löytyy [vaatimusmäärittelyssä]()**
+** A more detailed description can be found in [requirements specification] () **
 
-## 2. Tavoitteet, vaatimukset ja ehdotetut ratkaisut
+## 2. Objectives, requirements and proposed solutions
 
-MockUpin mukainen konsepti (liite 1)
+MockUp concept (Appendix 1)
 
-## 3. Toimitussuunnitelma
+## 3. Delivery plan
 
-⦁	Vaiheistus ja aikataulu  (liite 2)
+⦁ Phasing and timetable (Annex 2)
 
-###  Etapit:
+### Steps:
 
-* [E1]() Projektisopimuksen allekirjoitus  	12.10.2018
-* [E2]() Päätestaussuunnitelma tehty 	7.11.2018
-* [E3]() Koekäyttö		21.11.2018
-* [E4]() Käyttöönotto	12.12.2018
+* [E1]() Signing of the project agreement on 12.10.202x
+* [E2]() Final testing plan made on 7 November 202x
+* [E3]() Trial operation 21.11.202x
+* [E4]() Commissioning on 12.12.202x
 
-* Esitestisuunnitelma  (liite 3)
-* Systeemityömenetelmänä ketterä  Scrumban-malli
+* Preliminary test plan (Appendix 3)
+* Agile Scrumban model as a system work method
 
-## 4. Hinnat ja veloitukset
+## 4. Prices and charges
 
-Kokonaishinta 81 000,00 € (sis. alv 24%), seuraavan aikataulun mukaisesti
+Total price € 81,000.00 (incl. VAT 24%), according to the following schedule
 
-* maksupiste		€	eräpäivä *
-* E1	Sopimuksen allekirjoitus	26 000,00	19.10.2018
-* E2	Päätestaussuunnitelma	15 000,00	14.11.2018
-* E3	Hyväksyntätestaus	20 000,00	28.11.2018
-* E4	Käyttöönotto	20 000,00	19.12.2018
-* Maksun eräpäivä 7 vrk etapista
+* payment point € due date *
+* E1 Signing of the Agreement 26,000.00 on October 19, 2018
+* E2 Final testing plan 15,000.00 14.11.2018
+* E3 Approval testing 20,000.00 on November 28, 2018
+* E4 Commissioning 20,000.00 on 19.12.2018
+* Payment due date 7 days from the stage
 
-### Työn jakautuminen:
+### Division of labor:
 
-* Ohjaus + hallinto  A %
-* määrittely ja suunnittelu B %
-* koodaus ja testaus C %
-* dokumentointi D %
-
-
-## 5. Toimittajan esittely
-
-* Projektiryhmä XXZZ : www.sivut.fi
-* lisätietoja antaa abc.def @gg.fi 
-
-## 6. Muuta huomioitavaa
-
-*	tarjotun ”karvalakkimallin” rajoitukset: 	
-*	suomenkielinen
-*	rajattu JAMKin ICT-opiskelijoiden kursseihin
-*	käyttäjämäärät rajattu JAMKin ICT-opiskelijoihin 
-*	yhteydenotot pyydetään ensisijaisesti Slack-viestein, toissijaisesti sähköpostitse
-*	tarjous on voimassa 12.10.2018 saakka
+* Control + administration A%
+* definition and design B%
+* coding and testing C%
+* documentation D%
 
 
-Allekirjoitukset
+## 5. Supplier Introduction
+
+* Project group XXZZ: www.sivut.fi
+* for more information, contact abc.def@gg.fi
+
+## 6. Other things to consider
+
+* Limitations of the “hair coat model” offered:
+* in Finnish
+* limited to JAMK's ICT student courses
+* user numbers limited to JAMK's ICT students
+* contacts are requested primarily by Slack messages, secondarily by email
+* the offer is valid until 12.10.2018
+
+
+Signatures
 x.x.xxxx
 
 
-XYZ 
-projektipäällikkö
-		
-
-## LIITTEET
-
-__esimerkkejä__
-
-Liite 1 	MockUp Versio käyttöliittymästä1.0
-Liite 2 	Projektisuunnitelma vaiheistus ja aikataulu
-Liite 3 	Vaatimusmääritelmä
-Liite 3     Esitestisuunnitelma
+XYZ
+project manage
