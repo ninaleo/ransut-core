@@ -1,4 +1,4 @@
-# Template - Architecture Design of Solution
+# Template - Software Architecture
 
 * Version number:
 * Classification: (Secret / Public etc ..)
