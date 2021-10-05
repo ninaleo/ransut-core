@@ -18,9 +18,9 @@
 @endmindmap
 ```
 
-| Feature ||| 
+| Feature | Functionalitys || 
 |:-:|:-:|:-:|
-| [Feature X1](templates/template-feature.md)||  
-| [Feature X2](templates/template-feature.md)|| 
-| [Feature X3](templates/template-feature.md)|| 
-| [Feature X4](templates/template-feature.md)|| 
+| [Feature X1](templates/template-feature.md)| Z1, Z2|  
+| [Feature X2](templates/template-feature.md)| Z2,Z3| 
+| [Feature X3](templates/template-feature.md)| Z10,Z11| 
+| [Feature X4](templates/template-feature.md)| Z15,Z16| 
