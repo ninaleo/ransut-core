@@ -13,13 +13,13 @@
 
 ### Severity descriptions
 
-**The severity class should be defined in a way that suits the project**
+**The severity class should be defined according  the project**
 
 | Severity class | Description | Other |
 |:----:|:----:|:----:|
-| S1 | Serious problem | Contact teacher and client immediately  | 
+| S1 | Force Major |   | 
 | S2 | | | 
-| S3 | | | 
+| S3 | Problem  | | 
 | S4 | | | 
 | S5 | No immediate affect, to be observed   |  | 
 
