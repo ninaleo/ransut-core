@@ -1,10 +1,8 @@
-# Template RISK-description
+# Template of Risk definition
+
 * RISK ID
 * Priority
 * Probability
-
-
-
 
 **Risk description**
 
