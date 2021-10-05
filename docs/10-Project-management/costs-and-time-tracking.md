@@ -1,4 +1,4 @@
-## Template of Time tracking
+## Template for Work time tracking
 
 ![](https://openclipart.org/image/400px/svg_to_png/324819/studying-boy-and-girl.png)
 
@@ -50,4 +50,4 @@ Total: 40€
 | *Total:* |- | - | 3690 € |
 
 
-Or:  [Toggl](https://www.toggl.com)
+Or: eg. [Toggl](https://www.toggl.com)
