@@ -65,7 +65,7 @@ Technical requirements are typically separated from software requirements. They 
 ## Functional requirements
 
 | Requirement ID | Description | Related feature |									
-|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|
 | FUNCTIONAL-REQ-C0001 | eg.  As a user (Customer profiles 1-4) I can login using Facebook-credentials | [Feature template](template-feature.md) |
 | FUNCTIONAL-REQ-C0002 |...||
 | FUNCTIONAL-REQ-C0003 |...||
