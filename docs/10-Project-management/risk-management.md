@@ -1,4 +1,4 @@
-# Template - Risk Management Plan
+# Template of Risk Management Plan
 
 ![](https://openclipart.org/image/400px/svg_to_png/163063/dontlifttoomuch.png)
 
