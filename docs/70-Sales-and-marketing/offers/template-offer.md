@@ -1,14 +1,10 @@
-# Template of offer
+# Template of Project Offer
 
-![](https://openclipart.org/image/400px/svg_to_png/297363/elfframe.png)
-
-This is an example of a offer template that can be used for as baseline for project.
-
-**Start**
+Example of offer 
 
 # Recipient of the offer: xxxxx, Company Ltd.
 
-Referring to your request for quotation x.y.zzzz, we offer you the following service product:
+Referring to your request for offer request x.y.zzzz, we offer you the following service product:
 
 ## 1. Object of the tender and procurement situation
 
@@ -16,17 +12,17 @@ The "XXXX" solution / service to be implemented in this case means an entity com
 
 __For example__
 
-* Feature [Feature 10] () as well as giving feedback [Feature 13] ()
-* the institution can add courses [Feature 5] (), manage accounts [Feature 12] () and collect data from the above options [Feature 15] () + [Feature 18] ()
-* students can make course choices from courses set by the institution [Feature 2] ()
+* Feature [Feature 10]() as well as giving feedback [Feature 13]()
+* the institution can add courses [Feature 5](), manage accounts [Feature 12]() and collect data from the above options [Feature 15]() + [Feature 18]()
+* students can make course choices from courses set by the institution [Feature 2]()
 
-** A more detailed description can be found in [requirements specification] () **
+** A more detailed description can be found in [requirements specification]() **
 
 ## 2. Objectives, requirements and proposed solutions
 
-MockUp concept (Appendix 1)
+Preliminary MockUp concept (Appendix 1)
 
-## 3. Delivery plan
+## 3. Delivery and release plan
 
 ⦁ Phasing and timetable (Annex 2)
 
@@ -51,7 +47,7 @@ Total price € 81,000.00 (incl. VAT 24%), according to the following schedule
 * E4 Commissioning 20,000.00 on 19.12.2018
 * Payment due date 7 days from the stage
 
-### Division of labor:
+**Division of labor:**
 
 * Control + administration A%
 * definition and design B%
