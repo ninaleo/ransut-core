@@ -1,4 +1,4 @@
-# Internal Project Library
+# Project Library
 
 ![](https://openclipart.org/image/400px/svg_to_png/185078/oldmanreadsabook.png)
 
@@ -7,7 +7,7 @@ Here is some links which could be valuabe during different phases of project wor
 ## Agile development
 
 
-* [Scrum Opas](https://www.scrumguides.org/scrum-guide.html)
+* [Scrum Guide](https://www.scrumguides.org/scrum-guide.html)
 * [Agile Essence](https://www.ivarjacobson.com/services/agile-essentials-starter-pack-agile-practices)
 * [blog.crisp.se](https://blog.crisp.se/)
 * [Agile Essence](https://www.ivarjacobson.com/services/agile-essentials-starter-pack-agile-practices)
