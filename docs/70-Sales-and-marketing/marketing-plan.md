@@ -1,6 +1,8 @@
 # Template of Marketing Plan
 
-* Find your target market and focus customer groups
+## Some ideas as a starters
+
+1. Find your target market and focus customer groups
 2. Less is more -  You don't need too many features and functionalitys, but focus on customer's primal needs and use cases
 3. Be small, but agile and use personal point of view
 4. Give something free - Get users inside your solution and part of development
