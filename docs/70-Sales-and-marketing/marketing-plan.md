@@ -1,5 +1,5 @@
-# Marketing Plan V 0.1
+# Template of Marketing Plan
 
-This is a place holder for marketing plan...
+* This is a place holder for template of marketing plan
 
 
