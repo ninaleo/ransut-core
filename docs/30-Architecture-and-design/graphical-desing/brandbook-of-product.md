@@ -1,7 +1,6 @@
 # Template of brand book for product X
 
-
-*Alustavat tiedot brandbookkia varten. Visuaalinen toteutus myöhemmin.*
+* Preliminary information for the brandbook. Visual implementation later. *
 
 * [Brand Story](#BRAND-STORY)
 * [Logo](#LOGO)
