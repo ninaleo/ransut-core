@@ -51,10 +51,15 @@ Any underlying problems and their root causes have been identified.
 
 ## REQUIREMENT
 
+**Conceived**
+
 - [ ] The initial set of stakeholders agrees that a system is to be produced.
 - [ ] The stakeholders that will use the new system are identified.
 - [ ] The stakeholders that will fund the initial work on the new system are identified.
 - [ ] There is a clear opportunity for the new system to address.
+
+**Bounded**
+
 - [ ] The stakeholders involved in developing the new system are identified.
 - [ ] The stakeholders agree on the purpose of the new system.
 - [ ] It is clear what success is for the new system.
@@ -64,6 +69,9 @@ Any underlying problems and their root causes have been identified.
 - [ ] The prioritization scheme is clear.
 - [ ] Constraints are identified and considered.
 - [ ] Assumptions are clearly stated.
+
+**Coherent**
+
 - [ ] The requirements are captured and shared with the team and the stakeholders.
 - [ ] The origin of the requirements is clear.
 - [ ] The rationale behind the requirements is clear.
@@ -73,15 +81,24 @@ Any underlying problems and their root causes have been identified.
 - [ ] The priority of the requirements is clear.
 - [ ] The impact of implementing the requirements is understood.
 - [ ] The team understands what has to be delivered and agrees to deliver it.
+
+**Acceptable**
+
 - [ ] The stakeholders accept that the requirements describe an acceptable solution.
 - [ ] The rate of change to the agreed requirements is relatively low and under control.
 - [ ] The value provided by implementing the requirements is clear.
 - [ ] The parts of the opportunity satisfied by the requirements are clear.
 - [ ] The requirements are testable.
+
+**Addressed**
+
 - [ ] Enough of the requirements are addressed for the resulting system to be acceptable to the stakeholders.
 - [ ] The stakeholders accept the requirements as accurately reflecting what the system does and does not do.
 - [ ] The set of requirement items implemented provide clear value to the stakeholders.
 - [ ] The system implementing the requirements is accepted by the stakeholders as worth making operational.
+
+**Fulfilled**
+
 - [ ] The stakeholders accept the requirements as accurately capturing what they require to fully satisfy the need for a new system.
 - [ ] There are no outstanding requirement items preventing the system from being accepted as fully satisfying the requirements.
 - [ ] The system is accepted by the stakeholders as fully satisfying the requirements.
