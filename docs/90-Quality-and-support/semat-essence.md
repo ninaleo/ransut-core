@@ -49,3 +49,78 @@ Any underlying problems and their root causes have been identified.
 - [ ] The solution has started to accrue benefits for the stakeholders.
 - [ ] The return-on-investment profile is at least as good as anticipated.
 
+## SOFTWARE system
+
+- [ ] The criteria to be used when selecting the architecture have been agreed on.
+- [ ] Hardware platforms have been identified.
+- [ ] Programming languages and technologies to be used have been selected.
+- [ ] System boundary is known.
+- [ ] Significant decisions about the organization of the system have been made.
+- [ ] Buy, build and reuse decisions have been made.
+- [ ] Key architectural characteristics have been demonstrated.
+- [ ] The system can be exercised and its performance can be measured.
+- [ ] Critical hardware configurations have been demonstrated.
+- [ ] Critical interfaces have been demonstrated.
+- [ ] The integration with other existing systems has been demonstrated.
+- [ ] The relevant stakeholders agree that the demonstrated architecture is appropriate.
+- [ ] The system can be operated by stakeholders who use it.
+- [ ] The functionality provided by the system has been tested.
+- [ ] The performance of the system is acceptable to the stakeholders.
+- [ ] Defect levels are acceptable to the stakeholders.
+- [ ] The system is fully documented.
+- [ ] Release content is known.
+- [ ] The added value provided by the system is clear.
+- [ ] Installation and other user documentation are available.
+- [ ] The stakeholder representatives accept the system as fit-for-purpose.
+- [ ] The stakeholder representatives want to make the system operational.
+- [ ] Operational support is in place.
+- [ ] The system has been made available to the stakeholders intended to use it.
+- [ ] At least one example of the system is fully operational.
+- [ ] The system is fully supported to the agreed service levels.
+- [ ] The system has been replaced or discontinued.
+- [ ] The system is no longer supported.
+- [ ] There are no “official” stakeholders who still use the system.
+- [ ] Updates to the system will no longer be produced.
+
+## work
+
+- [ ] The result required of the work being initiated is clear.
+- [ ] Any constraints on the work’s performance are clearly identified.
+- [ ] The stakeholders that will fund the work are known.
+- [ ] The initiator of the work is clearly identified.
+- [ ] The stakeholders that will accept the results are known.
+- [ ] The source of funding is clear.
+- [ ] The priority of the work is clear.
+- [ ] Commitment is made.
+- [ ] Cost and effort of the work are estimated.
+- [ ] Resource availability is understood.
+- [ ] Governance policies and procedures are clear.
+- [ ] Risk exposure is understood.
+- [ ] Acceptance criteria are defined and agreed with client.
+- [ ] The work is broken down sufficiently for productive work to start.
+- [ ] Tasks have been identified and prioritized by the team and stakeholders.
+- [ ] A credible plan is in place.
+- [ ] Funding to start the work is in place.
+- [ ] The team or at least some of the team members are ready to start the work.
+- [ ] Integration and delivery points are defined.
+- [ ] Development work has been started.
+- [ ] Work progress is monitored.
+- [ ] The work is being broken down into actionable work items with clear definitions of done.
+- [ ] Team members are accepting and progressing tasks.
+- [ ] Tasks are being completed.
+- [ ] Unplanned work is under control.
+- [ ] Risks are under control as the impact if they occur and the likelihood of them occurring have been reduced to acceptable levels.
+- [ ] Estimates are revised to reflect the team’s performance.
+- [ ] Measures are available to show progress and velocity.
+- [ ] Re-work is under control.
+- [ ] Tasks are consistently completed on time and within their estimates.
+- [ ] All outstanding tasks are administrative housekeeping or related to preparing the next piece of work.
+- [ ] Work results have been achieved.
+- [ ] The stakeholder(s) has accepted the resulting software system.
+- [ ] Lessons learned have been itemized, recorded and discussed.
+- [ ] Metrics have been made available.
+- [ ] Everything has been archived.
+- [ ] The budget has been reconciled and closed.
+- [ ] The team has been released.
+- [ ] There are no outstanding, uncompleted tasks.
+
