@@ -1,5 +1,15 @@
 # SEMAT Essence Alpha integration v0.1
 
+There is seven issues dedicated for SEMAT Alpha Cards
+
+* #17
+* #13
+* #18
+* #19
+* #15
+* #16
+* #14
+
 ## STAKEHOLDERS
 
 **Recognized**
