@@ -22,7 +22,7 @@
 Stakeholders are using the new system and providing feedback on their experiences.
 - [ ] The stakeholders confirm that the new system meets their expectations.
 
-## Opportunity
+## OPPORTUNITY
 
 - [ ] An idea for a way of improving current ways of working, increasing market share or applying a new or innovative software system has been identified.
 - [ ] At least one of the stakeholders wishes to make an investment in better understanding the opportunity and the value associated with addressing it.
