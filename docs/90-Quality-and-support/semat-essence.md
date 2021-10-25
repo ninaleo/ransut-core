@@ -41,28 +41,45 @@
 
 ## OPPORTUNITY
 
+**Identified**
+
 - [ ] An idea for a way of improving current ways of working, increasing market share or applying a new or innovative software system has been identified.
 - [ ] At least one of the stakeholders wishes to make an investment in better understanding the opportunity and the value associated with addressing it.
 - [ ] The other stakeholders who share the opportunity have been identified.
+
+**Solution Needed**
+
 - [ ] The stakeholders in the opportunity and the proposed solution have been identified.
 - [ ] The stakeholders' needs that generate the opportunity have been established.
 Any underlying problems and their root causes have been identified.
 - [ ] It has been confirmed that a software-based solution is needed.
 - [ ] At least one software-based solution has been proposed.
+
+**Value Established**
+
 - [ ] The value of addressing the opportunity has been quantified either in absolute terms or in returns or savings per time period (e.g. per annum).
 - [ ] The impact of the solution on the stakeholders is understood.
 - [ ] The value that the software system offers to the stakeholders that fund and use the software system is understood.
 - [ ] The success criteria by which the deployment of the software system is to be judged are clear.
 - [ ] The desired outcomes required of the solution are clear and quantified.
+
+**Viable**
+
 - [ ] A solution has been outlined.
 - [ ] The indications are that the solution can be developed and deployed within constraints.
 - [ ] The risks associated with the solution are acceptable and manageable.
 - [ ] The indicative (ball-park) costs of the solution are less than the anticipated value of the opportunity.
 - [ ] The reasons for the development of a software-based solution are understood by all members of the team.
 - [ ] It is clear that the pursuit of the opportunity is viable.
+
+**Addressed**
+
 - [ ] A usable system that demonstrably addresses the opportunity is available.
 - [ ] The stakeholders agree that the available solution is worth deploying.
 - [ ] The stakeholders are satisfied that the solution produced addresses the opportunity.
+
+**Benefit Accurued**
+
 - [ ] The solution has started to accrue benefits for the stakeholders.
 - [ ] The return-on-investment profile is at least as good as anticipated.
 
@@ -124,18 +141,26 @@ Any underlying problems and their root causes have been identified.
 
 ## SOFTWARE SYSTEM
 
+**Architecture Selected**
+
 - [ ] The criteria to be used when selecting the architecture have been agreed on.
 - [ ] Hardware platforms have been identified.
 - [ ] Programming languages and technologies to be used have been selected.
 - [ ] System boundary is known.
 - [ ] Significant decisions about the organization of the system have been made.
 - [ ] Buy, build and reuse decisions have been made.
+
+**Demonstrable**
+
 - [ ] Key architectural characteristics have been demonstrated.
 - [ ] The system can be exercised and its performance can be measured.
 - [ ] Critical hardware configurations have been demonstrated.
 - [ ] Critical interfaces have been demonstrated.
 - [ ] The integration with other existing systems has been demonstrated.
 - [ ] The relevant stakeholders agree that the demonstrated architecture is appropriate.
+
+**Usable**
+
 - [ ] The system can be operated by stakeholders who use it.
 - [ ] The functionality provided by the system has been tested.
 - [ ] The performance of the system is acceptable to the stakeholders.
@@ -143,13 +168,22 @@ Any underlying problems and their root causes have been identified.
 - [ ] The system is fully documented.
 - [ ] Release content is known.
 - [ ] The added value provided by the system is clear.
+
+**Ready**
+
 - [ ] Installation and other user documentation are available.
 - [ ] The stakeholder representatives accept the system as fit-for-purpose.
 - [ ] The stakeholder representatives want to make the system operational.
 - [ ] Operational support is in place.
+
+**Operational**
+
 - [ ] The system has been made available to the stakeholders intended to use it.
 - [ ] At least one example of the system is fully operational.
 - [ ] The system is fully supported to the agreed service levels.
+
+**Retired**
+
 - [ ] The system has been replaced or discontinued.
 - [ ] The system is no longer supported.
 - [ ] There are no “official” stakeholders who still use the system.
