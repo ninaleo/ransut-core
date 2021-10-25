@@ -36,7 +36,7 @@
 
 **Satisfied in Use**
 
-- [ ]Stakeholders are using the new system and providing feedback on their experiences.
+- [ ] Stakeholders are using the new system and providing feedback on their experiences.
 - [ ] The stakeholders confirm that the new system meets their expectations.
 
 ## OPPORTUNITY
