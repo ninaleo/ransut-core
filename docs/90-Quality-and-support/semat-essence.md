@@ -82,7 +82,7 @@ Any underlying problems and their root causes have been identified.
 - [ ] There are no “official” stakeholders who still use the system.
 - [ ] Updates to the system will no longer be produced.
 
-## work
+## WORK
 
 - [ ] The result required of the work being initiated is clear.
 - [ ] Any constraints on the work’s performance are clearly identified.
