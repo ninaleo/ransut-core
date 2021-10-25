@@ -22,3 +22,30 @@
 Stakeholders are using the new system and providing feedback on their experiences.
 - [ ] The stakeholders confirm that the new system meets their expectations.
 
+## Opportunity
+
+- [ ] An idea for a way of improving current ways of working, increasing market share or applying a new or innovative software system has been identified.
+- [ ] At least one of the stakeholders wishes to make an investment in better understanding the opportunity and the value associated with addressing it.
+- [ ] The other stakeholders who share the opportunity have been identified.
+- [ ] The stakeholders in the opportunity and the proposed solution have been identified.
+- [ ] The stakeholders' needs that generate the opportunity have been established.
+Any underlying problems and their root causes have been identified.
+- [ ] It has been confirmed that a software-based solution is needed.
+- [ ] At least one software-based solution has been proposed.
+- [ ] The value of addressing the opportunity has been quantified either in absolute terms or in returns or savings per time period (e.g. per annum).
+- [ ] The impact of the solution on the stakeholders is understood.
+- [ ] The value that the software system offers to the stakeholders that fund and use the software system is understood.
+- [ ] The success criteria by which the deployment of the software system is to be judged are clear.
+- [ ] The desired outcomes required of the solution are clear and quantified.
+- [ ] A solution has been outlined.
+- [ ] The indications are that the solution can be developed and deployed within constraints.
+- [ ] The risks associated with the solution are acceptable and manageable.
+- [ ] The indicative (ball-park) costs of the solution are less than the anticipated value of the opportunity.
+- [ ] The reasons for the development of a software-based solution are understood by all members of the team.
+- [ ] It is clear that the pursuit of the opportunity is viable.
+- [ ] A usable system that demonstrably addresses the opportunity is available.
+- [ ] The stakeholders agree that the available solution is worth deploying.
+- [ ] The stakeholders are satisfied that the solution produced addresses the opportunity.
+- [ ] The solution has started to accrue benefits for the stakeholders.
+- [ ] The return-on-investment profile is at least as good as anticipated.
+
