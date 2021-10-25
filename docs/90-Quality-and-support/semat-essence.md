@@ -2,13 +2,13 @@
 
 There is seven issues dedicated for SEMAT Alpha Cards
 
-* #17
-* #13
-* #18
-* #19
-* #15
-* #16
-* #14
+* Opportunity - #15
+* Stakeholders - #16
+* Requirements - #17
+* Software System - #18
+* Work - #19
+* Team - #13
+* Way of Working - #14
 
 ## STAKEHOLDERS
 
