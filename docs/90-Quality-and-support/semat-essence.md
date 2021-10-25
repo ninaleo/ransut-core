@@ -1,6 +1,6 @@
 # SEMAT Model integration
 
-  [] All the different groups of stakeholders that are, or will be, affected by the development and operation of the software system are identified.
+-  [] All the different groups of stakeholders that are, or will be, affected by the development and operation of the software system are identified.
 * There is agreement on the stakeholder groups to be represented. At a minimum, the stakeholders groups that fund, use, support, and maintain the system have been considered.
 * The responsibilities of the stakeholder representatives have been defined.
 * The stakeholder representatives have agreed to take on their responsibilities.
