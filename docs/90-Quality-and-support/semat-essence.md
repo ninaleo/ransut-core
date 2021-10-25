@@ -187,6 +187,6 @@ Any underlying problems and their root causes have been identified.
 - [ ] Effective progress is being achieved with minimal avoidable backtracking and reworking.
 - [ ] Wasted work, and the potential for wasted work are continuously eliminated.
 - [ ] The team responsibilities have been handed over or fulfilled.
-The team members are available for assignment to other teams.
-No further effort is being put in by the team to complete the mission.
+- [ ] The team members are available for assignment to other teams.
+- [ ] No further effort is being put in by the team to complete the mission.
 
