@@ -126,31 +126,67 @@ Any underlying problems and their root causes have been identified.
 
 ## WAY OF WORKING
 
-Principles and constraints are committed to by the team.
-Principles and constraints are agreed to by the stakeholders.
-The tool needs of the work and its stakeholders are agreed.
-A recommendation for the approach to be taken is available.
-The context within which the team will operate is understood.
-The constraints that apply to the selection, acquisition and use of practices and tools are known.
-The key practices and tools that form the foundation of the way-of-working are selected.
-Enough practices for work to start are agreed to by the team.
-All non-negotiable practices and tools have been identified.
-The gaps that exist between the practices and tools that are needed and the practices and tools that are available have been analyzed and understood.
-The capability gaps that exist between what is needed to execute the desired way of working and the capability levels of the team have been analyzed and understood.
-The selected practices and tools have been integrated to form a usable way-of-working.
-The practices and tools are being used to do real work.
-The use of the practices and tools selected are regularly inspected.
-The practices and tools are being adapted to the team’s context.
-The use of the practices and tools is supported by the team.
-Procedures are in place to handle feedback on the team’s way of working.
-The practices and tools support team communication and collaboration.
-The practices and tools are being used by the whole team to perform their work.
-All team members have access to the practices and tools required to do their work.
-The whole team is involved in the inspection and adaptation of the way-of-working.
-Team members are making progress as planned by using and adapting the way-of-working to suit their current context.
-The team naturally applies the practices without thinking about them
- The tools naturally support the way that the team works.
-The team continually tunes their use of the practices and tools.
-The team's way of working is no longer being used.
-Lessons learned are shared for future use.
+- [ ] Principles and constraints are committed to by the team.
+- [ ] Principles and constraints are agreed to by the stakeholders.
+- [ ] The tool needs of the work and its stakeholders are agreed.
+- [ ] A recommendation for the approach to be taken is available.
+- [ ] The context within which the team will operate is understood.
+- [ ] The constraints that apply to the selection, acquisition and use of practices and tools are known.
+- [ ] The key practices and tools that form the foundation of the way-of-working are selected.
+- [ ] Enough practices for work to start are agreed to by the team.
+- [ ] All non-negotiable practices and tools have been identified.
+- [ ] The gaps that exist between the practices and tools that are needed and the practices and tools that are available have been analyzed and understood.
+- [ ] The capability gaps that exist between what is needed to execute the desired way of working and the capability levels of the team have been analyzed and understood.
+- [ ] The selected practices and tools have been integrated to form a usable way-of-working.
+- [ ] The practices and tools are being used to do real work.
+- [ ] The use of the practices and tools selected are regularly inspected.
+- [ ] The practices and tools are being adapted to the team’s context.
+- [ ] The use of the practices and tools is supported by the team.
+- [ ] Procedures are in place to handle feedback on the team’s way of working.
+- [ ] The practices and tools support team communication and collaboration.
+- [ ] The practices and tools are being used by the whole team to perform their work.
+- [ ] All team members have access to the practices and tools required to do their work.
+- [ ] The whole team is involved in the inspection and adaptation of the way-of-working.
+- [ ] Team members are making progress as planned by using and adapting the way-of-working to suit their current context.
+- [ ] The team naturally applies the practices without thinking about them
+- [ ] The tools naturally support the way that the team works.
+- [ ] The team continually tunes their use of the practices and tools.
+- [ ] The team's way of working is no longer being used.
+- [ ] Lessons learned are shared for future use.
+
+## TEAM
+
+- [ ] The team mission has been defined in terms of the opportunities and outcomes.
+- [ ] Constraints on the team's operation are known.
+- [ ] Mechanisms to grow the team are in place.
+- [ ] The composition of the team is defined.
+- [ ] Any constraints on where and how the work is carried out are defined.
+- [ ] The team's responsibilities are outlined.
+- [ ] The level of team commitment is clear.
+- [ ] Required competencies are identified.
+- [ ] The team size is determined.
+- [ ] Governance rules are defined.
+- [ ] Leadership model is selected.
+- [ ] Individual responsibilities are understood.
+- [ ] Enough team members have been recruited to enable the work to progress.
+- [ ] Every team member understands how the team is organized and what their individual role is.
+- [ ] All team members understand how to perform their work.
+- [ ] The team members have met (perhaps virtually) and are beginning to get to know each other
+- [ ] The team members understand their responsibilities and how they align with their competencies.
+- [ ] Team members are accepting work.
+- [ ] Any external collaborators (organizations, teams and individuals) are identified.
+- [ ] Team communication mechanisms have been defined.
+- [ ] Each team member commits to working on the team as defined.
+- [ ] The team is working as one cohesive unit.
+- [ ] Communication within the team is open and honest.
+- [ ] The team is focused on achieving the team mission.
+- [ ] The team members know each other.
+- [ ] The team consistently meets its commitments.
+- [ ] The team continuously adapts to the changing context.
+- [ ] The team identifies and addresses problems without outside help.
+- [ ] Effective progress is being achieved with minimal avoidable backtracking and reworking.
+- [ ] Wasted work, and the potential for wasted work are continuously eliminated.
+- [ ] The team responsibilities have been handed over or fulfilled.
+The team members are available for assignment to other teams.
+No further effort is being put in by the team to complete the mission.
 
