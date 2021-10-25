@@ -49,6 +49,45 @@ Any underlying problems and their root causes have been identified.
 - [ ] The solution has started to accrue benefits for the stakeholders.
 - [ ] The return-on-investment profile is at least as good as anticipated.
 
+## REQUIREMENT
+
+- [ ] The initial set of stakeholders agrees that a system is to be produced.
+- [ ] The stakeholders that will use the new system are identified.
+- [ ] The stakeholders that will fund the initial work on the new system are identified.
+- [ ] There is a clear opportunity for the new system to address.
+- [ ] The stakeholders involved in developing the new system are identified.
+- [ ] The stakeholders agree on the purpose of the new system.
+- [ ] It is clear what success is for the new system.
+- [ ] The stakeholders have a shared understanding of the extent of the proposed solution.
+- [ ] The way the requirements will be described is agreed upon.
+- [ ] The mechanisms for managing the requirements are in place.
+- [ ] The prioritization scheme is clear.
+- [ ] Constraints are identified and considered.
+- [ ] Assumptions are clearly stated.
+- [ ] The requirements are captured and shared with the team and the stakeholders.
+- [ ] The origin of the requirements is clear.
+- [ ] The rationale behind the requirements is clear.
+- [ ] Conflicting requirements are identified and attended to.
+- [ ] The requirements communicate the essential characteristics of the system to be delivered.
+- [ ] The most important usage scenarios for the system can be explained.
+- [ ] The priority of the requirements is clear.
+- [ ] The impact of implementing the requirements is understood.
+- [ ] The team understands what has to be delivered and agrees to deliver it.
+- [ ] The stakeholders accept that the requirements describe an acceptable solution.
+- [ ] The rate of change to the agreed requirements is relatively low and under control.
+- [ ] The value provided by implementing the requirements is clear.
+- [ ] The parts of the opportunity satisfied by the requirements are clear.
+- [ ] The requirements are testable.
+- [ ] Enough of the requirements are addressed for the resulting system to be acceptable to the stakeholders.
+- [ ] The stakeholders accept the requirements as accurately reflecting what the system does and does not do.
+- [ ] The set of requirement items implemented provide clear value to the stakeholders.
+- [ ] The system implementing the requirements is accepted by the stakeholders as worth making operational.
+- [ ] The stakeholders accept the requirements as accurately capturing what they require to fully satisfy the need for a new system.
+- [ ] There are no outstanding requirement items preventing the system from being accepted as fully satisfying the requirements.
+- [ ] The system is accepted by the stakeholders as fully satisfying the requirements.
+
+
+
 ## SOFTWARE SYSTEM
 
 - [ ] The criteria to be used when selecting the architecture have been agreed on.
