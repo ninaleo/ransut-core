@@ -1,13 +1,13 @@
 # SEMAT Model integration
 
 - [ ] All the different groups of stakeholders that are, or will be, affected by the development and operation of the software system are identified.
-* There is agreement on the stakeholder groups to be represented. At a minimum, the stakeholders groups that fund, use, support, and maintain the system have been considered.
-* The responsibilities of the stakeholder representatives have been defined.
-* The stakeholder representatives have agreed to take on their responsibilities.
-* The stakeholder representatives are authorized to carry out their responsibilities.
-* The collaboration approach among the stakeholder representatives has been agreed.
-* The stakeholder representatives support and respect the team's way of working.
-* The stakeholder representatives assist the team in accordance with their responsibilities.
+- [ ] There is agreement on the stakeholder groups to be represented. At a minimum, the stakeholders groups that fund, use, support, and maintain the system have been considered.
+- [ ] The responsibilities of the stakeholder representatives have been defined.
+- [ ] The stakeholder representatives have agreed to take on their responsibilities.
+- [ ] The stakeholder representatives are authorized to carry out their responsibilities.
+- [ ] The collaboration approach among the stakeholder representatives has been agreed.
+- [ ] The stakeholder representatives support and respect the team's way of working.
+- [ ] The stakeholder representatives assist the team in accordance with their responsibilities.
 * The stakeholder representatives provide feedback and take part in decision making in a timely manner.
 * The stakeholder representatives promptly communicate changes that are relevant for their stakeholder groups.
 * The stakeholder representatives have agreed upon their minimal expectations for the next deployment of the new system.
