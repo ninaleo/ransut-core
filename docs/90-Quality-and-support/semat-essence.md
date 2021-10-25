@@ -1,4 +1,4 @@
-# SEMAT Model integration
+# SEMAT Essence Alpha integration v0.1
 
 ## STAKEHOLDERS
 
