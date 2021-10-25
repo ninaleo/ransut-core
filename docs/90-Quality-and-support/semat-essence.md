@@ -191,6 +191,8 @@ Any underlying problems and their root causes have been identified.
 
 ## WORK
 
+**Initiated**
+
 - [ ] The result required of the work being initiated is clear.
 - [ ] Any constraints on the work’s performance are clearly identified.
 - [ ] The stakeholders that will fund the work are known.
@@ -198,6 +200,9 @@ Any underlying problems and their root causes have been identified.
 - [ ] The stakeholders that will accept the results are known.
 - [ ] The source of funding is clear.
 - [ ] The priority of the work is clear.
+
+**Prepared**
+
 - [ ] Commitment is made.
 - [ ] Cost and effort of the work are estimated.
 - [ ] Resource availability is understood.
@@ -210,10 +215,16 @@ Any underlying problems and their root causes have been identified.
 - [ ] Funding to start the work is in place.
 - [ ] The team or at least some of the team members are ready to start the work.
 - [ ] Integration and delivery points are defined.
+
+**Started**
+
 - [ ] Development work has been started.
 - [ ] Work progress is monitored.
 - [ ] The work is being broken down into actionable work items with clear definitions of done.
 - [ ] Team members are accepting and progressing tasks.
+
+**Under Control**
+
 - [ ] Tasks are being completed.
 - [ ] Unplanned work is under control.
 - [ ] Risks are under control as the impact if they occur and the likelihood of them occurring have been reduced to acceptable levels.
@@ -221,9 +232,15 @@ Any underlying problems and their root causes have been identified.
 - [ ] Measures are available to show progress and velocity.
 - [ ] Re-work is under control.
 - [ ] Tasks are consistently completed on time and within their estimates.
+
+**Concluded**
+
 - [ ] All outstanding tasks are administrative housekeeping or related to preparing the next piece of work.
 - [ ] Work results have been achieved.
 - [ ] The stakeholder(s) has accepted the resulting software system.
+
+**Closed**
+
 - [ ] Lessons learned have been itemized, recorded and discussed.
 - [ ] Metrics have been made available.
 - [ ] Everything has been archived.
@@ -233,35 +250,54 @@ Any underlying problems and their root causes have been identified.
 
 ## WAY OF WORKING
 
+**Principles Established**
+
 - [ ] Principles and constraints are committed to by the team.
 - [ ] Principles and constraints are agreed to by the stakeholders.
 - [ ] The tool needs of the work and its stakeholders are agreed.
 - [ ] A recommendation for the approach to be taken is available.
 - [ ] The context within which the team will operate is understood.
 - [ ] The constraints that apply to the selection, acquisition and use of practices and tools are known.
+
+**Foundation Established**
+
 - [ ] The key practices and tools that form the foundation of the way-of-working are selected.
 - [ ] Enough practices for work to start are agreed to by the team.
 - [ ] All non-negotiable practices and tools have been identified.
 - [ ] The gaps that exist between the practices and tools that are needed and the practices and tools that are available have been analyzed and understood.
 - [ ] The capability gaps that exist between what is needed to execute the desired way of working and the capability levels of the team have been analyzed and understood.
 - [ ] The selected practices and tools have been integrated to form a usable way-of-working.
+
+**In Use**
+
 - [ ] The practices and tools are being used to do real work.
 - [ ] The use of the practices and tools selected are regularly inspected.
 - [ ] The practices and tools are being adapted to the team’s context.
 - [ ] The use of the practices and tools is supported by the team.
 - [ ] Procedures are in place to handle feedback on the team’s way of working.
 - [ ] The practices and tools support team communication and collaboration.
+
+**In Place**
+
 - [ ] The practices and tools are being used by the whole team to perform their work.
 - [ ] All team members have access to the practices and tools required to do their work.
 - [ ] The whole team is involved in the inspection and adaptation of the way-of-working.
+
+**Working well**
+
 - [ ] Team members are making progress as planned by using and adapting the way-of-working to suit their current context.
 - [ ] The team naturally applies the practices without thinking about them
 - [ ] The tools naturally support the way that the team works.
 - [ ] The team continually tunes their use of the practices and tools.
+
+**Retired**
+
 - [ ] The team's way of working is no longer being used.
 - [ ] Lessons learned are shared for future use.
 
 ## TEAM
+
+**Seeded**
 
 - [ ] The team mission has been defined in terms of the opportunities and outcomes.
 - [ ] Constraints on the team's operation are known.
@@ -274,6 +310,9 @@ Any underlying problems and their root causes have been identified.
 - [ ] The team size is determined.
 - [ ] Governance rules are defined.
 - [ ] Leadership model is selected.
+
+**Formed**
+
 - [ ] Individual responsibilities are understood.
 - [ ] Enough team members have been recruited to enable the work to progress.
 - [ ] Every team member understands how the team is organized and what their individual role is.
@@ -283,16 +322,25 @@ Any underlying problems and their root causes have been identified.
 - [ ] Team members are accepting work.
 - [ ] Any external collaborators (organizations, teams and individuals) are identified.
 - [ ] Team communication mechanisms have been defined.
+
+**Collaborating**
+
 - [ ] Each team member commits to working on the team as defined.
 - [ ] The team is working as one cohesive unit.
 - [ ] Communication within the team is open and honest.
 - [ ] The team is focused on achieving the team mission.
 - [ ] The team members know each other.
+
+**Performing**
+
 - [ ] The team consistently meets its commitments.
 - [ ] The team continuously adapts to the changing context.
 - [ ] The team identifies and addresses problems without outside help.
 - [ ] Effective progress is being achieved with minimal avoidable backtracking and reworking.
 - [ ] Wasted work, and the potential for wasted work are continuously eliminated.
+
+**Adjourned**
+
 - [ ] The team responsibilities have been handed over or fulfilled.
 - [ ] The team members are available for assignment to other teams.
 - [ ] No further effort is being put in by the team to complete the mission.
