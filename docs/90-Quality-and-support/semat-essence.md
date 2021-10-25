@@ -124,3 +124,33 @@ Any underlying problems and their root causes have been identified.
 - [ ] The team has been released.
 - [ ] There are no outstanding, uncompleted tasks.
 
+## WAY OF WORKING
+
+Principles and constraints are committed to by the team.
+Principles and constraints are agreed to by the stakeholders.
+The tool needs of the work and its stakeholders are agreed.
+A recommendation for the approach to be taken is available.
+The context within which the team will operate is understood.
+The constraints that apply to the selection, acquisition and use of practices and tools are known.
+The key practices and tools that form the foundation of the way-of-working are selected.
+Enough practices for work to start are agreed to by the team.
+All non-negotiable practices and tools have been identified.
+The gaps that exist between the practices and tools that are needed and the practices and tools that are available have been analyzed and understood.
+The capability gaps that exist between what is needed to execute the desired way of working and the capability levels of the team have been analyzed and understood.
+The selected practices and tools have been integrated to form a usable way-of-working.
+The practices and tools are being used to do real work.
+The use of the practices and tools selected are regularly inspected.
+The practices and tools are being adapted to the team’s context.
+The use of the practices and tools is supported by the team.
+Procedures are in place to handle feedback on the team’s way of working.
+The practices and tools support team communication and collaboration.
+The practices and tools are being used by the whole team to perform their work.
+All team members have access to the practices and tools required to do their work.
+The whole team is involved in the inspection and adaptation of the way-of-working.
+Team members are making progress as planned by using and adapting the way-of-working to suit their current context.
+The team naturally applies the practices without thinking about them
+ The tools naturally support the way that the team works.
+The team continually tunes their use of the practices and tools.
+The team's way of working is no longer being used.
+Lessons learned are shared for future use.
+
