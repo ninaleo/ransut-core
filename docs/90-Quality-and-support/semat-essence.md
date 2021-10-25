@@ -49,7 +49,7 @@ Any underlying problems and their root causes have been identified.
 - [ ] The solution has started to accrue benefits for the stakeholders.
 - [ ] The return-on-investment profile is at least as good as anticipated.
 
-## REQUIREMENT
+## REQUIREMENTS
 
 **Conceived**
 
