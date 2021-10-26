@@ -1,4 +1,7 @@
-# SEMAT Essence Alpha integration v0.1
+# SEMAT Essence Kernel Alpha Card integration v0.1
+
+* [Essence Kernel](https://www.ivarjacobson.com/sites/default/files/field_iji_file/article/essence_kernel_-_detail_cards_checklist.pdf)
+* [](http://semat.org/alpha-state-cards-with-abbrev-checklists)
 
 There is seven issues dedicated for SEMAT Alpha Cards
 
