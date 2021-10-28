@@ -13,7 +13,7 @@
 
 
 
-## Status of sprint XX Date 30.9.202X**
+## Status of sprint XX Date x.y.202z**
 
 **What has been achieved**
 
@@ -32,7 +32,7 @@
 * [Link to next milestone / sprint]()
 
 
-## Status of sprint XY Date 1.9.202X**
+## Status of sprint XY Date x.y-1.202z**
 
 **What has been achieved**
 
