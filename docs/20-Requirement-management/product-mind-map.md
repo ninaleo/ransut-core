@@ -1,5 +1,8 @@
 # Template of product mind map
 
+This is a mind map view over product/service. The primary features (Xn) are described in the picture down below. All feature have Functionalitys which are named as (Zn). 
+The map should be updated according the product under a development. 
+
 ```plantuml
 @startmindmap
 + Product
@@ -17,6 +20,8 @@
 --- Functionality Z16
 @endmindmap
 ```
+
+All the product features can be also listed as below. This list  
 
 | Feature | Functionalitys | Functional Requirement / User Story| 
 |:-:|:-:|:-:|
