@@ -5,7 +5,7 @@
 * Project: [INSERT PROJECT NAME HERE]
 * Autohor: [Your Name/Team]
 * Version: Document version number X.Y
-* Template version: 1.9 - 28.9.2021 (NarsuMan)
+* Template version: 2.0 - 1.11.2021 (NarsuMan)
 
 ## Some guidelines for writer of requirement specification
 
