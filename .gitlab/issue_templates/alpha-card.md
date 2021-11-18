@@ -1,3 +1,0 @@
-# Alpha Essence Card - Template
-
-
