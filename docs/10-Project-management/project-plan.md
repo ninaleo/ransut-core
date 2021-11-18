@@ -108,16 +108,18 @@ End dd.mm.yy - dd.mm.yy (X h)
 
 “The closure phase includes measures related to the completion of the project. During the phase, the project team prepares a final project report and a presentation to the executive team. During the phase, the result of the project will be handed over to the client, the last meeting of the executive team will be held in week X and the project organization will be dissolved. The final phase will result in a final report on the project. ”
 
-```mermaid
-gantt
-    title Project steps
-    dateFormat  DD-MM-YYYY
-    section GANTT
-    Step 1      :active,k1,15-01-2019, 20-01-2019
-    Step 2      :active,k2,after k1, 20-02-2019
-    Step 3      :active,k3,after k2, 20-03-2019
-    Step 4      :active,k4,after k3, 20-04-2019
 
+**GANTT PlantUML-muodossa**
+
+```plantuml
+Project starts the 2021-5-15
+[Projekti aktiivinen] Starts 2021-5-15 and ends 2021-8-15 
+[Määrittely vaihe] Starts 2021-5-15 and ends 2021-5-20
+[Suunittelu] Starts 2021-5-20 and ends 2021-6-5
+[Toteutus+suunnittelu] Starts 2021-6-5 and ends 2021-7-15
+[Testaus+korjaus] Starts 2021-7-16 and ends 2021-8-1
+[Hyväksyntätestaus] Starts 2021-8-1 and ends 2021-8-10
+[Luovutus] Starts 2021-8-10 and ends 2021-8-15
 ```
 
 ## 4 Quality management
