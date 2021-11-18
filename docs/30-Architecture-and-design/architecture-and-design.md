@@ -62,6 +62,45 @@ We will also comment on the confidentiality of the project material, if it is ap
 
 This is the most important point in the design document. The chapter contains things that everyone who implements the system needs to know and understand. The chapter describes (with reasons) e.g. design principles, technology choices, and software architecture in general. It is not necessarily advisable to subdivide into the chapters presented here, but to consider what is the most reasonable order of presentation in each case. For example, sections 3.1 and 3.2 should sometimes be combined.
 
+*Example of Deployment Diagram*
+
+```plantuml
+@startuml
+actor User
+node "Client_Host" as WIN10{
+node "Browser"{
+}
+}
+
+cloud "Network" as net{
+queue "https"{
+}
+}
+
+node "Uno Server / Ubuntu 20.04" as AWS{ 
+node "Frontend_Container"{ 
+}
+node "Backend_Container" {
+}
+database "MariaDB_Container" {
+}
+node "Logger_Container" {
+}
+
+}
+User -- Browser
+Browser -- https
+https -- Frontend_Container
+Frontend_Container -- Backend_Container
+Backend_Container -- MariaDB_Container
+Logger_Container -- Frontend_Container
+Logger_Container -- Backend_Container
+Logger_Container -- MariaDB_Container
+
+@enduml
+```
+
+
 ## 3.1 Design principles
 
 This section presents the “basic philosophy” of the implementation of the system to be developed. Philosophy defines the smallest and simplest possible set of basic concepts and rules by which design decisions are made now and in the future. The basic concepts and rules may be so closely related to some of the key modules in the architectural description in section 3.2 that it is worth moving their description here (or even combining sections 3.1 and 3.2). The technology choices made can also be part of the “rules”. Philosophy can be thought of as involving the implementation of a system in things that remain (probably) unchanged throughout its life cycle. The philosophy facilitates communication between implementers and harmonizes design solutions in different parts of the system. Examples:
@@ -80,6 +119,10 @@ For example, class and event sequence diagrams can be used to clarify the descri
 This section details the division of software into subsystems, programs, processes, modules, packages, and / or classes. In addition, modular communication is described using, for example, event sequence diagrams.
 The modules are distinguished from "finished parts", i.e. parts caught elsewhere as such or muo-Kate. These aspects can be described, for example, in the module diagram by various means of emphasis.
 Naming conventions, references to style guides, etc. related to the implementation of all modules can also be presented here.
+
+
+
+
 
 ## 3.3 Database Architecture
 
@@ -104,6 +147,42 @@ The database solution and files describe:
   * maintenance considerations
   * backup aspects
   * security considerations.
+
+**Example**
+
+```plantuml
+' hide the spot
+hide circle
+
+' avoid problems with angled crows feet
+skinparam linetype ortho
+
+entity "Entity01" as e01 {
+  *e1_id : number <<generated>>
+  --
+  *name : text
+  description : text
+}
+
+entity "Entity02" as e02 {
+  *e2_id : number <<generated>>
+  --
+  *e1_id : number <<FK>>
+  other_details : text
+}
+
+entity "Entity03" as e03 {
+  *e3_id : number <<generated>>
+  --
+  *e1_id : number <<FK>>
+  other_details : text
+}
+
+e01 ||..o{ e02
+e01 |o..o{ e03
+```
+
+
 
 ## 3.4 Error and Exception Procedures
 
