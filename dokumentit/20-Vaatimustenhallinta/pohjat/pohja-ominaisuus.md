@@ -1,11 +1,12 @@
-# Ominaisuus - toiminnallisuus (Anna kuvaava nimi)
+# Ominaisuus pohja  
 
 | | |
 |:-:|:-:|
-| Ominaisuus ID |esim. FT0101 |
-| Osajärjestelmä, mihin ominaisuus liittyy | esim laskutus |
-| Ominaisuuden vastuuhenkilö | esim. Mauri Myyrä |
-| Status | esim. hyväksytty |
+| Dokumentti | Ominaisuuskuvaus |
+| Ominaisuus | | 
+| Määrittelijä | | 
+| Versio | |
+| Päivämäärä |
 
 ### Kuvaus
 
