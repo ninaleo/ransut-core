@@ -1,5 +1,15 @@
 # Template of Project Plan
  
+
+|  |  |
+|:-:|:-:|
+| Document | Project Plan |
+| Author: | |
+| Version: | |
+| Date: | |
+
+
+
 1.	Assignment background and basis, goals and tasks, delimitations and connections, result
 2.	Project organization: introduction, responsibilities and decision-making process
 3.	Project phases and financial objectives: task sets, breakdown and phasing, milestones, schedules and resource plans, budget
