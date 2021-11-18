@@ -1,13 +1,13 @@
-# Open Project Framework 
+# Open Project Framework (SUOMI)
 
-This version on OPF is used for all kind of project setups at JAMK 
+Tämän suomenkielinen OPF versio
 
-For example course:
+Tätä runko käytetään opetuksessa projektin pohjana. Esimerkkinä
 
-* [https://ttc2070.pages.labranet.jamk.fi/en/](https://ttc2070.pages.labranet.jamk.fi/en/)
+* [https://ttc2070.pages.labranet.jamk.fi/fi/](https://ttc2070.pages.labranet.jamk.fi/fi/)
 
-Front Page for OPF teamplate web pages: 
+Etusivu löytyy:
 
 * [https://jamkit.pages.labranet.jamk.fi/project-templates/fi-opf-2021-core-template-v2/](https://jamkit.pages.labranet.jamk.fi/project-templates/fi-opf-2021-core-template-v2/)
 
-* Check OPF Release note [here](release-note.md)
+* Tarkista julkaisuhistoria [tästä](release-note.md)
