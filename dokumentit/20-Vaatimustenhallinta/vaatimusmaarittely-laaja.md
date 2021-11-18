@@ -1,5 +1,12 @@
 # Vaatimusmäärittely
 
+|  |  |
+|:-:|:-:|
+| Dokumentti | Vaatimusmäärittely |
+| Kuvaus | |
+| Laatija: | |
+| Versio: | |
+| Päivämäärä: | |
 
 ![](https://openclipart.org/image/400px/svg_to_png/3051/ryanlerch-flight-simulator-plan.png)
 
