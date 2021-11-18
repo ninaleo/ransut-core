@@ -57,6 +57,7 @@ Here is some links which could be valuabe during different phases of project wor
 * [EOP](https://github.com/adamshostack/eop)
 * [EOP Game](https://eopgame.azurewebsites.net/)
 * [F-Secure, Elevation of Privacy](https://github.com/F-Secure/elevation-of-privacy/tree/master/print-ready)
+* [](https://github.com/adamshostack/eop)
 
 
 ## Communities and interest groups
