@@ -26,8 +26,8 @@ Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vul
 
 | Feature | headline 2 | headline 3 |
 |:-:|:-:|:-:|
-| [Feature1](/documentation/20-Requirement-management/templates/template-feature.md) | | 
-| [Feature2](/documentation/20-Requirement-management/templates/template-feature.md) | | 
+| [Feature1](../20-Requirement-management/templates/template-feature.md) | | 
+| [Feature2](../20-Requirement-management/templates/template-feature.md) | | 
 | | | 
 | | | 
 
@@ -35,9 +35,9 @@ Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vul
 
 | Feature | headline 2 | headline 3 |
 |:-:|:-:|:-:|
-| [Feature100]() | | 
-| [Feature21]() | | 
-| [Feature90]() | | 
+| [Feature100](../20-Requirement-management/templates/template-feature.md) | | 
+| [Feature21](../20-Requirement-management/templates/template-feature.md) | | 
+| [Feature90](../20-Requirement-management/templates/template-feature.md) | | 
 | | | 
 
 
@@ -94,33 +94,29 @@ In at nibh eu dui ultrices ultrices. Vestibulum mi mi, ultricies sed maximus ege
 
 ## Test tools and software used
 
-### Performance Testing
-
-
-Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
-
-* [Attach any relevant test cases here](https://gitlab.labranet.jamk.fi/TTOS0800-TTOS0900/esimerkki-projekti-v1/blob/master/projektidokumentit/Exmple_of_test_case_pool.pdf)
 
 ### Functional Testing
 
 Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
 
-* [Attach any relevant test cases here](https://gitlab.labranet.jamk.fi/TTOS0800-TTOS0900/esimerkki-projekti-v1/blob/master/projektidokumentit/Exmple_of_test_case_pool.pdf)
+
+### Performance Testing
+
+Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
+
 
 ### Security testing
 
 Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
 
-* [Attach any relevant test cases here](https://gitlab.labranet.jamk.fi/TTOS0800-TTOS0900/esimerkki-projekti-v1/blob/master/projektidokumentit/Exmple_of_test_case_pool.pdf)
-
-### Stress testing 
+### Availability testing 
 
 Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
 
 
 ## Attachements
 
-* [Testcases](https://gitlab.labranet.jamk.fi/open-project-framework/opf-project-template-v1/raw/master/dokumentaatio/05-testaushallinta/Exmple_of_test_case_pool.pdf?inline=false)
+* [Extrenal Test Plan Document]()
 
 
 
