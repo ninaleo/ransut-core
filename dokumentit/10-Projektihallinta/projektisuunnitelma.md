@@ -69,19 +69,15 @@
 
 ## 1.6 Projektiin liittyvät haasteet
 
-![](../assets/work-to-do.png)
 
 > Tarkastellaan projektin tavoitteita ja laaditaan tueksi SWOT-kuvaus, jossa tarkastellaan koko projektia ja sen toimintaympäristöä. 
 
-![](../assets/SWOT-example.jpg)
 
 # 2. Projektiorganisaatio
 
 
 
 ## 2.1 Organisaation esittely
-
-![](../assets/work-to-do.png)
 
 > Kuka kuuluu projektiorganisaatioon? 
 > Onko projektiryhmän/tiimin lisäksi muita toimijoita?
@@ -94,7 +90,7 @@
 |:-:|:-:|:-:|
 | | | |
 | | | |
-| | | |
+
 
 >projektiryhmän ohjaajat sekä toimeksiantajan edustajat. Organisaatiokaavio on esitetty liitteessä tai alla olevassa kuvauksessa.
 
@@ -161,7 +157,6 @@ __luovutus, käyttöönotto, ylläpito, projektin aineiston taltiointi, arkistoi
 
 ## 3.1 Osittaminen ja vaiheistus
 
-![](../assets/work-to-do.png)
 
 >Projektin etenemistä voidaan kuvata ns. GANTT-kaaviolla. Sen avulla voidaan esittää eri vaiheiden eteneminen aikajanalla, samalla voidaan osoittaa eri tehtäviin liittyvät kriittiset pisteet.
 
@@ -181,9 +176,6 @@ Project starts the 2021-5-15
 > Projektin osittamisella tarkoitetaan projektin jakamista selkeisiin osakokonaisuuksiin ja niitä vastaaviin toteutuskokonaisuuksiin (osaprojekteihin, vaiheisiin, tehtäväkokonaisuuksiin ja tehtäviin). > > Tutkimus- ja kehitysprojektien etenemiselle on tyypillistä lopputuloksen muodostuminen ja tavoitteen tarkentuminen vaihe vaiheelta. Projektin osituksen tulee perustua tähän lähtökohtaan (koskee myös > > IT-instituutin opiskelijaprojekteja). 
 
 >Projektin elinkaari voidaan jakaa erityyppisiin vaiheisiin. Kussakin vaiheessa tuotetaan määrätyt tuotteet, kuten selvitys, suunnitelmat, prototyyppi, laite jne. Kunkin vaiheen loppuun sovitaan arviointi, hyväksyntä tai katselmointi. Ohjelmistoprojekti jakautuu tyypillisesti seitsemään vaiheeseen: perustaminen, esitutkimus, analyysi, suunnittelu, toteutus, testaus ja lopettaminen. Joskus esitutkimus on oma projektinsa, joskus analyysi sisällytetään suunnitteluun jne. Testaus ei välttämättä ole oma vaiheensa, vaan se sisältyy kaikkiin vaiheisiin. Usein edetään inkrementaalisesti eli ensin suunnitellaan ja toteutetaan yksi asia kokonaisuudessaan ennen kuin edetään seuraavaan asiakokonaisuuteen. Ei ole yhtä ainutta ”oikeaa” vaihejakoa, mutta jos toimeksiantajalla on oma menetelmänsä ja siihen liittyvät mallipohjat, niin opiskelijaprojekteissa käytetään ensisijaisesti niitä. Yhä useammin käytetään ketterää sovelluskehitystä eli ohjelmisto tehdään 1-4 viikon sprinteissä.
-
-
-![](../assets/work-to-do.png)
 
 >Mitä tavoitteita  / vaiheita projekti sisältää? (Lyhyt kuvaus kustakin)> <Mitä tuloksia kustakin vaiheesta syntyy? >
 
@@ -210,9 +202,7 @@ __Käynnistys p.k.vvvv – p.k.vvvv (X h)__
 
 **Etappi 1**
 
-
 **Etappi 2**
-
 
 **Etappi X** 
 
@@ -224,10 +214,7 @@ __Lopetus p.k.vvvv – p.k.vvvv (X h)__
 
 Kustannusarvion esittäminen taulukon avulla: 
 
-![](../assets/work-to-do.png)
-
 <iframe width="402" height="346" frameborder="0" scrolling="no" src="https://jamkstudent.sharepoint.com/sites/OpenProjectPlatform/_layouts/15/Doc.aspx?sourcedoc={ed6e7d24-77a1-4b0a-abf5-e26a48846387}&action=embedview&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
-
 
 # 4. Laadunvarmistus
 
@@ -272,8 +259,6 @@ Liitä seuraava osio tähän mukaan: [Riskienhallintataulukko]()
 
 ## 4.6 Projektisuunnitelmaa täydentävät suunnitelmat
 
-![](../assets/work-to-do.png)
-
 >Tässä kohdassa mainitaan, mitä täydentäviä suunnitelmia on käytettävissä tai aiotaan projektin kuluessa laatia (esim. viestintä-, riskienhallinta-, testaus- ja käyttöönottosuunnitelma).
 
 * [Projektisopimus](..//10-Projektinhallinta/projektisuunnitelma.md)
@@ -305,8 +290,6 @@ Oikeaoppiseen projektisuunnitelmaan kuuluu myös projektin keskeyttämiskriteeri
 
 ## 6.1 Lopputuotteen luovutus, käyttöönotto
 
-![](../assets/work-to-do.png)
-
 >Projektin lopputuote tulee myös dokumentoida järkevällä tasolla. Osana lopputuotetta saattaa olla asiakkaalle tarjottavaa käyttöönottokoulutusta ja mahdollisesti asennus- tai käyttöönotto­palvelua. Mikäli koulutuksen rooli projektin kannalta on huomattava (esimerkiksi ohjelmiston käyttäjät eivät ole olleet mukana projektissa ja eivät tiedä miten järjestelmä toimii) tulee projektisuunnitelmaan liittää suunnitelma asiakkaalle tarjottavasta koulutuksesta. Lisäksi jos on tarpeen, tulee projektisuunnitelmaan liittää myös asennussuunnitelma ja käyttöönottosuunnitelma.
 
 ## 6.2 Projektin tuottaman aineiston taltiointi, arkistointi ja säilytysaika
@@ -316,8 +299,6 @@ Oikeaoppiseen projektisuunnitelmaan kuuluu myös projektin keskeyttämiskriteeri
 >Tyypillisesti eri suunnitelmat ja loppuraportti sopivin osin ovat tällaisia dokumentteja. 
 
 ## 6.3 Projektin virallinen päättäminen
-
-![](../assets/work-to-do.png)
 
 >On tärkeää määritellä milloin, mihin tai miten projekti päättyy. Projektin päätös voi olla tietty päivämäärä, tietty tuotteen valmiusaste, tietty työtuntimäärä, tietty kulutettu rahasumma, kun asiakas ottaa tuotteen käyttöön, takuuaika on umpeutunut tai kun asiakas hyväksyy tuotteen.
 
