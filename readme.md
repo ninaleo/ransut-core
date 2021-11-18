@@ -8,6 +8,6 @@ For example course:
 
 Front Page for OPF teamplate web pages: 
 
-* [http://jamkit.pages.labranet.jamk.fi/project-templates/opf-2021-ttc2070-core-template-v2](http://jamkit.pages.labranet.jamk.fi/project-templates/opf-2021-ttc2070-core-template-v2)
+* [https://jamkit.pages.labranet.jamk.fi/project-templates/fi-opf-2021-core-template-v2/](https://jamkit.pages.labranet.jamk.fi/project-templates/fi-opf-2021-core-template-v2/)
 
 * Check OPF Release note [here](release-note.md)
