@@ -1,24 +1,6 @@
-*This is a live document that should be updated regularly...*
-Version 0.1 21.11.2018 By NarsuMan
-
-
-
-# Master Test Plan
+# Template of Master Test Plan
 
 ![](https://www.youtube.com/upload_thumbnail?v=yKpIpE_bSGQ&t=3)(https://youtu.be/yKpIpE_bSGQ)
-
-![](https://youtu.be/yKpIpE_bSGQ)
-
-
-*Version of the document* 
-
-*Owner*
-
-# Examples (in finnish):
-
-* [Contriboard MTP](https://github.com/N4SJAMK/teamboard-meta/wiki/master-test-plan)
-* https://www.tampere3.fi/filebank/4380-Liite_9_kaytettavyystestauksen_testaussuunnitelma.pdf
-* http://tryqa.com/what-are-master-test-plans-level-test-plan-examples-when-to-use/
 
 
 # General information 
