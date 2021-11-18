@@ -1,5 +1,11 @@
 # Release note 
 
+
+## OPF- Releases 0.9.7 - 18.11.2021
+
+* SEMAT Alpha Cards reorganized as issues 1-7
+
+
 ## OPF- Releases 0.9.6 - 18.11.2021
 
 * Translation progressing... 91 %
