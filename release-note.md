@@ -1,5 +1,11 @@
 # Release note 
 
+## OPF- Releases 0.9.6 - 18.11.2021
+
+* Translation progressing... 91 %
+* Design & architecture specifications done
+
+
 ## OPF- Releases 0.9.5 - 5.10.2021
 
 * Translation progressing 90 % 
