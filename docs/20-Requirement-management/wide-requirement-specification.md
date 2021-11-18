@@ -1,11 +1,15 @@
 # Template of Requirement Specification 
 
-## Requirement Specification for Service/Solution X
+|  |  |
+|:-:|:-:|
+| Document | Requirement Specification |
+| Specification name | |
+| Author: | |
+| Version: | |
+| Date: | |
 
-* Project: [INSERT PROJECT NAME HERE]
-* Autohor: [Your Name/Team]
-* Version: Document version number X.Y
-* Template version: 2.0 - 1.11.2021 (NarsuMan)
+
+## Some guidelines for writer of requirement specification
 
 ## Some guidelines for writer of requirement specification
 
