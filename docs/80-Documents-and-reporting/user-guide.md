@@ -3,9 +3,6 @@
 ![](https://openclipart.org/image/300px/svg_to_png/172690/zoom-in-thin-finger-thump-black.png&disposition=attachment)
 
 
-
-[![User manual](https://i.ytimg.com/vi/gFMDzhPG8qI/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAmpP9VuuC8cSiOgCesWmjnKO8aqQ)](https://www.youtube.com/watch?v=gFMDzhPG8qI&index=9&list=PLOyRnRI1_Cl47Q6tiFByWSVBialcz_bxp)
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris placerat ultrices mi, a imperdiet lacus sollicitudin ut. Pellentesque eget urna in nisi accumsan vulputate id vitae leo. Proin non ex felis. Etiam mi orci, sodales sit amet congue ac, ultrices eget urna. Cras vel hendrerit ex. Pellentesque maximus semper viverra. Vestibulum nec pharetra mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra purus at egestas ornare. Ut aliquam ligula id mauris consectetur, sed tempor erat gravida. Vivamus eget nibh metus. Curabitur at velit lacus. Pellentesque nec arcu nibh. Nunc tristique ut lectus non finibus. Nullam ultricies dui enim, imperdiet pretium massa faucibus sed. Sed et mi ante.
 
 
