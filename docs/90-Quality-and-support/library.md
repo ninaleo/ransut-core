@@ -4,8 +4,12 @@
 
 Here is some links which could be valuabe during different phases of project work
 
-## Agile development
+## Introduction to project working and practices
 
+* [Project working and practices TTC2070](http://ttc2070.pages.labranet.jamk.fi/en)
+
+
+## Agile development
 
 * [Scrum Guide](https://www.scrumguides.org/scrum-guide.html)
 * [Agile Essence](https://www.ivarjacobson.com/services/agile-essentials-starter-pack-agile-practices)
@@ -19,17 +23,6 @@ Here is some links which could be valuabe during different phases of project wor
 * [Team Charter Canvas](https://designabetterbusiness.com/2017/08/24/team-charter-canvas/)
 * [Design Criteria Canvas](https://skillsofthemodernage.com.au/downloads/playshop/dabb-design-criteria-canvas.pdf)
 
-
-## Introduction to project working and practices
-
-* [Projektitoiminnan opintojakso TTC2070](http://ttc2070.pages.labranet.jamk.fi)
-
-## Methods and workshop tools
-
-* [Master Facilitator](http://masterfacilitator.com/canvas-collection/)
-* [Team Charter Canvas](https://designabetterbusiness.com/2017/08/24/team-charter-canvas/)
-* [Design Criteria Canvas](https://skillsofthemodernage.com.au/downloads/playshop/dabb-design-criteria-canvas.pdf)
-
 ## Quality Assurance
 
 * [https://conference.eurostarsoftwaretesting.com/](https://conference.eurostarsoftwaretesting.com/)
@@ -37,14 +30,12 @@ Here is some links which could be valuabe during different phases of project wor
 
 ## Availability
 
-
 * [Näkövammaisten liitto](https://www.nkl.fi/fi)
 * [UserWay](https://userway.org/)
 
 ## Usability
 
 * TBD
-
 
 ## Performance
 
@@ -68,10 +59,9 @@ Here is some links which could be valuabe during different phases of project wor
 * [PMBOK](https://www.pmi.org/pmbok-guide-standards)
 * [SWEBOK](https://www.computer.org/web/swebok/v3)
 * [ISTQB](https://www.istqb.org/)
-* TBD
 
 
 ## Misc 
 * [https://pascal.computer.org/sev_display/index.action]()
-* [ISTQB-syllabus]()
+
 
