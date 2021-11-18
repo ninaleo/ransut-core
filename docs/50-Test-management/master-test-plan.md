@@ -47,7 +47,7 @@ Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vul
 
 ### Resources and responsibilities)
 
-* [Link to resource plan]()
+l* [Direct Link to resource plan](../10-Project-management/project-plan.md)
 
 | Resource | Responsibility | Notions | Company |
 |:-:|:-:|:-:|:-:|
