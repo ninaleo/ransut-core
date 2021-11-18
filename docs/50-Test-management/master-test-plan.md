@@ -1,9 +1,7 @@
 # Template of Master Test Plan
 
-![](https://www.youtube.com/upload_thumbnail?v=yKpIpE_bSGQ&t=3)(https://youtu.be/yKpIpE_bSGQ)
 
-
-# General information 
+## General information 
 
 Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
 
