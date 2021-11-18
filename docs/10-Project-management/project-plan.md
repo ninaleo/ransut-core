@@ -8,7 +8,7 @@
 | Version: | |
 | Date: | |
 
-
+![](https://openclipart.org/image/400px/svg_to_png/198173/mono-package-games-strategy.png)
 
 1.	Assignment background and basis, goals and tasks, delimitations and connections, result
 2.	Project organization: introduction, responsibilities and decision-making process
