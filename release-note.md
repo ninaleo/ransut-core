@@ -1,8 +1,9 @@
-# Release note 
+# Julkaisu päiväkirja 
 
 
-## OPF- Releases 0.9.7 - 18.11.2021
+## FI OPF- Releases 0.9.8 - 18.11.2021
 
+* Suomenkielinen versio erotettu omaksi repositorioksi
 * SEMAT Alpha Cards reorganized as issues 1-7
 
 
