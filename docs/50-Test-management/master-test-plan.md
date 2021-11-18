@@ -1,10 +1,10 @@
 # Template of Master Test Plan
 
-| - | - | - |
-|:-:|:-:|:-:|
-| Author: | | |
-| Version: | | |
-| Date: | | |
+| - | - |
+|:-:|:-:|
+| Author: | |
+| Version: | |
+| Date: | |
 
 
 
