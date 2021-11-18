@@ -15,8 +15,6 @@
 
 ## 1.1 Tausta ja lähtökohdat
 
-![](../assets/work-to-do.png)
-
 >Kuvataan toimeksiantoa lyhyesti johdannon muodossa.  Tarpeen mukaan ohjataan lukijaa tutustumaan tarkemmin vaatimusmäärittelydokumenttiin.
 
 >Projektin tavoitteena on pyrkiä yhdistämään .... on tarve kehittää” < kohdetta>… ”Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän <TTOS2070> ‑opintojakson puitteissa. ”
@@ -69,9 +67,7 @@
 
 ## 1.6 Projektiin liittyvät haasteet
 
-
 > Tarkastellaan projektin tavoitteita ja laaditaan tueksi SWOT-kuvaus, jossa tarkastellaan koko projektia ja sen toimintaympäristöä. 
-
 
 # 2. Projektiorganisaatio
 
@@ -79,12 +75,9 @@
 
 ## 2.1 Organisaation esittely
 
-> Kuka kuuluu projektiorganisaatioon? 
-> Onko projektiryhmän/tiimin lisäksi muita toimijoita?
+> Kuka kuuluu projektiorganisaatioon? Onko projektiryhmän/tiimin lisäksi muita toimijoita? 
 
->Projektin organisaation kuuluu organisaation X henkilökuntaa ja harjoittelijoita
-
-**Projektiryhmä jäsenet**
+**Projektiryhmän jäsenet**
 
 | Nimi | Organisaatio | Vastuu |
 |:-:|:-:|:-:|
