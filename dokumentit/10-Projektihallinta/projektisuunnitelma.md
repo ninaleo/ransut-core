@@ -1,5 +1,12 @@
 # Projektisuunnitelma
 
+|  |  |
+|:-:|:-:|
+| Dokumentti | Projektisuunnitelma |
+| Laatija: | |
+| Versio: | |
+| Päivämäärä: | |
+
 ![](https://openclipart.org/image/400px/svg_to_png/198173/mono-package-games-strategy.png)
 
 
