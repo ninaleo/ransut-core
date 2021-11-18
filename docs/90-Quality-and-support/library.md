@@ -44,7 +44,6 @@ Here is some links which could be valuabe during different phases of project wor
 ## Security
 
 * Try [Security Cards-method](http://securitycards.cs.washington.edu/cards.html)
-* [Turvallisen sovelluskehityksen käsikirja](https://www.suomidigi.fi/ohjeet-ja-tuki/tyokalut/turvallisen-sovelluskehityksen-kasikirja)
 * [EOP](https://github.com/adamshostack/eop)
 * [EOP Game](https://eopgame.azurewebsites.net/)
 * [F-Secure, Elevation of Privacy](https://github.com/F-Secure/elevation-of-privacy/tree/master/print-ready)
