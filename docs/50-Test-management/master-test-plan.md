@@ -1,7 +1,9 @@
 # Template of Master Test Plan
 
+
 |  |  |
 |:-:|:-:|
+| Document | Master Test Plan |
 | Author: | |
 | Version: | |
 | Date: | |
