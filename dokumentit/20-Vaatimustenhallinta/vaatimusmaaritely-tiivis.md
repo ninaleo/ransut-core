@@ -213,6 +213,11 @@ Eri ominaisuuksien toteuttamien täytyy priorisoida, koska niiden tekemiseen tar
 | [GDPR-tunnuksen-poisto-ominaisuus](pohjat/pohja-ominaisuus.md) | P3 | Ei niin kiire, mutta tarvitaan ehdottomasti |
 | ... | ... | ... |
 
+>Pelkästään ominaisuuksien listaamisen sijaan on tärkeää suunnitella  ennakkoon missä vaiheessa eri ominaisuuksia voidaan toteuttaa ja tuotteen toimeksiantaja saa parhaan hyödyn tuotekehityksestä. Tätä suunnittelutyötä kutsutaan lyhyesti julkaisun suunnitteluksi (Release Planning).
+Julkaisusuunnitelmassa voidaan ryhmitellä eri ominaisuudet ja luoda niistä "konfiguraatioita".   
+
+* [Julkaisuhallinta - esimerkki](..//40-Julkaisusuunnittelu/julkaisusuunnitelma.md)
+
 
 ## Käyttöliittymänäkymä/mockup 
 
@@ -336,7 +341,15 @@ Kannattaa tutkia esimerkiksi https://www.sfs.fi/aihealueet/terveydenhuolto/laaki
 
 ## Palvelun yleinen ohjelmistoarkkitehtuuri
 
+
+
 >Vaatimusmäärittelyn osaksi voidaan sisällyttää tuotteeseen liittyen teknisisä kuvauksia, joiden avulla voidaan tarkentaa ohjelmistopalvelun vaatimuksia. Tärkeä dokumentti on tekninen arkkitehtuuri, joka voidaan lyhyessä muodossa liittää osaksi vaatimusmäärittelyä, mutta yleensä se on itsenäinen dokumentaation osa. Arkkitehtuuri kuvauksen voi laatia hyödyntäen apuan UML-kuvauskieleen sijoittelunäkymää (Deployment Diagram), jonka avulla voidaan kuvata miten palvelun eri osat toimivat käytännössä, eli missä sijaitsevat eri osat palvelusta ja miten ne kytkeytyvät toisiinsa.
+
+Ohjelmistoarkkitehtuurin kuvaus on itsessään laaja osa-alue ja käytännössä se edellyttää laajempaa dokumentaatiota.
+
+* [Ohjelmistoarkkitehtuurin kuvaus](../30-Suunnittelu-ja-toteutus/arkkitehtuuri-ja-tekninentoteutus.md)
+
+
 
 ```plantuml
 @startuml
