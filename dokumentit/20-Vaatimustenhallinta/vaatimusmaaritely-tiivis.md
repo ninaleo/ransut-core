@@ -137,37 +137,38 @@ Step10 --> Step11
 Step11 --> Step12
 ```
 
-
-## Toiminnalliset ominaisuudet
+## Palvelun ominaisuudet (Features)
 
 ![](../assets/work-to-do.png)
 
->Mietitään seuraavaksi millaisia ovat palvelun tärkeimmät toiminnalliset ominaisuudet? Kirjataan ne tässä vaiheessa ranskalaisilla viivoilla ja luodaan niiden pohjalta hahmotelma MindMap-kuvauksen muodossa. Kuvan avulla palvelun eri osa-alueet saattava hahmottua selkeämmin. 
->Mieti esimerkisi tilannetta, että sinulta kysytään mitä kehittämällasi palvelulla voi käytännössä tehdä? Saat aikaa vastata 15 sekuntia. Mitä vastaat? Mitä toimintoja nostatat esiin? Miksi tuotteesi on parempi kuin muut?
+>Mietitään seuraavaksi miltä ovat palvelun tärkeimmät toiminnalliset ominaisuudet? Kirjataan ne tässä vaiheessa ranskalaisilla viivoilla ja luodaan niiden pohjalta hahmotelma MindMap-kuvauksen muodossa. Kuvan avulla palvelun eri osa-alueet saattava hahmottua selkeämmin. 
+>* Mieti esimerkisi tilannetta, että sinulta kysytään mitä kehittämällasi palvelulla voi käytännössä tehdä? Saat aikaa vastata 15 sekuntia. Mitä vastaat? 
+>* Mitä toimintoja nostatat esiin? 
+> * Miksi tuotteesi on parempi kuin muut?
 
-*Toiminnalliset ominaisuudet ja niiden toiminnot*
+**Toiminnalliset ominaisuudet ja niiden toiminnot**
 
-**Toiminnallinen ominaisuus (Feature) A  -Sisäinen sähköposti**
+*Toiminnallinen ominaisuus (Feature) A  -Sisäinen sähköposti*
 
     - (Toiminto) Asiakas_A voi lähettää postia ulkopuoliselle henkilölle
     - (Toiminto) Asiakas_A voi saada postia palvelun sisäiseltä käyttäjältä
 
-**Toiminnallinen Ominaisuus (Feature) B - laskutus**
+*Toiminnallinen Ominaisuus (Feature) B - laskutus*
 
     - (Toiminto) Ylläpito_henkilö voi poistaa laskun Asiakaalta
     - (Toiminto) Ylläpito_henkilö voi luoda uuden laskun Asiakkaalle 
 
-**Toiminnallinen Ominaisuus (Feature) C - pelitilanteen talletus**
+*Toiminnallinen Ominaisuus (Feature) C - pelitilanteen talletus*
 
     - (Toiminto) Pelaaja_B kykenee tallettamaan tilanteen
     - (Toiminto) Asiakas_B voi liittää Asiakkaan_A ryhmään uuden henkilön
 
-**Toiminnallinen Ominaisuus (Feature) D - suorasoitto**
+*Toiminnallinen Ominaisuus (Feature) D - suorasoitto*
 
     - (Toiminto) Asiakas_A voi soittaa tuntemalleen kaverille
 
 
-**Kuvataan tunnistettja toiminnallisuuksia MindMapin-muodossa ja samalla linkitetään niihin liittyävät toimintoja**
+**Esitetään ominaisuudet MindMap-muodossa ja samalla linkitetään niihin liittyvät toiminnot**
 
 ![](../assets/work-to-do.png)
 
@@ -191,7 +192,7 @@ Step11 --> Step12
 
 # Toiminnalliset vaatimukset (Functional Requirements)
 
->Voidaan yleisesti sanoa, että kaikki palveluun liittyvät toiminnot (Functions) voidaan kirjata aluksi toiminnallisina vaatimuksina (Functional Requirement), mutta osa niistä osoittautuu käytännössä palvleun ominaisuuksiksi (Feature) ja tästä syystä niitä käsitellään myöhemmin erikseen.  
+>Voidaan yleisesti sanoa, että palveluun liittyvät toiminnot (Functions) voidaan kirjata alkuvaiheessa toiminnallisina vaatimuksina (Functional Requirement), mutta osa niistä osoittautuu käytännössä palvelun kannalta laajemmiksi toiminnoiksi, eli ominaisuuksiksi (Features) ja tästä syystä niitä käsitellään hieman eritavoin kehityksen aikana. 
 >Kun määritellään toiminnallisia vaatimuksia voidaan ne kirjataan yksinkertaisen taulukon muotoon. Seuraavat ehdot kannattaa ottaa huomioon:
 
 * *Vaatimus on oltava mitattavissa*
@@ -199,13 +200,14 @@ Step11 --> Step12
 * *Vaatimukseen ei tule sisällyttää useampia vaatimuksia*
 * *Vaatimus kannattaa perustella, jos tarpeen*
 * *Vaatimuksen ei saa ylikirjoittaa aiemmin määriteltyä vaatimusta*
+* *Edustaako esitetty vaatimus itseasiassa ominaisuutta?*
 
 | ID | Toiminnallisen vaatimuksen kuvaus | Toiminnallinen ominaisuus	|				
 |:-:|:-:|:-:|
 | [FUNCREQ-C0001]() | Palveluun kirjautumisessa voidaan käyttää Facebook-tunnuksia | [Kirjautumis-ominaisuus](pohjat/pohja-ominaisuus.md) |
 | [FUNCREQ-C0002]() | Käyttöliittymää voidaan ohjata tarvittaessa äänikomennoilla | [Ääniohjaustuki-ominaisuus](pohjat/pohja-ominaisuus.md) |
 | [FUNCREQ-C0003]() | Käyttäjä voi vaihtaa kirjautumisikkunassa kielen | Kirjatumis-ominaisuus |
-| [FUNCREQ-C0004]() | Käyttäjä voi tarvittaessa tulostaa kuitin ostoksistaan | Ostoraportit-ominaisuus |
+| [FUNCREQ-C0004]() | Käyttäjä voi tarvittaessa tulostaa kuitin ostoksistaan | Osto-raportointi-ominaisuus |
 | [FUNCREQ-C0005]() | Pääkäyttäjä voi tarkastella asiakkaan viimeisiä ostotapahtumia lokin kautta | Lokihallinta-ominaisuus |
 | [FUNCREQ-C0006]() | Käyttäjä voi kirjautua käyttäen Google-tunnuksia | Kirjautumisikkuna-ominaisuus |
 | [FUNCREQ-C0007]() | Käyttäjä voi lopettaa palvelun käytön poistaen samalla kaiken henkilötiedon palvelusta | GDPR-tunnuksen-poisto-ominaisuus | 
@@ -213,11 +215,10 @@ Step11 --> Step12
 | [FUNCREQ-C0009]() | Käyttäjä voi vaihtaa tarvittaessa salasanan kirjautumisivun kautta | Kirjautumis-ominaisuus |
 
 
-
 ## Ominaisuudet (Feature) ja priorisointi (Priority)
 
-Kilpailevat palvelut saattavat tarjoita asiakkaalle samankaltaisia ominaisuuksia, mutta niiden toteutukissa voi olla ratkaisevia eroja. Yksittäiset toiminnot saattavat vaihdella palvelusta riippuen. Tärkeimmät ominaisuudet löytyvät kaikista palveluista, mutta selkeitä eroja tulee esiin esimerkiksi palvelun käytettävyydessä, suorituskyvyssää tai tietoturvassa.
-Eri ominaisuudet ovat tärkeitä palvelukehityksen kannalta, koska niiden avulla erotutaan kilpailijoista ja niiden avulla voidaan saavuttaa uusia asiakkuuksi. Ominaisuuksien rinnalla voidaan käyttää käsitettä piirre, joka vastaa myös englannin kielistä "Feature"-käsitettä. Ominaisuuksien/piirteiden/featureiden toteuttamien vaatii aikaa ja rahaa tuotekehityksell ja tästä johtuen kehitystyötä täytyy tarvittaessa priorisoida. Alla olevassa taulukossa on kerätty muutamia kuvitteellisen palvelun ominaisuuksia ja priorisoitu ne .
+>Käsitteen "ominaisuus" rinnalla käytetään suomenkielessä kirjallisuudessa myös sanaa "piirre" nämä kumpikin vastaavat englannin kielistä "Feature"-käsitettä. Kilpailevat palvelut (vrt. Netflix, HBO, Disney etc) saattavat tarjota asiakkaalle samankaltaisia ominaisuuksia, mutta niiden toteutuksissa voi olla ratkaisevia eroja. Yksittäiset toiminnot saattavat vaihdella palvelusta riippuen. Tärkeimmät ominaisuudet löytyvät kaikista palveluista, mutta selkeitä eroja tulee esiin esimerkiksi palvelun käytettävyydessä, suorituskyvyssää tai tietoturvassa.
+Eri ominaisuudet ovat tärkeitä palvelukehityksen kannalta, koska niiden avulla erotutaan kilpailijoista ja niiden avulla voidaan saavuttaa uusia asiakkuuksia. Eri ominaisuuksien/piirteiden/featureiden toteuttamien vaatii kehitystiimin aikaa, rahaa ja resursseja Tästä johtuen kehitystyötä joudutaan käytännön pakosta priorisoimaan. Alla olevassa taulukossa on kerätty muutamia kuvitteellisen palvelun ominaisuuksia ja priorisoitu ne perustelujen kanssa.
 >Priorisoinnilla voidaan esittää mitkä ominaisuuksiasta ovat tärkeitä asiakkaan tai toteutuksen näkökulmasta. 
 
 | Ominaisuus | Prioriteetti | Kuvaus |
@@ -238,11 +239,10 @@ Julkaisua suunniteltaessa voidaan ryhmitellä eri ominaisuudet ja luoda niistä 
 
 ![](../assets/work-to-do.png)
 
->Eri toiminnallisuuksien selkeyttämiseksi voidaan tarvittaessa hyödyntää myös visualisointia. Eri kuvausten avulla voidaan hahmottaa miltä tuotteen tulisi näyttää ja mitä asioita esimerkiksi  käyttöliittymän toteutuksessa on otettava huomioon? Tähän tehtävään voidaan soveltaa nykyaikaisia MockUp/prototyyppi-työkaluja. Näiden työvälineiden avulla voidaan luoda helposti käyttöliittymäprototyyppi, jota voidaan koekäyttää kohderyhmillä. 
->Perinteisesti käyttöliittymä hahmotelmat ja kuvaukset on tehty piirtämällä käyttöliittymästä staattisia kuvia ja näitä on käytetty suunnittelun apuna. Tämä onnistuu myös soveltamalla PlantUML-kuvauksia. 
+>Eri toiminnallisuuksien selkeyttämiseksi voidaan hyödyntää myös piirroksia ja eri tavoin tuotettuja kuvauksia. Näiden avulla pyritään hahmottamaan miltä tuotteen tulisi näyttää ja mitä asioita esimerkiksi käyttöliittymätoteutuksessa olisi otettava huomioon? Tähän tarkoitukseen voidaan soveltaa kätevästi verkkopalveluina toimivia MockUp/prototyyppi-piirtotyökaluja. Näiden välineiden avulla voidaan luoda helposti käyttöliittymästä prototyyppi, jota voidaan koekäyttää eri kohderyhmillä. 
+>Ominaisuuksien toteutuksiin liittyvät prototyyppi kuvaukset kannataa liittää ominaisuuksien määrittelydokumentteihin, jolloin ne löytyvät asian mukaisesta paikasta. Esimerkkinä [Feature-ominaisuus](pohjat/pohja-ominaisuus.md)
+>Perinteisesti käyttöliittymä hahmotelmat ja kuvaukset on tehty piirtämällä käyttöliittymästä staattisia kuvia ja näitä on käytetty suunnittelun apuna. Tämä onnistuu myös soveltamalla apuna PlantUML-kuvauksia. (ks. alla)
 >Kannattaa kuitenkin tutustua ja kokeilla arjolla olevia prototyyppi/MockUp-työkaluja tähän tarkoitukseen. 
-
->Käyttöliittymän prototyyppi kuvaukset kannataa liittää ominaisuuksien määrittelyä tarkentaviin dokumentteihin. [Feature-ominaisuus-esimerkki](pohjat/pohja-ominaisuus.md)
 
  * [Linkki prototyyppiin / MockUp-toteutukseen]()
 
@@ -281,11 +281,31 @@ salt
 | US-001 | Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #8 |
 | US-002 | Käyttäjänä haluan, että voin poistaa historian tekemistäni ostoista viimeisen kuukauden ajalta, koska en halua muistella menneitä | Linkki  #8 |
 
+
+## Tietojärjestelmiä yleisesti koskevista vaatimukset
+
+>Laajoja tietojärjestelmiä/ohjemistoja suunniteltaessa vaatimuksille voidaan osoittaa eri tasoja ja näkökulmia, jotka täytyy ottaa huomioon tuotekehityksen aikana. 
+
+Tietojärjestelmien suunnittelussa voi käyttää analogiaa jäävuoresta, josta näkyy osa, mutta iso osa on piilossa veden alla. Sama pätee tietojärjestelmän vaatimuksiin. Korkealta tasolta katsottuna näyttä kokonaisuus selkeältä, mutta yksityiskohtiin mentäessä työ hankaloituu. 
+
+![](https://openclipart.org/image/400px/29153)
+
+Vaatimusten eri muodot/tasot voivat olla esimerkiksi seuraavia:
+
+* Asiakasvaatimukset (Customer Needs)
+* Liiketoimintavaatimukset (Business Requirements/Needs)
+* Järjestelmävaatimukset (System Requirements)
+* Ali-järjestelmän vaatimukset (Sub-System Requirement)
+* Komponenttitason vaatimukset (Component Requirements)
+
+Opintojakson kannalta keskitytään tunnistamaan toiminnalliset vaatimukset, ei-toiminnalliset vaatimukset (suorituskyky, tietoturva ja saavutettavuus)
+
+
 ## Palveluun liittyvät tekniset vaatimukset
 
 >Kokonaisvaltaisia ohjelmisto palveluja määriteltäessa on tärkeä tunnistaa ja määritellä palvelun tuottamiseksi tarvittavat teknologiat, laitteistot tai muut tärkeät osa-järjestelmät. Esimerkkinä tarvittava palvelinympäristö, tietokanta, varmistusjärjestelmät ja muut palvelun toiminnan kannalta oleelliset tarpeet.
 
-*Esimerkkinä on kirjattu muutamia laitteistovaatimuksia Hardware Requirements*
+*Esimerkkinä on kirjattu muutamia laitteistovaatimuksia (Hardware Requirements)*
 
 | ID | Kuvaus | 
 |:-:|:-:|
