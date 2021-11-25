@@ -128,35 +128,36 @@ Step11 --> Step12
 
 ![](../assets/work-to-do.png)
 
->Mietitään seuraavaksi millaisia ovat palvelun tärkeimmät toiminnalliset omiaisuudet? Kirjataan ne ranskalaisilla viivoilla ja luodaan samalla MindMap-kuvaus, josta eri palvelun osa-alueet selviävät. 
-Mieti tilannetta, että sinulta kysytään mitä palvelulla voi käytännösä tehdä? Saat aikaa vastata 15 sekuntia. Mitä vastaat? Mitä toimintoja nostatat esiin? 
+>Mietitään seuraavaksi millaisia ovat palvelun tärkeimmät toiminnalliset ominaisuudet? Kirjataan ne tässä vaiheessa ranskalaisilla viivoilla ja luodaan niiden pohjalta hahmotelma MindMap-kuvauksen muodossa. Kuvan avulla palvelun eri osa-alueet saattava hahmottua selkeämmin. 
+Mieti esimerkisi tilannetta, että sinulta kysytään mitä kehittämällasi palvelulla voi käytännössä tehdä? Saat aikaa vastata 15 sekuntia. Mitä vastaat? Mitä toimintoja nostatat esiin? Miksi tuotteesi on parempi kuin muut?
 
-- Palvelun oleelliset toiminnot (Esimerkkejä) 
+*Toiminnalliset ominaisuudet ja niiden toiminnot*
+
 
 **Ominaisuus (Feature) A  -Sisäinen sähköposti**
 
     - Asiakas_A voi lähettää postia toiselle henkilölle
     - Asiakas_A voi saada tietoa aiemmin tehdyistä valinnoista
 
-**Ominaisuus (Feature) B - Laskutus**
+**Ominaisuus (Feature) B - laskutus**
 
     - Ylläpito-henkilö voi poistaa laskun Asiakaalta
     - Ylläpito-henkilö voi luoda uuden laskun Asiakkaalle 
 
     - Asiakas_B voi jakaa kuvan
 
-**Ominaisuus (Feature) C - Pelitilanteen talletus**
+**Ominaisuus (Feature) C - pelitilanteen talletus**
 
     - Pelaaja_B kykenee tallettamaan tilanteen
     - Asiakas_B voi liittää Asiakkaan_A ryhmään uuden henkilön
 
-**Ominaisuus (Feature) D - Suorasoitto**
+**Ominaisuus (Feature) D - suorasoitto**
 
     - Asiakas_A voi soittaa tuntemalleen kaverille
 
 
 
-**Kirjataan eri toiminnalliset ominaisuudet MindMap-muotoon ja samalla tarkennetaan niihin liittyviä tarkempia toimintoja**
+**Kirjataan nämä toiminnallisuudet MindMap-muotoon ja samalla tarkennetaan niihin liittyviä tarkempia toimintoja**
  
 
 ```plantuml
