@@ -149,39 +149,52 @@ salt
 
 ![](../assets/work-to-do.png)
 
-> Hahmotellaan tähän kohtaan ominaisuudet pelkästään ranskalaisilla viivoilla ja MindMap-kuvauksen avulla. Eli mitä tavoitellulla ratkaisulla/palvelulla mielestäsi on mahdollista tehdä? 
-> Mieti tilannetta, kun joku kysyy sinulta mitä palvelulla voi tehdä? Saat aikaa vastata 15 sekuntia. Mitä vastaat ja mitkä toiminnot nostatat esiin ehdottomasti valtteina verrattuna muihin vastaaviin ratkaisuihin/palveluihin?
-> Tässä kohtaa kannattaa tarkistaa mitä olivat asiakkaan esittämät toiveet palvelusta? Niistä voisi löytyä ehkä joitain tässä vaiheessa?
+>Mietitään seuraavaksi millaisia ovat palvelun tärkeimmät toiminnalliset omiaisuudet? Kirjataan ne ranskalaisilla viivoilla ja luodaan samalla MindMap-kuvaus, josta eri palvelun osa-alueet selviävät. 
+Mieti tilannetta, että sinulta kysytään mitä palvelulla voi käytännösä tehdä? Saat aikaa vastata 15 sekuntia. Mitä vastaat? Mitä toimintoja nostatat esiin? 
 
+- Palvelun oleelliset toiminnot (Esimerkkejä) 
 
-- Oleelliset toiminnot (Esimerkkejä) 
+**Ominaisuus A (Feature)**
+
     - Asiakas_A voi lähettää postia toiselle henkilölle
     - Asiakas_A voi saada tietoa aiemmin tehdyistä valinnoista
+
+**Ominaisuus B (Feature)**
+
     - Ylläpito-henkilö voi poistaa laskun Asiakaalta
     - Ylläpito-henkilö voi luoda uuden laskun Asiakkaalle 
-    - Asiakas_A voi soittaa tuntemalleen kaverille
+
     - Asiakas_B voi jakaa kuvan
-    - Asiakas_B kykenee tallettamaan tilanteen
+
+**Ominaisuus C (Feature)**
+
+    - Pelaaja_B kykenee tallettamaan tilanteen
     - Asiakas_B voi liittää Asiakkaan_A ryhmään uuden henkilön
-    - etc..
+
+**Ominaisuus E (Feature)**
+
+    - Asiakas_A voi soittaa tuntemalleen kaverille
 
 
+
+**Kirjataan eri toiminnalliset ominaisuudet MindMap-muotoon ja samalla tarkennetaan niihin liittyviä tarkempia toimintoja**
+ 
 
 ```plantuml
 @startmindmap
-+ Tuote, eli tuotettava ratkaisu
-++ Toiminnallisuus A
-+++ Toiminto 1
-+++ Toiminto 2
-++ Toiminnallisuus B
-+++ Toiminto 3
-+++ Toiminto 4
--- Toiminnallisus C - Viestin suojaus
---- Toiminto 5 - Suojauksen valinta
---- Toiminto 6 - Suojauksen vaihto
--- Toiminnallisuus D - Viestintä
---- Toiminto 7 - Viestin lähetys
---- Toiminto 8 - Viestin kuittaus
++ Tuote X, eli tuotettava ratkaisu
+++ Toiminnallisuus A - sisäinen sähköposti
++++ Asiakas_A voi lähettää postia toiselle henkilölle
++++ Asiakas_A voi saada postia toiselta henkilöltä
+++ Toiminnallisuus B - Laskutus
++++ Ylläpito-henkilö voi poistaa laskun Asiakaalta
++++ Ylläpito-henkilö voi luoda uuden laskun Asiakkaalle
+-- Toiminnallisus C - Dokumentin jakotoiminto
+--- Toiminto 5 - Asiakas_B voi jakaa kuvatiedoston
+--- Toiminto 6 - Asiakas_A voi kommentoida dokumenttia
+-- Toiminnallisuus D - Tilanteen talletus
+--- Toiminto 7 - Pelaaja_C kykenee tallettamaan tilanteen valitulla hetkellä
+--- Toiminto 8 - Pelaaja_C voi poistaa aiemman talletukse
 @endmindmap
 ```
 
