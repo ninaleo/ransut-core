@@ -30,9 +30,12 @@ käytää olemassa olevia tilaajien oikeita nimiä! Muussa tapauksessa vaihdetaa
 
 ## Sidosryhmäkartta
 
->Kuvaa sidosryhmäkartan avulla millaisia käyttäjä, sidosryhmiä tai muita toimijoita voidaan tunnistaa liittyväksi suunniteltun ratkaisuun/palveluun? Kirjataan kaikki tunnistetut sidosryhmät sidosryhmäkartan muotoon. Samalla kirjataan sidosryhmän/toimijan motivaatio palvelua kohtaan. Sidosryhmä kuvauksen voi laatia esim. piirtämällä se eri työkalulla, MindMap-muodossa tai soveltaen sopivaa PlantUML-generaattoria. (Suositeltava vaihtoehto)
+>Kuvaa sidosryhmäkartan avulla millaisia käyttäjä, sidosryhmiä tai muita toimijoita liittyy olennaisesti suunniteltun ratkaisuun/palveluun? Kirjataan kaikki tunnistetut sidosryhmät sidosryhmäkartan muotoon. Samalla kirjataan sidosryhmän/toimijan motivaatio palvelua kohtaan. Sidosryhmä kuvauksen voi laatia esim. piirtämällä se eri työkalulla, MindMap-muodossa tai soveltaen sopivaa PlantUML-generaattoria. (Suositeltava vaihtoehto)
 
->Tutustu aiemmin mainittuun PlantUML-työkaluun ja kokeile luoda sidosryhmäkartta sen avulla. Löydät ohjeistuksen osoitteesta [http://plantuml.com/](http://plantuml.com/). Huomio, että Gitlabin yhteydessä PlantUML-koodilohkon kuvaamisessa ei käytetä @startuml/@enduml- täg merkintää vaan 
+>*Tarina väliin*
+>*Palvelua kehitettäessä on otettava selvää taustoista ja pyrittävä ymmärtämään itse toimialaa tai tarkasteltua toimintaympäristöä. Tähän tarvitaan taustatietoa ja asiakastuntemusta. Henkilöt joilla on ns. toimialaosaamista (Domain Knowledge) ovat tässä vaiheessa vahvoilla. Kannattaa kuunnella asiakasta ja kerätä tietoa perehtymällä aiheeseen myös itsenäisesti. Toimeksiantajalla on varmasti tarjolla tietoa, jonka pohjalta on helpompi ymmärtää toimialaa, joka saattaa olla alkuvaiheessa arvoitus ratkaisun tekijälle*
+
+>Tutustu aiemmin mainittuun PlantUML-työkaluun ja kokeilaan luoda tuotteeseen liittyvä sidosryhmäkartta. Löydät ohjeistuksen osoitteesta [http://plantuml.com/](http://plantuml.com/). Huomio, että Gitlabin yhteydessä PlantUML-koodilohkon kuvaamisessa ei käytetä @startuml/@enduml- täg merkintää vaan 
 >* Alkuun merkintä *```plantuml*
 >* Ja loppuun merkintä *```* 
 >Alla olevan sidosryhmäkuvauksen voi ylikirjoittaa ja samalla tutustua miten diagrammia voidaan tuottaa PlantUML:n avulla.
@@ -80,22 +83,28 @@ Tästä johtuen joudutaan tarkentamaan ja erittelemään kuvausta ja luomaa tarv
 
 **asiakaspolku PlantUML-esimerkki tilakoneena**
 
-> Kokeillaan luonnostella asiakaspolkua PlantUML-työkalun avulla. Kannattaa kokeilla ehdottomasti myös muita tapoja! Esimerkkinä käytetään UML-kuvauksista tuttua tilankonetta (State Diagram)
+> Kokeillaan luonnostella esimerkki valitusta asiakaspolku PlantUML-työkalun avulla. Kannattaa kokeilla ehdottomasti myös muita tapoja! Esimerkkinä käytetään UML-kuvauksista tuttua tilankonetta (State Diagram)
 
 ![](../assets/work-to-do.png)
 
+**Asiakaspolku esimerkki: Asiakkaan saapuminen liiketilaan onnistuneen ulkomainoksen pohjalta**
+
+>Tässä polussa voidaan pohtia miten asiakkaan päätöstä voidaan vahvistaa?
+
+
 ```plantuml
-Step1: Palvelun kuvaus mainosnäytöllä 
+Step1: Palvelun kuvaus esillä näyteikkunan mainosnäytössä 
 Step2: Asiakas astuu ovesta sisään 
-Step3: Palveluun tutustuminen sisätiloissa
+Step3: Palveluun tutustuminen jatkuu sisätiloissa itsenäisesti
 Step4: Asiakas kysyy myyjää
-Step5: Myyjä esittelee tuotteen
+Step5: Myyjä esittelee tuotteen lyhyesti
 Step6: Asiakas pohdiskelee asiaa
-Step7: Asiakas tekee sopimuksen
+Step7: Asiakas tekee sopimuksen palvelusta
 Step8: Asiakas ei ota tuotettava
 Step9: Myyjä suosittelee lisäpalveluita
-Step10: Jne
-Step11: Asiakas poistuu paikalta
+Step10: Myyjä pyytää asiakkaan sähköposti-osoitetta ja henkilöturvatunnusta
+Step11: Asiakas kieltäytyy luovuttamasta HETUa ja kauppa keskeytyy
+Step12: Miten tämä voidaan välttää?
 
 [*] --> Step1
 Step1 --> Step2
@@ -107,6 +116,8 @@ Step5 --> Step6
 Step6 --> Step7
 Step6 --> Step8
 Step8 --> Step11
+Step8 --> Step9
+Step9 --> Step7 
 Step7 --> Step9
 Step9 --> Step10
 ```
