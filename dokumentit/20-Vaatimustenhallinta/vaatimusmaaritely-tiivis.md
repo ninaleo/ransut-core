@@ -214,36 +214,37 @@ Step11 --> Step12
 
 
 
-## Toiminnalliset ominaisuudet
+## Ominaisuudet (Feature) ja priorisointi (Priority)
 
-Palvelun toiminnallisilla ominaisuuksilla on tärkeä tehtävä tuotekehityksen kannalta. Nämä ns. Featuret ovat juuri niitä palveluun kehitettäviä toimintoja, joita voidaan tarvittaessa markkinoida mahdollisille asiakkaille. 
-Eri ominaisuuksien toteuttamien täytyy priorisoida, koska niiden tekemiseen tarvitaan aikaa. Alla olevassa taulukossa on kerätty muutamia päätoimintoja ja niiden prioriteeti kehityksen kannalta.
+Kilpailevat palvelut saattavat tarjoita asiakkaalle samankaltaisia ominaisuuksia, mutta niiden toteutukissa voi olla ratkaisevia eroja. Yksittäiset toiminnot saattavat vaihdella palvelusta riippuen. Tärkeimmät ominaisuudet löytyvät kaikista palveluista, mutta selkeitä eroja tulee esiin esimerkiksi palvelun käytettävyydessä, suorituskyvyssää tai tietoturvassa.
+Eri ominaisuudet ovat tärkeitä palvelukehityksen kannalta, koska niiden avulla erotutaan kilpailijoista ja niiden avulla voidaan saavuttaa uusia asiakkuuksi. Ominaisuuksien rinnalla voidaan käyttää käsitettä piirre, joka vastaa myös englannin kielistä "Feature"-käsitettä. Ominaisuuksien/piirteiden/featureiden toteuttamien vaatii aikaa ja rahaa tuotekehityksell ja tästä johtuen kehitystyötä täytyy tarvittaessa priorisoida. Alla olevassa taulukossa on kerätty muutamia kuvitteellisen palvelun ominaisuuksia ja priorisoitu ne .
 >Priorisoinnilla voidaan esittää mitkä ominaisuuksiasta ovat tärkeitä asiakkaan tai toteutuksen näkökulmasta. 
-
 
 | Ominaisuus | Prioriteetti | Kuvaus |
 |:-:|:-:|:-:|
 | [Lokihallinta-ominaisuus](pohjat/pohja-ominaisuus.md) | P1 | Asiakkaan kannalta tärkeä ominaisuus | 
 | [Kirjautumis-ominaisuus](pohjat/pohja-ominaisuus.md) | P1 | Tämä on saatava ensimmäisen kuntoon | 
+| [Lokitus-ominaisuus](pohjat/pohja-ominaisuus.md) | P5 | Tämän voi tehdä myöhemmin |
+| [Viestitys-ominaisuus](pohjat/pohja-ominaisuus.md) | P2 | Erittäin tarpeellinen, mutta ensin kirjautuminen kuntoon |
 | [GDPR-tunnuksen-poisto-ominaisuus](pohjat/pohja-ominaisuus.md) | P3 | Ei niin kiire, mutta tarvitaan ehdottomasti |
 | ... | ... | ... |
 
->Pelkästään ominaisuuksien listaamisen sijaan on tärkeää suunnitella  ennakkoon missä vaiheessa eri ominaisuuksia voidaan toteuttaa ja tuotteen toimeksiantaja saa parhaan hyödyn tuotekehityksestä. Tätä suunnittelutyötä kutsutaan lyhyesti julkaisun suunnitteluksi (Release Planning).
-Julkaisusuunnitelmassa voidaan ryhmitellä eri ominaisuudet ja luoda niistä "konfiguraatioita".   
+>Pelkästään ominaisuuksien listaamisen sijaan on hyödyllistä suunnitella ennakkoon missä vaiheessa eri ominaisuudet voidaan toteuttaa ja liittää osaksi palvelua. Tätä työtä kutsutaan lyhyesti julkaisusuunnitteluksi (Release Planning).
+Julkaisua suunniteltaessa voidaan ryhmitellä eri ominaisuudet ja luoda niistä "konfiguraatioita".   
 
 * [Julkaisuhallinta - esimerkki](..//40-Julkaisusuunnittelu/julkaisusuunnitelma.md)
-
 
 ## Käyttöliittymänäkymä/mockup 
 
 ![](../assets/work-to-do.png)
 
->Ohjelmistotuotteen eri toiminnallisuuksien kuvaamiseen tarvitaan avuksi usein visualisointia. Miltä tuotteen tulisi näyttää ja mitä on käyttöliittymässä otettava huomioon? Tähän tehtävään voidaan soveltaa nykyaikaisia MockUp/prototyyppi-työkaluja. Näiden työvälineiden avulla voidaan luoda helposti käyttöliittymäprototyypp, jota voidaan määrittelytyön apuan. 
-
->Perinteisesti käyttöliittymä hahmotelmat ja kuvaukset on tehty piirtämällä käyttöliittymästä staattisia kuvia ja näitä on käytetty suunnittelun apuna. 
-Tämä onnistuu myös soveltamalla PlantUML-kuvauksia. 
+>Eri toiminnallisuuksien selkeyttämiseksi voidaan tarvittaessa hyödyntää myös visualisointia. Eri kuvausten avulla voidaan hahmottaa miltä tuotteen tulisi näyttää ja mitä asioita esimerkiksi  käyttöliittymän toteutuksessa on otettava huomioon? Tähän tehtävään voidaan soveltaa nykyaikaisia MockUp/prototyyppi-työkaluja. Näiden työvälineiden avulla voidaan luoda helposti käyttöliittymäprototyyppi, jota voidaan koekäyttää kohderyhmillä. 
+>Perinteisesti käyttöliittymä hahmotelmat ja kuvaukset on tehty piirtämällä käyttöliittymästä staattisia kuvia ja näitä on käytetty suunnittelun apuna. Tämä onnistuu myös soveltamalla PlantUML-kuvauksia. 
+>Kannattaa kuitenkin tutustua ja kokeilla arjolla olevia prototyyppi/MockUp-työkaluja tähän tarkoitukseen. 
 
 >Käyttöliittymän prototyyppi kuvaukset kannataa liittää ominaisuuksien määrittelyä tarkentaviin dokumentteihin. [Feature-ominaisuus-esimerkki](pohjat/pohja-ominaisuus.md)
+
+ * [Linkki prototyyppiin / MockUp-toteutukseen]()
 
 **Esimerkki yksinkertaisesta käyttöliittymän dialogista**
 
