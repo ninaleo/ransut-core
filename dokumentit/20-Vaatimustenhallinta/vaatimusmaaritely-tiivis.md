@@ -9,10 +9,14 @@
 
 ## Johdanto
 
+![](../assets/work-to-do.png)
+
 >Kuvaa tavoiteltua kokonaisuutta, hieman taustaa ja aiheeseen olennaisesti liittyviä asioita? Jos kyseessä harjoitustehtävä, niin tarkista voitko 
 käytää olemassa olevia tilaajien oikeita nimiä! Muussa tapauksessa vaihdetaan kaikki nimet itse keksittyihin :)
 
 ## Tavoitteet 
+
+![](../assets/work-to-do.png)
 
 >Mitä toteutettavan palvelun/ratkaisun avulla tavoitellaan? Tämä voidaan käsitellä myös projektisuunnitelmassa, mutta vaatimusmäärittelyn yhteydessä voidaan tarkemmin kuvat tavoiteltua ratkaisua.
 
@@ -21,6 +25,8 @@ käytää olemassa olevia tilaajien oikeita nimiä! Muussa tapauksessa vaihdetaa
 * Tavoite C
 
 ## Kohderyhmä
+
+![](../assets/work-to-do.png)
 
 >Kenelle ratkaisua/palvelua kehitetään? Kannattaa nostaa esiin lyhyesti mahdolliset loppukäyttäjä ja oleellisiin palvelusta hyötyviin sidosryhmät
 
@@ -39,6 +45,8 @@ käytää olemassa olevia tilaajien oikeita nimiä! Muussa tapauksessa vaihdetaa
 >* Alkuun merkintä *```plantuml*
 >* Ja loppuun merkintä *```* 
 >Alla olevan sidosryhmäkuvauksen voi ylikirjoittaa ja samalla tutustua miten diagrammia voidaan tuottaa PlantUML:n avulla.
+
+![](../assets/work-to-do.png)
 
 ```plantuml
 @startmindmap
@@ -59,6 +67,8 @@ käytää olemassa olevia tilaajien oikeita nimiä! Muussa tapauksessa vaihdetaa
 ```
 
 **Tarkennettut sidosryhmätprofiilit** 
+
+![](../assets/work-to-do.png)
 
 > Sidosryhmäkartan avulla saadaan yleiskuva eri toimijoista (actor), jotka liittyvät oleellisesti ratkaisuun/palveluun. Jos pohdimme tarkemmin esimerkiksi erilaisia palvelun loppukäyttäjiä voimme huomata niissä olevan selkeitä eroja.
 Tästä johtuen joudutaan tarkentamaan ja erittelemään kuvausta ja luomaa tarvittasessa ns. profiilikuvaus. Tämän kuvauksen avulla voidaan tarkemmin tunnistaa kohderyhmän luonnetta. Tarkemman kuvauksen tuottamiseksi voidaan luoda tarvittaessa profiilikohtainen kuvaustiedosto. Tämä tiedosto voidaan luoda kopioimalla *pohja-profiilikuvaus* ja nimeämällä se profiilin mukaisesti. Tarkennettuja kuvauksia luodaan tarpeen mukaan. Alla olevassa taulukossa on esitelty muutamia esimerkki profiileja ja tarpeelliset tiedot löytyvät taulukosta.
@@ -155,6 +165,7 @@ Step11 --> Step12
 
 **Kuvataan tunnistettja toiminnallisuuksia MindMapin-muodossa ja samalla linkitetään niihin liittyävät toimintoja**
 
+![](../assets/work-to-do.png)
 
 ```plantuml
 @startmindmap
@@ -186,7 +197,7 @@ Step11 --> Step12
 * *Vaatimuksen ei saa ylikirjoittaa aiemmin määriteltyä vaatimusta*
 
 | ID | Toiminnallisen vaatimuksen kuvaus | Toiminnallinen ominaisuus	|				
-|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|
 | [FUNCREQ-C0001]() | Palveluun kirjautumisessa voidaan käyttää Facebook-tunnuksia | [Kirjautumis-ominaisuus](pohjat/pohja-ominaisuus.md) |
 | [FUNCREQ-C0002]() | Käyttöliittymää voidaan ohjata tarvittaessa äänikomennoilla | [Ääniohjaustuki-ominaisuus](pohjat/pohja-ominaisuus.md) |
 | [FUNCREQ-C0003]() | Käyttäjä voi vaihtaa kirjautumisikkunassa kielen | Kirjatumis-ominaisuus |
@@ -221,6 +232,8 @@ Julkaisusuunnitelmassa voidaan ryhmitellä eri ominaisuudet ja luoda niistä "ko
 
 ## Käyttöliittymänäkymä/mockup 
 
+![](../assets/work-to-do.png)
+
 >Ohjelmistotuotteen eri toiminnallisuuksien kuvaamiseen tarvitaan avuksi usein visualisointia. Miltä tuotteen tulisi näyttää ja mitä on käyttöliittymässä otettava huomioon? Tähän tehtävään voidaan soveltaa nykyaikaisia MockUp/prototyyppi-työkaluja. Näiden työvälineiden avulla voidaan luoda helposti käyttöliittymäprototyypp, jota voidaan määrittelytyön apuan. 
 
 >Perinteisesti käyttöliittymä hahmotelmat ja kuvaukset on tehty piirtämällä käyttöliittymästä staattisia kuvia ja näitä on käytetty suunnittelun apuna. 
@@ -245,6 +258,8 @@ salt
 ```
 
 ## Ketterän kehittämisen käyttötarinat - User Story 
+
+![](../assets/work-to-do.png)
 
 >Ohjelmistokehityksessä on yleistynyt tapa käyttää tavoitteiden määrittelyssä palvelua käyttävien sidosryhmien esittämiä kuvauksia tarvittavista toiminnoista. Nämä asiakkaalta/sidosryhmiltä saadut ehdotukset kirjataan User Story, eli käyttötarinan muotoon. Kannattaa tutustu aiheeseen [User Story](https://en.wikipedia.org/wiki/User_story). Käyttäjätarinat ovat kehitystiimin kannalta erittäin oleellisia määrittelyjä, koska ne ovat käytännössä toimintoja joita toteutetaan palveluun. User Storyjen avulla ohjataa kokonaisia kehitystiimejä tuotekehityksen aikana.
 
@@ -277,14 +292,16 @@ salt
 
 ## Laadulliset vaatimukset (Non-functional Requirements)
 
+>Laadulliset vaatimukset tarkastelevat palvelua ns. ei-toiminnallisesta näkökulmasta. Kuulostaa ehkä äkkiseltään hankalalta, mutta mieti seuraavia kysymyksiä?
 
->Laadulliset vaatimukset tarkastelevat palvelussa tarkastellaan palvelua ei toiminnallisesta näkökulmasta. Kuulostaa ehkä äkkiseltään hankalalta, mutta mieti seuraavia kysymyksiä?
-
-* *Miten tuottesta saadaa turvallinen?*
-* *Mitkä asiat on huolehdittava, että tuote on hyväksyttävissä viranomaisten käyttöön?*
-* *Miten paljon käyttäjiä voi olla yhtäaikaa*
-* *Onko palvelun tarkoitus joskus toimia laajemmalla käyttäjäkunnalla*
-* *Miten voidaan varmistaa, että palvelu on saavutettavissa kaikkien käyttäjien kannalta?*
+* *Miten tuottesta saadaan turvallinen? Onko joitain vaatimuksia, jotka on täytettävä?(tietoturva-security)*
+* *Mitkä asiat on huolehdittava, että tuote on hyväksyttävissä viranomaisten käyttöön?(conformance)*
+* *Miten paljon käyttäjiä palvelussa voi olla yhtäaikaa(suorituskyky-performance)*
+* *Onko palvelun tarkoitus joskus toimia laajemmalla käyttäjäkunnalla(skaalautuvuus-scalability)*
+* *Miten voidaan varmistaa, että palvelu on saavutettavissa kaikkien käyttäjien kannalta?(skaalautuvuus-scalability)*
+* *Onko tarvetta eri kieliversioille?(saavutettavuus-accessability)*
+* *Mitä on otettava huomioon palvelua jatkokehitettäessä? (ylläpidettävyys-maintainability)*
+* *Mitä teknologioita voidaan käyttää?(ylläpidettävyys-maintainability)*
 
 >[Ei-toiminnalliset vaatimuksia](https://en.wikipedia.org/wiki/Non-functional_requirement) on useita eri tyyppejä, mutta opintojen kannalta tärkeimmiksi on valittu: suorituskyky, tietoturva ja saavutettavuus 
 >* Suorituskyky (Performance Requirement)
@@ -340,8 +357,6 @@ Kannattaa tutkia esimerkiksi https://www.sfs.fi/aihealueet/terveydenhuolto/laaki
 | CONSTRAIN-002 |  ... | ... |
 
 ## Palvelun yleinen ohjelmistoarkkitehtuuri
-
-
 
 >Vaatimusmäärittelyn osaksi voidaan sisällyttää tuotteeseen liittyen teknisisä kuvauksia, joiden avulla voidaan tarkentaa ohjelmistopalvelun vaatimuksia. Tärkeä dokumentti on tekninen arkkitehtuuri, joka voidaan lyhyessä muodossa liittää osaksi vaatimusmäärittelyä, mutta yleensä se on itsenäinen dokumentaation osa. Arkkitehtuuri kuvauksen voi laatia hyödyntäen apuan UML-kuvauskieleen sijoittelunäkymää (Deployment Diagram), jonka avulla voidaan kuvata miten palvelun eri osat toimivat käytännössä, eli missä sijaitsevat eri osat palvelusta ja miten ne kytkeytyvät toisiinsa.
 
