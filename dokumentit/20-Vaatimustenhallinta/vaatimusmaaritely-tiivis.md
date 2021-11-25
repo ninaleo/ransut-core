@@ -124,41 +124,37 @@ Step11 --> Step12
 ```
 
 
-## Tärkeimmät toiminnallisuudet/ominaisuudet
+## Toiminnalliset ominaisuudet
 
 ![](../assets/work-to-do.png)
 
 >Mietitään seuraavaksi millaisia ovat palvelun tärkeimmät toiminnalliset ominaisuudet? Kirjataan ne tässä vaiheessa ranskalaisilla viivoilla ja luodaan niiden pohjalta hahmotelma MindMap-kuvauksen muodossa. Kuvan avulla palvelun eri osa-alueet saattava hahmottua selkeämmin. 
-Mieti esimerkisi tilannetta, että sinulta kysytään mitä kehittämällasi palvelulla voi käytännössä tehdä? Saat aikaa vastata 15 sekuntia. Mitä vastaat? Mitä toimintoja nostatat esiin? Miksi tuotteesi on parempi kuin muut?
+>Mieti esimerkisi tilannetta, että sinulta kysytään mitä kehittämällasi palvelulla voi käytännössä tehdä? Saat aikaa vastata 15 sekuntia. Mitä vastaat? Mitä toimintoja nostatat esiin? Miksi tuotteesi on parempi kuin muut?
 
 *Toiminnalliset ominaisuudet ja niiden toiminnot*
 
+**Toiminnallinen ominaisuus (Feature) A  -Sisäinen sähköposti**
 
-**Ominaisuus (Feature) A  -Sisäinen sähköposti**
+    - (Toiminto) Asiakas_A voi lähettää postia toiselle henkilölle
+    - (Toiminto) Asiakas_A voi saada tietoa aiemmin tehdyistä valinnoista
 
-    - Asiakas_A voi lähettää postia toiselle henkilölle
-    - Asiakas_A voi saada tietoa aiemmin tehdyistä valinnoista
+**Toiminnallinen Ominaisuus (Feature) B - laskutus**
 
-**Ominaisuus (Feature) B - laskutus**
+    - (Toiminto) Ylläpito-henkilö voi poistaa laskun Asiakaalta
+    - (Toiminto) Ylläpito-henkilö voi luoda uuden laskun Asiakkaalle 
 
-    - Ylläpito-henkilö voi poistaa laskun Asiakaalta
-    - Ylläpito-henkilö voi luoda uuden laskun Asiakkaalle 
+**Toiminnallinen Ominaisuus (Feature) C - pelitilanteen talletus**
 
-    - Asiakas_B voi jakaa kuvan
+    - (Toiminto) Pelaaja_B kykenee tallettamaan tilanteen
+    - (Toiminto) Asiakas_B voi liittää Asiakkaan_A ryhmään uuden henkilön
 
-**Ominaisuus (Feature) C - pelitilanteen talletus**
+**Toiminnallinen Ominaisuus (Feature) D - suorasoitto**
 
-    - Pelaaja_B kykenee tallettamaan tilanteen
-    - Asiakas_B voi liittää Asiakkaan_A ryhmään uuden henkilön
-
-**Ominaisuus (Feature) D - suorasoitto**
-
-    - Asiakas_A voi soittaa tuntemalleen kaverille
+    - (Toiminto) Asiakas_A voi soittaa tuntemalleen kaverille
 
 
+**Kuvataan tunnistettja toiminnallisuuksia MindMapin-muodossa ja samalla linkitetään niihin liittyävät toimintoja**
 
-**Kirjataan nämä toiminnallisuudet MindMap-muotoon ja samalla tarkennetaan niihin liittyviä tarkempia toimintoja**
- 
 
 ```plantuml
 @startmindmap
@@ -180,9 +176,8 @@ Mieti esimerkisi tilannetta, että sinulta kysytään mitä kehittämällasi pal
 
 # Toiminnalliset vaatimukset (Functional Requirements)
 
-Toiminnalliset vaatimukset ovat aiemmin kirjattua toimintoja, jota palvelulta/ratkaisulta edellytetään. Jotkin toiminnallisista vaatimuksista ovat luonteeltaan laajempia kokonaisuuksia, eli ns. ominaisuuksia (Feature), joihin voidaan sisällyttää erilaisia toimintoja (Functions). Yllä kuvattu MindMap-kuvaus sisältää sekä ominaisuuksia, että niihin liittyviä toimintoja.
-
-Kun tunnistetaan perinteisesti toiminnallisia vaatimuksia voidaan ne kirjataan taulukon muotoon. Seuraavat ehdot kannattaa ottaa huomioon:
+>Voidaan yleisesti sanoa, että kaikki palveluun liittyvät toiminnot (Functions) voidaan kirjata aluksi toiminnallisina vaatimuksina (Functional Requirement), mutta osa niistä osoittautuu käytännössä palvleun ominaisuuksiksi (Feature) ja tästä syystä niitä käsitellään myöhemmin erikseen.  
+>Kun määritellään toiminnallisia vaatimuksia voidaan ne kirjataan yksinkertaisen taulukon muotoon. Seuraavat ehdot kannattaa ottaa huomioon:
 
 * *Vaatimus on oltava mitattavissa*
 * *Vaatimuksen on oltava yksiselitteinen ja selkeä*
@@ -190,35 +185,43 @@ Kun tunnistetaan perinteisesti toiminnallisia vaatimuksia voidaan ne kirjataan t
 * *Vaatimus kannattaa perustella, jos tarpeen*
 * *Vaatimuksen ei saa ylikirjoittaa aiemmin määriteltyä vaatimusta*
 
-| ID | Kuvaus | Toiminnallisuus johon vaatimus vaikuttaa | Ominaisuus	|				
+| ID | Toiminnallisen vaatimuksen kuvaus | Toiminnallinen ominaisuus	|				
 |:-:|:-:|:-:|:-:|
-| [FUNCREQ-C0001]() | Palveluun kirjautumiseen voi käyttää Facebook-tunnuksia | [Feature - Kirjautumis-ikkuna](pohjat/pohja-ominaisuus.md) |
-| [FUNCREQ-C0002]() | Käyttöliittymää voidaan ohjata tarvittaessa äänikomennoilla | [Feature - Ääniohjaustuki](pohjat/pohja-ominaisuus.md) |
-| [FUNCREQ-C0003]() | ... | ... |
+| [FUNCREQ-C0001]() | Palveluun kirjautumisessa voidaan käyttää Facebook-tunnuksia | [Kirjautumis-ominaisuus](pohjat/pohja-ominaisuus.md) |
+| [FUNCREQ-C0002]() | Käyttöliittymää voidaan ohjata tarvittaessa äänikomennoilla | [Ääniohjaustuki-ominaisuus](pohjat/pohja-ominaisuus.md) |
+| [FUNCREQ-C0003]() | Käyttäjä voi vaihtaa kirjautumisikkunassa kielen | Kirjatumis-ominaisuus |
+| [FUNCREQ-C0004]() | Käyttäjä voi tarvittaessa tulostaa kuitin ostoksistaan | Ostoraportit-ominaisuus |
+| [FUNCREQ-C0005]() | Pääkäyttäjä voi tarkastella asiakkaan viimeisiä ostotapahtumia lokin kautta | Lokihallinta-ominaisuus |
+| [FUNCREQ-C0006]() | Käyttäjä voi kirjautua käyttäen Google-tunnuksia | Kirjautumisikkuna-ominaisuus |
+| [FUNCREQ-C0007]() | Käyttäjä voi lopettaa palvelun käytön poistaen samalla kaiken henkilötiedon palvelusta | GDPR-tunnuksen-poisto-ominaisuus | 
+| [FUNCREQ-C0008]() | Käyttäjä voi kirjautua käyttäen Google-tunnuksia | Kirjautumis-ominaisuus |
+| [FUNCREQ-C0009]() | Käyttäjä voi vaihtaa tarvittaessa salasanan kirjautumisivun kautta | Kirjautumis-ominaisuus |
+
+
 
 ## Toiminnalliset ominaisuudet
 
-MindMap-kuvauksessa on kirjattu tärkeimmät toiminnalliset ominaisuudet, joiden kohdalla kannattaa olla tarkkana! Eli mieti mitkä toiminnoista ovat jossain mielessä tärkeimpiä toimintoja koko palvelun kannalta? Nämä toiminnot voidaan "korottaa" toiminnallisiksi ominaisuuksiksi. Tärkeimmät ominaisuudet voidaan määritellä tarkasti ja niille voidaan luoda oma tarkentava kuvauksensa.
-Alla olevassa taulukossa näkyy esimerkkejä ominaisuuksista ja niihin liittyvistä vaatimuksista, joiden kautta voidaan tarkentaa ominaisuuteen liittyviä toimintoja.
-Ominaisuuksia voidaan tarvittaessa priorisoida, jonka avulla saadaan kuva siitä mitkä niistä ovat tärkeitä asiakkaan tai toteutuksen näkökulmasta.
+Palvelun toiminnallisilla ominaisuuksilla on tärkeä tehtävä tuotekehityksen kannalta. Nämä ns. Featuret ovat juuri niitä palveluun kehitettäviä toimintoja, joita voidaan tarvittaessa markkinoida mahdollisille asiakkaille. 
+Eri ominaisuuksien toteuttamien täytyy priorisoida, koska niiden tekemiseen tarvitaan aikaa. Alla olevassa taulukossa on kerätty muutamia päätoimintoja ja niiden prioriteeti kehityksen kannalta.
+>Priorisoinnilla voidaan esittää mitkä ominaisuuksiasta ovat tärkeitä asiakkaan tai toteutuksen näkökulmasta. 
 
 
-| Ominaisuus | Prioriteetti | Ominaisuuteen liittyvät vaatimukset/käyttötapaukset |
+| Ominaisuus | Prioriteetti | Kuvaus |
 |:-:|:-:|:-:|
-| [Feature 1 - raportti-generaattori](pohjat/pohja-ominaisuus.md) | P1 | Esim [FUNCTIONAL-REQ-C0001]() | 
-| [Feature 2 - lasku-arkisto](pohjat/pohja-ominaisuus.md) | P1 | Esim [FUNCTIONAL-REQ-C0011]() | 
-| [Feature 3 - avatar-valinta](pohjat/pohja-ominaisuus.md) | P2 | Esim [FUNCTIONAL-REQ-C0023]() |
+| [Lokihallinta-ominaisuus](pohjat/pohja-ominaisuus.md) | P1 | Asiakkaan kannalta tärkeä ominaisuus | 
+| [Kirjautumis-ominaisuus](pohjat/pohja-ominaisuus.md) | P1 | Tämä on saatava ensimmäisen kuntoon | 
+| [GDPR-tunnuksen-poisto-ominaisuus](pohjat/pohja-ominaisuus.md) | P3 | Ei niin kiire, mutta tarvitaan ehdottomasti |
 | ... | ... | ... |
 
 
 ## Käyttöliittymänäkymä/mockup 
 
->Ohjelmistotuotteen tavoitetilan kuvaamiseen tarvitaan usein visuuaalisia esityksiä. Miltä tuotteen tulisi näyttää ja mitä käyttöliittymään tarvitaan? Tässä tehtävässä voidaan hyödyntää nykyaikaisia MockUp-työkaluja. Näiden välineiden avulla voidaan luoda kokeiltava prototyyppi, jota voidaan käyttää apuna palvelun määrittelyssä. 
+>Ohjelmistotuotteen eri toiminnallisuuksien kuvaamiseen tarvitaan avuksi usein visualisointia. Miltä tuotteen tulisi näyttää ja mitä on käyttöliittymässä otettava huomioon? Tähän tehtävään voidaan soveltaa nykyaikaisia MockUp/prototyyppi-työkaluja. Näiden työvälineiden avulla voidaan luoda helposti käyttöliittymäprototyypp, jota voidaan määrittelytyön apuan. 
 
->Perinteisesti käyttöliittymä hahmotelmat ja kuvaukset on tehty piirtämällä käyttöliittymäehdotuksia kuvia ja näitä hyödynnetään suunnittelun apuna. 
-Uutta palvelua määriteltäessä tarvitaan käsitys toivotusta toteuttamistavoista ja tähän MockUp-kuvakset ovat hyödyllisiä apu. Käyttöliittymän rakennetta voidaan kuvata myös PlantUML-kuvauksien avulla. Näitä kuvauksia voidaan luodat tarvittaessa useampia.
+>Perinteisesti käyttöliittymä hahmotelmat ja kuvaukset on tehty piirtämällä käyttöliittymästä staattisia kuvia ja näitä on käytetty suunnittelun apuna. 
+Tämä onnistuu myös soveltamalla PlantUML-kuvauksia. 
 
->Käyttöliittymän kuvauksia voidaan tarvittaessa liittää myös osaksi ominaisuuksien määrittelyä [Feature-ominaisuus-esimerkki](pohjat/pohja-ominaisuus.md)
+>Käyttöliittymän prototyyppi kuvaukset kannataa liittää ominaisuuksien määrittelyä tarkentaviin dokumentteihin. [Feature-ominaisuus-esimerkki](pohjat/pohja-ominaisuus.md)
 
 **Esimerkki yksinkertaisesta käyttöliittymän dialogista**
 
@@ -236,7 +239,7 @@ salt
 }
 ```
 
-## Palvelu ja käyttötarinat 
+## Ketterän kehittämisen käyttötarinat - User Story 
 
 >Ohjelmistokehityksessä on yleistynyt tapa käyttää tavoitteiden määrittelyssä palvelua käyttävien sidosryhmien esittämiä kuvauksia tarvittavista toiminnoista. Nämä asiakkaalta/sidosryhmiltä saadut ehdotukset kirjataan User Story, eli käyttötarinan muotoon. Kannattaa tutustu aiheeseen [User Story](https://en.wikipedia.org/wiki/User_story). Käyttäjätarinat ovat kehitystiimin kannalta erittäin oleellisia määrittelyjä, koska ne ovat käytännössä toimintoja joita toteutetaan palveluun. User Storyjen avulla ohjataa kokonaisia kehitystiimejä tuotekehityksen aikana.
 
