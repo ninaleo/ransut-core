@@ -242,14 +242,15 @@ salt
 >Käyttötarina kuvauksen yleinen muoto on: 
 
 *As a <-role-> I can <-capability->, so that <-receive benefit->*
+*Palvelun käyttäjän <-roolissa X-> toivon, että voin suorittaa <-toiminnon->, koska <-perustelu-> 
 
->Yksittäinen käyttötarina (User Story) voidaan kirjata esim Gitlab-palvleussa ns. Issuen muodossa. Issue esimerkin voit löytää osoittesta #7 
+>Yksittäinen käyttötarina (User Story) voidaan kirjata esim Gitlab-palvleussa ns. Issuen muodossa. Issue esimerkin voit löytää osoittesta #9 
 >User Storyt voidaan alkuvaiheessa kerätä myös taulukkoon/listaan ja ne siirretään ajalla Issue-muotoon.
 
-| ID | Tyyppi | Kuvaus | Linkki |
-|:-:|:-:|:-:|:-:|
-| US-001 | Käyttäjätarina | Esim. Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #8 |
-| US-002 | Käyttäjätarina | Esim. Käyttäjänä haluan, että voin poistaa historian tekemistäni ostoista viimeisen kuukauden ajalta, koska en halua muistella menneitä | Linkki  #9 |
+| ID |  Kuvaus | Gitlab Issue Linkki |
+|:-:|:-:|:-:|
+| US-001 | Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #8 |
+| US-002 | Käyttäjänä haluan, että voin poistaa historian tekemistäni ostoista viimeisen kuukauden ajalta, koska en halua muistella menneitä | Linkki  #8 |
 
 ## Palveluun liittyvät tekniset vaatimukset
 
