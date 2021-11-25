@@ -177,6 +177,30 @@ Mieti tilannetta, että sinulta kysytään mitä palvelulla voi käytännösä t
 @endmindmap
 ```
 
+# Toiminnalliset vaatimukset (Functional Requirements)
+
+Toiminnalliset vaatimukset ovat aiemmin kirjattua toimintoja, jota palvelulta/ratkaisulta edellytetään. Jotkin toiminnallisista vaatimuksista ovat luonteeltaan laajempia kokonaisuuksia, eli ns. ominaisuuksia (Feature), joihin voidaan sisällyttää erilaisia toimintoja (Functions). Yllä kuvattu MindMap-kuvaus sisältää sekä ominaisuuksia, että niihin liittyviä toimintoja.
+
+Kun tunnistetaan perinteisesti toiminnallisia vaatimuksia kirjataan ne itsenäisenä taulukkoon. Seuraavat ehdot kannattaa ottaa huomioon:
+
+* *Vaatimus on oltava mitattavissa*
+* *Vaatimukseen ei tule sisällyttää useampia vaatimuksia*
+* *Vaatimus kannattaa perustella, jos tarpeen*
+* *Vaatimuksen ei saa ylikirjoittaa aiemmin määriteltyä vaatimusta*
+
+Toiminnalliset vaatimukset voidaan kirjata taulukkoon ja näin saadaa käsitys tuotteen toiminnoista. Jotkin vaatimuksista ovat käytännössä ominaisuuksia
+
+
+| ID | Kuvaus | Toiminnallisuus johon vaatimus vaikuttaa | Ominaisuus	|				
+|:-:|:-:|:-:|:-:|
+| [FUNCREQ-C0001]() | Palveluun kirjautumiseen voi käyttää Facebook-tunnuksia | [Kirjautumis-ikkuna](pohjat/pohja-ominaisuus.md) |
+| [FUNCREQ-C0002]() | Käyttöliittymää voidaan ohjata tarvittaessa äänikomennoilla | [Ääniohjaustuki](pohjat/pohja-ominaisuus.md) |
+| [FUNCREQ-C0003]() | ... | ... |
+
+## Toiminnalliset ominaisuudet
+
+
+
 ### Käyttöliittymänäkymä/mockup 
 
 >Ohjelmistotuotteen tavoitetilan kuvaamiseen tarvitaan usein visuuaalisia esityksiä. Miltä tuotteen tulisi näyttää ja mitä käyttöliittymään tarvitaan? Tässä tehtävässä voidaan hyödyntää nykyaikaisia MockUp-työkaluja. Näiden välineiden avulla voidaan luoda kokeiltava prototyyppi, jota voidaan käyttää apuna palvelun määrittelyssä. 
@@ -200,6 +224,12 @@ salt
 }
 ```
 
+
+
+
+
+
+
 ## Palvelun alustavat käyttötarinat 
 
 >Ohjelmistojen kehittämisessä yleistynyt tapa käyttää kehitystavoitteiden määrittelyssä lähtökohtana eri käyttäjien konkreettisia toimintoja. Tarpeelliset toiminnallisuudet kirjataan User Story, eli käyttötarinoiden muodossa. Tutustu aiheeseen [User Story](https://en.wikipedia.org/wiki/User_story)
@@ -215,36 +245,30 @@ salt
 | UserStory-001 | Käyttäjätarina | Esim. Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #1 |
 | UserStory-002 | Käyttäjätarina | Esim. Käyttäjänä haluan, että voin poistaa historian tekemistäni ostoista viimeisen kuukauden ajalta, koska en halua muistella menneitä | #2 |
 
-## Tekniset vaatimukset
+## Palveluun liittyvät tekniset vaatimukset
 
->Teknisiä ratkaisuja määriteltäessa on hyvä tunnistaa tarvittavat teknologiat, laitteistot tai muut tarvittavat fyysiset ratkaisut. Ohjelmiostoratkaisuja määriteltäessä kannattaa erottaa puhtaasti tekniset/tuotannolliset vaatimukset ja kirjata ne vaatimusmäärittelyyn esimerkiksi teknisinä vaatimuksina.
+>Kokonaisvaltaisia ohjelmisto palveluja määriteltäessa on hyvä tunnistaa ja kuvata tarvittavat teknologiat, laitteistot tai muut ratkaisut. 
+Nämä tekniset vaatimukset kertovat yleensä toimintaympäristöstä, jossa suunniteltavaa tuotetta/palvelua tullaan suorittamaan. Vaatimuksilla kuvataan vaadittua toimintaympäristöä, jossa palvelun on mahdollista toimia. Esimerkkeinä tarvittava palvelinympäristö, tietovarastot, varmistukset ja muut palvelun toiminnan kannalta tärkeät vaatimukset.
+
+*Esimerkkinä on kirjattu muutamia laitteistovaatimuksia Hardware Requirements*
 
 | ID | Tyyppi | Kuvaus | 
 |:-:|:-:|:-:|
-| HWREQ-0002 | Tekniset vaatimukset | Palvelun tärkeimpien palvelujen on oltava vähintään kahdennettu N+1 | |
-| HWREQ-0003 | Tekniset vaatimukset | Palvelimen muistikapasiteeti >32GB  ||
-| HWREQ-0005 | Tekniset vaatimukset | Palvelimen fyysinen sijainti on oltava EU-aluella| |
-| HWREQ-0005 | ... | ... ||
+| HWREQ-0001 | Tekniset vaatimukset | Palvelun tärkeimpien palvelujen on oltava vähintään kahdennettu N+1 | |
+| HWREQ-0002 | Tekniset vaatimukset | Palvelimen muistikapasiteeti >32GB  ||
+| HWREQ-0003 | Tekniset vaatimukset | Palvelimen fyysinen sijainti on oltava EU-aluella| |
+| HWREQ-0004 | ... | ... ||
 
-# Toiminnalliset vaatimukset (Functional Requirements)
-
->Mitä toimintoja palveluun liittyy? Nämä kannattaa kirjata ensi ns. toiminnallisina vaatimuksina? Toiminnallisilla vaatimuksilla kuvataan ohjelmistolta/järjestelmältä vaadittuja toimintoja. Toiminnalliset vaatimukset ovat helpoimmin tunnistettavia. Vältä useamman vaatimuksen kirjaamista samaan lauseeseen! Jokainen vaatimus erikseen.
-
-| ID | Tyyppi | Kuvaus | Toiminnallisuus johon vaatimus vaikuttaa |								
-|:-:|:-:|:-:|:-:|
-| FUNCREQ-C0001 | Toiminnallinen vaatimus | Krjautumiseen voi käyttää Facebook-tunnuksia | [Toiminnallisuus X](pohjat/pohja-ominaisuus.md) |
-| FUNCREQ-C0002 | Toiminnallinen vaatimus | Käyttöliittymää voidaan ohjata äänikomennoilla | [Toiminnallisuus Y](pohjat/pohja-ominaisuus.md) |
-| FUNCREQ-C0003 | Toiminnallinen vaatimus | ... | ... |
 
 # Laadulliset eli ei-toiminnalliset vaatimukset (Non-functional Requirements)
 
 >Mitä olivat ei-toiminnalliset vaatimukset? Voit esittää eri vaatimuksia erillisessä taulukossa tai viitata tässä [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan taulukkoon. [Ei-toiminnalliset vaatimukset](https://en.wikipedia.org/wiki/Non-functional_requirement) sisältää laajan joukko eri näkökulmia sähköiseen palveluun liittyen. Tärkeimmät kirjoittajan näkökulmasta ovat seuraavat: Suorituskyky, tietoturva ja saavutettavuus 
+>* Suorituskyky (Performance Requirement)
+>* Tietoturva (Security Requirement)
+>* Saavutettavuus (Accessability Requirement)
+>*
 
-* Suorituskyky (Performance Requirement)
-* Tietoturva (Security Requirement)
-* Saavutettavuus (Accessability Requirement)
-
-## Suorituskykyyn liittyvät vaatimukset (Performance Requirements)
+## Suorituskykyvaatimukset (Performance Requirements)
 
 ![](../assets/work-to-do.png)
 
@@ -256,7 +280,7 @@ salt
 | PERFREQ-0001 | Suorituskyky | Palvelun maksimi käyttäjä määrä on ? |
 | PERFREQ-0002 | Suorituskyky | ... ||
 
-## Tietoturvan vaatimukset (Security Requirements)
+## Tietoturvavaatimukset (Security Requirements)
 
 ![](../assets/work-to-do.png)
 
@@ -268,7 +292,7 @@ salt
 | SECURITY-REQ-0002 | Jokainen tapahtuma palvelussa on kirjattava käyttölogiin, että niitä voidaan tarkastella myöhemmin | [Testitapaus Y]() |
 | SECURITY-REQ-0003 | ... | ... |
 
-## Saavutettavuuden vaatimukset (Accessablity Requirements)
+## Saavutettavuusvaatimukset (Accessablity Requirements)
 
 ![](../assets/work-to-do.png)
 
@@ -282,8 +306,8 @@ salt
 
 ### Rajaukset ja reunaehdot (Constraints and limitations)
 
-> Eri ohjelmistojena/palvelujen toteutusta ja käyttöä ohjaavat usein lait ja säädökset. Näiden edellyttämät vaatimukset voidaan kirjataan tarvittaessa vaatimusmäärittelyyn. Rajausten vaikutus koskee usein palvelun jonkin osa-kokonaisuuden toteuttamista. Tästä syystä eri rajoitteet on tunnistettava ajoissa, koska vaikutus saataa olla varsin ratkaiseva pitemmällä tähtäimella. Esimerkkinä tästä on viime vuonna voimaan tullut [EU GDPR-säädös](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation).
-> Kannattaa tutkia esimerkiksi https://www.sfs.fi/aihealueet/terveydenhuolto/laakinnalliset_laitteet tai http://docs.jhs-suositukset.fi/jhs-suositukset/JHS190/JHS190.html
+>Eri ohjelmistojena/palvelujen toteutusta ja käyttöä ohjaavat usein lait ja säädökset. Näiden edellyttämät vaatimukset kirjataan vaatimusmäärittelyyn rajauksina. Rajausten (Constraints) vaikutus voi koskea koko palvelua palvelun jonkin osa-kokonaisuuden toteuttamista. Tästä syystä eri rajoitteet on tunnistettava ajoissa, koska vaikutus saataa olla varsin ratkaiseva pitemmällä tähtäimella. Esimerkkinä tästä on viime vuonna voimaan tullut [EU GDPR-säädös](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation).
+Kannattaa tutkia esimerkiksi https://www.sfs.fi/aihealueet/terveydenhuolto/laakinnalliset_laitteet tai http://docs.jhs-suositukset.fi/jhs-suositukset/JHS190/JHS190.html
 
 | ID | Tyyppi | kategoria | Vastuullinen |
 |:-:|:-:|:-:|:-:|
@@ -291,11 +315,9 @@ salt
 | CONSTRAIN-001 | Rajaus | On huomioitava Standardi ZZZ osana palvelun tapahtuma login talletusta | [Log-palvelin](pohjat/pohja-ominaisuus.md)|
 | CONSTRAIN-002 | Rajaus | ... | ... |
 
-### Esimerkkinä palvelun tekninen tuotantoympäristö
+### Palvelun yleinen ohjelmistoarkkitehtuuri
 
-* Palv
-
-> Vaatimusmäärittelyn tukena sovelletaan erilaisia kuvauksia, joista esimerkkinä UML-kuvauskieleen liittyvä sijoittelu näkymä, eli "Deployment Diagram", kuvauksen avulla voi esittää miten palvelu on tarkoitus toteuttaa käytännössä. Missä sijaitsevat eri osat palvelusta ja miten eri osat on kytketty toisiinsa.
+>Vaatimusmäärittelyn voidaan sisällyttää erilaisia kuvauksia, joiden avulla voidaan esittää miten ohjelmistopalvelu on käytännössä mahdollista toteuttaa. Tämän kuvauksen voi tuottaa esimerkkinä UML-kuvauskieleen liittyvä sijoittelunäkymä, eli Deployment Diagram", kuvauksen avulla voi esittää miten palvelu on tarkoitus toteuttaa käytännössä. Missä sijaitsevat eri osat palvelusta ja miten eri osat on kytketty toisiinsa.
 
 ```plantuml
 @startuml
@@ -332,11 +354,10 @@ Logger_Container -- MariaDB_Container
 
 @enduml
 ```
-## Palveluun liittyvät muut järjestelmät
 
-Alla olevat kuvaukset ovat esimerkkejä UML-kuvauksen mahdollisuuksista, kannattaa tutustua tarkemmin laajempaan vaatimusmäärittely pohjaan,  koska siitä löytyy esimerkkejä.
+## Palveluun liittyvät järjestelmäintegraatiot
 
-> Järjestelmien välisiä yhteyksiä voidaan kuvata tarvittaessa esim. UML-kuvauksiin liittyvän sekvenssikaavion muodossa (Sequence Diagram). 
+>Alla olevat kuvaukset ovat esimerkkejä UML-kuvauksen mahdollisuuksista, kannattaa tutustua tarkemmin laajempaan vaatimusmäärittely pohjaan, koska siitä löytyy esimerkkejä. Järjestelmien välisiä yhteyksiä voidaan kuvata tarvittaessa esim. UML-kuvauksiin liittyvän sekvenssikaavion muodossa (Sequence Diagram). 
 
 ```plantuml
 Client_Host --> Service_Frontend: Login Request
@@ -349,7 +370,7 @@ Service_Frontend --> Client_Host : Logged in
 ```
 ## Standardit ja lähteet
 
-> Vaatimusmäärittelyyn kannattaa liittää mukaan kaikki tärkeät lähteet, joista on hyötyä tai merkitystä kokonaisuuden kannalta. Standardit ja ennalta jaetut ohjeistukset ovat hyödyllisiä lähteitä ja tarvittaessa tukevat esitettyjä vaatimuksia.
+>Kirjataan käytetyt lähteet alla olevaan taulukkoon.
 
 | ID | Nimi | Linkki | Kuvaus |  
 |:-:|:-:|:-:|:-:|
