@@ -12,39 +12,34 @@
 
 *Kerro mitä ominaisuudella tarkoitetaan ja mitä sen avulla saavutetaan*
 
-Sed non nisi id ligula interdum mattis. Fusce vel ullamcorper nunc. Nulla pharetra dui ut enim semper semper. 
-Aenean ut leo tortor. Fusce felis nibh, malesuada vitae nibh at, rhoncus feugiat leo. Nam vehicula vitae ligula 
-vitae condimentum. Ut maximus metus nec lorem ultrices elementum.
 
 
 ### Ominaisuuteen liittyvät rajaukset, vaatimukset käyttötapaukset
 
-*Kerätään tähän kaikki oleelliset asiat, jotka liittyvät ominaisuuden määrittelyyn tai osaltaan määrittävät sitä*
+*Kerätään tähän kaikki oleelliset lähteet, jotka liittyvät ominaisuuden toteuttamiseen*
 
 | | |
 |:-:|:-:|
-| [Use Case 1](FT1-kayttotapaus.md) | |
-| [Use Case 2](FT2-kayttotapaus.md) | |
-| [Vaatimus ReqID]() |  | 
-| [Vaatimus ReqID]() |  | 
-| [Vaatimus ReqID]() |  | 
+| [Use Case 1](FT1-kayttotapaus.md) | Onko olemassa käyttötapauksia? |
+| [Vaatimus ReqID]() | Onko tiedossa vaatimuksia, joilla on vaikutusta ominaisuuteen? | 
+| [Rajaus ID]() | Onko olemassa rajoitteita, jotka on otettava huomioon | 
+| [Dokumentti ID]() | Muita lähteitä, joista pitää olla selvillä?  | 
 
-### Alustavat käyttäjätarinat (User Storys)
+### Ominaisuuden käyttäjätarinat (User Storys)
 
-*Kirjataan User Storyt alustavasti tähän*
+*Kirjataan tarvittaessa User Storyt tähän, mutta kirjataan käytännössä heti  Issueiksi*
 
 * Käyttäjän haluan, että voin.....
 * Ylläpitäjänä haluan, että voin.....
 
-**Nämä kannattaa siirtää pian issue kuvauksiksi*
+**Nämä kannattaa siirtää pian issue kuvauksiksi, ja liittää linkki muodossa #luku*
 
-esim. #8 #2
-
+esim. #9
 
 ### Käyttöliittymänäkymä/mock 
 
-> Tähän kannattaa liittää tarvittaessa kuvausta kuvan/mockup-näkymän muodossa. 
-Se helpottaa ymmärtämään tarvittaessa oleellisesti ominaisuutta/toiminnallisuutta
+>Tähän kannattaa liittää tarvittaessa kuvausta kuvan/mockup-näkymän muodossa. 
+Se selkeyttää ominaisuuden suunniteltua käyttöä.
 
 ```plantuml
 salt
@@ -60,18 +55,17 @@ salt
 }
 ```
 
-
 ### Testaus / mahdolliset hyväksyntä kriteerit 
 
 *Kirjataan muutamia huomiota testauksen kannalta*
 
-| Testitapaus  | Testin lähde  | Kuka vastaa  |
-|:-: | :-:|:-:|
-| [Hyväksyntätesti 1](pohjat/pohja-hyvaksyntatesti.md)  | vaatimus id?   |   |
-| [Hyväksyntätesti 2](pohjat/pohja-hyvaksyntatesti.md)  | vaatimus id?   |   |
-| [Hyväksyntätesti 3](pohjat/pohja-hyvaksyntatesti.md)  | vaatimus id?   |   |
-| [Hyväksyntätesti 4](pohjat/pohja-hyvaksyntatesti.md)  | vaatimus id?   |   |
-| | |
+
+| Testitapaus  | Kuvaus  |
+|:-: | :-:|
+| [Hyväksyntätesti 1](pohjat/pohja-hyvaksyntatesti.md) | Hyväksyntätesti (acceptance test) |
+| [Hyväksyntätesti 2](pohjat/pohja-hyvaksyntatesti.md) | |
+| [Toiminnallinen testi 1]() | Toiminnallinentesti |
+| [Tietoturvatesti 5]()  | Tietoturvatesti |
 
 
 
