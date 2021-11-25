@@ -115,11 +115,12 @@ Step4 --> Step5
 Step5 --> Step6
 Step6 --> Step7
 Step6 --> Step8
-Step8 --> Step11
 Step8 --> Step9
 Step9 --> Step7 
 Step7 --> Step9
 Step9 --> Step10
+Step10 --> Step11
+Step11 --> Step12
 ```
 
 ### Käyttöliittymänäkymä/mockup 
