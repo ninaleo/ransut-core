@@ -149,13 +149,13 @@ Step11 --> Step12
 
 **Toiminnallinen ominaisuus (Feature) A  -Sisäinen sähköposti**
 
-    - (Toiminto) Asiakas_A voi lähettää postia toiselle henkilölle
-    - (Toiminto) Asiakas_A voi saada tietoa aiemmin tehdyistä valinnoista
+    - (Toiminto) Asiakas_A voi lähettää postia ulkopuoliselle henkilölle
+    - (Toiminto) Asiakas_A voi saada postia palvelun sisäiseltä käyttäjältä
 
 **Toiminnallinen Ominaisuus (Feature) B - laskutus**
 
-    - (Toiminto) Ylläpito-henkilö voi poistaa laskun Asiakaalta
-    - (Toiminto) Ylläpito-henkilö voi luoda uuden laskun Asiakkaalle 
+    - (Toiminto) Ylläpito_henkilö voi poistaa laskun Asiakaalta
+    - (Toiminto) Ylläpito_henkilö voi luoda uuden laskun Asiakkaalle 
 
 **Toiminnallinen Ominaisuus (Feature) C - pelitilanteen talletus**
 
