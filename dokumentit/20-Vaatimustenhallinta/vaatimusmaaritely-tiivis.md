@@ -181,14 +181,13 @@ Mieti tilannetta, että sinulta kysytään mitä palvelulla voi käytännösä t
 
 Toiminnalliset vaatimukset ovat aiemmin kirjattua toimintoja, jota palvelulta/ratkaisulta edellytetään. Jotkin toiminnallisista vaatimuksista ovat luonteeltaan laajempia kokonaisuuksia, eli ns. ominaisuuksia (Feature), joihin voidaan sisällyttää erilaisia toimintoja (Functions). Yllä kuvattu MindMap-kuvaus sisältää sekä ominaisuuksia, että niihin liittyviä toimintoja.
 
-Kun tunnistetaan perinteisesti toiminnallisia vaatimuksia kirjataan ne itsenäisenä taulukkoon. Seuraavat ehdot kannattaa ottaa huomioon:
+Kun tunnistetaan perinteisesti toiminnallisia vaatimuksia voidaan ne kirjataan taulukon muotoon. Seuraavat ehdot kannattaa ottaa huomioon:
 
 * *Vaatimus on oltava mitattavissa*
+* *Vaatimuksen on oltava yksiselitteinen ja selkeä*
 * *Vaatimukseen ei tule sisällyttää useampia vaatimuksia*
 * *Vaatimus kannattaa perustella, jos tarpeen*
 * *Vaatimuksen ei saa ylikirjoittaa aiemmin määriteltyä vaatimusta*
-
-Toiminnalliset vaatimukset voidaan kirjata taulukkoon ja näin saadaa käsitys tuotteen toiminnoista. Jotkin vaatimuksista ovat käytännössä ominaisuuksia
 
 
 | ID | Kuvaus | Toiminnallisuus johon vaatimus vaikuttaa | Ominaisuus	|				
@@ -199,6 +198,23 @@ Toiminnalliset vaatimukset voidaan kirjata taulukkoon ja näin saadaa käsitys t
 
 ## Toiminnalliset ominaisuudet
 
+MindMap-kuvauksessa on kirjattu tärkeimmät toiminnalliset ominaisuudet, joiden kohdalla kannattaa olla tarkkana! Eli mieti mitkä toiminnoista ovat jossain mielessä tärkeimpiä toimintoja koko palvelun kannalta? Nämä toiminnot voidaan "korottaa" toiminnallisiksi ominaisuuksiksi. Tärkeimmät ominaisuudet voidaan määritellä tarkasti ja niille voidaan luoda oma tarkentava kuvauksensa.
+Alla olevassa taulukossa näkyy esimerkkejä ominaisuuksista ja niihin liittyvistä vaatimuksista, joiden kautta voidaan tarkentaa ominaisuuteen liittyviä toimintoja.
+Ominaisuuksia voidaan tarvittaessa priorisoida, jonka avulla saadaan kuva siitä mitkä niistä ovat tärkeitä asiakkaan tai toteutuksen näkökulmasta.
+
+
+| Ominaisuus | Prioriteetti | Ominaisuuteen liittyvät vaatimukset/käyttötapaukset |
+|:-:|:-:|:-:|
+| [Feature 1 - raportti-generaattori](pohjat/pohja-ominaisuus.md) | P1 | Esim [FUNCTIONAL-REQ-C0001]() | 
+| [Feature 2 - lasku-arkisto](pohjat/pohja-ominaisuus.md) | P1 | Esim [FUNCTIONAL-REQ-C0011]() | 
+| [Feature 3 - avatar-valinta](pohjat/pohja-ominaisuus.md) | P2 | Esim [FUNCTIONAL-REQ-C0023]() |
+| [Feature 4 - oikeushallinta](pohjat/pohja-ominaisuus.md) | P3 | Esim [FUNCTIONAL-REQ-C0133]() |
+| [Feature 5](pohjat/pohja-ominaisuus.md) | P4 | Esim [FUNCTIONAL-REQ-C0231]() |
+| [Feature 6](pohjat/pohja-ominaisuus.md) | P5 | Esim [FUNCTIONAL-REQ-C0221]() |
+| [Feature 7](pohjat/pohja-ominaisuus.md) | P5 | Esim [FUNCTIONAL-REQ-C0021]() |
+| [Feature 8](pohjat/pohja-ominaisuus.md) | P5 | EEsim [FUNCTIONAL-REQ-C0301]() |
+| [Feature 9](pohjat/pohja-ominaisuus.md) | P5 | Esim [FUNCTIONAL-REQ-C0401]() |
+| [Feature 10](pohjat/pohja-ominaisuus.md) | P5 | Esim [FUNCTIONAL-REQ-C0401]() |
 
 
 ### Käyttöliittymänäkymä/mockup 
@@ -207,6 +223,8 @@ Toiminnalliset vaatimukset voidaan kirjata taulukkoon ja näin saadaa käsitys t
 
 >Perinteisesti käyttöliittymä hahmotelmat ja kuvaukset on tehty piirtämällä käyttöliittymäehdotuksia kuvia ja näitä hyödynnetään suunnittelun apuna. 
 Uutta palvelua määriteltäessä tarvitaan käsitys toivotusta toteuttamistavoista ja tähän MockUp-kuvakset ovat hyödyllisiä apu. Käyttöliittymän rakennetta voidaan kuvata myös PlantUML-kuvauksien avulla. Näitä kuvauksia voidaan luodat tarvittaessa useampia.
+
+>Käyttöliittymän kuvauksia voidaan tarvittaessa liittää myös osaksi ominaisuuksien määrittelyä [Feature-ominaisuus-esimerkki](pohjat/pohja-ominaisuus.md)
 
 **Esimerkki yksinkertaisesta käyttöliittymän dialogista**
 
@@ -224,40 +242,34 @@ salt
 }
 ```
 
+## Palveluun liittyvätä käyttötarinat 
 
-
-
-
-
-
-## Palvelun alustavat käyttötarinat 
-
->Ohjelmistojen kehittämisessä yleistynyt tapa käyttää kehitystavoitteiden määrittelyssä lähtökohtana eri käyttäjien konkreettisia toimintoja. Tarpeelliset toiminnallisuudet kirjataan User Story, eli käyttötarinoiden muodossa. Tutustu aiheeseen [User Story](https://en.wikipedia.org/wiki/User_story)
+>Ohjelmistokehityksessä on yleistynyt tapa käyttää tavoitteiden määrittelyssä palvelua käyttävien sidosryhmien esittämiä kuvauksia tarvittavista toiminnoista. Nämä asiakkaalta/sidosryhmiltä saadut ehdotukset kirjataan User Story, eli käyttötarinan muotoon. Kannattaa tutustu aiheeseen [User Story](https://en.wikipedia.org/wiki/User_story). Käyttäjätarinat ovat kehitystiimin kannalta erittäin oleellisia määrittelyjä, koska ne ovat käytännössä toimintoja joita toteutetaan palveluun. User Storyjen avulla ohjataa kokonaisia kehitystiimejä tuotekehityksen aikana.
 
 >Käyttötarina kuvauksen yleinen muoto on: 
 
 *As a <-role-> I can <-capability->, so that <-receive benefit->*
 
->Käytä esimerkissä aiemmin määrittelemääsi profiili/sidosryhmää ja kirjoita tarvittava toiminnallisuus/tarve taulukkoon alla.
+>Yksittäinen käyttötarina (User Story) voidaan kirjata esim Gitlab-palvleussa ns. Issuen muodossa. Issue esimerkin voit löytää osoittesta #7 
+>User Storyt voidaan alkuvaiheessa kerätä myös taulukkoon/listaan ja ne siirretään ajalla Issue-muotoon.
 
 | ID | Tyyppi | Kuvaus | Linkki |
 |:-:|:-:|:-:|:-:|
-| UserStory-001 | Käyttäjätarina | Esim. Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #1 |
-| UserStory-002 | Käyttäjätarina | Esim. Käyttäjänä haluan, että voin poistaa historian tekemistäni ostoista viimeisen kuukauden ajalta, koska en halua muistella menneitä | #2 |
+| US-001 | Käyttäjätarina | Esim. Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #8 |
+| US-002 | Käyttäjätarina | Esim. Käyttäjänä haluan, että voin poistaa historian tekemistäni ostoista viimeisen kuukauden ajalta, koska en halua muistella menneitä | Linkki  #9 |
 
 ## Palveluun liittyvät tekniset vaatimukset
 
->Kokonaisvaltaisia ohjelmisto palveluja määriteltäessa on hyvä tunnistaa ja kuvata tarvittavat teknologiat, laitteistot tai muut ratkaisut. 
-Nämä tekniset vaatimukset kertovat yleensä toimintaympäristöstä, jossa suunniteltavaa tuotetta/palvelua tullaan suorittamaan. Vaatimuksilla kuvataan vaadittua toimintaympäristöä, jossa palvelun on mahdollista toimia. Esimerkkeinä tarvittava palvelinympäristö, tietovarastot, varmistukset ja muut palvelun toiminnan kannalta tärkeät vaatimukset.
+>Kokonaisvaltaisia ohjelmisto palveluja määriteltäessa on tärkeä tunnistaa ja määritellä palvelun tuottamiseksi tarvittavat teknologiat, laitteistot tai muut tärkeät osa-järjestelmät. Esimerkkinä tarvittava palvelinympäristö, tietokanta, varmistusjärjestelmät ja muut palvelun toiminnan kannalta oleelliset tarpeet.
 
 *Esimerkkinä on kirjattu muutamia laitteistovaatimuksia Hardware Requirements*
 
-| ID | Tyyppi | Kuvaus | 
-|:-:|:-:|:-:|
-| HWREQ-0001 | Tekniset vaatimukset | Palvelun tärkeimpien palvelujen on oltava vähintään kahdennettu N+1 | |
-| HWREQ-0002 | Tekniset vaatimukset | Palvelimen muistikapasiteeti >32GB  ||
-| HWREQ-0003 | Tekniset vaatimukset | Palvelimen fyysinen sijainti on oltava EU-aluella| |
-| HWREQ-0004 | ... | ... ||
+| ID | Kuvaus | 
+|:-:|:-:|
+| HWREQ-0001 | Palvelun on oltava skaalattavissa HA-proxy ratkaisun varassa | |
+| HWREQ-0002 | Palvelimen muistikapasiteeti >32GB  ||
+| HWREQ-0003 | Palvelimen fyysinen sijainti on oltava EU-aluella| |
+| HWREQ-0004 |... ||
 
 
 # Laadulliset eli ei-toiminnalliset vaatimukset (Non-functional Requirements)
@@ -274,11 +286,11 @@ Nämä tekniset vaatimukset kertovat yleensä toimintaympäristöstä, jossa suu
 
 >Millaisia vaatimuksia palveluun kohdistuu suorituskyvyn näkökulmasta?
 
-| ID | Tyyppi | Kuvaus |
-|:-:|:-:|:-:|
-| PERFREQ-0000 | Suorituskyky | Kirjautuminen on mahdollista yhtäaikaa 100 käyttäjällä (100 request/s) |					
-| PERFREQ-0001 | Suorituskyky | Palvelun maksimi käyttäjä määrä on ? |
-| PERFREQ-0002 | Suorituskyky | ... ||
+| ID | Kuvaus |
+|:-:|:-:|
+| PERFREQ-0000 | Kirjautuminen on mahdollista yhtäaikaa 100 käyttäjällä (100 request/s) |					
+| PERFREQ-0001 | Palvelun maksimi käyttäjä määrä on ? |
+| PERFREQ-0002 | ... ||
 
 ## Tietoturvavaatimukset (Security Requirements)
 
@@ -286,11 +298,11 @@ Nämä tekniset vaatimukset kertovat yleensä toimintaympäristöstä, jossa suu
 
 >Millaisia vaatimuksia palveluun kohdistuu tietoturvan näkökulmasta? Tutustu samalla [VAHTI ohjeistukseen](https://vm.fi/documents/10623/360844/K%C3%A4sikirjan+liite+Tietoturvavaatimukset/56b3fb8f-bb54-4a65-a37f-79f6985d868c)
 
-| ID | Tyyppi | Kuvaus | Miten testataan? |
-|:-:|:-:|:-:|:-:|
-| SECURITY-REQ-0001 | Salasanassa on käytettävä vähintään MD5-tason salausta, koska [CONSTRAIN-000]() sitä edellyttää | [Testitapaus X]() |
-| SECURITY-REQ-0002 | Jokainen tapahtuma palvelussa on kirjattava käyttölogiin, että niitä voidaan tarkastella myöhemmin | [Testitapaus Y]() |
-| SECURITY-REQ-0003 | ... | ... |
+| ID |  Kuvaus |
+|:-:|:-:|
+| SECURITY-REQ-0001 | Salasanassa on käytettävä vähintään MD5-tason salausta, koska [CONSTRAIN-000]() sitä edellyttää |
+| SECURITY-REQ-0002 | Jokainen tapahtuma palvelussa on kirjattava käyttölogiin, että niitä voidaan tarkastella myöhemmin | 
+| SECURITY-REQ-0003 | ... |
 
 ## Saavutettavuusvaatimukset (Accessablity Requirements)
 
@@ -298,26 +310,26 @@ Nämä tekniset vaatimukset kertovat yleensä toimintaympäristöstä, jossa suu
 
 >Mitä tarkoitetaan saavutettavuudella? Millaisia asioita/ohjeistuksia on otettava huomioon palvelua toteutettaessa? Tutustu [saavutettavuusdirektiiviin](https://saavutettavuusdirektiivi.fi/saavutettavuus-verkkopalveluissa/) ja kirjaa  
 
-| ID  | Luokka | Kuvaus | Miten testataan? |
-|:-:|:-:|:-:|:-:|
-| ACCESSREQ-0000 | Saavutettavuus | | [Testit]() |	
-| ACCESSREQ-0001 | Saavutettavuus | | [Testit]() |
-| ACCESSREQ-0002 | Saavutettavuus | ... | ... |
+| ID  |  Kuvaus |
+|:-:|:-:|:-:|
+| ACCESSREQ-0000 | Palvelun käyttöliittymässä on oltava korkeakontrasti teema, että se on luettava |	
+| ACCESSREQ-0001 | Käyttöliittymän fonttikokoa on voitava muuttaa valikon kautta |
+| ACCESSREQ-0002 |  ... |
 
 ### Rajaukset ja reunaehdot (Constraints and limitations)
 
 >Eri ohjelmistojena/palvelujen toteutusta ja käyttöä ohjaavat usein lait ja säädökset. Näiden edellyttämät vaatimukset kirjataan vaatimusmäärittelyyn rajauksina. Rajausten (Constraints) vaikutus voi koskea koko palvelua palvelun jonkin osa-kokonaisuuden toteuttamista. Tästä syystä eri rajoitteet on tunnistettava ajoissa, koska vaikutus saataa olla varsin ratkaiseva pitemmällä tähtäimella. Esimerkkinä tästä on viime vuonna voimaan tullut [EU GDPR-säädös](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation).
 Kannattaa tutkia esimerkiksi https://www.sfs.fi/aihealueet/terveydenhuolto/laakinnalliset_laitteet tai http://docs.jhs-suositukset.fi/jhs-suositukset/JHS190/JHS190.html
 
-| ID | Tyyppi | kategoria | Vastuullinen |
-|:-:|:-:|:-:|:-:|
-| CONSTRAIN-000  | Rajaus | Palvelun kirjautumisprosessin on noudatettava JUHTA-hyväksyttyjä käytänteitä  | [Kirjautuminen ft1](pohjat/pohja-ominaisuus.md) |
-| CONSTRAIN-001 | Rajaus | On huomioitava Standardi ZZZ osana palvelun tapahtuma login talletusta | [Log-palvelin](pohjat/pohja-ominaisuus.md)|
-| CONSTRAIN-002 | Rajaus | ... | ... |
+| ID |  Rajaus/reunaehto | Mihin vaikuttaa |
+|:-:|:-:|:-:|
+| CONSTRAIN-000  |  Palvelun kirjautumisprosessin on noudatettava JUHTA-hyväksyttyjä käytänteitä  | [Feature Kirjautuminen(pohjat/pohja-ominaisuus.md) |
+| CONSTRAIN-001 |  Palvelussa on huomioitava JHS:n suosituksest lokihallinasta | [Feature - Lokihallinta](pohjat/pohja-ominaisuus.md)|
+| CONSTRAIN-002 |  ... | ... |
 
 ### Palvelun yleinen ohjelmistoarkkitehtuuri
 
->Vaatimusmäärittelyn voidaan sisällyttää erilaisia kuvauksia, joiden avulla voidaan esittää miten ohjelmistopalvelu on käytännössä mahdollista toteuttaa. Tämän kuvauksen voi tuottaa esimerkkinä UML-kuvauskieleen liittyvä sijoittelunäkymä, eli Deployment Diagram", kuvauksen avulla voi esittää miten palvelu on tarkoitus toteuttaa käytännössä. Missä sijaitsevat eri osat palvelusta ja miten eri osat on kytketty toisiinsa.
+>Vaatimusmäärittelyn osaksi voidaan sisällyttää tuotteeseen liittyen teknisisä kuvauksia, joiden avulla voidaan tarkentaa ohjelmistopalvelun vaatimuksia. Tärkeä dokumentti on tekninen arkkitehtuuri, joka voidaan lyhyessä muodossa liittää osaksi vaatimusmäärittelyä, mutta yleensä se on itsenäinen dokumentaation osa. Arkkitehtuuri kuvauksen voi laatia hyödyntäen apuan UML-kuvauskieleen sijoittelunäkymää (Deployment Diagram), jonka avulla voidaan kuvata miten palvelun eri osat toimivat käytännössä, eli missä sijaitsevat eri osat palvelusta ja miten ne kytkeytyvät toisiinsa.
 
 ```plantuml
 @startuml
