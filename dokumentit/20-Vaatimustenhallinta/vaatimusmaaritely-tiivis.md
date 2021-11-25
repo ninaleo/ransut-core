@@ -1,14 +1,15 @@
 # Tiivistetty vaatimusmäärittely
 
+>Vaatimusmäärittelyn kirjoittajalle!>Poistaa ohjetekstit ja korvaa esimerkit toimeksiantoon liittyvillä tiedoilla. Älä muuta otsikointia ratkaisevasti, mutta poista ylimääräiset höpinät ja video linkit pois :)
+>Terveisin,
+>Ohjaajat
+
 |  |  |
 |:-:|:-:|
 | Dokumentti | Tiivistetty vaatimusmääritelmä |
-| Laatija: | |
-| Versio: | |
-| Päivämäärä: | |
-
-
-
+| Laatija: | *nimi* |
+| Versio: | *0.0?* |
+| Päivämäärä: | 1.x.202y |
 
 ## Johdanto
 
@@ -288,6 +289,8 @@ salt
 
 ![](https://openclipart.org/image/400px/29153)
 
+
+
 >Vaatimusmäärittelyn työstäminen voidaan nähdä kahden eri näkökulman kannalta.
 
 **Ongelma kenttä (Problem Domain) vs Ratkaisu kentttä (Solution Domain)**
@@ -302,6 +305,9 @@ salt
 >* Komponenttitason vaatimukset (Component Requirements)
 
 >Opintojakson kannalta keskitytään tunnistamaan toiminnalliset vaatimukset, ei-toiminnalliset vaatimukset (suorituskyky, tietoturva ja saavutettavuus)
+
+* [Vaatimusmäärittelystä Wikipediassa](https://en.wikipedia.org/wiki/Requirements_analysis)
+
 
 *Vaatimusten jäljitettävyydestä*
 
@@ -397,13 +403,13 @@ Kannattaa tutkia esimerkiksi https://www.sfs.fi/aihealueet/terveydenhuolto/laaki
 | CONSTRAIN-001 |  Palvelussa on huomioitava JHS:n suosituksest lokihallinasta | [Feature - Lokihallinta](pohjat/pohja-ominaisuus.md)|
 | CONSTRAIN-002 |  ... | ... |
 
-## Palvelun yleinen ohjelmistoarkkitehtuuri
+## Ohjelmistoarkkitehtuuri
 
->Vaatimusmäärittelyn osaksi voidaan sisällyttää tuotteeseen liittyen teknisisä kuvauksia, joiden avulla voidaan tarkentaa ohjelmistopalvelun vaatimuksia. Tärkeä dokumentti on tekninen arkkitehtuuri, joka voidaan lyhyessä muodossa liittää osaksi vaatimusmäärittelyä, mutta yleensä se on itsenäinen dokumentaation osa. Arkkitehtuuri kuvauksen voi laatia hyödyntäen apuan UML-kuvauskieleen sijoittelunäkymää (Deployment Diagram), jonka avulla voidaan kuvata miten palvelun eri osat toimivat käytännössä, eli missä sijaitsevat eri osat palvelusta ja miten ne kytkeytyvät toisiinsa.
+>Vaatimusmäärittelyn osaksi voidaan sisällyttää erilaisia teknisisä kuvauksia, joiden avulla voidaan tarkentaa vaatimuksia. Yksi tärkeä dokumentti voi olla esimerkiksi tekninen arkkitehtuuri. Tämä kuvaus voidaan lyhyessä muodossaan liittää osaksi vaatimusmäärittelyä, mutta yleensä se on varsin laaja itsenäinen dokumentaation osa. Arkkitehtuurikuvaukseen liittyviä eri kuvauksia voidaan laatia hyödyntäen apuan UML-kuvauskieleen, joista esimerkkinä alla on  sijoittelunäkymä (Deployment Diagram). Sijoittelunäkymän avulla voidaan kuvata miten palvelun eri palvelut sijaitsevat ja miten ne kytkeytyvät toisiinsa.
 
 Ohjelmistoarkkitehtuurin kuvaus on itsessään laaja osa-alue ja käytännössä se edellyttää laajempaa dokumentaatiota.
 
-* [Ohjelmistoarkkitehtuurin kuvaus](../30-Suunnittelu-ja-toteutus/arkkitehtuuri-ja-tekninentoteutus.md)
+* [Linkki laajempaan ohjelmistoarkkitehtuurikuvaukseen](../30-Suunnittelu-ja-toteutus/arkkitehtuuri-ja-tekninentoteutus.md)
 
 
 
@@ -445,7 +451,8 @@ Logger_Container -- MariaDB_Container
 
 ## Palveluun liittyvät järjestelmäintegraatiot
 
->Alla olevat kuvaukset ovat esimerkkejä UML-kuvauksen mahdollisuuksista, kannattaa tutustua tarkemmin laajempaan vaatimusmäärittely pohjaan, koska siitä löytyy esimerkkejä. Järjestelmien välisiä yhteyksiä voidaan kuvata tarvittaessa esim. UML-kuvauksiin liittyvän sekvenssikaavion muodossa (Sequence Diagram). 
+>Ohjemiston arkkitehtuuriin kuvauksissa voidaan ottaa tarkasteluun palvelun liittyvät ulkopuoliset palvelut tai muut integraatiot eri järjestelmiin
+>Alla olevat kuvaukset on esimerkkejä UML-kuvausten mahdollisuuksista. Tässä kuvauksessa käytetään UML:n sekvenssikaaviota (Sequence Diagram) kuvaamaan valittua tapahtumaketjua. 
 
 ```plantuml
 Client_Host --> Service_Frontend: Login Request
