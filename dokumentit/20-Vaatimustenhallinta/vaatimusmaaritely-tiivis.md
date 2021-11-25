@@ -337,12 +337,12 @@ salt
 
 ![](../assets/work-to-do.png)
 
->Mitä tarkoitetaan saavutettavuudella? Millaisia asioita/ohjeistuksia on otettava huomioon palvelua toteutettaessa? Tutustu [saavutettavuusdirektiiviin](https://saavutettavuusdirektiivi.fi/saavutettavuus-verkkopalveluissa/) ja kirjaa  
+>Mitä tarkoitetaan saavutettavuudella? Millaisia asioita/ohjeistuksia on otettava huomioon palvelua toteutettaessa? Tutustu lähteeseen: [https://www.saavutettavuusvaatimukset.fi/](https://www.saavutettavuusvaatimukset.fi/)
 
 | ID  |  Kuvaus |
 |:-:|:-:|
-| ACCESSREQ-0000 | Palvelun käyttöliittymässä on oltava korkeakontrasti teema, että se on luettava |	
-| ACCESSREQ-0001 | Käyttöliittymän fonttikokoa on voitava muuttaa valikon kautta |
+| ACCESSREQ-0000 | Palvelun käyttöliittymässä on oltava mahdollista valita selkeä kontrasti-teema |	
+| ACCESSREQ-0001 | Käyttöliittymän Fonttikokoa on voitava muuttaa päävalikon kautta |
 | ACCESSREQ-0002 |  ... |
 
 ## Rajaukset ja reunaehdot (Constraints and limitations)
