@@ -154,24 +154,24 @@ Mieti tilannetta, että sinulta kysytään mitä palvelulla voi käytännösä t
 
 - Palvelun oleelliset toiminnot (Esimerkkejä) 
 
-**Ominaisuus A (Feature)**
+**Ominaisuus (Feature) A  -Sisäinen sähköposti**
 
     - Asiakas_A voi lähettää postia toiselle henkilölle
     - Asiakas_A voi saada tietoa aiemmin tehdyistä valinnoista
 
-**Ominaisuus B (Feature)**
+**Ominaisuus (Feature) B - Laskutus**
 
     - Ylläpito-henkilö voi poistaa laskun Asiakaalta
     - Ylläpito-henkilö voi luoda uuden laskun Asiakkaalle 
 
     - Asiakas_B voi jakaa kuvan
 
-**Ominaisuus C (Feature)**
+**Ominaisuus (Feature) C - Pelitilanteen talletus**
 
     - Pelaaja_B kykenee tallettamaan tilanteen
     - Asiakas_B voi liittää Asiakkaan_A ryhmään uuden henkilön
 
-**Ominaisuus E (Feature)**
+**Ominaisuus (Feature) D - Suorasoitto**
 
     - Asiakas_A voi soittaa tuntemalleen kaverille
 
@@ -192,7 +192,7 @@ Mieti tilannetta, että sinulta kysytään mitä palvelulla voi käytännösä t
 -- Toiminnallisus C - Dokumentin jakotoiminto
 --- Toiminto 5 - Asiakas_B voi jakaa kuvatiedoston
 --- Toiminto 6 - Asiakas_A voi kommentoida dokumenttia
--- Toiminnallisuus D - Tilanteen talletus
+-- Toiminnallisuus D - Pelitilanteen talletus
 --- Toiminto 7 - Pelaaja_C kykenee tallettamaan tilanteen valitulla hetkellä
 --- Toiminto 8 - Pelaaja_C voi poistaa aiemman talletukse
 @endmindmap
