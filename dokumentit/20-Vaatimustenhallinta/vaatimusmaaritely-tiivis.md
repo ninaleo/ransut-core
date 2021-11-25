@@ -282,21 +282,20 @@ salt
 | US-002 | Käyttäjänä haluan, että voin poistaa historian tekemistäni ostoista viimeisen kuukauden ajalta, koska en halua muistella menneitä | Linkki  #8 |
 
 
-## Tietojärjestelmiä yleisesti koskevista vaatimukset
+## Tietojärjestelmiä yleisesti koskevista vaatimuksista
 
 >Laajoja tietojärjestelmiä/ohjemistoja suunniteltaessa vaatimuksille voidaan osoittaa eri tasoja ja näkökulmia, jotka täytyy ottaa huomioon tuotekehityksen aikana. 
-
-Tietojärjestelmien suunnittelussa voi käyttää analogiaa jäävuoresta, josta näkyy osa, mutta iso osa on piilossa veden alla. Sama pätee tietojärjestelmän vaatimuksiin. Korkealta tasolta katsottuna näyttä kokonaisuus selkeältä, mutta yksityiskohtiin mentäessä työ hankaloituu. 
+>Tietojärjestelmien suunnittelussa voi käyttää analogiaa jäävuoresta, josta näkyy osa, mutta iso osa on piilossa veden alla. Sama pätee tietojärjestelmän vaatimuksiin. Korkealta tasolta katsottuna näyttä kokonaisuus selkeältä, mutta yksityiskohtiin mentäessä työ hankaloituu. 
 
 ![](https://openclipart.org/image/400px/29153)
 
 >Vaatimusmäärittelyn työstäminen voidaan nähdä kahden eri näkökulman kannalta.
 
-**Problem Domain vs Solution Domain**
+**Ongelma kenttä (Problem Domain) vs Ratkaisu kentttä (Solution Domain)**
 
->Eli on tunnettava riittävän tarkasti ongelmakenttä (Asiakkaan/toimeksiantajan tarve), että voidaan tuottaa ratkaisu (Tuotettu ratkaisu -> ohjelmistopalvelu)
+>Eli on tunnettava riittävän tarkasti ongelmakenttä (Asiakkaan/toimeksiantajan tarve), että voidaan kehittää siihen sopiva ratkaisu (esim. ohjelmistopalvelu)
 
->Vaatimusten eri muodot/tasot voivat olla esimerkiksi seuraavia:
+>Tietojärjestelmän vaatimusten eri muotoja voivat olla olla esimerkiksi
 >* Asiakasvaatimukset (Customer Needs)
 >* Liiketoimintavaatimukset (Business Requirements/Needs)
 >* Järjestelmävaatimukset (System Requirements)
@@ -304,6 +303,19 @@ Tietojärjestelmien suunnittelussa voi käyttää analogiaa jäävuoresta, josta
 >* Komponenttitason vaatimukset (Component Requirements)
 
 >Opintojakson kannalta keskitytään tunnistamaan toiminnalliset vaatimukset, ei-toiminnalliset vaatimukset (suorituskyky, tietoturva ja saavutettavuus)
+
+*Vaatimusten jäljitettävyydestä*
+
+>Eri vaatimusten eri muodoilla voidaan tarkastella kehitettävää tuotetta eri näkökulmista, mutta eri tasojen välillä olevilla vaatimuksilla voi olla yhteys. 
+Näitä yhteyksiä kutsutaan vaatimusten jäljitettävyydeksi (Traceablity). 
+
+> * *Asiakasvaatimus CUST001* -> *Ominaisuus FEA001* --> *Toiminnallinen vaatimus Y*
+> * *Asiakasvaatimus CUST001* -> *Liiketoiminnan vaatimus BISREQ100* -> *Ominaisuus FEA001*
+> * *Tietoturvavaatimus SEC001* -> *Ominaisuus FEA001*
+
+>Vahvan jäljitettävyyden avulla voidaan tarkastella yksittäisten muutosten vaikutusta koko tuotteeseen. Tässä tilanteessa voidaan yksittäistä vaatimusta "törmäyttää" ja nähdään minne kaikkialle vaikutus ulottuu (Impact analysis).
+>Tämän vaatii vaatimusmäärittelytyön tueksi tarkoitukseen sopia työkaluja (Requirement Management Tools)
+
 
 
 ## Palveluun liittyvät tekniset vaatimukset
