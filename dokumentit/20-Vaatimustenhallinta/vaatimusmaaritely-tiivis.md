@@ -290,15 +290,20 @@ Tietojärjestelmien suunnittelussa voi käyttää analogiaa jäävuoresta, josta
 
 ![](https://openclipart.org/image/400px/29153)
 
-Vaatimusten eri muodot/tasot voivat olla esimerkiksi seuraavia:
+>Vaatimusmäärittelyn työstäminen voidaan nähdä kahden eri näkökulman kannalta.
 
-* Asiakasvaatimukset (Customer Needs)
-* Liiketoimintavaatimukset (Business Requirements/Needs)
-* Järjestelmävaatimukset (System Requirements)
-* Ali-järjestelmän vaatimukset (Sub-System Requirement)
-* Komponenttitason vaatimukset (Component Requirements)
+**Problem Domain vs Solution Domain**
 
-Opintojakson kannalta keskitytään tunnistamaan toiminnalliset vaatimukset, ei-toiminnalliset vaatimukset (suorituskyky, tietoturva ja saavutettavuus)
+>Eli on tunnettava riittävän tarkasti ongelmakenttä (Asiakkaan/toimeksiantajan tarve), että voidaan tuottaa ratkaisu (Tuotettu ratkaisu -> ohjelmistopalvelu)
+
+>Vaatimusten eri muodot/tasot voivat olla esimerkiksi seuraavia:
+>* Asiakasvaatimukset (Customer Needs)
+>* Liiketoimintavaatimukset (Business Requirements/Needs)
+>* Järjestelmävaatimukset (System Requirements)
+>* Ali-järjestelmän vaatimukset (Sub-System Requirement)
+>* Komponenttitason vaatimukset (Component Requirements)
+
+>Opintojakson kannalta keskitytään tunnistamaan toiminnalliset vaatimukset, ei-toiminnalliset vaatimukset (suorituskyky, tietoturva ja saavutettavuus)
 
 
 ## Palveluun liittyvät tekniset vaatimukset
