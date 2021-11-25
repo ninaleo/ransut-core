@@ -360,23 +360,24 @@ Näitä yhteyksiä kutsutaan vaatimusten jäljitettävyydeksi (Traceablity).
 ![](../assets/work-to-do.png)
 
 >Millaisia vaatimuksia palveluun kohdistuu suorituskyvyn näkökulmasta?
+>Mitä tarkoittaa suorituskyvyn testaus, eli [load testing](https://en.wikipedia.org/wiki/Load_testing) Tutustu myös K6-työkaluun? [K6-Load Tester](https://k6.io/)
 
 | ID | Kuvaus |
 |:-:|:-:|
-| PERFREQ-0000 | Kirjautuminen on mahdollista yhtäaikaa 100 käyttäjällä (100 request/s) |					
+| PERFREQ-0000 | Kirjautuminen on mahdollista yhtäaikaa x käyttäjällä |					
 | PERFREQ-0001 | Palvelun maksimi käyttäjä määrä on ? |
-| PERFREQ-0002 | ... ||
+| PERFREQ-0002 | Palvelun kotisivu aukeaa < Xs ||
 
 ### Tietoturvavaatimukset (Security Requirements)
 
 ![](../assets/work-to-do.png)
 
 >Millaisia vaatimuksia palveluun kohdistuu tietoturvan näkökulmasta? 
-> Tutustu samalla [VAHTI ohjeistukseen](https://vm.fi/documents/10623/360844/K%C3%A4sikirjan+liite+Tietoturvavaatimukset/56b3fb8f-bb54-4a65-a37f-79f6985d868c)
+> Tutustu [VAHTI 1/2013 Sovelluskehityksen tietoturvaohje](https://www.suomidigi.fi/ohjeet-ja-tuki/vahti-ohjeet/vahti-12013-sovelluskehityksen-tietoturvaohje)
 
 | ID |  Kuvaus |
 |:-:|:-:|
-| SECURITY-REQ-0001 | Salasanassa on käytettävä vähintään MD5-tason salausta, koska [CONSTRAIN-000]() sitä edellyttää |
+| SECURITY-REQ-0001 | Salasanassa on käytettävä vähintään MD5-tason salausta, koska vaatimus [CONSTRAIN-000]() sitä edellyttää |
 | SECURITY-REQ-0002 | Jokainen tapahtuma palvelussa on kirjattava käyttölogiin, että niitä voidaan tarkastella myöhemmin | 
 | SECURITY-REQ-0003 | ... |
 
