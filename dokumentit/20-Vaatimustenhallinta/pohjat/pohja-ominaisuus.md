@@ -62,10 +62,10 @@ salt
 
 | Testitapaus  | Kuvaus  |
 |:-: | :-:|
-| [Hyväksyntätesti 1](pohjat/pohja-hyvaksyntatesti.md) | Hyväksyntätesti (acceptance test) |
-| [Hyväksyntätesti 2](pohjat/pohja-hyvaksyntatesti.md) | |
-| [Toiminnallinen testi 1]() | Toiminnallinentesti |
-| [Tietoturvatesti 5]()  | Tietoturvatesti |
+| [Hyväksyntätesti 1](pohja-hyvaksyntatesti.md) | Hyväksyntätesti (acceptance test) |
+| [Hyväksyntätesti 2](pohja-hyvaksyntatesti.md) | |
+| [Toiminnallinen testi 1](pohja-testitapaus.md) | Toiminnallinentesti |
+| [Tietoturvatesti 5](pohja-testitapaus.md)  | Tietoturvatesti |
 
 
 
