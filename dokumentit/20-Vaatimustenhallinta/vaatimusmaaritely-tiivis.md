@@ -189,11 +189,10 @@ Kun tunnistetaan perinteisesti toiminnallisia vaatimuksia voidaan ne kirjataan t
 * *Vaatimus kannattaa perustella, jos tarpeen*
 * *Vaatimuksen ei saa ylikirjoittaa aiemmin määriteltyä vaatimusta*
 
-
 | ID | Kuvaus | Toiminnallisuus johon vaatimus vaikuttaa | Ominaisuus	|				
 |:-:|:-:|:-:|:-:|
-| [FUNCREQ-C0001]() | Palveluun kirjautumiseen voi käyttää Facebook-tunnuksia | [Kirjautumis-ikkuna](pohjat/pohja-ominaisuus.md) |
-| [FUNCREQ-C0002]() | Käyttöliittymää voidaan ohjata tarvittaessa äänikomennoilla | [Ääniohjaustuki](pohjat/pohja-ominaisuus.md) |
+| [FUNCREQ-C0001]() | Palveluun kirjautumiseen voi käyttää Facebook-tunnuksia | [Feature - Kirjautumis-ikkuna](pohjat/pohja-ominaisuus.md) |
+| [FUNCREQ-C0002]() | Käyttöliittymää voidaan ohjata tarvittaessa äänikomennoilla | [Feature - Ääniohjaustuki](pohjat/pohja-ominaisuus.md) |
 | [FUNCREQ-C0003]() | ... | ... |
 
 ## Toiminnalliset ominaisuudet
@@ -208,16 +207,10 @@ Ominaisuuksia voidaan tarvittaessa priorisoida, jonka avulla saadaan kuva siitä
 | [Feature 1 - raportti-generaattori](pohjat/pohja-ominaisuus.md) | P1 | Esim [FUNCTIONAL-REQ-C0001]() | 
 | [Feature 2 - lasku-arkisto](pohjat/pohja-ominaisuus.md) | P1 | Esim [FUNCTIONAL-REQ-C0011]() | 
 | [Feature 3 - avatar-valinta](pohjat/pohja-ominaisuus.md) | P2 | Esim [FUNCTIONAL-REQ-C0023]() |
-| [Feature 4 - oikeushallinta](pohjat/pohja-ominaisuus.md) | P3 | Esim [FUNCTIONAL-REQ-C0133]() |
-| [Feature 5](pohjat/pohja-ominaisuus.md) | P4 | Esim [FUNCTIONAL-REQ-C0231]() |
-| [Feature 6](pohjat/pohja-ominaisuus.md) | P5 | Esim [FUNCTIONAL-REQ-C0221]() |
-| [Feature 7](pohjat/pohja-ominaisuus.md) | P5 | Esim [FUNCTIONAL-REQ-C0021]() |
-| [Feature 8](pohjat/pohja-ominaisuus.md) | P5 | EEsim [FUNCTIONAL-REQ-C0301]() |
-| [Feature 9](pohjat/pohja-ominaisuus.md) | P5 | Esim [FUNCTIONAL-REQ-C0401]() |
-| [Feature 10](pohjat/pohja-ominaisuus.md) | P5 | Esim [FUNCTIONAL-REQ-C0401]() |
+| ... | ... | ... |
 
 
-### Käyttöliittymänäkymä/mockup 
+## Käyttöliittymänäkymä/mockup 
 
 >Ohjelmistotuotteen tavoitetilan kuvaamiseen tarvitaan usein visuuaalisia esityksiä. Miltä tuotteen tulisi näyttää ja mitä käyttöliittymään tarvitaan? Tässä tehtävässä voidaan hyödyntää nykyaikaisia MockUp-työkaluja. Näiden välineiden avulla voidaan luoda kokeiltava prototyyppi, jota voidaan käyttää apuna palvelun määrittelyssä. 
 
@@ -242,7 +235,7 @@ salt
 }
 ```
 
-## Palveluun liittyvätä käyttötarinat 
+## Palvelu ja käyttötarinat 
 
 >Ohjelmistokehityksessä on yleistynyt tapa käyttää tavoitteiden määrittelyssä palvelua käyttävien sidosryhmien esittämiä kuvauksia tarvittavista toiminnoista. Nämä asiakkaalta/sidosryhmiltä saadut ehdotukset kirjataan User Story, eli käyttötarinan muotoon. Kannattaa tutustu aiheeseen [User Story](https://en.wikipedia.org/wiki/User_story). Käyttäjätarinat ovat kehitystiimin kannalta erittäin oleellisia määrittelyjä, koska ne ovat käytännössä toimintoja joita toteutetaan palveluun. User Storyjen avulla ohjataa kokonaisia kehitystiimejä tuotekehityksen aikana.
 
@@ -272,15 +265,23 @@ salt
 | HWREQ-0004 |... ||
 
 
-# Laadulliset eli ei-toiminnalliset vaatimukset (Non-functional Requirements)
+## Laadulliset vaatimukset (Non-functional Requirements)
 
->Mitä olivat ei-toiminnalliset vaatimukset? Voit esittää eri vaatimuksia erillisessä taulukossa tai viitata tässä [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan taulukkoon. [Ei-toiminnalliset vaatimukset](https://en.wikipedia.org/wiki/Non-functional_requirement) sisältää laajan joukko eri näkökulmia sähköiseen palveluun liittyen. Tärkeimmät kirjoittajan näkökulmasta ovat seuraavat: Suorituskyky, tietoturva ja saavutettavuus 
+
+>Laadulliset vaatimukset tarkastelevat palvelussa tarkastellaan palvelua ei toiminnallisesta näkökulmasta. Kuulostaa ehkä äkkiseltään hankalalta, mutta mieti seuraavia kysymyksiä?
+
+* *Miten tuottesta saadaa turvallinen?*
+* *Mitkä asiat on huolehdittava, että tuote on hyväksyttävissä viranomaisten käyttöön?*
+* *Miten paljon käyttäjiä voi olla yhtäaikaa*
+* *Onko palvelun tarkoitus joskus toimia laajemmalla käyttäjäkunnalla*
+* *Miten voidaan varmistaa, että palvelu on saavutettavissa kaikkien käyttäjien kannalta?*
+
+>[Ei-toiminnalliset vaatimuksia](https://en.wikipedia.org/wiki/Non-functional_requirement) on useita eri tyyppejä, mutta opintojen kannalta tärkeimmiksi on valittu: suorituskyky, tietoturva ja saavutettavuus 
 >* Suorituskyky (Performance Requirement)
 >* Tietoturva (Security Requirement)
 >* Saavutettavuus (Accessability Requirement)
->*
 
-## Suorituskykyvaatimukset (Performance Requirements)
+### Suorituskykyvaatimukset (Performance Requirements)
 
 ![](../assets/work-to-do.png)
 
@@ -292,11 +293,12 @@ salt
 | PERFREQ-0001 | Palvelun maksimi käyttäjä määrä on ? |
 | PERFREQ-0002 | ... ||
 
-## Tietoturvavaatimukset (Security Requirements)
+### Tietoturvavaatimukset (Security Requirements)
 
 ![](../assets/work-to-do.png)
 
->Millaisia vaatimuksia palveluun kohdistuu tietoturvan näkökulmasta? Tutustu samalla [VAHTI ohjeistukseen](https://vm.fi/documents/10623/360844/K%C3%A4sikirjan+liite+Tietoturvavaatimukset/56b3fb8f-bb54-4a65-a37f-79f6985d868c)
+>Millaisia vaatimuksia palveluun kohdistuu tietoturvan näkökulmasta? 
+> Tutustu samalla [VAHTI ohjeistukseen](https://vm.fi/documents/10623/360844/K%C3%A4sikirjan+liite+Tietoturvavaatimukset/56b3fb8f-bb54-4a65-a37f-79f6985d868c)
 
 | ID |  Kuvaus |
 |:-:|:-:|
@@ -304,30 +306,30 @@ salt
 | SECURITY-REQ-0002 | Jokainen tapahtuma palvelussa on kirjattava käyttölogiin, että niitä voidaan tarkastella myöhemmin | 
 | SECURITY-REQ-0003 | ... |
 
-## Saavutettavuusvaatimukset (Accessablity Requirements)
+### Saavutettavuusvaatimukset (Accessablity Requirements)
 
 ![](../assets/work-to-do.png)
 
 >Mitä tarkoitetaan saavutettavuudella? Millaisia asioita/ohjeistuksia on otettava huomioon palvelua toteutettaessa? Tutustu [saavutettavuusdirektiiviin](https://saavutettavuusdirektiivi.fi/saavutettavuus-verkkopalveluissa/) ja kirjaa  
 
 | ID  |  Kuvaus |
-|:-:|:-:|:-:|
+|:-:|:-:|
 | ACCESSREQ-0000 | Palvelun käyttöliittymässä on oltava korkeakontrasti teema, että se on luettava |	
 | ACCESSREQ-0001 | Käyttöliittymän fonttikokoa on voitava muuttaa valikon kautta |
 | ACCESSREQ-0002 |  ... |
 
-### Rajaukset ja reunaehdot (Constraints and limitations)
+## Rajaukset ja reunaehdot (Constraints and limitations)
 
 >Eri ohjelmistojena/palvelujen toteutusta ja käyttöä ohjaavat usein lait ja säädökset. Näiden edellyttämät vaatimukset kirjataan vaatimusmäärittelyyn rajauksina. Rajausten (Constraints) vaikutus voi koskea koko palvelua palvelun jonkin osa-kokonaisuuden toteuttamista. Tästä syystä eri rajoitteet on tunnistettava ajoissa, koska vaikutus saataa olla varsin ratkaiseva pitemmällä tähtäimella. Esimerkkinä tästä on viime vuonna voimaan tullut [EU GDPR-säädös](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation).
 Kannattaa tutkia esimerkiksi https://www.sfs.fi/aihealueet/terveydenhuolto/laakinnalliset_laitteet tai http://docs.jhs-suositukset.fi/jhs-suositukset/JHS190/JHS190.html
 
 | ID |  Rajaus/reunaehto | Mihin vaikuttaa |
 |:-:|:-:|:-:|
-| CONSTRAIN-000  |  Palvelun kirjautumisprosessin on noudatettava JUHTA-hyväksyttyjä käytänteitä  | [Feature Kirjautuminen(pohjat/pohja-ominaisuus.md) |
+| CONSTRAIN-000  |  Palvelun kirjautumisprosessin on noudatettava JUHTA-hyväksyttyjä käytänteitä  | [Feature Kirjautuminen](pohjat/pohja-ominaisuus.md) |
 | CONSTRAIN-001 |  Palvelussa on huomioitava JHS:n suosituksest lokihallinasta | [Feature - Lokihallinta](pohjat/pohja-ominaisuus.md)|
 | CONSTRAIN-002 |  ... | ... |
 
-### Palvelun yleinen ohjelmistoarkkitehtuuri
+## Palvelun yleinen ohjelmistoarkkitehtuuri
 
 >Vaatimusmäärittelyn osaksi voidaan sisällyttää tuotteeseen liittyen teknisisä kuvauksia, joiden avulla voidaan tarkentaa ohjelmistopalvelun vaatimuksia. Tärkeä dokumentti on tekninen arkkitehtuuri, joka voidaan lyhyessä muodossa liittää osaksi vaatimusmäärittelyä, mutta yleensä se on itsenäinen dokumentaation osa. Arkkitehtuuri kuvauksen voi laatia hyödyntäen apuan UML-kuvauskieleen sijoittelunäkymää (Deployment Diagram), jonka avulla voidaan kuvata miten palvelun eri osat toimivat käytännössä, eli missä sijaitsevat eri osat palvelusta ja miten ne kytkeytyvät toisiinsa.
 
