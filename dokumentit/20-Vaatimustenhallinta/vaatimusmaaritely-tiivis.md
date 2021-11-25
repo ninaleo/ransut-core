@@ -7,6 +7,9 @@
 | Versio: | |
 | Päivämäärä: | |
 
+
+
+
 ## Johdanto
 
 ![](../assets/work-to-do.png)
@@ -20,6 +23,7 @@ käytää olemassa olevia tilaajien oikeita nimiä! Muussa tapauksessa vaihdetaa
 
 >Mitä toteutettavan palvelun/ratkaisun avulla tavoitellaan? Tämä voidaan käsitellä myös projektisuunnitelmassa, mutta vaatimusmäärittelyn yhteydessä voidaan tarkemmin kuvat tavoiteltua ratkaisua.
 
+* [Linkki projektisuunnitelmaan?]()
 * Tavoite A
 * Tavoite B
 * Tavoite C
