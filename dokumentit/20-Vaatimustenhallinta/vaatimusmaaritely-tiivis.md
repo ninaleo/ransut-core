@@ -284,8 +284,7 @@ salt
 
 ## Tietojärjestelmiä yleisesti koskevista vaatimuksista
 
->Laajoja tietojärjestelmiä/ohjemistoja suunniteltaessa vaatimuksille voidaan osoittaa eri tasoja ja näkökulmia, jotka täytyy ottaa huomioon tuotekehityksen aikana. 
->Tietojärjestelmien suunnittelussa voi käyttää analogiaa jäävuoresta, josta näkyy osa, mutta iso osa on piilossa veden alla. Sama pätee tietojärjestelmän vaatimuksiin. Korkealta tasolta katsottuna näyttä kokonaisuus selkeältä, mutta yksityiskohtiin mentäessä työ hankaloituu. 
+>Laajoja tietojärjestelmiä/ohjelmistoja suunniteltaessa vaatimuksia voidaan kirjata eri näkökulmista. Tietojärjestelmien suunnittelussa voi käyttää analogiana kuvaa jäävuoresta, josta pinnalla näkyy osa, mutta iso osa (90%) on piilossa veden alla. Tämä pätee tietojärjestelmän vaatimuksiin. Korkealta tasolta katsottuna näyttää kokonaisuus ehkä selkeältä, mutta yksityiskohtiin mentäessä työ hankaloituu. 
 
 ![](https://openclipart.org/image/400px/29153)
 
