@@ -123,27 +123,6 @@ Step10 --> Step11
 Step11 --> Step12
 ```
 
-### Käyttöliittymänäkymä/mockup 
-
-![](../assets/work-to-do.png)
-
-> Jos projektin tuloksena tuo sähköinen ratkaisu, on sen konkretisoimiseksi hyvä hyödyntää esimerkiksi MockUp-kuvaa.
-Tähän kannattaa liittää tarvittaessa kuvausta kuvan/mockup-näkymän muodossa. Se helpottaa ymmärtämään tarvittaessa oleellisesti tavoiteltua ratkaisua. 
-
-```plantuml
-salt
-{
-  Just plain text
-  [This is my button]
-  ()  Unchecked radio
-  (X) Checked radio
-  []  Unchecked box
-  [X] Checked box
-  "Enter text here   "
-  ^This is a droplist^
-}
-```
-
 
 ## Tärkeimmät toiminnallisuudet/ominaisuudet
 
@@ -198,23 +177,47 @@ Mieti tilannetta, että sinulta kysytään mitä palvelulla voi käytännösä t
 @endmindmap
 ```
 
+### Käyttöliittymänäkymä/mockup 
 
+>Ohjelmistotuotteen tavoitetilan kuvaamiseen tarvitaan usein visuuaalisia esityksiä. Miltä tuotteen tulisi näyttää ja mitä käyttöliittymään tarvitaan? Tässä tehtävässä voidaan hyödyntää nykyaikaisia MockUp-työkaluja. Näiden välineiden avulla voidaan luoda kokeiltava prototyyppi, jota voidaan käyttää apuna palvelun määrittelyssä. 
 
-## Alustavat käyttäjätarinat
+>Perinteisesti käyttöliittymä hahmotelmat ja kuvaukset on tehty piirtämällä käyttöliittymäehdotuksia kuvia ja näitä hyödynnetään suunnittelun apuna. 
+Uutta palvelua määriteltäessä tarvitaan käsitys toivotusta toteuttamistavoista ja tähän MockUp-kuvakset ovat hyödyllisiä apu. Käyttöliittymän rakennetta voidaan kuvata myös PlantUML-kuvauksien avulla. Näitä kuvauksia voidaan luodat tarvittaessa useampia.
 
-![](../assets/work-to-do.png)
+**Esimerkki yksinkertaisesta käyttöliittymän dialogista**
 
-> Ketterän kehityksen myötä on yleistynyt tapa kuvata asiakkaan tarpeita ns. käyttötarinoiden (User Story) muodossa. Kirjataan tähän ennalta tunnistetut käyttötarinat. Tutustu aiheeseen [User Story](https://en.wikipedia.org/wiki/User_story)
+```plantuml
+salt
+{
+  Just plain text
+  [This is my button]
+  ()  Unchecked radio
+  (X) Checked radio
+  []  Unchecked box
+  [X] Checked box
+  "Enter text here   "
+  ^This is a droplist^
+}
+```
+
+## Palvelun alustavat käyttötarinat 
+
+>Ohjelmistojen kehittämisessä yleistynyt tapa käyttää kehitystavoitteiden määrittelyssä lähtökohtana eri käyttäjien konkreettisia toimintoja. Tarpeelliset toiminnallisuudet kirjataan User Story, eli käyttötarinoiden muodossa. Tutustu aiheeseen [User Story](https://en.wikipedia.org/wiki/User_story)
+
+>Käyttötarina kuvauksen yleinen muoto on: 
+
+*As a <-role-> I can <-capability->, so that <-receive benefit->*
+
+>Käytä esimerkissä aiemmin määrittelemääsi profiili/sidosryhmää ja kirjoita tarvittava toiminnallisuus/tarve taulukkoon alla.
 
 | ID | Tyyppi | Kuvaus | Linkki |
 |:-:|:-:|:-:|:-:|
-| US-001 | Käyttäjätarina | Esim. Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #1 |
-| US-002 | Käyttäjätarina | Esim. Käyttäjänä haluan, että voin poistaa historian tekemistäni ostoista viimeisen kuukauden ajalta, koska en halua muistella menneitä | #2 |
+| UserStory-001 | Käyttäjätarina | Esim. Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #1 |
+| UserStory-002 | Käyttäjätarina | Esim. Käyttäjänä haluan, että voin poistaa historian tekemistäni ostoista viimeisen kuukauden ajalta, koska en halua muistella menneitä | #2 |
 
-## Yleiset tekniset vaatimukset
+## Tekniset vaatimukset
 
-> Teknisiä ratkaisuja määriteltäessa on hyvä tunnistaa tarvittavat teknologiat, laitteistot tai muut tarvittavat fyysiset ratkaisut. 
-Ohjelmiostoratkaisuja määriteltäessä kannattaa erottaa puhtaasti tekniset/tuotannolliset vaatimukset ja kirjata ne vaatimusmäärittelyyn esimerkiksi teknisinä vaatimuksina. 
+>Teknisiä ratkaisuja määriteltäessa on hyvä tunnistaa tarvittavat teknologiat, laitteistot tai muut tarvittavat fyysiset ratkaisut. Ohjelmiostoratkaisuja määriteltäessä kannattaa erottaa puhtaasti tekniset/tuotannolliset vaatimukset ja kirjata ne vaatimusmäärittelyyn esimerkiksi teknisinä vaatimuksina.
 
 | ID | Tyyppi | Kuvaus | 
 |:-:|:-:|:-:|
@@ -225,8 +228,7 @@ Ohjelmiostoratkaisuja määriteltäessä kannattaa erottaa puhtaasti tekniset/tu
 
 # Toiminnalliset vaatimukset (Functional Requirements)
 
->Mitä toimintoja palveluun liittyy? Nämä kannattaa kirjata ensi ns. toiminnallisina vaatimuksina? Toiminnallisilla vaatimuksilla kuvataan ohjelmistolta/järjestelmältä vaadittuja toimintoja.
-Toiminnalliset vaatimukset ovat helpoimmin tunnistettavia. Vältä useamman vaatimuksen kirjaamista samaan lauseeseen! Jokainen vaatimus erikseen.
+>Mitä toimintoja palveluun liittyy? Nämä kannattaa kirjata ensi ns. toiminnallisina vaatimuksina? Toiminnallisilla vaatimuksilla kuvataan ohjelmistolta/järjestelmältä vaadittuja toimintoja. Toiminnalliset vaatimukset ovat helpoimmin tunnistettavia. Vältä useamman vaatimuksen kirjaamista samaan lauseeseen! Jokainen vaatimus erikseen.
 
 | ID | Tyyppi | Kuvaus | Toiminnallisuus johon vaatimus vaikuttaa |								
 |:-:|:-:|:-:|:-:|
@@ -234,17 +236,15 @@ Toiminnalliset vaatimukset ovat helpoimmin tunnistettavia. Vältä useamman vaat
 | FUNCREQ-C0002 | Toiminnallinen vaatimus | Käyttöliittymää voidaan ohjata äänikomennoilla | [Toiminnallisuus Y](pohjat/pohja-ominaisuus.md) |
 | FUNCREQ-C0003 | Toiminnallinen vaatimus | ... | ... |
 
-# Laadulliset eli ei-toiminnalliset vaatimukset
+# Laadulliset eli ei-toiminnalliset vaatimukset (Non-functional Requirements)
 
->Mitä olivat ei-toiminnalliset vaatimukset? Voit esittää eri vaatimuksia erillisessä taulukossa tai viitata tässä [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan taulukkoon.
-[Ei-toiminnalliset vaatimukset](https://en.wikipedia.org/wiki/Non-functional_requirement) sisältää laajan joukko eri näkökulmia sähköiseen palveluun liittyen. Tärkeimmät kirjoittajan 
-näkökulmasta ovat seuraavat: Suorituskyky, tietoturva ja saavutettavuus 
+>Mitä olivat ei-toiminnalliset vaatimukset? Voit esittää eri vaatimuksia erillisessä taulukossa tai viitata tässä [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan taulukkoon. [Ei-toiminnalliset vaatimukset](https://en.wikipedia.org/wiki/Non-functional_requirement) sisältää laajan joukko eri näkökulmia sähköiseen palveluun liittyen. Tärkeimmät kirjoittajan näkökulmasta ovat seuraavat: Suorituskyky, tietoturva ja saavutettavuus 
 
-* Suorituskyky
-* Tietoturva
-* Saavutettavuus
+* Suorituskyky (Performance Requirement)
+* Tietoturva (Security Requirement)
+* Saavutettavuus (Accessability Requirement)
 
-## Suorituskykyyn liittyvät vaatimukset
+## Suorituskykyyn liittyvät vaatimukset (Performance Requirements)
 
 ![](../assets/work-to-do.png)
 
@@ -256,7 +256,7 @@ näkökulmasta ovat seuraavat: Suorituskyky, tietoturva ja saavutettavuus
 | PERFREQ-0001 | Suorituskyky | Palvelun maksimi käyttäjä määrä on ? |
 | PERFREQ-0002 | Suorituskyky | ... ||
 
-## Tietoturvan vaatimukset
+## Tietoturvan vaatimukset (Security Requirements)
 
 ![](../assets/work-to-do.png)
 
@@ -268,24 +268,21 @@ näkökulmasta ovat seuraavat: Suorituskyky, tietoturva ja saavutettavuus
 | SECURITY-REQ-0002 | Jokainen tapahtuma palvelussa on kirjattava käyttölogiin, että niitä voidaan tarkastella myöhemmin | [Testitapaus Y]() |
 | SECURITY-REQ-0003 | ... | ... |
 
-## Saavutettavuuden vaatimukset
+## Saavutettavuuden vaatimukset (Accessablity Requirements)
 
 ![](../assets/work-to-do.png)
 
->Mitä tarkoitetaan saavutettavuudella? Millaisia asioita/ohjeistuksia on otettava huomioon palvelua toteutettaessa?
-Tutustu [saavutettavuusdirektiiviin](https://saavutettavuusdirektiivi.fi/saavutettavuus-verkkopalveluissa/) ja kirjaa  
+>Mitä tarkoitetaan saavutettavuudella? Millaisia asioita/ohjeistuksia on otettava huomioon palvelua toteutettaessa? Tutustu [saavutettavuusdirektiiviin](https://saavutettavuusdirektiivi.fi/saavutettavuus-verkkopalveluissa/) ja kirjaa  
 
 | ID  | Luokka | Kuvaus | Miten testataan? |
 |:-:|:-:|:-:|:-:|
-| AVAILREQ-0000 | Saavutettavuus | | [Testit]() |	
-| AVAILREQ-0001 | Saavutettavuus | | [Testit]() |
-| AVAILREQ-0002 | Saavutettavuus | ... | ... |
+| ACCESSREQ-0000 | Saavutettavuus | | [Testit]() |	
+| ACCESSREQ-0001 | Saavutettavuus | | [Testit]() |
+| ACCESSREQ-0002 | Saavutettavuus | ... | ... |
 
-### Toimeksiannon kannalta tärkeät oleelliset rajaukset
+### Rajaukset ja reunaehdot (Constraints and limitations)
 
-> Eri ohjelmistojena/palvelujen toteutusta ja käyttöä ohjaavat usein lait ja säädökset. Näiden edellyttämät vaatimukset voidaan kirjataan tarvittaessa vaatimusmäärittelyyn.
-Rajausten vaikutus koskee usein palvelun jonkin osa-kokonaisuuden toteuttamista. Tästä syystä eri rajoitteet on tunnistettava ajoissa, koska vaikutus 
-saataa olla varsin ratkaiseva pitemmällä tähtäimella. Esimerkkinä tästä on viime vuonna voimaan tullut [EU GDPR-säädös](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation).
+> Eri ohjelmistojena/palvelujen toteutusta ja käyttöä ohjaavat usein lait ja säädökset. Näiden edellyttämät vaatimukset voidaan kirjataan tarvittaessa vaatimusmäärittelyyn. Rajausten vaikutus koskee usein palvelun jonkin osa-kokonaisuuden toteuttamista. Tästä syystä eri rajoitteet on tunnistettava ajoissa, koska vaikutus saataa olla varsin ratkaiseva pitemmällä tähtäimella. Esimerkkinä tästä on viime vuonna voimaan tullut [EU GDPR-säädös](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation).
 > Kannattaa tutkia esimerkiksi https://www.sfs.fi/aihealueet/terveydenhuolto/laakinnalliset_laitteet tai http://docs.jhs-suositukset.fi/jhs-suositukset/JHS190/JHS190.html
 
 | ID | Tyyppi | kategoria | Vastuullinen |
@@ -294,7 +291,9 @@ saataa olla varsin ratkaiseva pitemmällä tähtäimella. Esimerkkinä tästä o
 | CONSTRAIN-001 | Rajaus | On huomioitava Standardi ZZZ osana palvelun tapahtuma login talletusta | [Log-palvelin](pohjat/pohja-ominaisuus.md)|
 | CONSTRAIN-002 | Rajaus | ... | ... |
 
-### Palvelun tuotantoympäristö
+### Esimerkkinä palvelun tekninen tuotantoympäristö
+
+* Palv
 
 > Vaatimusmäärittelyn tukena sovelletaan erilaisia kuvauksia, joista esimerkkinä UML-kuvauskieleen liittyvä sijoittelu näkymä, eli "Deployment Diagram", kuvauksen avulla voi esittää miten palvelu on tarkoitus toteuttaa käytännössä. Missä sijaitsevat eri osat palvelusta ja miten eri osat on kytketty toisiinsa.
 
