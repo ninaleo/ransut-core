@@ -154,6 +154,10 @@ Step11 --> Step12
 >* Mitä toimintoja nostatat esiin? 
 > * Miksi tuotteesi on parempi kuin muut?
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jXYQH2hCsHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 **Toiminnalliset ominaisuudet ja niiden toiminnot**
 
 *Toiminnallinen ominaisuus (Feature) A  -Sisäinen sähköposti*
