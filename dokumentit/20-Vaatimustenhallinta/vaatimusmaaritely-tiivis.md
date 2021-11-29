@@ -205,6 +205,10 @@ Step11 --> Step12
 # Toiminnalliset vaatimukset (Functional Requirements)
 
 >Voidaan yleisesti sanoa, että palveluun liittyvät toiminnot (Functions) voidaan kirjata alkuvaiheessa toiminnallisina vaatimuksina (Functional Requirement), mutta osa niistä osoittautuu käytännössä palvelun kannalta laajemmiksi toiminnoiksi, eli ominaisuuksiksi (Features) ja tästä syystä niitä käsitellään hieman eritavoin kehityksen aikana. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pTv2hild0FQ?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 >Kun määritellään toiminnallisia vaatimuksia voidaan ne kirjataan yksinkertaisen taulukon muotoon. Seuraavat ehdot kannattaa ottaa huomioon:
 
 * *Vaatimus on oltava mitattavissa*
