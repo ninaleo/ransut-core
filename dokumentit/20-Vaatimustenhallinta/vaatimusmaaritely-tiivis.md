@@ -1,6 +1,10 @@
 # Tiivistetty vaatimusmäärittely
 
->Vaatimusmäärittelyn kirjoittajalle!>Poistaa ohjetekstit ja korvaa esimerkit toimeksiantoon liittyvillä tiedoilla. Älä muuta otsikointia ratkaisevasti, mutta poista ylimääräiset höpinät ja video linkit pois :)
+>Vaatimusmäärittelyn kirjoittajalle!
+Poista työn edetessä eri ohjetekstit ja korvaa taulukoissa annetut esimerkit toimeksiantoon liittyvillä tiedoilla. Älä muuta otsikointia ratkaisevasti, mutta voit poistaa ylimääräiset höpinät ja video linkit pois :)
+
+Löydät viimeisimmän version osoitteesta [Lyhennetty-vaatimusmääritelmä](https://jamkit.pages.labranet.jamk.fi/project-templates/fi-opf-2021-core-template-v2/20-Vaatimustenhallinta/vaatimusmaaritely-tiivis/)
+
 >Terveisin,
 >Ohjaajat
 
