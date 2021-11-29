@@ -236,6 +236,9 @@ Step11 --> Step12
 >Ominaisuuden käsiteen rinnalla käytetään suomenkielisessä kirjallisuudessa myös sanaa *piirre*, jotka vastaavat englannin kielisessä yleisesti käytettyä *feature*-käsitettä. 
 >Tarina väliin: 
 >Ymmärtääksesi paremmin ominaisuuden käsitteen mieti seuraavaa: Kilpailevat streaming-palvelut esim. Netflix, HBO, Disney etc tarjota asiakkaalle palveluissaan pitkälti samoja ominaisuuksia, mutta niiden toiminnoissa voi olla ratkaisevia eroja. Yksittäiset toimintojen toteutus voi vaihdella palvelusta riippuen. Yleiset toiminnot, kuten "play", "pause" ja "stop" löytyvät kaikista palveluista, mutta miten toimii esimerkiksi "fast forward"-toiminnot? Muita eroja palvelujen välillä voi tulla esiin yleisessä käytettävyydessä, suorituskyvyssää tai tietoturvassa.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ghpjWtlDnF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Eri ominaisuudet ovat tärkeitä palvelukehityksen kannalta, koska niiden avulla erotutaan kilpailijoista ja niiden avulla voidaan saavuttaa uusia asiakkuuksia. Eri ominaisuuksien/piirteiden/featureiden toteuttamien vaatii kehitystiimin aikaa, rahaa ja resursseja. Tästä johtuen kehitystyön mielekkään etenemisen näkökulmasta joudutaan eri ominaisuuksien toteutusta priorisoimaan. Alla olevassa taulukossa on kerätty muutamia kuvitteellisen palvelun ominaisuuksia ja priorisoitu ne perustelujen kanssa.
 >Priorisoinnilla voidaan esittää mitkä ominaisuuksiasta ovat tärkeitä asiakkaan tai toteutuksen näkökulmasta. 
 
