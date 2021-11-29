@@ -418,6 +418,8 @@ Kannattaa tutkia esimerkiksi https://www.sfs.fi/aihealueet/terveydenhuolto/laaki
 
 Ohjelmistoarkkitehtuurin kuvaus on itsessään laaja osa-alue ja käytännössä se edellyttää laajempaa dokumentaatiota.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OYmvbqBd2BY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * [Linkki laajempaan ohjelmistoarkkitehtuurikuvaukseen](../30-Suunnittelu-ja-toteutus/arkkitehtuuri-ja-tekninentoteutus.md)
 
 
