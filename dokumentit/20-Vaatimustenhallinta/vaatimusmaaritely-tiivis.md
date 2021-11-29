@@ -218,17 +218,19 @@ Step11 --> Step12
 
 ## Ominaisuudet (Feature) ja priorisointi (Priority)
 
->Ominaisuus käsiteen rinnalla käytetään suomenkielessä kirjallisuudessa myös sanaa piirre joka tapauksessa nämä kumpikin vastaavat englannin kielen "Feature"-käsitettä. Ymmärtääksesi paremmin ominaisuuden käsitteen mieti seuraavaa: Kilpailevat palvelut esim. Netflix, HBO, Disney etc tarjota asiakkaalle palveluissaan paljon samoja ominaisuuksia, mutta niiden toteutuksissa voi olla ratkaisevia eroja. Yksittäiset toiminnot saattavat vaihdella palvelusta riippuen. Yleiset toiminnot, kuten "play", "pause" ja "stop" löytyvät kaikista palveluista, mutta miten toimivat "fast forward"-toiminnot? Muita eroja palvelujen välillä voi tulla esiin yleisessä käytettävyydessä, suorituskyvyssää tai tietoturvassa.
-Eri ominaisuudet ovat tärkeitä palvelukehityksen kannalta, koska niiden avulla erotutaan kilpailijoista ja niiden avulla voidaan saavuttaa uusia asiakkuuksia. Eri ominaisuuksien/piirteiden/featureiden toteuttamien vaatii kehitystiimin aikaa, rahaa ja resursseja Tästä johtuen kehitystyötä joudutaan käytännön pakosta priorisoimaan. Alla olevassa taulukossa on kerätty muutamia kuvitteellisen palvelun ominaisuuksia ja priorisoitu ne perustelujen kanssa.
+>Ominaisuuden käsiteen rinnalla käytetään suomenkielisessä kirjallisuudessa myös sanaa *piirre*, jotka vastaavat englannin kielisessä yleisesti käytettyä *feature*-käsitettä. 
+>Tarina väliin: 
+>Ymmärtääksesi paremmin ominaisuuden käsitteen mieti seuraavaa: Kilpailevat streaming-palvelut esim. Netflix, HBO, Disney etc tarjota asiakkaalle palveluissaan pitkälti samoja ominaisuuksia, mutta niiden toiminnoissa voi olla ratkaisevia eroja. Yksittäiset toimintojen toteutus voi vaihdella palvelusta riippuen. Yleiset toiminnot, kuten "play", "pause" ja "stop" löytyvät kaikista palveluista, mutta miten toimii esimerkiksi "fast forward"-toiminnot? Muita eroja palvelujen välillä voi tulla esiin yleisessä käytettävyydessä, suorituskyvyssää tai tietoturvassa.
+Eri ominaisuudet ovat tärkeitä palvelukehityksen kannalta, koska niiden avulla erotutaan kilpailijoista ja niiden avulla voidaan saavuttaa uusia asiakkuuksia. Eri ominaisuuksien/piirteiden/featureiden toteuttamien vaatii kehitystiimin aikaa, rahaa ja resursseja. Tästä johtuen kehitystyön mielekkään etenemisen näkökulmasta joudutaan eri ominaisuuksien toteutusta priorisoimaan. Alla olevassa taulukossa on kerätty muutamia kuvitteellisen palvelun ominaisuuksia ja priorisoitu ne perustelujen kanssa.
 >Priorisoinnilla voidaan esittää mitkä ominaisuuksiasta ovat tärkeitä asiakkaan tai toteutuksen näkökulmasta. 
 
 | Ominaisuus | Prioriteetti | Kuvaus |
 |:-:|:-:|:-:|
-| [Lokihallinta-ominaisuus](pohjat/pohja-ominaisuus.md) | P1 | Asiakkaan kannalta tärkeä ominaisuus | 
-| [Kirjautumis-ominaisuus](pohjat/pohja-ominaisuus.md) | P1 | Tämä on saatava ensimmäisen kuntoon | 
-| [Lokitus-ominaisuus](pohjat/pohja-ominaisuus.md) | P5 | Tämän voi tehdä myöhemmin |
+| [Lokihallinta-ominaisuus](pohjat/pohja-ominaisuus.md) | P1 | Asiakkaan kannalta tärkeä ominaisuus, tulee käyttöön heti ensimmäisenä päivänä | 
+| [Kirjautumis-ominaisuus](pohjat/pohja-ominaisuus.md) | P1 | Tämän on toimittava ehdottomasti | 
+| [Raportointi-ominaisuus](pohjat/pohja-ominaisuus.md) | P5 | Tämän voi tehdä myöhemmin |
 | [Viestitys-ominaisuus](pohjat/pohja-ominaisuus.md) | P2 | Erittäin tarpeellinen, mutta ensin kirjautuminen kuntoon |
-| [GDPR-tunnuksen-poisto-ominaisuus](pohjat/pohja-ominaisuus.md) | P3 | Ei niin kiire, mutta tarvitaan ehdottomasti |
+| [GDPR-tunnuksen-poisto-ominaisuus](pohjat/pohja-ominaisuus.md) | P3 | Ei niin kiire, mutta tarvitaan joka tapauksessa |
 | ... | ... | ... |
 
 >Pelkästään ominaisuuksien listaamisen sijaan on hyödyllistä suunnitella ennakkoon missä vaiheessa eri ominaisuudet voidaan toteuttaa ja liittää osaksi palvelua. Tätä työtä kutsutaan lyhyesti julkaisusuunnitteluksi (Release Planning).
@@ -271,8 +273,9 @@ salt
 
 >Käyttötarina kuvauksen yleinen muoto on: 
 
-*As a <-role-> I can <-capability->, so that <-receive benefit->*
-*Palvelun käyttäjän <-roolissa X-> toivon, että voin suorittaa <-toiminnon->, koska <-perustelu-> 
+* Englanniksi: As a <-role-> I can <-capability->, so that <-receive benefit->*
+
+* Vapaasti suomennettuna: Palvelun käyttäjän <-roolissa X-> voin tarvittaessa suorittaa <-toiminnon->, koska <-perustelu->* 
 
 >Yksittäinen käyttötarina (User Story) voidaan kirjata esim Gitlab-palvleussa ns. Issuen muodossa. Issue esimerkin voit löytää osoittesta #9 
 >User Storyt voidaan alkuvaiheessa kerätä myös taulukkoon/listaan ja ne siirretään ajalla Issue-muotoon.
@@ -288,8 +291,6 @@ salt
 >Laajoja tietojärjestelmiä/ohjelmistoja suunniteltaessa vaatimuksia voidaan kirjata eri näkökulmista. Tietojärjestelmien suunnittelussa voi käyttää analogiana kuvaa jäävuoresta, josta pinnalla näkyy osa, mutta iso osa (90%) on piilossa veden alla. Tämä pätee tietojärjestelmän vaatimuksiin. Korkealta tasolta katsottuna näyttää kokonaisuus ehkä selkeältä, mutta yksityiskohtiin mentäessä työ hankaloituu. 
 
 ![](https://openclipart.org/image/400px/29153)
-
-
 
 >Vaatimusmäärittelyn työstäminen voidaan nähdä kahden eri näkökulman kannalta.
 
@@ -308,7 +309,6 @@ salt
 
 * [Vaatimusmäärittelystä Wikipediassa](https://en.wikipedia.org/wiki/Requirements_analysis)
 
-
 *Vaatimusten jäljitettävyydestä*
 
 >Eri vaatimusten eri muodoilla voidaan tarkastella kehitettävää tuotetta eri näkökulmista, mutta eri tasojen välillä olevilla vaatimuksilla voi olla yhteys. 
@@ -320,8 +320,6 @@ Näitä yhteyksiä kutsutaan vaatimusten jäljitettävyydeksi (Traceablity).
 
 >Vahvan jäljitettävyyden avulla voidaan tarkastella yksittäisten muutosten vaikutusta koko tuotteeseen. Tässä tilanteessa voidaan yksittäistä vaatimusta "törmäyttää" ja nähdään minne kaikkialle vaikutus ulottuu (Impact analysis).
 >Tämän vaatii vaatimusmäärittelytyön tueksi tarkoitukseen sopia työkaluja (Requirement Management Tools)
-
-
 
 ## Palveluun liittyvät tekniset vaatimukset
 
@@ -336,15 +334,14 @@ Näitä yhteyksiä kutsutaan vaatimusten jäljitettävyydeksi (Traceablity).
 | HWREQ-0003 | Palvelimen fyysinen sijainti on oltava EU-aluella| |
 | HWREQ-0004 |... ||
 
-
 ## Laadulliset vaatimukset (Non-functional Requirements)
 
 >Laadulliset vaatimukset tarkastelevat palvelua ns. ei-toiminnallisesta näkökulmasta. Kuulostaa ehkä äkkiseltään hankalalta, mutta mieti seuraavia kysymyksiä?
 
-* *Miten tuottesta saadaan turvallinen? Onko joitain vaatimuksia, jotka on täytettävä?(tietoturva-security)*
-* *Mitkä asiat on huolehdittava, että tuote on hyväksyttävissä viranomaisten käyttöön?(conformance)*
-* *Miten paljon käyttäjiä palvelussa voi olla yhtäaikaa(suorituskyky-performance)*
-* *Onko palvelun tarkoitus joskus toimia laajemmalla käyttäjäkunnalla(skaalautuvuus-scalability)*
+* *Miten tuottesta saadaan kehitettyä riittävän turvallinen? Onko joitain vaatimuksia, jotka on täytettävä tästä johtuen? (tietoturva-security)*
+* *Mitkä asiat on huolehdittava, että tuote on hyväksyttävissä viranomaisten käyttöön? (yhteensopivuus-conformance)*
+* *Miten paljon käyttäjiä palvelussa voi olla yhtäaikaa(suorituskyky-performance)
+* *Onko palvelun tarkoitus joskus toimia laajemmalle käyttäjäkunnalle(skaalautuvuus-scalability)*
 * *Miten voidaan varmistaa, että palvelu on saavutettavissa kaikkien käyttäjien kannalta?(skaalautuvuus-scalability)*
 * *Onko tarvetta eri kieliversioille?(saavutettavuus-accessability)*
 * *Mitä on otettava huomioon palvelua jatkokehitettäessä? (ylläpidettävyys-maintainability)*
@@ -406,7 +403,7 @@ Kannattaa tutkia esimerkiksi https://www.sfs.fi/aihealueet/terveydenhuolto/laaki
 
 ## Ohjelmistoarkkitehtuuri
 
->Vaatimusmäärittelyn osaksi voidaan sisällyttää erilaisia teknisisä kuvauksia, joiden avulla voidaan tarkentaa vaatimuksia. Yksi tärkeä dokumentti voi olla esimerkiksi tekninen arkkitehtuuri. Tämä kuvaus voidaan lyhyessä muodossaan liittää osaksi vaatimusmäärittelyä, mutta yleensä se on varsin laaja itsenäinen dokumentaation osa. Arkkitehtuurikuvaukseen liittyviä eri kuvauksia voidaan laatia hyödyntäen apuan UML-kuvauskieleen, joista esimerkkinä alla on  sijoittelunäkymä (Deployment Diagram). Sijoittelunäkymän avulla voidaan kuvata miten palvelun eri palvelut sijaitsevat ja miten ne kytkeytyvät toisiinsa.
+>Vaatimusmäärittelyn osaksi voidaan tarvittaessa liittää teknillisiä kuvauksia, joiden avulla voidaan tarkentaa eri vaatimuksia. Yksi tärkeä dokumentti voi olla esimerkiksi tekninen arkkitehtuuri. Tämä kuvaus voidaan lyhyessä muodossaan liittää osaksi vaatimusmäärittelyä, mutta yleensä se on varsin laaja itsenäinen dokumentaation osa. Arkkitehtuuri ratkaisujen kuvaamiseksi voidaan laatia yödyntäen apuna UML-kuvauskielen eri diagrammeja. Esimerkkinä alla on  sijoittelunäkymä ([Deployment Diagram](https://plantuml.com/deployment-diagram)). Sijoittelunäkymän avulla voidaan kuvata miten palvelun eri palvelut sijaitsevat ja miten ne kytkeytyvät toisiinsa.
 
 Ohjelmistoarkkitehtuurin kuvaus on itsessään laaja osa-alue ja käytännössä se edellyttää laajempaa dokumentaatiota.
 
@@ -453,7 +450,7 @@ Logger_Container -- MariaDB_Container
 ## Palveluun liittyvät järjestelmäintegraatiot
 
 >Ohjemiston arkkitehtuuriin kuvauksissa voidaan ottaa tarkasteluun palvelun liittyvät ulkopuoliset palvelut tai muut integraatiot eri järjestelmiin
->Alla olevat kuvaukset on esimerkkejä UML-kuvausten mahdollisuuksista. Tässä kuvauksessa käytetään UML:n sekvenssikaaviota (Sequence Diagram) kuvaamaan valittua tapahtumaketjua. 
+>Alla olevat kuvaukset on esimerkkejä UML-kuvausten mahdollisuuksista. Tässä kuvauksessa käytetään UML:n sekvenssikaaviota ([Sequence Diagram](https://plantuml.com/sequence-diagram)) kuvaamaan valittua tapahtumaketjua. 
 
 ```plantuml
 Client_Host --> Service_Frontend: Login Request
@@ -474,3 +471,6 @@ Service_Frontend --> Client_Host : Logged in
 | REF2 | ISO 9241-11  | [Käytettävyys](https://fi.wikipedia.org/wiki/K%C3%A4ytett%C3%A4vyys)  | Usability | 
 | REF3 |  EN 301 549 | [Saavutettavuus](https://fi.wikipedia.org/wiki/Saavutettavuus) | Availability |
 | REF4 |  GDPR | [GDPR Asetus](https://europa.eu/youreurope/business/dealing-with-customers/data-protection/data-protection-gdpr/index_fi.htm) | General_Data_Protection_Regulation |
+| REF5 | KATAKRI V11 | [Katakri](https://www.defmin.fi/files/1870/KATAKRI_versio_II.pdf) | Kansallinen turvallisuusauditointikriteeristö |
+
+
