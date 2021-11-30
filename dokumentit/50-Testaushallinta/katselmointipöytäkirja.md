@@ -1,6 +1,6 @@
 # Katselmointipöytäkirja
 
-*Katselmointipöytäkirjaa voidaan hyödyntää esimerkiksi hyväksyntätestauksen yhteydessä.
+*Katselmointipöytäkirjaa voidaan hyödyntää esimerkiksi hyväksyntätestauksen yhteydessä.*
 
 ## Katselmointi ajankohta
 
