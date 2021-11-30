@@ -69,8 +69,6 @@
 
 ## 1.6 Projektiin liittyvät haasteet
 
-![](../assets/work-to-do.png)
-
 > Tarkastellaan projektin tavoitteita ja laaditaan tueksi SWOT-kuvaus, jossa tarkastellaan koko projektia ja sen toimintaympäristöä. 
 
 ![](https://openclipart.org/image/800px/247839)
@@ -160,9 +158,19 @@ __luovutus, käyttöönotto, ylläpito, projektin aineiston taltiointi, arkistoi
 
 ![](../assets/work-to-do.png)
 
->Projektin etenemistä voidaan kuvata ns. GANTT-kaaviolla. Sen avulla voidaan esittää eri vaiheiden eteneminen aikajanalla, samalla voidaan osoittaa eri tehtäviin liittyvät kriittiset pisteet.
+>Projektin etenemistä voidaan kuvata ns. GANTT-kaaviolla. Sen avulla voidaan esittää eri vaiheiden eteneminen aikajanalla, samalla voidaan osoittaa projektin eri vaiheisiin liittyvät kriittiset pisteet / etapit.
 
-**GANTT PlantUML-muodossa**
+>Ohjelmistoprojekteissa karkea etenemisjärjestystä voi kuvata ohjelmistojen [SDLC](https://en.wikipedia.org/wiki/Systems_development_life_cycle ) -kehittämismallia.
+Tästä voidaan nostaa esiin muutama oleellisia vaiheita kuten:
+
+* Määrittely
+* Suunnittelu
+* Toteutus
+* Testaus
+* Luovutus
+
+**Esitetään siis vaiheet GANTT kuvauksen muodossa**
+
 
 ```plantuml
 Project starts the 2021-5-15
