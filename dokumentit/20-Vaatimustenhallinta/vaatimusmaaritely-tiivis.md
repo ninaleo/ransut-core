@@ -268,6 +268,9 @@ Julkaisua suunniteltaessa voidaan ryhmitellä eri ominaisuudet ja luoda niistä 
 >Perinteisesti käyttöliittymä hahmotelmat ja kuvaukset on tehty piirtämällä käyttöliittymästä staattisia kuvia ja näitä on käytetty suunnittelun apuna. Tämä onnistuu myös soveltamalla apuna PlantUML-kuvauksia. (ks. alla)
 >Kannattaa kuitenkin tutustua ja kokeilla arjolla olevia prototyyppi/MockUp-työkaluja tähän tarkoitukseen. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a5qLMBYWv5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
  * [Linkki prototyyppiin / MockUp-toteutukseen]()
 
 **Esimerkki yksinkertaisesta käyttöliittymän dialogista**
