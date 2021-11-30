@@ -186,23 +186,25 @@ Huom.: Seuraavassa on esitetty käynnistys- ja lopetusvaiheet. Kaikista projekti
 ![](../assets/work-to-do.png)
 
 
-* [Etappi 0](https://gitlab.labranet.jamk.fi/jamkit/project-templates/fi-opf-2021-core-template-v2/-/milestones/)
+>Projektin eteneminen kannataa jakaa ns. tavoitteisiin/etappeihin. Näiden tehtävän on osoittaa ajanhetkeä, jollon jokin oleellinen projektin vaihe on tarkoitus saavuttaa. Projektille määritellyt etapit voidaan linkittää dokumentaation kanssa yhteen käyttäen apuna Issue/Milestone linkkejä avulla. *Katso esimerkit alla*
 
-__Käynnistys p.k.vvvv – p.k.vvvv (X h)__
+* [Etappi 0](https://gitlab.labranet.jamk.fi/jamkit/project-templates/fi-opf-2021-core-template-v2/-/milestones/)
 
 >Projektin käynnistämiseen kuuluu olennaisesti projektisuunnittelu ja suunnitteludokumenttien laatiminen sekä yhteydenpitokäytänteiden luominen toimeksiantajayrityksen kanssa. Vaiheen aikana tehdään
 > esim. ryhmän webbisivut, tutustutaan tarkemmin toimeksiantoon, aloitetaan kohdealueeseen perehtyminen ja laaditaan projektisuunnitelma yhteistyössä toimeksiantajan edustajien kanssa. Vaiheen aikana
 > muodostetaan johtoryhmä, pidetään 1. johtoryhmän kokous sekä allekirjoitetaan projektisopimus.
 
->”Vaiheen tuloksia ovat ryhmän imagon (nimi, logo ym.) luominen, webbisivut tms. sekä projektisopimus liitteineen.”
 
 * [Etappi 1](https://gitlab.labranet.jamk.fi/jamkit/project-templates/fi-opf-2021-core-template-v2/-/milestones/3)
 
-* [Etappi X](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones)
-* [Etappi Y](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones)
-* [Etappi Z](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones)
+* [Etappi X](https://gitlab.labranet.jamk.fi/jamkit/project-templates/fi-opf-2021-core-template-v2/-/milestones)
 
-__Lopetus p.k.vvvv – p.k.vvvv (X h)__
+
+* [Etappi Y](https://gitlab.labranet.jamk.fi/jamkit/project-templates/fi-opf-2021-core-template-v2/-/milestones)
+
+
+* [Etappi Z](https://gitlab.labranet.jamk.fi/jamkit/project-templates/fi-opf-2021-core-template-v2/-/milestones)
+
 
 >”Lopettamisvaihe sisältää projektin päättämiseen liittyvät toimenpiteet. Vaiheen aikana projektiryhmä laatii projektin loppuraportin ja esityksen johtoryhmälle. Vaiheen aikana luovutetaan projektin tulos toimeksiantajalle, pidetään viimeinen johtoryhmän kokous viikolla X sekä puretaan projektin organisaatio. Lopettamisvaiheen tuloksena on projektin loppuraportti.”
 
