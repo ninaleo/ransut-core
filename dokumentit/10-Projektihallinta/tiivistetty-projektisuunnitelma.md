@@ -186,7 +186,7 @@ Huom.: Seuraavassa on esitetty käynnistys- ja lopetusvaiheet. Kaikista projekti
 ![](../assets/work-to-do.png)
 
 
-* [Etappi 0](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/2)
+* [Etappi 0](https://gitlab.labranet.jamk.fi/jamkit/project-templates/fi-opf-2021-core-template-v2/-/milestones/)
 
 __Käynnistys p.k.vvvv – p.k.vvvv (X h)__
 
@@ -196,11 +196,11 @@ __Käynnistys p.k.vvvv – p.k.vvvv (X h)__
 
 >”Vaiheen tuloksia ovat ryhmän imagon (nimi, logo ym.) luominen, webbisivut tms. sekä projektisopimus liitteineen.”
 
-* [Etappi 1](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/3)
+* [Etappi 1](https://gitlab.labranet.jamk.fi/jamkit/project-templates/fi-opf-2021-core-template-v2/-/milestones/3)
 
-* [Etappi X](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/4)
-* [Etappi Y](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/5)
-* [Etappi Z](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/6)
+* [Etappi X](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones)
+* [Etappi Y](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones)
+* [Etappi Z](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones)
 
 __Lopetus p.k.vvvv – p.k.vvvv (X h)__
 
