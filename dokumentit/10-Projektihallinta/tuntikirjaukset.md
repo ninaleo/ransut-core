@@ -2,7 +2,6 @@
 
 ![](https://openclipart.org/image/400px/svg_to_png/324819/studying-boy-and-girl.png)
 
-
 ## EXCEL-muoto
 
 > Tuntikirjaukset voi tehdä esim EXCEL-taulukkona ja liittää dokumentti lähteenä tähän verkkosivulle
@@ -41,5 +40,3 @@ Yhteensä: 40€
 | Hankinnat | 4 | 10 € | 40 € |
 | *Yhteensä:* |- | - | 3690 € |
 
-
-Tai sitten [Toggl](https://www.toggl.com)
