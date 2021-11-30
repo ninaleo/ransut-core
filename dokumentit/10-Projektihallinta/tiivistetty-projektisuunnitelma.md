@@ -15,6 +15,10 @@
 
 ## 1.1 Tausta ja lähtökohdat
 
+
+![](../assets/work-to-do.png)
+
+
 >Kuvataan toimeksiantoa lyhyesti johdannon muodossa.  Tarpeen mukaan ohjataan lukijaa tutustumaan tarkemmin vaatimusmäärittelydokumenttiin.
 
 >Projektin tavoitteena on pyrkiä yhdistämään .... on tarve kehittää” < kohdetta>… ”Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän <TTOS2070> ‑opintojakson puitteissa. ”
