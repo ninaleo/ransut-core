@@ -23,6 +23,8 @@
 
 ## 1.2 Tavoitteet ja tehtävät
 
+![](../assets/work-to-do.png)
+
 > ”Tässä dokumentissa kuvataan X-projektin taustaa, tavoitteita, tehtäviä, vaihejakoa, resursseja ja organisaatiota. Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.”
 
 * Tuottaa ratkaisu mihin ? 
@@ -67,13 +69,15 @@
 
 ## 1.6 Projektiin liittyvät haasteet
 
+![](../assets/work-to-do.png)
+
 > Tarkastellaan projektin tavoitteita ja laaditaan tueksi SWOT-kuvaus, jossa tarkastellaan koko projektia ja sen toimintaympäristöä. 
 
 # 2. Projektiorganisaatio
 
-
-
 ## 2.1 Organisaation esittely
+
+![](../assets/work-to-do.png)
 
 > Kuka kuuluu projektiorganisaatioon? Onko projektiryhmän/tiimin lisäksi muita toimijoita? 
 
@@ -84,8 +88,9 @@
 | | | |
 | | | |
 
-
 >projektiryhmän ohjaajat sekä toimeksiantajan edustajat. Organisaatiokaavio on esitetty liitteessä tai alla olevassa kuvauksessa.
+
+![](../assets/work-to-do.png)
 
 **Projektiorganisaation rakenne MindMap-muodossa**
 
@@ -110,7 +115,6 @@
 @endmindmap
 ```
 
-
 ## 2.2 Vastuut ja päätöksentekoprosessi
 
 >Tähän kirjataan kaikkien projektiorganisaatioon kuuluvien (esim. johtoryhmä, projektipäällikkö, sihteeri, ryhmä, >ohjaajat) vastuut sekä päätöksentekoprosessi (esim. projektipäällikkö valmistelee ja esittää johtoryhmän päätettäväksi…)
@@ -129,6 +133,7 @@
 
 
 ## 2.3. Projektin vaiheet ja taloudelliset tavoitteet
+
 
 >tehtäväkokonaisuudet, osittelu ja vaiheistus, välitulokset, aikataulut ja resurssissuunnitelmat, budjetti
 
@@ -150,6 +155,7 @@ __luovutus, käyttöönotto, ylläpito, projektin aineiston taltiointi, arkistoi
 
 ## 3.1 Osittaminen ja vaiheistus
 
+![](../assets/work-to-do.png)
 
 >Projektin etenemistä voidaan kuvata ns. GANTT-kaaviolla. Sen avulla voidaan esittää eri vaiheiden eteneminen aikajanalla, samalla voidaan osoittaa eri tehtäviin liittyvät kriittiset pisteet.
 
@@ -172,17 +178,15 @@ Project starts the 2021-5-15
 
 >Mitä tavoitteita  / vaiheita projekti sisältää? (Lyhyt kuvaus kustakin)> <Mitä tuloksia kustakin vaiheesta syntyy? >
 
-* [Etappi 0](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/2)
-* [Etappi 1](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/3)
-* [Etappi 2](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/4)
-* [Etappi 3](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/5)
-* [Etappi 4](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/6)
 
 Seuraavassa käydään jokainen vaihe, niiden vaatimat aikaresurssit ja tulokset läpi lyhyesti. Vaiheet ja niiden tehtävät kuvataan tarkemmin vaihesuunnitelmissa. Parhaillaan meneillään olevasta vaiheesta tulee olla tiedossa tarkasti kuka tekee ja kuinka paljon työtä tämän vaiheen tehtävien suorittamiseksi. Myöhempien vaiheiden työmääräarviot voidaan esittää alkuvaiheessa karkealla tasolla, jota sitten projektin edetessä tarkennetaan yksityiskohtaiselle tasolle. Tämä tapahtuu jokaisen vaiheen lopussa, jolloin suunnitellaan tarkemmin seuraava vaihe.
 
 Huom.: Seuraavassa on esitetty käynnistys- ja lopetusvaiheet. Kaikista projektin vaiheista, niiden kestoista ja työmääristä laaditaan myös nk. Gantt-kaavio (liitteenä), jossa näkyy myös vaiheiden väliset riippuvuudet ja tärkeimmät etapit (esim. johtoryhmän kokouspäivämäärät).
 
-**Etappi 0**
+![](../assets/work-to-do.png)
+
+
+* [Etappi 0](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/2)
 
 __Käynnistys p.k.vvvv – p.k.vvvv (X h)__
 
@@ -190,20 +194,21 @@ __Käynnistys p.k.vvvv – p.k.vvvv (X h)__
 > esim. ryhmän webbisivut, tutustutaan tarkemmin toimeksiantoon, aloitetaan kohdealueeseen perehtyminen ja laaditaan projektisuunnitelma yhteistyössä toimeksiantajan edustajien kanssa. Vaiheen aikana
 > muodostetaan johtoryhmä, pidetään 1. johtoryhmän kokous sekä allekirjoitetaan projektisopimus.
 
-
 >”Vaiheen tuloksia ovat ryhmän imagon (nimi, logo ym.) luominen, webbisivut tms. sekä projektisopimus liitteineen.”
 
-**Etappi 1**
+* [Etappi 1](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/3)
 
-**Etappi 2**
-
-**Etappi X** 
+* [Etappi X](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/4)
+* [Etappi Y](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/5)
+* [Etappi Z](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/6)
 
 __Lopetus p.k.vvvv – p.k.vvvv (X h)__
 
 >”Lopettamisvaihe sisältää projektin päättämiseen liittyvät toimenpiteet. Vaiheen aikana projektiryhmä laatii projektin loppuraportin ja esityksen johtoryhmälle. Vaiheen aikana luovutetaan projektin tulos toimeksiantajalle, pidetään viimeinen johtoryhmän kokous viikolla X sekä puretaan projektin organisaatio. Lopettamisvaiheen tuloksena on projektin loppuraportti.”
 
 ## 3.2 Projektin alustavat kustannusarvio
+
+![](../assets/work-to-do.png)
 
 Kustannusarvion esittäminen taulukon avulla: 
 
@@ -234,9 +239,7 @@ Kustannusarvion esittäminen taulukon avulla:
 ## 4.4 Riskien hallinta
 
 >Listataan riskit, arvioidaan niiden vakavuus ja todennäköisyys ja koetetaan miettiä toimenpiteet kuinka vakavimmat/todennäköisimmät riskit voitaisiin ehkäistä jo ennalta. Lisäksi olisi hyvä olla suunnitelma kuinka toimitaan, jos riski toteutuu.
-
-
-> Kirjataan alla olevaan taulukkoon projektiin kohdistuvat riskit ja pidetään niitä yllä tarpeen mukaan. Jokaiselle riskille annetaan yksilöllinen tunniste esim. RIS007, koska tämä helpottaa niiden käsittelyä eri tilanteissa.
+>Kirjataan alla olevaan taulukkoon projektiin kohdistuvat riskit ja pidetään niitä yllä tarpeen mukaan. Jokaiselle riskille annetaan yksilöllinen tunniste esim. RIS007, koska tämä helpottaa niiden käsittelyä eri tilanteissa.
 
 | ID |	Kuvaus | Vakavuus | Todennäköisyys | Kuka vastaa | Mitä toimintaan riskin ilmentyessä? | 
 |:--:|:--:|:--:|:--:|:--:|:--:|
