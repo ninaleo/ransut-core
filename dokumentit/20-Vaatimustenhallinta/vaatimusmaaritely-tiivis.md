@@ -1,7 +1,6 @@
 # Tiivistetty vaatimusmäärittely
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ti-swVwG66E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-xRWrPG3MeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 >Vaatimusmäärittelyn kirjoittajalle!
 Poista työn edetessä eri ohjetekstit ja korvaa taulukoissa annetut esimerkit toimeksiantoon liittyvillä tiedoilla. Älä muuta otsikointia ratkaisevasti, mutta voit poistaa ylimääräiset höpinät ja video linkit pois :)
