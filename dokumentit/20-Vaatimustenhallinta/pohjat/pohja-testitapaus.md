@@ -1,5 +1,4 @@
-# Testitapaus: (Anna kuvaus testille)
-
+# Testitapaus: (Anna kuvaava otsikko)
 
 | | |
 |:-:|:-:|
@@ -17,14 +16,13 @@
 
 **Linkit vaatimuksiin tai muihin lähteisin**
 
-* Vaatimus: [Vaatimus]() ?   
+* Toiminnallinen/Ei toiminnallinen vaatimus: [Vaatimus]() ?  
 * Käyttötapaus: [Use Case](pohja-kayttotapaus.md) ? 
 * Ominaisuus: [Ominaisuus](pohja-ominaisuus.md) ?
 
 **Testin alkutilanne (Pre-state)** 
 
 > Alkutilanne josta testin suorittaminen alkaa, eli mitä on tehtävä ennen testin suoritusta
-
 
 **Testiaskeleet (Test Steps)**
 
