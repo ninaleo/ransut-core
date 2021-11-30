@@ -73,6 +73,9 @@
 
 > Tarkastellaan projektin tavoitteita ja laaditaan tueksi SWOT-kuvaus, jossa tarkastellaan koko projektia ja sen toimintaympäristöä. 
 
+![](https://openclipart.org/image/800px/247839)
+
+
 # 2. Projektiorganisaatio
 
 ## 2.1 Organisaation esittely
