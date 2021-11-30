@@ -1,7 +1,6 @@
-# Tarkistuslista
+# Tarkistuslista 
 
-
-Tarkasti määritellyn testitapauksen voi tarvittaessa korvata tarkistuslistalla, johon on kerätty tärkeäksi koetut tarkistuskohdat.
+*Tarkasti määritellyn testitapauksen voi tarvittaessa korvata tarkistuslistalla, johon on kerätty tärkeäksi koetut tarkistuskohdat.*
 
 
 | Tarkistuskohde | Pass/Fail |
