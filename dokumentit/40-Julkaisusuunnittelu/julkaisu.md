@@ -14,18 +14,23 @@
 
 
 
-# Uudet toiminnallisuudet
+# Uudet ominaisuudet/toiminnallisuudet
 
-* [Ominaisuus 01 - Feature01]()
-* [Ominaisuus 02 - Feature02]()
+* [Feature 101]()
+* [Feature 102]()
+* [Feature 203]()
+* [Feature 304]()
+
+
+
 
 # Korjatut viat
 
-#3, #4
+* [Feature 107]() liittyvät viat #3, #4
 
 
 # Tiedossa olevat viat
 
-#1, #2
+* [Feature 100]() koskevat viat #1, #2
 
 # 
