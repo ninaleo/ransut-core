@@ -1,17 +1,20 @@
-# Projektin DOD määrittelyt
+# Valmiin määritelmä
+
 
 **DOD = Definition of Done** 
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Definition_of_done_(DoD))
 
+## Mitä tarkoitetaan, kun jokin tavoite/tehtävä on valmis?
 
-Mitä tarkoitetaan, kun jokin tavoite/tehtävä on todellakin tehty?
+Tämä täytyy määritellään yhdessä tiimin kanssa:
 
-Tämä määritellään tiimin kanssa yhdessä:
+DOD-kriteereihin voidaan kirjata esimerkkeinä seuraavat toimenpiteet:
 
 * Parikatselmointi
-* Testaus
+* Testit suoritettu
 * Dokumentointi
 * Toteutus versiohallinnassa
 * Yhdessä katselmoitu
+* Regressiotestit kirjoitettu ja suoritettu
 * Mitä muuta?
