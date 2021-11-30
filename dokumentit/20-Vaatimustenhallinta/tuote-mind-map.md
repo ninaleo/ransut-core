@@ -1,6 +1,6 @@
-# Tuote Mind Map
+# Palvelu MindMapin muodossa
 
-Tässä tuote Mind Map muodossa, josta näkyvä tärkeimmät ominaisuudet ja niihin liittyvät toiminnot
+Tässä on kuvattu esimerkk MindMap muodossa, josta näkyvä tärkeimmät ominaisuudet ja niihin liittyvät toiminnot.
 
 
 ```plantuml
@@ -20,8 +20,6 @@ Tässä tuote Mind Map muodossa, josta näkyvä tärkeimmät ominaisuudet ja nii
 --- Functionality Z16
 @endmindmap
 ```
-
-
 
 
 Alla on kerätty kaikki ominaisuudet listan muotoon:
