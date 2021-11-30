@@ -33,16 +33,15 @@
 | [Rajaus ID]() | Onko olemassa rajoitteita, jotka on otettava huomioon | 
 | [Dokumentti ID]() | Muita lähteitä, joista pitää olla selvillä?  | 
 
-### Ominaisuuden käyttäjätarinat (User Storys)
+### Ominaisuuteen liittyvät käyttötarinat (User Storys)
 
 *Kirjataan tarvittaessa User Storyt tähän, mutta kirjataan käytännössä heti  Issueiksi*
 
 * Käyttäjän haluan, että voin.....
 * Ylläpitäjänä haluan, että voin.....
+* User Story: *"Käyttäjänä X toivon, että voin tehdä seuraavan toimenpiteen, koska tämä selkeyttää sitä sun tätä..."* on kirjattu
+suoraan Issue-muotoon ja löytyy nyt linkistä #9
 
-**Nämä kannattaa siirtää pian issue kuvauksiksi, ja liittää linkki muodossa #luku*
-
-esim. #9
 
 ### Käyttöliittymänäkymä/mock 
 
