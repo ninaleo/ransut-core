@@ -18,7 +18,7 @@ In English
 | Job Story.md  | ~"Job Story" | `#0f0093` |
 | Risk | ~"Risk" | `#ec0855`  |
 | Customer-feedback | ~"Customer Feedback" | `#fc81a7` |
-| Alpha Card | ~"Alpha-card" | 
+| Alpha Card | ~"Alpha Card" | 
 
 **Issue State Labels**
 
