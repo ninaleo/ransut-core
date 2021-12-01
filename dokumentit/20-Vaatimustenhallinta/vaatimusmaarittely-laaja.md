@@ -12,15 +12,36 @@
 
 ![](https://openclipart.org/image/400px/svg_to_png/3051/ryanlerch-flight-simulator-plan.png)
 
-# Tiivistetty vaatimusmäärittely
+## Sisällysluettelo 
 
-
-|  |  |
-|:-:|:-:|
-| Dokumentti | Vaatimusmääritelmä |
-| Laatija: | *nimi* |
-| Versio: | *0.0?* |
-| Päivämäärä: | 1.x.202y |
+1. [Johdanto](#johdanto)
+1. [Toimeksiantaja](#toimeksiantaja)
+1. [Vaatimusmäärittelyn tekijä](#vaatimusmäärittelyn-tekijä)
+1. [Palvelukuvaus](#Palvelukuvaus)
+1. [Sidosryhmäkartta](#Sidosryhmäkartta)
+1. [Sidosryhmät ja profiilit](#Sidosryhmät ja profiilit) 
+1. [Tunnistetut riskit](#Tunnistetut-riskit)
+1. [Valitut asiakastarinat](#Valitut-asiakastarinat)
+1. [Palveluun liittyviä asiakaspolkuja](#Palveluun-liittyviä-asiakaspolkuja)
+1. [Oleelliset käyttötapaukset](#Oleelliset-käyttötapaukset) 
+1. [Tärkeimmät yleiset ominaisuudet/toiminnallisuudet](#Tärkeimmät-ominaisuudet/toiminnallisuudet) 
+1. [MockUp-prototyyppi](#MockUp-prototyyppi)
+1. [Alustavat Käyttäjätarinat](#Alustavat-käyttäjätarinat)
+1. [Palvelun järjestelmävaatimukset](#Palvelun-järjestelmävaatimukset) 
+1. [Palveluun vaikuttavat rajaukset](#Palveluun vaikuttavat rajaukset) 
+1. [Palvelun liityvät laitevaatimukset](#Palvelun liityvät laitevaatimukset)
+1. [Palvelun suoritusympäristöön liittyvät vaatimukset](#Palvelun suoritusympäristöön liittyvät vaatimukset)
+1. [Palvelun määritellyt ominaisuudet/toiminnnallisuudet](#Palvelun määritellyt ominaisuudet/toiminnnallisuudet)
+1. [Palvelun toiminnalliset vaatimukset](#Palvelun toiminnalliset vaatimukset)
+1. [Palvelun ei-toiminnalliset vaatimukset](#Palvelun ei-toiminnalliset vaatimukset)
+1. [Palvelun alustava arkkitehtuuri](#Palvelun alustava arkkitehtuuri)
+1. [Palvelun alustava sijoittelunäkymä](#Palvelun alustava sijoittelunäkymä)
+1. [Palvelun alustava tietokantakuvaus)](#Palvelun alustava tietokantakuvaus)
+1. [Palvelun integraatiot muihin järjestelmiin](#Palvelun integraatiot muihin järjestelmiin)
+1. [Palvelun laadun varmistuksesta](#Palvelun laadun varmistuksesta)
+1. [Palvelun hyväksyntätestit](#Palvelun hyväksyntätestit)
+1. [Julkaisusuunnitelma](#Julkaisusuunnitelma)
+1. [Aiheeseen liityvä standardit ja lähteet](#Aiheeseen liityvä standardit ja lähteet)
 
 ## Johdanto
 
@@ -36,6 +57,13 @@ käytää olemassa olevia tilaajien oikeita nimiä! Muussa tapauksessa vaihdetaa
 * Tavoite A
 * Tavoite B
 * Tavoite C
+
+## Palvelukuvaus
+
+
+>Mitä palvelun avulla voidaan tehdä? Millaisia ovat sen käyttäjät? Mikä sen tehtävä on yleisesti eri sidosryhmien kannalta? 
+Kannattaa nostaa esiin lyhyesti mahdolliset loppukäyttäjä ja oleellisiin palvelusta hyötyviin sidosryhmät
+
 
 ## Kohderyhmä
 
@@ -82,6 +110,16 @@ käytää olemassa olevia tilaajien oikeita nimiä! Muussa tapauksessa vaihdetaa
 | CUSTOMER-REQ-0003 | - |
 | CUSTOMER-REQ-0004 | - |
 | CUSTOMER-REQ-0005 | - | 
+
+## Liiketoiminnan vaatimukset/tavoitteet?
+
+| VaatimusID | Kuvaus | 								
+|:-:|:-:|:-:|
+| BUSINESS-REQ-0001 | Palvelun kirjautuminen tulee olla helppoa, että voimme saavuttaa laajan käyttäjäkunnan = 35% kohderyhmästä | 
+| BUSINESS-REQ-0002 | |
+| BUSINESS-REQ-0003 | |
+| BUSINESS-REQ-0004 | |
+| BUSINESS-REQ-0005 | |
 
 ## Palveluun liittyviä asiakaspolkuja
 
