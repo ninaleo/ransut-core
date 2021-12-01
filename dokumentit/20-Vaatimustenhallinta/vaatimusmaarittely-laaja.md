@@ -174,6 +174,39 @@ Step10 --> Step11
 Step11 --> Step12
 ```
 
+## Oleelliset käyttötapaukset
+
+> Palvelupolun  kuljettaessa käydään läpi laajempi ketju palveluun käyttöön liittyviä käyttötilanteitaa. Näitä tilanteita, joissa käsitellään itse ohjelmistopalvelua 
+sähköisten rajapintojen/käyttöliittymien kautta kuvata ns. käyttötapauksien (Use Case) avulla.   
+> **Käyttötapaus** (Use Case) ymmärretään helposti väärin, koska se liitetään usein pelkästään tuotteen 
+**käyttötarkoituksen** kuvaamiseen. Palvelusta ensi kertaa keskusteltaessa puhutaan sen eri **käyttötarkoituksista**, eli sitä mihin 
+ohjelmistoa/palvelua voidaan hyödyntää. Kun puhutaan palvelun määrittelystä ja siihen liittyvien käyttötapauksien tunnistamisesta 
+on kyseessä hieman eri asia. Käyttötapauksessa keskitytään tarkastelmaan palvelun käyttöä varsin rajatussa tilanteessa. 
+Käyttötapaukset (Use Case) kuvaataan UML-kuvauskielen avulla.
+
+>UML Use Case-kuvaus voidaan tehdä PlantUML-kuvauksena, mutta tarkempi käyttötapauksen avaaminen vaatii erillisen kuvaus dokumentin
+
+```plantuml
+
+rectangle Tilaus {
+Profiili_1--(Tilauksen tekeminen)
+Profiili_1--(Tilauksen muokkaus)
+Profiili_1--(Tilauksen peruminen)
+}
+
+rectangle Tilausten_hallinta {
+Hallinto_1--(Tilauksien tarkistaminen)
+Hallinto_1--(Tilauksen muokkaus)
+Hallinto_1--(Tilauksen siirto)
+Huolto_1--(Tilauksen manuaalinen poisto)
+Huolto_1--(Tilauksen tyhjennys)
+}
+
+```
+
+> On hyödyllistä kirjata kaikki oleelliset käyttötapaukset yhteen laajempaan Use Case-kuvaukseen, koska sen avulla voi tarkastella
+helpommin koko järjestelmää. Huomio! Laajemmassa järjestelmä kokonaisuudessa saattaa olla useita satoja eri käyttötapauksia.
+
 ## Palvelun ominaisuudet (Features)
 
 ```plantuml
@@ -224,6 +257,27 @@ Step11 --> Step12
 Julkaisua suunniteltaessa voidaan ryhmitellä eri ominaisuudet ja luoda niistä "konfiguraatioita".   
 
 * [Julkaisuhallinta - esimerkki](..//40-Julkaisusuunnittelu/julkaisusuunnitelma.md)
+
+## Julkaisusuunnitelma
+
+> Julkaisusuunnitelman visualisoidulla muodolla on helpompi esittää ominaisuuksien julkaisut kehityksen aikanan.
+Alla oleva kuva on luotu hyödyntäen PlantUML-työkalua. Sen avulla on luoto ns. Gantt-kaavio ominaisuuksien julkaisuajankohdista.
+
+> Oletamme, että tuotteessa on muutamia ominaisuuksia, joiden järjestys on mietitty ennakkoon..
+
+```plantuml
+Project starts the 2019-5-15
+[Version v1.0 EarlyAdopter] Starts 2019-5-15 and ends 2019-7-30 
+[Design Phase] Starts 2019-5-15 and ends 2019-6-15
+[Feature 1 v 1.0] Starts 2019-5-25 and ends 2019-6-15
+[Feature 2 v 1.0] Starts 2019-5-25 and ends 2019-7-1
+[Feature 3 v 1.1] Starts 2019-6-15 and ends 2019-7-15
+[Feature 4 v 1.1] Starts 2019-6-25 and ends 2019-7-20
+[Feature 5 v 2.3] Starts 2019-6-1 and ends 2019-7-21
+[Accceptance Testing ] Starts 2019-7-21 and ends 2019-7-23
+```
+
+
 
 ## Käyttöliittymänäkymä/mockup 
 
@@ -289,9 +343,6 @@ Näitä yhteyksiä kutsutaan vaatimusten jäljitettävyydeksi (Traceablity).
 
 ## Laadulliset vaatimukset (Non-functional Requirements)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YAnPGPj0gK0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
->Laadulliset vaatimukset tarkastelevat palvelua ns. ei-toiminnallisesta näkökulmasta. Kuulostaa ehkä äkkiseltään hankalalta, mutta mieti seuraavia kysymyksiä?
 
 * *Miten tuottesta saadaan kehitettyä riittävän turvallinen? Onko joitain vaatimuksia, jotka on täytettävä tästä johtuen? (tietoturva-security)*
 * *Mitkä asiat on huolehdittava, että tuote on hyväksyttävissä viranomaisten käyttöön? (yhteensopivuus-conformance)*
@@ -397,6 +448,24 @@ Logger_Container -- MariaDB_Container
 
 @enduml
 ```
+
+### Palvelun/Ohjelmiston alustavat hyväksyntätestit
+
+>Hyväksyntätesteissä keskitytään yleisesti asiakkaan/loppukäyttäjän näkökulmaan. Tavoitteena on kelpuuttaa, eli validoida , onko tuote asiakkaan toiveiden mukainen ja täyttääkö se asetetut vaatimukset.
+Hyväksyntätesteillä voidaan selvittää onko tuote myös riittävän suorituskykyinen, käytettävä tai tietoturvallinen asiakkaiden käyttötarkoitukseen. 
+
+[![](http://img.youtube.com/vi/WfMrCdAr-GM/0.jpg)](http://www.youtube.com/watch?v=WfMrCdAr-GM "")
+
+
+
+>Kiinnitetään alustavat hyväksyntätestit vaatimuksiin taulukon muodossa.
+
+| Lähde | Testitapaus Id | Kuvaus | Tyyppi  |								
+|:-:|:-:|:-:|:-:|
+| [Feature 1](pohjat/pohja-ominaisuus.md), [FUNCTIONAL-REQ-0001]() | [Testitapaus 1](pohjat/pohja-hyvaksyntatesti.md) | esim. Tarkista kirjautuminen palveluun uutena käyttäjänä  | Hyväksyntätesti  |
+| [Feature 2](pohjat/pohja-ominaisuus.md), [FUNCTIONAL-REQ-0201](), [USE-CASE-017](pohjat/pohja-hyvaksyntatesti.md) | [Testitapaus 2](pohjat/pohja-testitapaus.md) | esim. Tarkista kenkilökohtaisten tietojen poisto | Hyväksyntätesti  |
+| [Feature 3](pohjat/pohja-ominaisuus.md),  | [Testitapaus 101](pohjat/pohja-hyvaksyntatesti.md) | esim. Takista Kirjautuminen toimivalla salasanalla | Hyväksyntätesti  |
+
 
 ## Standardit ja lähteet
 
