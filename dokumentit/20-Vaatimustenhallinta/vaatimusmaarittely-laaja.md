@@ -131,7 +131,7 @@ Kannattaa nostaa esiin lyhyesti mahdolliset loppukäyttäjä ja oleellisiin palv
 ## Liiketoiminnan vaatimukset/tavoitteet?
 
 | VaatimusID | Kuvaus | 								
-|:-:|:-:|:-:|
+|:-:|:-:|
 | BUSINESS-REQ-0001 | Palvelun kirjautuminen tulee olla helppoa, että voimme saavuttaa laajan käyttäjäkunnan = 35% kohderyhmästä | 
 | BUSINESS-REQ-0002 | |
 | BUSINESS-REQ-0003 | |
