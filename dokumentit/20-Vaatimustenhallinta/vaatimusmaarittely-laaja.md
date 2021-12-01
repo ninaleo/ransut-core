@@ -360,8 +360,6 @@ Näitä yhteyksiä kutsutaan vaatimusten jäljitettävyydeksi (Traceablity).
 
 ### Suorituskykyvaatimukset (Performance Requirements)
 
-![](../assets/work-to-do.png)
-
 >Millaisia vaatimuksia palveluun kohdistuu suorituskyvyn näkökulmasta?
 >Mitä tarkoittaa suorituskyvyn testaus, eli [load testing](https://en.wikipedia.org/wiki/Load_testing) Tutustu myös K6-työkaluun? [K6-Load Tester](https://k6.io/)
 
@@ -373,7 +371,7 @@ Näitä yhteyksiä kutsutaan vaatimusten jäljitettävyydeksi (Traceablity).
 
 ### Tietoturvavaatimukset (Security Requirements)
 
-![](../assets/work-to-do.png)
+
 
 >Millaisia vaatimuksia palveluun kohdistuu tietoturvan näkökulmasta? 
 > Tutustu [VAHTI 1/2013 Sovelluskehityksen tietoturvaohje](https://www.suomidigi.fi/ohjeet-ja-tuki/vahti-ohjeet/vahti-12013-sovelluskehityksen-tietoturvaohje)
@@ -385,8 +383,6 @@ Näitä yhteyksiä kutsutaan vaatimusten jäljitettävyydeksi (Traceablity).
 | SECURITY-REQ-0003 | ... |
 
 ### Saavutettavuusvaatimukset (Accessablity Requirements)
-
-![](../assets/work-to-do.png)
 
 >Mitä tarkoitetaan saavutettavuudella? Millaisia asioita/ohjeistuksia on otettava huomioon palvelua toteutettaessa? Tutustu lähteeseen: [https://www.saavutettavuusvaatimukset.fi/](https://www.saavutettavuusvaatimukset.fi/)
 
@@ -454,17 +450,9 @@ Logger_Container -- MariaDB_Container
 >Hyväksyntätesteissä keskitytään yleisesti asiakkaan/loppukäyttäjän näkökulmaan. Tavoitteena on kelpuuttaa, eli validoida , onko tuote asiakkaan toiveiden mukainen ja täyttääkö se asetetut vaatimukset.
 Hyväksyntätesteillä voidaan selvittää onko tuote myös riittävän suorituskykyinen, käytettävä tai tietoturvallinen asiakkaiden käyttötarkoitukseen. 
 
-[![](http://img.youtube.com/vi/WfMrCdAr-GM/0.jpg)](http://www.youtube.com/watch?v=WfMrCdAr-GM "")
-
-
-
->Kiinnitetään alustavat hyväksyntätestit vaatimuksiin taulukon muodossa.
-
-| Lähde | Testitapaus Id | Kuvaus | Tyyppi  |								
-|:-:|:-:|:-:|:-:|
-| [Feature 1](pohjat/pohja-ominaisuus.md), [FUNCTIONAL-REQ-0001]() | [Testitapaus 1](pohjat/pohja-hyvaksyntatesti.md) | esim. Tarkista kirjautuminen palveluun uutena käyttäjänä  | Hyväksyntätesti  |
-| [Feature 2](pohjat/pohja-ominaisuus.md), [FUNCTIONAL-REQ-0201](), [USE-CASE-017](pohjat/pohja-hyvaksyntatesti.md) | [Testitapaus 2](pohjat/pohja-testitapaus.md) | esim. Tarkista kenkilökohtaisten tietojen poisto | Hyväksyntätesti  |
-| [Feature 3](pohjat/pohja-ominaisuus.md),  | [Testitapaus 101](pohjat/pohja-hyvaksyntatesti.md) | esim. Takista Kirjautuminen toimivalla salasanalla | Hyväksyntätesti  |
+| Testitapaus Id | Kuvaus | Kohdistuu mihin?  |								
+|:-:|:-:|:-:|
+| [Hyväksyntätesti 1](pohjat/pohja-hyvaksyntatesti.md) | esim. Tarkista kirjautuminen palveluun uutena käyttäjänä  | [Feature 1 - Rekisteröinti](pohjat/pohja-ominaisuus.md)  |
 
 
 ## Standardit ja lähteet
