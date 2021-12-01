@@ -1,5 +1,7 @@
 # Vaatimusmäärittely
 
+*HUOM* Löydät ohjeistusta vaatimusmäärittelyn tekemiseen [tiivistetystä vaatimusmäärittelystä](), joka löytyy samasta kansiosta.
+
 |  |  |
 |:-:|:-:|
 | Dokumentti | Vaatimusmäärittely |
@@ -69,6 +71,17 @@ käytää olemassa olevia tilaajien oikeita nimiä! Muussa tapauksessa vaihdetaa
 | SR-002 | [Asiakas profiili B](pohjat/pohja-profiilikuvaus.md) | Aikuinen 22-45V | Tarve satunnainen, mutta yleisin asiakas  |
 | SR-003 | [Sidosryhmä - Rahoittaja]() | Pääomasijoittaja | Palvelun tuottamat tuotot |
 | SR-004 | [Sidosryhmä - verottaja]() | Nuori karhu | Kerätä verotuloja  |
+
+## Asiakkaan tarpeet/toiveet?
+
+
+| VaatimusID | Kuvaus | 								
+|:-:|:-:|:-:|
+| CUSTOMER-REQ-0001 | Käyttäjänä haluan kirjautua käyttäen Facebook-tunnuksia, ettei tarvitse turhaan häslätä | 
+| CUSTOMER-REQ-0002 | - |
+| CUSTOMER-REQ-0003 | - |
+| CUSTOMER-REQ-0004 | - |
+| CUSTOMER-REQ-0005 | - | 
 
 ## Palveluun liittyviä asiakaspolkuja
 
