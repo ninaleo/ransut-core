@@ -60,7 +60,6 @@ käytää olemassa olevia tilaajien oikeita nimiä! Muussa tapauksessa vaihdetaa
 
 ## Palvelukuvaus
 
-
 >Mitä palvelun avulla voidaan tehdä? Millaisia ovat sen käyttäjät? Mikä sen tehtävä on yleisesti eri sidosryhmien kannalta? 
 Kannattaa nostaa esiin lyhyesti mahdolliset loppukäyttäjä ja oleellisiin palvelusta hyötyviin sidosryhmät
 
@@ -110,6 +109,24 @@ Kannattaa nostaa esiin lyhyesti mahdolliset loppukäyttäjä ja oleellisiin palv
 | CUSTOMER-REQ-0003 | - |
 | CUSTOMER-REQ-0004 | - |
 | CUSTOMER-REQ-0005 | - | 
+
+
+## Valitut asiakastarinat
+
+> Haastattele tai "kuvittele" haastattelevasi palvelun kannalta olleellisia profiili/sidosryhmän edustajia ja pyydä heitä kuvaamaan palvelun käyttöön liittyviä oleellisia tilanteita. 
+> Miten henkilö/sidosryhmä hyötyy/käyttää palvelua. Kirjoita tämä tarinan muotoon. Kerro mitä palvelun käyttö käytännössä tarkoittaa asiakkaan, pääkäyttäjän etc. näkökulmasta! 
+> Alla olevassa videossa näet millaisia tarinoita **ei** ole tarkoitus kirjata tähän osioon :)
+
+> Pyri kirjoittamaan auki tarina vain valitun profiilin/sidosryhmän näkökulmasta (toiset profiilit/sidosryhmät saattavat kyllä esiintyä tarinassa). Tarinassa on kätevä viitata jo aiemmin luotuihin [Profiili](pohjat/pohja-profiilikuvaus.md)-kuvauksiin.** 
+> HUOMIO! Älä sekoita asiakastarinaa (Customer story) käyttäjätarinaan (User Story)
+
+**Asiakastarina 1** 
+
+[Profiili 1](pohjat/pohja-profiilikuvaus.md) herää aamusta ja tarkistaa puhelimellaan onko X-palvelussa tilaa aamupäivästä. Huomatessaan, että palvelussa on vapaa aika klo 11:00.........
+
+**Asiakastarina 2** 
+
+[Asiakas-tyyppi 3](pohjat/pohja-profiilikuvaus.md) käynnistää iltapäivällä rakennustyömaalla sementtimyllyä, kun hänelle tulee viesti X-palvelusta.........
 
 ## Liiketoiminnan vaatimukset/tavoitteet?
 
