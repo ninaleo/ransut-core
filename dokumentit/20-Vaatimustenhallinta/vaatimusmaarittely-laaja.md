@@ -1,6 +1,6 @@
 # Vaatimusmäärittely
 
-*HUOM* Löydät ohjeistusta vaatimusmäärittelyn tekemiseen [tiivistetystä vaatimusmäärittelystä](), joka löytyy samasta kansiosta.
+*HUOM* Löydät ohjeistusta vaatimusmäärittelyn tekemiseen [tiivistetystä vaatimusmäärittelystä](vaatimusmaaritely-tiivis.md), joka löytyy samasta kansiosta.
 
 |  |  |
 |:-:|:-:|
