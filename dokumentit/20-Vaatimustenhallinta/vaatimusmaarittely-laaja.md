@@ -99,19 +99,10 @@ Kannattaa nostaa esiin lyhyesti mahdolliset loppukäyttäjä ja oleellisiin palv
 | SR-003 | [Sidosryhmä - Rahoittaja]() | Pääomasijoittaja | Palvelun tuottamat tuotot |
 | SR-004 | [Sidosryhmä - verottaja]() | Nuori karhu | Kerätä verotuloja  |
 
+
 ## Asiakkaan tarpeet/toiveet?
 
-
-| VaatimusID | Kuvaus | 								
-|:-:|:-:|
-| CUSTOMER-REQ-0001 | Käyttäjänä haluan kirjautua käyttäen Facebook-tunnuksia, ettei tarvitse turhaan häslätä | 
-| CUSTOMER-REQ-0002 | - |
-| CUSTOMER-REQ-0003 | - |
-| CUSTOMER-REQ-0004 | - |
-| CUSTOMER-REQ-0005 | - | 
-
-
-## Valitut asiakastarinat
+**Asiakastarinat**
 
 > Haastattele tai "kuvittele" haastattelevasi palvelun kannalta olleellisia profiili/sidosryhmän edustajia ja pyydä heitä kuvaamaan palvelun käyttöön liittyviä oleellisia tilanteita. 
 > Miten henkilö/sidosryhmä hyötyy/käyttää palvelua. Kirjoita tämä tarinan muotoon. Kerro mitä palvelun käyttö käytännössä tarkoittaa asiakkaan, pääkäyttäjän etc. näkökulmasta! 
@@ -127,6 +118,17 @@ Kannattaa nostaa esiin lyhyesti mahdolliset loppukäyttäjä ja oleellisiin palv
 **Asiakastarina 2** 
 
 [Asiakas-tyyppi 3](pohjat/pohja-profiilikuvaus.md) käynnistää iltapäivällä rakennustyömaalla sementtimyllyä, kun hänelle tulee viesti X-palvelusta.........
+
+
+| VaatimusID | Kuvaus | 								
+|:-:|:-:|
+| CUSTOMER-REQ-0001 | Käyttäjänä haluan kirjautua käyttäen Facebook-tunnuksia, ettei tarvitse turhaan häslätä | 
+| CUSTOMER-REQ-0002 | - |
+| CUSTOMER-REQ-0003 | - |
+| CUSTOMER-REQ-0004 | - |
+| CUSTOMER-REQ-0005 | - | 
+
+
 
 ## Liiketoiminnan vaatimukset/tavoitteet?
 
