@@ -103,7 +103,7 @@ Kannattaa nostaa esiin lyhyesti mahdolliset loppukäyttäjä ja oleellisiin palv
 
 
 | VaatimusID | Kuvaus | 								
-|:-:|:-:|:-:|
+|:-:|:-:|
 | CUSTOMER-REQ-0001 | Käyttäjänä haluan kirjautua käyttäen Facebook-tunnuksia, ettei tarvitse turhaan häslätä | 
 | CUSTOMER-REQ-0002 | - |
 | CUSTOMER-REQ-0003 | - |
