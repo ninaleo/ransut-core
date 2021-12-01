@@ -53,7 +53,7 @@ käytää olemassa olevia tilaajien oikeita nimiä! Muussa tapauksessa vaihdetaa
 
 >Mitä toteutettavan palvelun/ratkaisun avulla tavoitellaan? Tämä voidaan käsitellä myös projektisuunnitelmassa, mutta vaatimusmäärittelyn yhteydessä voidaan tarkemmin kuvat tavoiteltua ratkaisua.
 
-* [Linkki projektisuunnitelmaan?]()
+* [Linkki viralliseen projektisuunnitelmaan](../10-Projektihallinta/projektisuunnitelma.md)
 * Tavoite A
 * Tavoite B
 * Tavoite C
