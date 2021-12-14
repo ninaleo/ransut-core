@@ -176,7 +176,7 @@ Huom.: Seuraavassa on esitetty käynnistys- ja lopetusvaiheet. Kaikista projekti
 
 
 
-* [Etappi 0](https://gitlab.labranet.jamk.fi/jamkit/project-templates/fi-opf-2021-core-template-v2/-/milestones/)
+* [Etappi 0](https://gitlab.labranet.jamk.fi/jamkit/project-templates/fi-opf-2021-core-template-v2/-/milestones/1)
 
 >esim. ryhmän webbisivut, tutustutaan tarkemmin toimeksiantoon, aloitetaan kohdealueeseen perehtyminen ja laaditaan projektisuunnitelma yhteistyössä toimeksiantajan edustajien kanssa. 
 >Projektin käynnistämiseen kuuluu olennaisesti projektisuunnittelu ja suunnitteludokumenttien laatiminen sekä yhteydenpitokäytänteiden luominen toimeksiantajayrityksen kanssa. Vaiheen aikana tehdään
