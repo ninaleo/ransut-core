@@ -7,49 +7,33 @@
 | Versio: | |
 | Päivämäärä: | |
 
-![](https://openclipart.org/image/400px/svg_to_png/198173/mono-package-games-strategy.png)
-
-
 ## 1. Toimeksianto 
-
 
 ## 1.1 Tausta ja lähtökohdat
 
 
 ![](../assets/work-to-do.png)
 
-
->Kuvataan toimeksiantoa lyhyesti johdannon muodossa.  Tarpeen mukaan ohjataan lukijaa tutustumaan tarkemmin vaatimusmäärittelydokumenttiin.
-
->Projektin tavoitteena on pyrkiä yhdistämään .... on tarve kehittää” < kohdetta>… ”Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän <TTOS2070> ‑opintojakson puitteissa. ”
-
->Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä tehtävä. Kohde kuvaa selkeällä tavalla, usein graafiseen esitykseen tukeutuen, millaisesta järjestelmäkokonaisuudesta tai toiminnasta on kyse, johon ollaan tekemässä nyt projektissa jotain osakokonaisuutta/täydennystä. Tässä siis kuvataan nykyjärjestelmää ja asiakkaan nykyistä toimintatapaa.
+>Kuvataan toimeksiantoa lyhyesti johdannon muodossa. Tarpeen mukaan ohjataan lukijaa tutustumaan tarvittaessa tarkemmin vaatimusmäärittelydokumenttiin.
+>Projektin tavoitteena on pyrkiä yhdistämään .... on tarve kehittää” < kohdetta>… 
+>Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän <TTOS2070> ‑opintojakson puitteissa. 
+>Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä tehtävä. Kohde kuvaa selkeällä tavalla, usein graafiseen esitykseen tukeutuen,
+>millaisesta järjestelmäkokonaisuudesta tai toiminnasta on kyse, johon ollaan tekemässä nyt projektissa jotain osakokonaisuutta/täydennystä. 
+>Tässä siis kuvataan nykyjärjestelmää ja asiakkaan nykyistä toimintatapaa.
 
 ## 1.2 Tavoitteet ja tehtävät
 
 ![](../assets/work-to-do.png)
 
 > ”Tässä dokumentissa kuvataan X-projektin taustaa, tavoitteita, tehtäviä, vaihejakoa, resursseja ja organisaatiota. Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.”
-
-* Tuottaa ratkaisu mihin ? 
-
 > Tähän voi liittää lähteeksi vaatimusmäärittelyn sisältöä
 > Määritellään työn keskeisin sisältö tässä projektissa; projektin tehtävä liittyy projektin kohteessa kuvattuun kokonaisuuteen. 
-
-* Mitä aiotaan tehdä? 
-
 > Mitä toimintaa aiotaan kehittää ja miten?>
 > Visio tulevasta tilasta
 > Mikä on tuotettava lopputulos (konkreettinen)?
 > Mitkä ovat osa- tai välitulokset?>
-
-* projektiin liittyvät eri sidosryhmät?
-
 > Mitä henkilöitä, toimijoita tai ryhmiä liittyy projektiin projektin 
 > Tähän voi liittää Sidosryhmäkuvauksen tai käyttää lähteenä vaatimusmäärittelyä ?
-
-* Linkki tarvitavaan aineistoon vaatimusmäärittelyssä
-
 > Esitellään palvelukuvaus ja sen mahdollinen muutoskohteet projektin myötä
 
 
@@ -63,20 +47,19 @@
 
 ## 1.4 Oikeudet
 
-> ”Eri osapuolten oikeudet on määritelty projektisopimuksessa.” Ellei erillisessä sopimuksessa ole kerrottu oikeuksista työn tuloksiin, tulee ne ilmaista esim. tässä projektisuunnitelmassa. 
+>"Eri osapuolten oikeudet on määritelty projektisopimuksessa.” Ellei erillisessä sopimuksessa ole kerrottu oikeuksista työn tuloksiin, tulee ne ilmaista esim. tässä projektisuunnitelmassa. 
 
 ## 1.5 Termit ja määritelmät
 
 >Tässä kappaleessa esitellään projektisuunnitelmassa esiintyvät määritelmät, termit ja lyhenteet. Esimerkiksi eri projekteissa saattaa sanoilla "tarkastus" ja "katselmointi" olla eri merkitys ja tämä 
-> voi aiheuttaa väärinkäsityksiä. Joskus saattaa olla paikallaan sopia eri nimityksiä ryhmän tarkastuksille (oma sisäinen, asiakkaan kanssa, opintojakson suuntaan). Lyhenteet kannattaa avata 
-> alkuperäiskielelle ja lisätä lyhyt kuvaus suomeksi. Esimerkiksi CASE = Computer aided software engineering, tietokoneavusteinen systeemityö.
+>voi aiheuttaa väärinkäsityksiä. Joskus saattaa olla paikallaan sopia eri nimityksiä ryhmän tarkastuksille (oma sisäinen, asiakkaan kanssa, opintojakson suuntaan). Lyhenteet kannattaa avata 
+>alkuperäiskielelle ja lisätä lyhyt kuvaus suomeksi. Esimerkiksi CASE = Computer aided software engineering, tietokoneavusteinen systeemityö.
 
 ## 1.6 Projektiin liittyvät haasteet
 
-> Tarkastellaan projektin tavoitteita ja laaditaan tueksi SWOT-kuvaus, jossa tarkastellaan koko projektia ja sen toimintaympäristöä. 
+>Tarkastellaan projektin tavoitteita ja laaditaan tarvittaessa tueksi erillinen SWOT-kuvaus, jossa tarkastellaan projektia ja sen toimintaympäristöä eri näkökulmista. 
 
 ![](https://openclipart.org/image/800px/247839)
-
 
 # 2. Projektiorganisaatio
 
@@ -86,14 +69,14 @@
 
 > Kuka kuuluu projektiorganisaatioon? Onko projektiryhmän/tiimin lisäksi muita toimijoita? 
 
-**Projektiryhmän jäsenet**
+**Projektin eri osapuolet ja jäsenet**
 
 | Nimi | Organisaatio | Vastuu |
 |:-:|:-:|:-:|
 | | | |
 | | | |
 
->projektiryhmän ohjaajat sekä toimeksiantajan edustajat. Organisaatiokaavio on esitetty liitteessä tai alla olevassa kuvauksessa.
+* Tässä voi olla linkki myös tiimin esittelyyn?
 
 ![](../assets/work-to-do.png)
 
@@ -124,21 +107,14 @@
 
 >Tähän kirjataan kaikkien projektiorganisaatioon kuuluvien (esim. johtoryhmä, projektipäällikkö, sihteeri, ryhmä, >ohjaajat) vastuut sekä päätöksentekoprosessi (esim. projektipäällikkö valmistelee ja esittää johtoryhmän päätettäväksi…)
 
-**Projektiryhmä**
-
 >”Projektiryhmä suorittaa johtoryhmän projektille asettamat tehtävät käytettävissä olevien resurssien puitteissa. >Projektin aikana ryhmän päällikön ja sihteerin roolit kiertävät ryhmän sisällä siten, että jokainen ryhmän jäsen toimii >kerran kummassakin roolissa.”
 
-**Johtoryhmä**
-
->”Johtoryhmän muodostavat siihen valitut projektiryhmän, ohjaajien ja toimeksiantajan edustajat. Johtoryhmän kokouksiin >voidaan tarvittaessa kutsua myös muita henkilöitä, esim. asiantuntijoita. Johtoryhmän kokoonpano on esitelty >projektisopimuksen liitteessä <X>.” 
-
-**Tukiryhmä**
+>”Johtoryhmän muodostavat siihen valitut projektiryhmän, ohjaajien ja toimeksiantajan edustajat. Johtoryhmän kokouksiin >voidaan tarvittaessa kutsua myös muita henkilöitä, esim. asiantuntijoita.Johtoryhmän kokoonpano on esitelty >projektisopimuksen liitteessä <X>.” 
 
 >Tukiryhmän tehtävänä on antaa projektiryhmälle sisällöllistä opastusta tehtävän suorittamiseksi. Kappaleessa tulee >esitellä projektin muut sidosryhmät (asiakas, ulkopuoliset konsultit, jne.) henkilötasolla. Asiakkaan mukana olevista >henkilöistä tulee mainita ainakin nimi, yhteystiedot, toimenkuva sekä rooli projektissa.
 
 
 ## 2.3. Projektin vaiheet ja taloudelliset tavoitteet
-
 
 >tehtäväkokonaisuudet, osittelu ja vaiheistus, välitulokset, aikataulut ja resurssissuunnitelmat, budjetti
 
@@ -156,8 +132,6 @@ __luovutus, käyttöönotto, ylläpito, projektin aineiston taltiointi, arkistoi
 
 # 3. Projektin ajalliset tavoitteet	
 
-
-
 ## 3.1 Osittaminen ja vaiheistus
 
 ![](../assets/work-to-do.png)
@@ -173,8 +147,7 @@ Tästä voidaan nostaa esiin muutama oleellisia vaiheita kuten:
 * Testaus
 * Luovutus
 
-**Esitetään siis vaiheet GANTT kuvauksen muodossa**
-
+**Esitetään siis vaiheet yksinkertaisen GANTT diagrammin avulla**
 
 ```plantuml
 Project starts the 2021-5-15
@@ -208,6 +181,8 @@ Huom.: Seuraavassa on esitetty käynnistys- ja lopetusvaiheet. Kaikista projekti
 
 
 * [Etappi 1](https://gitlab.labranet.jamk.fi/jamkit/project-templates/fi-opf-2021-core-template-v2/-/milestones/3)
+
+Sovittu etappi 1, jossa tavoitteet on asetettu ennakkon esimerkkeinä: projektisuunnitelman hyväksyminen, 
 
 * [Etappi X](https://gitlab.labranet.jamk.fi/jamkit/project-templates/fi-opf-2021-core-template-v2/-/milestones)
 
