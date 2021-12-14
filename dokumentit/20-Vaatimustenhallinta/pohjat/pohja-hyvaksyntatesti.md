@@ -1,4 +1,4 @@
-# Hyväksyntätesti (template)
+# Hyväksyntätesti (pohja)
 
 | | |
 |:-:|:-:|
