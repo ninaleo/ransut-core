@@ -1,4 +1,4 @@
-# Profiili: (Korvaa)
+# Profiilikuvaus (pohja)
 
 ![](https://openclipart.org/image/400px/svg_to_png/17910/Angelo-Gemmi-female-face.png)
 
