@@ -1,4 +1,4 @@
-# Ominaisuus pohja  
+# Ominaisuus (pohja)  
 
 | | |
 |:-:|:-:|
