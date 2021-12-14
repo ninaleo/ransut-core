@@ -1,4 +1,4 @@
-# Käyttötapaus: (Nimeä asianmukaisesti)
+# Käyttötapaus (pohja)
 
 * Mitä käyttötapauksella tavoitellaan
 * Mihin palvelun osa-alueeseen se liittyy: 
