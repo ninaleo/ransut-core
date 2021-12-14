@@ -367,8 +367,6 @@ Näitä yhteyksiä kutsutaan vaatimusten jäljitettävyydeksi (Traceablity).
 
 ### Suorituskykyvaatimukset (Performance Requirements)
 
-![](../assets/work-to-do.png)
-
 >Millaisia vaatimuksia palveluun kohdistuu suorituskyvyn näkökulmasta?
 >Mitä tarkoittaa suorituskyvyn testaus, eli [load testing](https://en.wikipedia.org/wiki/Load_testing) Tutustu myös K6-työkaluun? [K6-Load Tester](https://k6.io/)
 
@@ -392,8 +390,6 @@ Näitä yhteyksiä kutsutaan vaatimusten jäljitettävyydeksi (Traceablity).
 | SECURITY-REQ-0003 | ... |
 
 ### Saavutettavuusvaatimukset (Accessablity Requirements)
-
-![](../assets/work-to-do.png)
 
 >Mitä tarkoitetaan saavutettavuudella? Millaisia asioita/ohjeistuksia on otettava huomioon palvelua toteutettaessa? Tutustu lähteeseen: [https://www.saavutettavuusvaatimukset.fi/](https://www.saavutettavuusvaatimukset.fi/)
 
