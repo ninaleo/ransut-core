@@ -36,22 +36,11 @@ käytää olemassa olevia tilaajien oikeita nimiä! Muussa tapauksessa vaihdetaa
 * Tavoite B
 * Tavoite C
 
-## Kohderyhmä
-
-![](../assets/work-to-do.png)
-
->Kenelle ratkaisua/palvelua kehitetään? Kannattaa nostaa esiin lyhyesti mahdolliset loppukäyttäjä ja oleellisiin palvelusta hyötyviin sidosryhmät
-
-* Kohderyhmä A
-* Kohderyhmä B
-* Kohderyhmä C
-
 ## Sidosryhmäkartta
 
 >Kuvaa sidosryhmäkartan avulla millaisia käyttäjä, sidosryhmiä tai muita toimijoita liittyy olennaisesti suunniteltun ratkaisuun/palveluun? Kirjataan kaikki tunnistetut sidosryhmät sidosryhmäkartan muotoon. Samalla kirjataan sidosryhmän/toimijan motivaatio palvelua kohtaan. Sidosryhmä kuvauksen voi laatia esim. piirtämällä se eri työkalulla, MindMap-muodossa tai soveltaen sopivaa PlantUML-generaattoria. (Suositeltava vaihtoehto)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ujNtdGzK1JY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 >*Tarina väliin*
 >*Palvelua kehitettäessä on otettava selvää taustoista ja pyrittävä ymmärtämään itse toimialaa tai tarkasteltua toimintaympäristöä. Tähän tarvitaan taustatietoa ja asiakastuntemusta. Henkilöt joilla on ns. toimialaosaamista (Domain Knowledge) ovat tässä vaiheessa vahvoilla. Kannattaa kuunnella asiakasta ja kerätä tietoa perehtymällä aiheeseen myös itsenäisesti. Toimeksiantajalla on varmasti tarjolla tietoa, jonka pohjalta on helpompi ymmärtää toimialaa, joka saattaa olla alkuvaiheessa arvoitus ratkaisun tekijälle*
@@ -114,8 +103,7 @@ Tästä johtuen joudutaan tarkentamaan ja erittelemään kuvausta ja luomaa tarv
 
 **Asiakaspolku esimerkki: Asiakkaan saapuminen liiketilaan onnistuneen ulkomainoksen pohjalta**
 
->Tässä polussa voidaan pohtia miten asiakkaan päätöstä voidaan vahvistaa?
-
+>Esimerkki polussa voi pohtia miten asiakkaan ostopäätöstä voitaisiin vahvistaa?
 
 ```plantuml
 Step1: Palvelun kuvaus esillä näyteikkunan mainosnäytössä 
@@ -155,11 +143,9 @@ Step11 --> Step12
 >Mietitään seuraavaksi miltä ovat palvelun tärkeimmät toiminnalliset ominaisuudet? Kirjataan ne tässä vaiheessa ranskalaisilla viivoilla ja luodaan niiden pohjalta hahmotelma MindMap-kuvauksen muodossa. Kuvan avulla palvelun eri osa-alueet saattava hahmottua selkeämmin. 
 >* Mieti esimerkisi tilannetta, että sinulta kysytään mitä kehittämällasi palvelulla voi käytännössä tehdä? Saat aikaa vastata 15 sekuntia. Mitä vastaat? 
 >* Mitä toimintoja nostatat esiin? 
-> * Miksi tuotteesi on parempi kuin muut?
-
+>* Miksi tuotteesi on parempi kuin muut?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jXYQH2hCsHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 **Toiminnalliset ominaisuudet ja niiden toiminnot**
 
@@ -181,7 +167,6 @@ Step11 --> Step12
 *Toiminnallinen Ominaisuus (Feature) D - suorasoitto*
 
     - (Toiminto) Asiakas_A voi soittaa tuntemalleen kaverille
-
 
 **Esitetään ominaisuudet MindMap-muodossa ja samalla linkitetään niihin liittyvät toiminnot**
 
