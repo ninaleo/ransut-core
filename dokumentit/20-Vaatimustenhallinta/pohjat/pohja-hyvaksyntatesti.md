@@ -1,4 +1,4 @@
-# Hyväksyntätesti (anna kuvaava nimi)
+# Hyväksyntätesti (template)
 
 | | |
 |:-:|:-:|
