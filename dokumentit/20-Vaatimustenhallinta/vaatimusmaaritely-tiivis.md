@@ -1,8 +1,5 @@
 # Tiivistetty vaatimusmäärittely
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RufcWXKFo6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 >Vaatimusmäärittelyn kirjoittajalle!
 Poista työn edetessä eri ohjetekstit ja korvaa taulukoissa annetut esimerkit toimeksiantoon liittyvillä tiedoilla. Älä muuta otsikointia ratkaisevasti, mutta voit poistaa ylimääräiset höpinät ja video linkit pois :)
 
@@ -39,8 +36,6 @@ käytää olemassa olevia tilaajien oikeita nimiä! Muussa tapauksessa vaihdetaa
 ## Sidosryhmäkartta
 
 >Kuvaa sidosryhmäkartan avulla millaisia käyttäjä, sidosryhmiä tai muita toimijoita liittyy olennaisesti suunniteltun ratkaisuun/palveluun? Kirjataan kaikki tunnistetut sidosryhmät sidosryhmäkartan muotoon. Samalla kirjataan sidosryhmän/toimijan motivaatio palvelua kohtaan. Sidosryhmä kuvauksen voi laatia esim. piirtämällä se eri työkalulla, MindMap-muodossa tai soveltaen sopivaa PlantUML-generaattoria. (Suositeltava vaihtoehto)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ujNtdGzK1JY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 >*Tarina väliin*
 >*Palvelua kehitettäessä on otettava selvää taustoista ja pyrittävä ymmärtämään itse toimialaa tai tarkasteltua toimintaympäristöä. Tähän tarvitaan taustatietoa ja asiakastuntemusta. Henkilöt joilla on ns. toimialaosaamista (Domain Knowledge) ovat tässä vaiheessa vahvoilla. Kannattaa kuunnella asiakasta ja kerätä tietoa perehtymällä aiheeseen myös itsenäisesti. Toimeksiantajalla on varmasti tarjolla tietoa, jonka pohjalta on helpompi ymmärtää toimialaa, joka saattaa olla alkuvaiheessa arvoitus ratkaisun tekijälle*
@@ -145,8 +140,6 @@ Step11 --> Step12
 >* Mitä toimintoja nostatat esiin? 
 >* Miksi tuotteesi on parempi kuin muut?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jXYQH2hCsHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 **Toiminnalliset ominaisuudet ja niiden toiminnot**
 
 *Toiminnallinen ominaisuus (Feature) A  -Sisäinen sähköposti*
@@ -192,12 +185,7 @@ Step11 --> Step12
 
 # Toiminnalliset vaatimukset (Functional Requirements)
 
->Voidaan yleisesti sanoa, että palveluun liittyvät toiminnot (Functions) voidaan kirjata alkuvaiheessa toiminnallisina vaatimuksina (Functional Requirement), mutta osa niistä osoittautuu käytännössä palvelun kannalta laajemmiksi toiminnoiksi, eli ominaisuuksiksi (Features) ja tästä syystä niitä käsitellään hieman eritavoin kehityksen aikana. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pTv2hild0FQ?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
->Kun määritellään toiminnallisia vaatimuksia voidaan ne kirjataan yksinkertaisen taulukon muotoon. Seuraavat ehdot kannattaa ottaa huomioon:
+>Voidaan yleisesti sanoa, että palveluun liittyvät toiminnot (Functions) voidaan kirjata alkuvaiheessa toiminnallisina vaatimuksina (Functional Requirement), mutta osa niistä osoittautuu käytännössä palvelun kannalta laajemmiksi toiminnoiksi, eli ominaisuuksiksi (Features) ja tästä syystä niitä käsitellään hieman eritavoin kehityksen aikana. Kun määritellään toiminnallisia vaatimuksia voidaan ne kirjataan yksinkertaisen taulukon muotoon. Seuraavat ehdot kannattaa ottaa huomioon:
 
 * *Vaatimus on oltava mitattavissa*
 * *Vaatimuksen on oltava yksiselitteinen ja selkeä*
@@ -225,9 +213,7 @@ Step11 --> Step12
 >Tarina väliin: 
 >Ymmärtääksesi paremmin ominaisuuden käsitteen mieti seuraavaa: Kilpailevat streaming-palvelut esim. Netflix, HBO, Disney etc tarjota asiakkaalle palveluissaan pitkälti samoja ominaisuuksia, mutta niiden toiminnoissa voi olla ratkaisevia eroja. Yksittäiset toimintojen toteutus voi vaihdella palvelusta riippuen. Yleiset toiminnot, kuten "play", "pause" ja "stop" löytyvät kaikista palveluista, mutta miten toimii esimerkiksi "fast forward"-toiminnot? Muita eroja palvelujen välillä voi tulla esiin yleisessä käytettävyydessä, suorituskyvyssää tai tietoturvassa.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ghpjWtlDnF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Eri ominaisuudet ovat tärkeitä palvelukehityksen kannalta, koska niiden avulla erotutaan kilpailijoista ja niiden avulla voidaan saavuttaa uusia asiakkuuksia. Eri ominaisuuksien/piirteiden/featureiden toteuttamien vaatii kehitystiimin aikaa, rahaa ja resursseja. Tästä johtuen kehitystyön mielekkään etenemisen näkökulmasta joudutaan eri ominaisuuksien toteutusta priorisoimaan. Alla olevassa taulukossa on kerätty muutamia kuvitteellisen palvelun ominaisuuksia ja priorisoitu ne perustelujen kanssa.
+>Eri ominaisuudet ovat tärkeitä palvelukehityksen kannalta, koska niiden avulla erotutaan kilpailijoista ja niiden avulla voidaan saavuttaa uusia asiakkuuksia. Eri ominaisuuksien/piirteiden/featureiden toteuttamien vaatii kehitystiimin aikaa, rahaa ja resursseja. Tästä johtuen kehitystyön mielekkään etenemisen näkökulmasta joudutaan eri ominaisuuksien toteutusta priorisoimaan. Alla olevassa taulukossa on kerätty muutamia kuvitteellisen palvelun ominaisuuksia ja priorisoitu ne perustelujen kanssa.
 >Priorisoinnilla voidaan esittää mitkä ominaisuuksiasta ovat tärkeitä asiakkaan tai toteutuksen näkökulmasta. 
 
 | Ominaisuus | Prioriteetti | Kuvaus |
@@ -252,8 +238,6 @@ Julkaisua suunniteltaessa voidaan ryhmitellä eri ominaisuudet ja luoda niistä 
 >Ominaisuuksien toteutuksiin liittyvät prototyyppi kuvaukset kannataa liittää ominaisuuksien määrittelydokumentteihin, jolloin ne löytyvät asian mukaisesta paikasta. Esimerkkinä [Feature-ominaisuus](pohjat/pohja-ominaisuus.md)
 >Perinteisesti käyttöliittymä hahmotelmat ja kuvaukset on tehty piirtämällä käyttöliittymästä staattisia kuvia ja näitä on käytetty suunnittelun apuna. Tämä onnistuu myös soveltamalla apuna PlantUML-kuvauksia. (ks. alla)
 >Kannattaa kuitenkin tutustua ja kokeilla arjolla olevia prototyyppi/MockUp-työkaluja tähän tarkoitukseen. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a5qLMBYWv5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
  * [Linkki prototyyppiin / MockUp-toteutukseen]()
@@ -280,8 +264,6 @@ salt
 
 >Ohjelmistokehityksessä on yleistynyt tapa käyttää tavoitteiden määrittelyssä palvelua käyttävien sidosryhmien esittämiä kuvauksia tarvittavista toiminnoista. Nämä asiakkaalta/sidosryhmiltä saadut ehdotukset kirjataan User Story, eli käyttötarinan muotoon. Kannattaa tutustu aiheeseen [User Story](https://en.wikipedia.org/wiki/User_story). Käyttäjätarinat ovat kehitystiimin kannalta erittäin oleellisia määrittelyjä, koska ne ovat käytännössä toimintoja joita toteutetaan palveluun. User Storyjen avulla ohjataa kokonaisia kehitystiimejä tuotekehityksen aikana.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IJf7hCBo3y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 >Käyttötarina kuvauksen yleinen muoto on: 
 
 * Englanniksi: As a <-role-> I can <-capability->, so that <-receive benefit->*
@@ -295,7 +277,6 @@ salt
 |:-:|:-:|:-:|
 | US-001 | Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #8 |
 | US-002 | Käyttäjänä haluan, että voin poistaa historian tekemistäni ostoista viimeisen kuukauden ajalta, koska en halua muistella menneitä | Linkki  #8 |
-
 
 ## Tietojärjestelmiä yleisesti koskevista vaatimuksista
 
@@ -346,8 +327,6 @@ Näitä yhteyksiä kutsutaan vaatimusten jäljitettävyydeksi (Traceablity).
 | HWREQ-0004 |... ||
 
 ## Laadulliset vaatimukset (Non-functional Requirements)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YAnPGPj0gK0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 >Laadulliset vaatimukset tarkastelevat palvelua ns. ei-toiminnallisesta näkökulmasta. Kuulostaa ehkä äkkiseltään hankalalta, mutta mieti seuraavia kysymyksiä?
 
@@ -416,9 +395,7 @@ Kannattaa tutkia esimerkiksi https://www.sfs.fi/aihealueet/terveydenhuolto/laaki
 
 Ohjelmistoarkkitehtuurin kuvaus on itsessään laaja osa-alue ja käytännössä se edellyttää laajempaa dokumentaatiota.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OYmvbqBd2BY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* [Linkki laajempaan ohjelmistoarkkitehtuurikuvaukseen](../30-Suunnittelu-ja-toteutus/arkkitehtuuri-ja-tekninentoteutus.md)
+* [Tähän linkki erilliseen ohjelmistoarkkitehtuurin kuvaukseen](../30-Suunnittelu-ja-toteutus/arkkitehtuuri-ja-tekninentoteutus.md)
 
 
 
