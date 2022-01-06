@@ -7,6 +7,9 @@
 | Versio: | |
 | Päivämäärä: | |
 
+![](https://openclipart.org/image/400px/167242)
+
+
 ## 1. Toimeksianto 
 
 ## 1.1 Tausta ja lähtökohdat
@@ -132,7 +135,7 @@
 
 ## 3.1 Osittaminen ja vaiheistus
 
-![](../assets/work-to-do.png)
+
 
 >Projektin etenemistä voidaan kuvata ns. GANTT-kaaviolla. Sen avulla voidaan esittää eri vaiheiden eteneminen aikajanalla, samalla voidaan osoittaa projektin eri vaiheisiin liittyvät kriittiset pisteet / etapit.
 
@@ -144,6 +147,8 @@ Tästä voidaan nostaa esiin muutama oleellisia vaiheita kuten:
 * Toteutus
 * Testaus
 * Luovutus
+
+![](../assets/work-to-do.png)
 
 **Esitetään siis vaiheet yksinkertaisen GANTT diagrammin avulla**
 
@@ -230,13 +235,7 @@ Kustannusarvion esittäminen taulukon avulla:
 >Listataan riskit, arvioidaan niiden vakavuus ja todennäköisyys ja koetetaan miettiä toimenpiteet kuinka vakavimmat/todennäköisimmät riskit voitaisiin ehkäistä jo ennalta. Lisäksi olisi hyvä olla suunnitelma kuinka toimitaan, jos riski toteutuu.
 >Kirjataan alla olevaan taulukkoon projektiin kohdistuvat riskit ja pidetään niitä yllä tarpeen mukaan. Jokaiselle riskille annetaan yksilöllinen tunniste esim. RIS007, koska tämä helpottaa niiden käsittelyä eri tilanteissa.
 
-| ID |	Kuvaus | Vakavuus | Todennäköisyys | Kuka vastaa | Mitä toimintaan riskin ilmentyessä? | 
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| RIS-001 | Ryhmän jäsen sairastuu flunssaan |  V3 | 60 % |[Tiimin jäsen 1]() | Ilmoita [tiiminvetajalle]() ja tarvittaesssa [toimeksiantajalle](). |
-| RIS-002 | Sähköt katkeavat kehitystyön aikana | V5 | 10 %  | [Tiimin jäsen 2]() | Varmistetaan, että kaikilla on käytössään varayhteydet esim. puhelimella |
-| RIS-003 | ... | ... | ...  | ... |
-
-Liitä seuraava osio tähän mukaan: [Riskienhallintataulukko]()
+Liitä seuraava osio tähän mukaan: [Riskienhallintataulukko](riskitaulukko.md)
 
 ## 4.5 Katselmointikäytäntö
 
