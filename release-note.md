@@ -1,6 +1,19 @@
 # Julkaisu päiväkirja 
 
 
+## FI OPF- Releases 0.10.0 - 06.1.2022
+
+
+* Rutkasti muutoksia lyhennettyyn vaatimusmäärittelyyn ja lyhennettyy projektisuunnitelmaan. Sisältö korjailtu ja synkronoitu en-version kanssa yhteen. 
+* Tilannehuone päivitetty 
+* Lisätty esimerkki issuet
+* Tarkistettu issue kuvaukset
+
+## FI OPF- Releases 0.9.9 - 18.11.2021
+
+* Pieniä muutoksia
+
+
 ## FI OPF- Releases 0.9.8 - 18.11.2021
 
 * Suomenkielinen versio erotettu omaksi repositorioksi

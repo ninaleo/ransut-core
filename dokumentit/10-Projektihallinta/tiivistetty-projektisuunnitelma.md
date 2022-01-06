@@ -135,11 +135,7 @@
 
 ## 3.1 Osittaminen ja vaiheistus
 
-
-
->Projektin etenemistä voidaan kuvata ns. GANTT-kaaviolla. Sen avulla voidaan esittää eri vaiheiden eteneminen aikajanalla, samalla voidaan osoittaa projektin eri vaiheisiin liittyvät kriittiset pisteet / etapit.
-
->Ohjelmistoprojekteissa karkea etenemisjärjestystä voi kuvata ohjelmistojen [SDLC](https://en.wikipedia.org/wiki/Systems_development_life_cycle ) -kehittämismallia.
+>Projektin etenemistä voidaan kuvata ns. GANTT-kaaviolla. Sen avulla voidaan esittää eri vaiheiden eteneminen aikajanalla, samalla voidaan osoittaa projektin eri vaiheisiin liittyvät kriittiset pisteet / etapit. Ohjelmistoprojekteissa karkea etenemisjärjestystä voi kuvata ohjelmistojen [SDLC](https://en.wikipedia.org/wiki/Systems_development_life_cycle )-mallilla.
 Tästä voidaan nostaa esiin muutama oleellisia vaiheita kuten:
 
 * Määrittely
@@ -150,7 +146,7 @@ Tästä voidaan nostaa esiin muutama oleellisia vaiheita kuten:
 
 ![](../assets/work-to-do.png)
 
-**Esitetään siis vaiheet yksinkertaisen GANTT diagrammin avulla**
+**Esitetään vaiheet yksinkertaisen GANTT diagrammin avulla**
 
 ```plantuml
 Project starts the 2021-5-15
