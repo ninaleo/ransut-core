@@ -1,6 +1,6 @@
 # Tuote MindMap (pohja)
 
->Tässä on kuvattu esimerkkinä ohjelmisto MindMap kuvauksen muodossa. Kuvauksesta selviävät ohjelmiston tärkeimmät ominaisuudet (Feature) ja niihin liittyvät toiminnot (Function).
+>Tässä on kuvattu ohjelmisto MindMapin muodossa. Kuvauksesta selviävät ohjelmiston tärkeimmät ominaisuudet (Feature) ja niihin liittyvät toiminnot (Function).
 
 ```plantuml
 @startmindmap
