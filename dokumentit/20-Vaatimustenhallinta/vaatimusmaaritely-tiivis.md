@@ -156,12 +156,12 @@ Step11 --> Step12
 | *[Sisäinen sähköposti](pohjat/pohja-ominaisuus.md)* | |
 || Asiakas_A voi lähettää postia ulkopuoliselle henkilölle Mahdollinen_Asiakas_C |
 || Asiakas_A voi saada postia palvelun sisäiseltä käyttäjältä Asiakas_B |
-|*[laskutus](pohjat/pohja-ominaisuus.md)* ||
+| *[laskutus](pohjat/pohja-ominaisuus.md)* ||
 || Ylläpito_henkilö voi poistaa laskun Asiakaalta_A |
 || Ylläpito_henkilö voi luoda uuden laskun Asiakkaalle_A | 
-| *[Pelitilanteen hallinta](pohjat/pohja-ominaisuus.md) | |
+| *[Pelitilanteen hallinta](pohjat/pohja-ominaisuus.md)* | |
 || Pelaaja_B kykenee tallettamaan tilanteen |
-|| Asiakas_B voi jakaa peli tilanteen tallenteen Asiakkaalle_A |
+|| Asiakas_B voi jakaa pelitilanteen Asiakkaalle_A |
 | *[Suorasoitto](pohjat/pohja-ominaisuus.md)* ||
 || Asiakas_A voi soittaa tuntemalleen henkilölle Asiakas_B |
 || Asiakas_A voi soittaa tuntemattomalle henkilölle, jos soitto on sallittu |
@@ -197,7 +197,7 @@ Step11 --> Step12
 
 Kaikkia vaatimuksia (myös ei-toiminnalliset vaatimukset) koskevat seuraavat ehdot:
 
-* *Vaatimus on yksilöllinen ja identifioitu
+* *Vaatimus on yksilöllinen ja identifioitu*
 * *Vaatimus on oltava mitattavissa*
 * *Vaatimuksen on oltava yksiselitteinen ja selkeä*
 * *Vaatimukseen ei tule sisällyttää useampia vaatimuksia*
