@@ -62,7 +62,7 @@
 
 ![](https://openclipart.org/image/800px/247839)
 
-# 2. Projektiorganisaatio
+## 2. Projektiorganisaatio
 
 ## 2.1 Organisaation esittely
 
@@ -131,7 +131,7 @@
 
 >luovutus, käyttöönotto, ylläpito, projektin aineiston taltiointi, arkistointi, loppuraportti, projektin virallinen päättäminen
 
-# 3. Projektin ajalliset tavoitteet	
+## 3. Projektin ajalliset tavoitteet	
 
 ## 3.1 Osittaminen ja vaiheistus
 
@@ -212,7 +212,7 @@ Kustannusarvion esittäminen taulukon avulla:
 
 ![](kustannusarvio.JPG)
 
-# 4. Laadunvarmistus
+## 4. Laadunvarmistus
 
 >Projektissa sovellettavat työmenetelmät, välineet, ohjeet ja standardit
 
@@ -266,7 +266,7 @@ Liitä seuraava osio tähän mukaan: [Riskienhallintataulukko](riskitaulukko.md)
 
 Oikeaoppiseen projektisuunnitelmaan kuuluu myös projektin keskeyttämiskriteerit. Näitä ei kuitenkaan opiskelijaprojekteissa käytetä, koska projekteissa käytetään tietty tuntimäärä tuloksen tekoon ja tulos luovutetaan sellaisena, kun se opintojakson päättyessä on. Projektiryhmä tekee kuitenkin jatkokehityssuunnitelman, josta mahdollinen uusi projekti jatkaa.
 
-# 5. Tiedonvälitys ja projektin etenemisen seuranta (viestintäsuunnitelma)
+## 5. Tiedonvälitys ja projektin etenemisen seuranta (viestintäsuunnitelma)
 
 ## 5.1 Viestintäsuunnitelma
 
@@ -274,7 +274,7 @@ Oikeaoppiseen projektisuunnitelmaan kuuluu myös projektin keskeyttämiskriteeri
 
 >Listaa projektissa sovitut työtilat ja viestintävälineet, palaverikäytäntö ja yhteydenpito, raportointi ja tiedotus.
 
-# 6. Projektin päättyminen
+## 6. Projektin päättyminen
 
 ## 6.1 Lopputuotteen luovutus, käyttöönotto
 
