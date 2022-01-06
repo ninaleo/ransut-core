@@ -7,10 +7,9 @@
 | Versio: | *0.0?* |
 | Päivämäärä: | 1.x.202y |
 
->Vaatimusmäärittelyn kirjoittajalle! Eri ohjevideot on siirretty harjoitustehtävän kuvaukseen, eli jos jokin osa-alue ei aukea käy läpi videot ensin! 
-Kun editoit dokumentaatiot kannattaa poistaa eri ohjeistuksen ja korvata taulukoissa annetut esimerkit pelkästään toimeksiantoon liittyvällä tiedolla. Älä muuta otsikointia ratkaisevasti!
-Jos haluat tarkistaa mitä alkuperäisessä pohjassa oli, niin löydät viimeisimmän version osoitteesta [Lyhennetty-vaatimusmääritelmä](https://jamkit.pages.labranet.jamk.fi/project-templates/fi-opf-2021-core-template-v2/20-Vaatimustenhallinta/vaatimusmaaritely-tiivis/)
-
+>Vaatimusmäärittelyn kirjoittajalle!Eri ohjevideot on siirretty harjoitustehtävien kuvauksiin, eli jos jokin osa-alue ei aukea käy läpi videot ensin! 
+Kun editoit dokumentaatiota kannattaa viimeistään ennen palautusta poistaa eri ohjeistukset ja korvata taulukoissa annetut esimerkit pelkästään toimeksiantoon liittyvällä tiedolla. Älä muuta otsikointia ratkaisevasti!
+Jos haluat tarkistaa mitä alkuperäinen pohja sisälsi, niin löydät viimeisimmän version osoitteesta [Lyhennetty-vaatimusmääritelmä](https://jamkit.pages.labranet.jamk.fi/project-templates/fi-opf-2021-core-template-v2/20-Vaatimustenhallinta/vaatimusmaaritely-tiivis/)
 >Terveisin,
 >Ohjaajat
 
@@ -18,7 +17,7 @@ Jos haluat tarkistaa mitä alkuperäisessä pohjassa oli, niin löydät viimeisi
 
 ![](../assets/work-to-do.png)
 
-> Kerro mitä tällä dokumentilla tavoitellaan? Kuvaa projektissa tavoiteltua kokonaisuutta, hieman taustaa ja aiheeseen olennaisesti liittyviä asioita? Jos kyseessä harjoitustehtävä, niin tarkista voitko todella käyttää olemassa olevia tilaajien oikeita nimiä! Muussa tapauksessa vaihdetaan kaikki nimet itse keksittyihin :)
+>*Kerro mitä tällä dokumentilla tavoitellaan? Kuvaa projektissa tavoiteltua kokonaisuutta, hieman taustaa ja aiheeseen olennaisesti liittyviä asioita? Jos kyseessä harjoitustehtävä, niin tarkista voitko todella käyttää olemassa olevia tilaajien oikeita nimiä! Muussa tapauksessa vaihdetaan kaikki nimet itse keksittyihin :)*
 
 ## Kohderyhmä 
 
@@ -89,7 +88,6 @@ Jos haluat tarkistaa mitä alkuperäisessä pohjassa oli, niin löydät viimeisi
 >**Eri kuvauksia tehdään yhteisen ymmärryksen saavuttamiseksi, ei pelkästään yksittäisen kehittäjän iloksi**
 
 **Pieni tarina**
-
 >*Mieti millä tavoin eri henkilöt valikoituvat Play Station/Steam/XBOX/Nintendo pelijärjestelmien käyttäjiksi? Mitkä ovat perusteet henkilökohtaiselle palvelun valinnalle? Onko käyttäjäryhmissä selkeitä eroja? Millaisia pelejä nämä ryhmät arvostavat? Millä tavoin liittyminen peli palveluun tapahtuu käytännössä? Mistä löytyy tarvittaessa VISA-kortti? Vaihda mielessäsi henkilön ikää ja huomaat, että ns. asiakaspolku (customer journey path) vaihtelee pelkästään iän mukaan! Tämä on erittäin tärkeä hahmottaa ajoissa, koska palvelun kehittäjän on otettava huomioon erilaiset potentiaaliset asiakkaat.* 
 
 **asiakaspolku PlantUML-esimerkki tilakoneena**
@@ -139,31 +137,39 @@ Step11 --> Step12
 
 ## Palvelun ominaisuudet (Features)
 
-![](../assets/work-to-do.png)
 
->*Kaikki palveluun/ohjelmistoon liittyvät toiminnot (Functions) voidaan kirjaan alkuvaiheessa ns. toiminnallisina vaatimuksina (Functional Requirements), mutta näistä osa niistä osoittautuu melko varmasti palvelun ominaisuuksiksi (Features). Tärkeimmät ominaisuudet on tunnistettava alkuvaiheessa, koska niiden pohjalta ohjataan tuotekehitystä projektin edetessä.* 
->*Mietitään seuraavaksi miltä ovat palvelun tärkeimmät toiminnalliset ominaisuudet? Kirjataan ne tässä vaiheessa ranskalaisilla viivoilla ja luodaan niiden pohjalta hahmotelma MindMap-kuvauksen muodossa. Kuvan avulla palvelun eri osa-alueet saattava hahmottua selkeämmin.* 
+>*Kaikki palveluun/ohjelmistoon liittyvät toiminnot (Functions) voidaan kirjaan alkuvaiheessa ns. toiminnallisina vaatimuksina (Functional Requirements), mutta näistä osa niistä osoittautuu melko varmasti palvelun kannalta oleellisiksi ominaisuuksiksi (Features). Tärkeimmät ominaisuudet on tunnistettava riittävästi alkuvaiheessa, koska niiden pohjalta ohjataan tuotekehitystä projektin edetessä.* 
+
+>*Mietitään seuraavaksi miltä ovat palvelun tärkeimmät toiminnalliset ominaisuudet? Kirjataan ne tässä vaiheessa ne taulukkoon ja luodaan niiden pohjalta myös hahmotelma MindMap-kuvauksen muotoon. Kuvan avulla palvelun eri osa-alueet saattava hahmottua selkeämmin.* 
 >*Mieti esimerkisi tilannetta, että sinulta kysytään mitä kehittämällasi palvelulla voi käytännössä tehdä? Saat aikaa vastata 15 sekuntia. Mitä vastaat?*
 >*Mitä tärkeimpiä toimintoja nostatat esiin?* 
->*Miksi tuotteesi on parempi kuin muut?*
+>*Mitkä ominaisuudet tekevätä tuotteestasi on paremman kuin muilla?*
 
-**Toiminnalliset ominaisuudet ja niiden toiminnot**
+**Pääominaisuudet ja toiminnot**
 
-| Ominaisuus | Toiminto |
+![](../assets/work-to-do.png)
+
+**HUOMIO** harjoituksessa ei tarvitse määritellä itsenäistä ominaisuutta tarkemmin!
+
+| Ominaisuus (Feature) | Toiminto (Function) |
 |:-:|:-:|
-| *Toiminnallinen ominaisuus (Feature) A  -Sisäinen sähköposti* | |
-|| (Toiminto) Asiakas_A voi lähettää postia ulkopuoliselle henkilölle |
-|| (Toiminto) Asiakas_A voi saada postia palvelun sisäiseltä käyttäjältä |
-|* Toiminnallinen Ominaisuus (Feature) B - laskutus* ||
-||  (Toiminto) Ylläpito_henkilö voi poistaa laskun Asiakaalta |
-|| (Toiminto) Ylläpito_henkilö voi luoda uuden laskun Asiakkaalle | 
-| *Toiminnallinen Ominaisuus (Feature) C - pelitilanteen talletus* | |
-|| (Toiminto) Pelaaja_B kykenee tallettamaan tilanteen |
-|| (Toiminto) Asiakas_B voi liittää Asiakkaan_A ryhmään uuden henkilön |
-| *Toiminnallinen Ominaisuus (Feature) D - suorasoitto* ||
-|| (Toiminto) Asiakas_A voi soittaa tuntemalleen kaverille |
+| *[Sisäinen sähköposti](pohjat/pohja-ominaisuus.md)* | |
+|| Asiakas_A voi lähettää postia ulkopuoliselle henkilölle Mahdollinen_Asiakas_C |
+|| Asiakas_A voi saada postia palvelun sisäiseltä käyttäjältä Asiakas_B |
+|*[laskutus](pohjat/pohja-ominaisuus.md)* ||
+|| Ylläpito_henkilö voi poistaa laskun Asiakaalta_A |
+|| Ylläpito_henkilö voi luoda uuden laskun Asiakkaalle_A | 
+| *[Pelitilanteen hallinta](pohjat/pohja-ominaisuus.md) | |
+|| Pelaaja_B kykenee tallettamaan tilanteen |
+|| Asiakas_B voi jakaa peli tilanteen tallenteen Asiakkaalle_A |
+| *[Suorasoitto](pohjat/pohja-ominaisuus.md)* ||
+|| Asiakas_A voi soittaa tuntemalleen henkilölle Asiakas_B |
+|| Asiakas_A voi soittaa tuntemattomalle henkilölle, jos soitto on sallittu |
 
-**Esitetään ominaisuudet MindMap-muodossa ja samalla linkitetään niihin liittyvät toiminnot**
+>Jokainen ominaisuus kannattaa kuvata itsenäisenä dokumenttina, koska niihin liittyy paljon tarkentavaa tietoa. Tutustu esimerkkinä [FEAT0001](20-Vaatimustenhallinta/ominaisuus-FEA0001.md). Kuvauksen tekemiseen käytetään tarvittaessa seuraavaa [pohjaa](pohja/../pohjat/pohja-ominaisuus.md). 
+
+
+**Kirjataan ominaisuudet vielä MindMap-muotoon ja samalla linkitetään niihin liittyvät toiminnot**
 
 ![](../assets/work-to-do.png)
 
@@ -187,36 +193,35 @@ Step11 --> Step12
 
 # Toiminnalliset vaatimukset (Functional Requirements)
 
+>Kuten huomasit yksittäinen toiminto (Function) liittyy yleensä laajempaan ominaisuuden (Feature) kokonaisuuteen. Alkuvaiheessa kaikki toiminnallisuudet voidaan kirjata ns. toiminnallisina vaatimuksina esimerkiksi taulukkoon. Tämän jälkeen voidaan tunnistaa tärkiemmät ominaisuudet ja kiinnittää niihin tarkentavat toiminnot 
+
+Kaikkia vaatimuksia (myös ei-toiminnalliset vaatimukset) koskevat seuraavat ehdot:
+
+* *Vaatimus on yksilöllinen ja identifioitu
 * *Vaatimus on oltava mitattavissa*
 * *Vaatimuksen on oltava yksiselitteinen ja selkeä*
 * *Vaatimukseen ei tule sisällyttää useampia vaatimuksia*
 * *Vaatimus kannattaa perustella, jos tarpeen*
 * *Vaatimuksen ei saa ylikirjoittaa aiemmin määriteltyä vaatimusta*
-* *Edustaako esitetty vaatimus itseasiassa ominaisuutta?*
+* *Edustaako kirjattu vaatimus itseasiassa ominaisuutta?*
 
-| ID | Toiminnallisen vaatimuksen kuvaus | Toiminnallinen ominaisuus	|				
+| ID | Toiminnallisen vaatimuksen kuvaus | ominaisuus	|				
 |:-:|:-:|:-:|
 | [FUNCREQ-C0001]() | Palveluun kirjautumisessa voidaan käyttää Facebook-tunnuksia | [Kirjautumis-ominaisuus](pohjat/pohja-ominaisuus.md) |
-| [FUNCREQ-C0002]() | Käyttöliittymää voidaan ohjata tarvittaessa äänikomennoilla | [Ääniohjaustuki-ominaisuus](pohjat/pohja-ominaisuus.md) |
-| [FUNCREQ-C0003]() | Käyttäjä voi vaihtaa kirjautumisikkunassa kielen | Kirjatumis-ominaisuus |
-| [FUNCREQ-C0004]() | Käyttäjä voi tarvittaessa tulostaa kuitin ostoksistaan | Osto-raportointi-ominaisuus |
-| [FUNCREQ-C0005]() | Pääkäyttäjä voi tarkastella asiakkaan viimeisiä ostotapahtumia lokin kautta | Lokihallinta-ominaisuus |
-| [FUNCREQ-C0006]() | Käyttäjä voi kirjautua käyttäen Google-tunnuksia | Kirjautumisikkuna-ominaisuus |
-| [FUNCREQ-C0007]() | Käyttäjä voi lopettaa palvelun käytön poistaen samalla kaiken henkilötiedon palvelusta | GDPR-tunnuksen-poisto-ominaisuus | 
-| [FUNCREQ-C0008]() | Käyttäjä voi kirjautua käyttäen Google-tunnuksia | Kirjautumis-ominaisuus |
-| [FUNCREQ-C0009]() | Käyttäjä voi vaihtaa tarvittaessa salasanan kirjautumisivun kautta | Kirjautumis-ominaisuus |
+| [FUNCREQ-C0002]() | Käyttöliittymää voidaan ohjata tarvittaessa äänikomennoilla | [Ääniohjaustuki-ominaisuus](pohjat(pohjat/pohja-ominaisuus.md)) |
+| [FUNCREQ-C0003]() | Käyttäjä voi vaihtaa kirjautumisikkunassa kielen | [Kirjatumis-ominaisuus]() |
+| [FUNCREQ-C0004]() | ... | ... |
+
 
 ## Käyttöliittymänäkymä/mockup 
 
 ![](../assets/work-to-do.png)
 
->Eri toiminnallisuuksien selkeyttämiseksi voidaan hyödyntää myös piirroksia ja eri tavoin tuotettuja kuvauksia. Näiden avulla pyritään hahmottamaan miltä tuotteen tulisi näyttää ja mitä asioita esimerkiksi käyttöliittymätoteutuksessa olisi otettava huomioon? Tähän tarkoitukseen voidaan soveltaa kätevästi verkkopalveluina toimivia MockUp/prototyyppi-piirtotyökaluja. Näiden välineiden avulla voidaan luoda helposti käyttöliittymästä prototyyppi, jota voidaan koekäyttää eri kohderyhmillä. 
->Ominaisuuksien toteutuksiin liittyvät prototyyppi kuvaukset kannataa liittää ominaisuuksien määrittelydokumentteihin, jolloin ne löytyvät asian mukaisesta paikasta. Esimerkkinä [Feature-ominaisuus](pohjat/pohja-ominaisuus.md)
->Perinteisesti käyttöliittymä hahmotelmat ja kuvaukset on tehty piirtämällä käyttöliittymästä staattisia kuvia ja näitä on käytetty suunnittelun apuna. Tämä onnistuu myös soveltamalla apuna PlantUML-kuvauksia. (ks. alla)
->Kannattaa kuitenkin tutustua ja kokeilla arjolla olevia prototyyppi/MockUp-työkaluja tähän tarkoitukseen. 
+>*Eri ominaisuuksien ja niihin liittyvien toiminnallisuuksien selkeyttämiseksi voidaan hyödyntää myös erilaisia kuvauksia. Kuvausten avulla pyritään hahmottamaan miltä tuotteen tulisi näyttää tai mitä on otettava huomioon käyttöliittymätoteutuksessa? Tähän tarkoitukseen voi soveltaa ns. MockUp/prototyyppityökaluja. Näiden välineiden avulla voidaan luoda helposti käyttöliittymästä nopea kokeiluverso, jota voidaan koekäyttää eri kohderyhmillä.* 
+>*Ominaisuuksien toteutuksiin liittyvät prototyyppi kuvaukset kannataa liittää ominaisuuksien määrittelydokumentteihin, jolloin ne löytyvät asian mukaisesta paikasta. Tutustu esimerkkinä [Feature-FEA0001](20-Vaatimustenhallinta/ominaisuus-FEA0001.md)
+>Perinteisesti käyttöliittymä hahmotelmat ja kuvaukset on tehty piirtämällä käyttöliittymästä staattisia kuvia ja näitä on käytetty suunnittelun apuna. Tämä onnistuu myös soveltamalla apuna PlantUML-kuvauksia. (ks. alla) Kannattaa kuitenkin tutustua ja kokeilla arjolla olevia prototyyppi/MockUp-työkaluja tähän tarkoitukseen.  
 
-
- * [Linkki prototyyppiin / MockUp-toteutukseen]()
+ * [Lisää tähän linkki prototyyppiin / MockUp-toteutukseen]()
 
 **Esimerkki yksinkertaisesta käyttöliittymän dialogista**
 
