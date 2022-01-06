@@ -1,4 +1,4 @@
-# Viestintäsuunnitelma
+# Viestintäsuunnitelma (pohja)
 
 ![](https://openclipart.org/image/400px/svg_to_png/19234/johnny-automatic-birds-talking.png)
 

@@ -1,4 +1,4 @@
-# Tiivistetty projektisuunnitelma
+# Tiivistetty projektisuunnitelma (pohja)
 
 |  |  |
 |:-:|:-:|

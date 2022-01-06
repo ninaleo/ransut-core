@@ -1,7 +1,6 @@
-# Palvelu MindMapin muodossa
+# Tuote MindMap (pohja)
 
-Tässä on kuvattu esimerkk MindMap muodossa, josta näkyvä tärkeimmät ominaisuudet ja niihin liittyvät toiminnot.
-
+>Tässä on kuvattu esimerkkinä ohjelmisto MindMap kuvauksen muodossa. Kuvauksesta selviävät ohjelmiston tärkeimmät ominaisuudet (Feature) ja niihin liittyvät toiminnot (Function).
 
 ```plantuml
 @startmindmap
@@ -21,8 +20,7 @@ Tässä on kuvattu esimerkk MindMap muodossa, josta näkyvä tärkeimmät ominai
 @endmindmap
 ```
 
-
-Alla on kerätty kaikki ominaisuudet listan muotoon:
+Alla on kerätty kaikki ominaisuudet listan muotoon. On myös mahdollista viitata suoraan [julkaisusuunnitelmaan](../40-Julkaisusuunnittelu/julkaisusuunnitelma.md)
 
 | Ominaisuus | Siihen liittyvä toiminnallisuudet | Vaatimukset | 
 |:-:|:-:|:-:|

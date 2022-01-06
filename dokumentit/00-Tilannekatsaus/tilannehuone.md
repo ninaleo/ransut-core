@@ -1,57 +1,32 @@
-# Tilannehuone
+# Tilannekatsaus
 
 ![](https://openclipart.org/image/400px/286947)
 
 *Päivitetään tilanne viikottain/sprinteittäin*
 
-## Gitlab Nakkilista
+* [Tiimin esittely](../10-Projektihallinta/esittely.md)
+* [Kotisivut](https://jamkit.pages.labranet.jamk.fi/project-templates/opf-site-template-ff-v1/)
+* [Tuntikirjaukset](../10-Projektihallinta/tuntikirjaukset.md)
+* [Projektin backlog - päivitä linkki oman projektin mukaiseksi](https://gitlab.labranet.jamk.fi/jamkit/project-templates/fi-opf-2021-core-template-v2/-/boards/7959?milestone_title=Backlog)
+* [Issue lista - päivitä linkki oman projektin mukaiseksi](https://gitlab.labranet.jamk.fi/jamkit/project-templates/fi-opf-2021-core-template-v2/-/issues)
 
-* [Backlog - päivitä linkit projektin mukaan](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-2021-ttc2070-core-template-v1/-/boards)
-* [Issues List - päivitä linkit projektin mukaan](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-2021-ttc2070-core-template-v1/-/issues)
+## Projektitilanne sprint/viikolla X 1.1.202X**
 
+>Kirjaa tähän viimeisin tilanne ja siirrä aiemmat huomiot raportissa alemmas. 
 
+**Mitä on sprintin/viikon aikana saavutettu?**
 
-
-
-
-## Tilanne sprintillä XX 30.9.202X**
-
-**Mitä on saavutettu?**
-
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit
-* sed do eiusmod tempor incididunt ut labore et dolore magna 
+>Mitä ovat saatu aikaan? Mikä toimii? Mitä viety testattu tai viety tuotantoon?
 
 **Millaisia haasteita on tullut eteen?**
 
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna 
+>Onko jotain ylipääsemätöntä? Tarvitaanko apua muualta? Mitä asian hyväksi on tehty?
+
 * [Links to problematic issue tickets?](), eg. #1, #10 and #9
 
 
 **Seuraavat askeleet**
 
-* Sed do eiusmod tempor incididunt ut labore et dolore magn
-* [Link to next milestone / sprint]()
-
-
-
-## Tilanne aiemmalla sprintillä YY 1.9.202X**
-
-**Mitä on saavutettu?**
-
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit
-* sed do eiusmod tempor incididunt ut labore et dolore magna 
-
-**Millaisia haasteita on tullut eteen?**
-
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna 
-* [Links to problematic issue tickets?](), eg. #1, #10 and #9
-
-
-**Seuraavat askeleet**
-
-* Sed do eiusmod tempor incididunt ut labore et dolore magn
-* [Link to next milestone / sprint]()
-
-![](https://openclipart.org/image/400px/286947)
+>Mihin seuraavaksi keskitytään?
 
 

@@ -1,4 +1,4 @@
-# Vaatimusmäärittely
+# Vaatimusmäärittely (pohja)
 
 *HUOM* Löydät ohjeistusta vaatimusmäärittelyn tekemiseen [tiivistetystä vaatimusmäärittelystä](vaatimusmaaritely-tiivis.md), joka löytyy samasta kansiosta.
 

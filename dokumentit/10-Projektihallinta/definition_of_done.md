@@ -1,4 +1,4 @@
-# Valmiin määritelmä
+# Valmiin määritelmä (Pohja)
 
 
 **DOD = Definition of Done** 

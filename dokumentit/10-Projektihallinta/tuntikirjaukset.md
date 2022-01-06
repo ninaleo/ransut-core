@@ -1,4 +1,4 @@
-# Tuntikirjaukset
+# Tuntikirjaukset (pohja)
 
 ![](https://openclipart.org/image/400px/svg_to_png/324819/studying-boy-and-girl.png)
 
