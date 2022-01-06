@@ -193,7 +193,7 @@ Step11 --> Step12
 
 # Toiminnalliset vaatimukset (Functional Requirements)
 
->Kuten huomasit yksittäinen toiminto (Function) liittyy yleensä laajempaan ominaisuuden (Feature) kokonaisuuteen. Alkuvaiheessa kaikki toiminnallisuudet voidaan kirjata ns. toiminnallisina vaatimuksina esimerkiksi taulukkoon. Tämän jälkeen voidaan tunnistaa tärkiemmät ominaisuudet ja kiinnittää niihin tarkentavat toiminnot 
+>Kuten huomasit yksittäinen toiminto (Function) liittyy yleensä laajempaan kokonaisuuteen eli ominaisuuteen (Feature). Määrittelyn alkaessa kaikki tunnistetut toiminnot voi kirjata ns. toiminnallisina vaatimuksina esimerkiksi taulukon muotoon. Tämän jälkeen voidaan tunnistaa niistä tärkeimmät ominaisuudet ja liittää niihin esiin tulleet toiminnot. 
 
 Kaikkia vaatimuksia (myös ei-toiminnalliset vaatimukset) koskevat seuraavat ehdot:
 
@@ -212,18 +212,18 @@ Kaikkia vaatimuksia (myös ei-toiminnalliset vaatimukset) koskevat seuraavat ehd
 | [FUNCREQ-C0003]() | Käyttäjä voi vaihtaa kirjautumisikkunassa kielen | [Kirjatumis-ominaisuus]() |
 | [FUNCREQ-C0004]() | ... | ... |
 
-
 ## Käyttöliittymänäkymä/mockup 
 
 ![](../assets/work-to-do.png)
 
->*Eri ominaisuuksien ja niihin liittyvien toiminnallisuuksien selkeyttämiseksi voidaan hyödyntää myös erilaisia kuvauksia. Kuvausten avulla pyritään hahmottamaan miltä tuotteen tulisi näyttää tai mitä on otettava huomioon käyttöliittymätoteutuksessa? Tähän tarkoitukseen voi soveltaa ns. MockUp/prototyyppityökaluja. Näiden välineiden avulla voidaan luoda helposti käyttöliittymästä nopea kokeiluverso, jota voidaan koekäyttää eri kohderyhmillä.* 
+>*Eri ominaisuuksien ja niihin liittyvien toiminnallisuuksien selkeyttämiseksi voidaan hyödyntää myös erilaisia kuvauksia. Kuvausten avulla pyritään hahmottamaan miltä tuotteen tulisi näyttää tai mitä on otettava huomioon käyttöliittymätoteutuksessa? Tähän tarkoitukseen voi soveltaa nykyaikaisia ns. MockUp/prototyyppityökaluja. Näiden välineiden avulla voidaan luoda helposti käyttöliittymästä nopea kokeiluverso, jota voidaan koekäyttää eri kohderyhmillä.* 
 >*Ominaisuuksien toteutuksiin liittyvät prototyyppi kuvaukset kannataa liittää ominaisuuksien määrittelydokumentteihin, jolloin ne löytyvät asian mukaisesta paikasta. Tutustu esimerkkinä [Feature-FEA0001](20-Vaatimustenhallinta/ominaisuus-FEA0001.md)
->Perinteisesti käyttöliittymä hahmotelmat ja kuvaukset on tehty piirtämällä käyttöliittymästä staattisia kuvia ja näitä on käytetty suunnittelun apuna. Tämä onnistuu myös soveltamalla apuna PlantUML-kuvauksia. (ks. alla) Kannattaa kuitenkin tutustua ja kokeilla arjolla olevia prototyyppi/MockUp-työkaluja tähän tarkoitukseen.  
+>*Perinteisesti käyttöliittymä hahmotelmat ja kuvaukset on tehty piirtämällä käyttöliittymästä staattisia kuvia ja näitä on käytetty suunnittelun apuna. Tämä onnistuu myös soveltamalla apuna PlantUML-kuvauksia. (ks. alla) Kannattaa kuitenkin tutustua ja kokeilla arjolla olevia prototyyppi/MockUp-työkaluja tähän tarkoitukseen.*  
 
  * [Lisää tähän linkki prototyyppiin / MockUp-toteutukseen]()
+ * Kokeile myös upottaa prototyyppi IFRAMEn muodossa? 
 
-**Esimerkki yksinkertaisesta käyttöliittymän dialogista**
+**Alla esimerkki yksinkertaisesta PlantUML:n avulla muodostetusta käyttöliittymän dialogista**
 
 ```plantuml
 salt
@@ -243,7 +243,7 @@ salt
 
 ![](../assets/work-to-do.png)
 
->Ohjelmistokehityksessä on yleistynyt tapa käyttää tavoitteiden määrittelyssä palvelua käyttävien sidosryhmien esittämiä kuvauksia tarvittavista toiminnoista. Nämä asiakkaalta/sidosryhmiltä saadut ehdotukset kirjataan User Story, eli käyttötarinan muotoon. Kannattaa tutustu aiheeseen [User Story](https://en.wikipedia.org/wiki/User_story). Käyttäjätarinat ovat kehitystiimin kannalta erittäin oleellisia määrittelyjä, koska ne ovat käytännössä toimintoja joita toteutetaan palveluun. User Storyjen avulla ohjataa kokonaisia kehitystiimejä tuotekehityksen aikana.
+>*Nykyaikaisessa ohjelmistokehityksessä on yleistynyt tapa käyttää tarkkojen vaatimusten sijaan eri sidosryhmiltä kerättyjä kuvauksia tarvittavista toiminnoista. Näitä kuvauksia nimitetään käsitteellä käyttötarina eli *User Story*. Kannattaa tutustu aiheeseen [User Story](https://en.wikipedia.org/wiki/User_story). Käyttötarinat ovat kehitystiimin kannalta erittäin oleellisia, koska ne kuvaavat toimintoja, joita palvelulta odotetaan. Käytännössä User Storyjen avulla ohjataa koko kehitystiimin tavoitteellista työskentelyä projektin aikana.*
 
 >Käyttötarina kuvauksen yleinen muoto on: 
 
@@ -251,13 +251,11 @@ salt
 
 * Vapaasti suomennettuna: Palvelun käyttäjän <-roolissa X-> voin tarvittaessa suorittaa <-toiminnon->, koska <-perustelu->* 
 
->Yksittäinen käyttötarina (User Story) voidaan kirjata esim Gitlab-palvleussa ns. Issuen muodossa. Issue esimerkin voit löytää osoittesta #9 
->User Storyt voidaan alkuvaiheessa kerätä myös taulukkoon/listaan ja ne siirretään ajalla Issue-muotoon.
+>*Yksittäinen käyttötarina (User Story) voidaan kirjata esim Gitlab-palvleussa ns. Issuen muotoon. User Storyt voi alkuvaiheessa kerätä myös taulukkoon/listaan ja siirtää ne sopivalla hetkellä Issue-muotoon.*
 
-| ID |  Kuvaus | Gitlab Issue Linkki |
-|:-:|:-:|:-:|
-| US-001 | Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #8 |
-| US-002 | Käyttäjänä haluan, että voin poistaa historian tekemistäni ostoista viimeisen kuukauden ajalta, koska en halua muistella menneitä | Linkki  #8 |
+**Esimerkki, jossa on linkitys issueen**
+
+* *Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa* #14
 
 ## Tietojärjestelmiä yleisesti koskevista vaatimuksista
 
@@ -327,6 +325,8 @@ Näitä yhteyksiä kutsutaan vaatimusten jäljitettävyydeksi (Traceablity).
 
 ### Suorituskykyvaatimukset (Performance Requirements)
 
+
+
 >Millaisia vaatimuksia palveluun kohdistuu suorituskyvyn näkökulmasta?
 >Mitä tarkoittaa suorituskyvyn testaus, eli [load testing](https://en.wikipedia.org/wiki/Load_testing) Tutustu myös K6-työkaluun? [K6-Load Tester](https://k6.io/)
 
@@ -351,11 +351,13 @@ Näitä yhteyksiä kutsutaan vaatimusten jäljitettävyydeksi (Traceablity).
 
 ### Saavutettavuusvaatimukset (Accessablity Requirements)
 
+![](../assets/work-to-do.png)
+
 >Mitä tarkoitetaan saavutettavuudella? Millaisia asioita/ohjeistuksia on otettava huomioon palvelua toteutettaessa? Tutustu lähteeseen: [https://www.saavutettavuusvaatimukset.fi/](https://www.saavutettavuusvaatimukset.fi/)
 
 | ID  |  Kuvaus |
 |:-:|:-:|
-| ACCESSREQ-0000 | Palvelun käyttöliittymässä on oltava mahdollista valita selkeä kontrasti-teema |	
+| ACCESSREQ-0000 | Palvelun käyttöliittymässä on mahdollista valita selkeä kontrastinen teema |	
 | ACCESSREQ-0001 | Käyttöliittymän Fonttikokoa on voitava muuttaa päävalikon kautta |
 | ACCESSREQ-0002 |  ... |
 
@@ -377,8 +379,6 @@ Kannattaa tutkia esimerkiksi https://www.sfs.fi/aihealueet/terveydenhuolto/laaki
 Ohjelmistoarkkitehtuurin kuvaus on itsessään laaja osa-alue ja käytännössä se edellyttää laajempaa dokumentaatiota.
 
 * [Tähän linkki erilliseen ohjelmistoarkkitehtuurin kuvaukseen](../30-Suunnittelu-ja-toteutus/arkkitehtuuri-ja-tekninentoteutus.md)
-
-
 
 ```plantuml
 @startuml
@@ -416,20 +416,6 @@ Logger_Container -- MariaDB_Container
 @enduml
 ```
 
-## Palveluun liittyvät järjestelmäintegraatiot
-
->Ohjemiston arkkitehtuuriin kuvauksissa voidaan ottaa tarkasteluun palvelun liittyvät ulkopuoliset palvelut tai muut integraatiot eri järjestelmiin
->Alla olevat kuvaukset on esimerkkejä UML-kuvausten mahdollisuuksista. Tässä kuvauksessa käytetään UML:n sekvenssikaaviota ([Sequence Diagram](https://plantuml.com/sequence-diagram)) kuvaamaan valittua tapahtumaketjua. 
-
-```plantuml
-Client_Host --> Service_Frontend: Login Request
-Service_Frontend --> Service_Backend : Logging request check
-Service_Backend --> MariaDB : SQL Request for user account
-MariaDB --> Service_Backend : Account and password 
-Service_Backend --> Service_Frontend : Request Result pass
-Service_Frontend --> Client_Host : Logged in
-
-```
 ## Standardit ja lähteet
 
 >Kirjataan käytetyt lähteet alla olevaan taulukkoon.
