@@ -1,8 +1,9 @@
-# __USER STORY: As a < type of user >, I want < some goal > so that < some reason >__
+# Kuvaus
 
-* Kirjoita tähän lyhyt kuvaus 
+>Mikä Storyn tavoite on ja kuka sitä tarvitsee?
 
-## Vaatimukset, joihin User Story liittyy 
+
+## Lähteet 
 
 * [Vaatimus ID]()
 * [Käyttötapaus ID]()
@@ -10,14 +11,13 @@
 
 ## Definition of Done
 
-[Tiimin DOD-määrittely](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-2021-ttc2070-core-template-v1/-/blob/master/dokumentit/10-Projektihallinta/definition_of_done.md)
+* Tarkista [projektin sisäinen DOD-määrittely](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-2021-ttc2070-core-template-v1/-/blob/master/dokumentit/10-Projektihallinta/definition_of_done.md)
 
 - [ ] Toteutettu
 - [ ] Parikatselmoitu
 - [ ] Testattu
 - [ ] Dokumentoitu
 - [ ] mitä muuta?
-
 
 ## Hyväksyntä kriteerit
 
