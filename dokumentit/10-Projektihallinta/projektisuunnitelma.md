@@ -15,14 +15,14 @@
 
 ## 1.1 Tausta ja lähtökohdat
 
-![](../assets/work-to-do.png)
+
 
 >Kuvataan toimeksiantoa lyhyesti johdannon muodossa.  Tarpeen mukaan ohjataan lukijaa tutustumaan tarkemmin vaatimusmäärittelydokumenttiin. Projektin tavoitteena on pyrkiä yhdistämään .... on tarve kehittää” < kohdetta>… ”Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän <TTOS2070> ‑opintojakson puitteissa. *
 Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä tehtävä. Kohde kuvaa selkeällä tavalla, usein graafiseen esitykseen tukeutuen, millaisesta järjestelmäkokonaisuudesta tai toiminnasta on kyse, johon ollaan tekemässä nyt projektissa jotain osakokonaisuutta/täydennystä. Tässä siis kuvataan nykyjärjestelmää ja asiakkaan nykyistä toimintatapaa.
 
 ## 1.2 Tavoitteet ja tehtävät
 
-![](../assets/work-to-do.png)
+
 
 
 > Tässä dokumentissa kuvataan X-projektin taustaa, tavoitteita, tehtäviä, vaihejakoa, resursseja ja organisaatiota. Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.”
@@ -66,7 +66,7 @@ Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä te
 
 # 2. Projektiorganisaatio
 
-![](../assets/work-to-do.png)
+
 
 ## 2.1 Organisaation esittely
 
@@ -102,7 +102,7 @@ Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä te
 
 **Projektiryhmä**
 
-![](../assets/work-to-do.png)
+
 
 | Nimi | Vastuu | Yritys/yhteisö |
 |:-:|:-:|:-:|
@@ -113,7 +113,6 @@ Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä te
 
 **Johtoryhmä**
 
-![](../assets/work-to-do.png)
 
 | Nimi | Vastuu | Yritys/yhteisö |
 |:-:|:-:|:-:|
@@ -151,7 +150,7 @@ Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä te
 ## 3.1 Osittaminen ja vaiheistus
 
 
-![](../assets/work-to-do.png)
+
 
 
 >Projektin etenemistä voidaan kuvata ns. GANTT-kaaviolla. Sen avulla voidaan esittää eri vaiheiden eteneminen aikajanalla, samalla voidaan osoittaa eri tehtäviin liittyvät kriittiset pisteet.
@@ -175,7 +174,7 @@ Project starts the 2021-5-15
 
 >Mitä tavoitteita  / vaiheita projekti sisältää? (Lyhyt kuvaus kustakin)> <Mitä tuloksia kustakin vaiheesta syntyy? >
 
-![](../assets/work-to-do.png)
+
 
 Päivitä linkit omaan projektiin liittyviksi!
 
@@ -210,7 +209,6 @@ Huom.: Seuraavassa on esitetty käynnistys- ja lopetusvaiheet. Kaikista projekti
 
 ## 3.2 Projektin alustavat kustannusarvio
 
-![](../assets/work-to-do.png)
 
 Kustannusarvion esittäminen taulukon avulla: 
 
