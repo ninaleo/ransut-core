@@ -1,8 +1,8 @@
 # Julkaisu päiväkirja 
 
-## FI OPF- Releases 0.10.1 - 18.1.2022
+## FI OPF- Releases 0.10.1 -  
 
-* Pöllöt poistettu projektisuunnitelmasta. Löytyvät nyt vain tiivistetystä..
+* Pöllöt poistettu projektisuunnitelmasta. Löytyvät nyt vain tiivistetystä versiosta
 
 
 ## FI OPF- Releases 0.10.0 - 06.1.2022
