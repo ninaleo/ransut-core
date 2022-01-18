@@ -1,6 +1,6 @@
-# Julkaisu päiväkirja 
+# Julkaisuhistoria 
 
-## FI OPF- Releases 0.10.1 -  
+## FI OPF-Release 0.10.1 -  
 
 * Pöllöt poistettu projektisuunnitelmasta. Löytyvät nyt vain tiivistetystä versiosta
 
