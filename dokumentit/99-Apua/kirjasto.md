@@ -2,19 +2,20 @@
 
 ![](https://openclipart.org/image/300px/svg_to_png/268463/Library-no-text.png)
 
-Here is some links which could be valuabe during different phases of project work
+Tässä muutamia hyödyllisiä lähteitä koottuna osaksi OPF-kehikkoa. 
 
-## Introduction to project working and practices
+## Projektitoiminta ja käytänteet
 
-* [Project working and practices TTC2070](http://ttc2070.pages.labranet.jamk.fi/en)
+* [Projektitoiminta ja käytänteet TTC2070](http://ttc2070.pages.labranet.jamk.fi/fi)
+* [OPF internal library in english](https://jamkit.pages.labranet.jamk.fi/project-templates/en-opf-2021-core-template-v2/90-Quality-and-support/library/)
+* Täydentyy 
 
-
-## Guidelines for service developers
+## Ohjeistuksia palvelujen kehittäjille
 
 * [suomidigi.fi in Finnish](https://www.suomidigi.fi/)
 * [Suomidigi.fi in English](https://www.suomidigi.fi/en)
 
-## Project Management
+## Projektinhallinta
 
 *  Project Management Institute (PMI): http://www.pmi.org/
 *  International Project Management Association (IPMA): https://www.ipma.world/
@@ -25,8 +26,7 @@ Here is some links which could be valuabe during different phases of project wor
 *  Työkaluja: http://www.pm-software-tools.com/
 *  Kurssi: http://www.projectreference.com/
 
-
-## Agile development
+## Ketteräkehittäminen
 
 * [What is User Story?](https://www.visual-paradigm.com/guide/agile-software-development/what-is-user-story/)
 * [Scrum opas](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Finnish.pdf)
@@ -47,8 +47,7 @@ Here is some links which could be valuabe during different phases of project wor
 * [Job Storys](http://blog.intercom.io/using-job-stories-design-features-ui-ux/)
 * https://www.developmentthatpays.com/files/Scrum_vs_Kanban_1_2.pdf
 
-## Service Design
-
+## Palvelumuotoilu
 
 * [Palvelumuotoilun työkalupakki](http://sdt.fi)
 * [Palvelumuotoilu.fi](http://palvelumuotoilu.fi/)
@@ -57,7 +56,7 @@ Here is some links which could be valuabe during different phases of project wor
 * [Nordström innovation labs](https://www.youtube.com/watch?v=szr0ezLyQHY)
 * [Forge Service Design-material](https://github.com/forgeservicelab/forge-sdt)
 
-## Requirement Management
+## Vaatimustenhallinta
 
 * [Ketterästi vai perinteisesti?](http://sytyke.org/lehtiarkisto/kirj/st20092/ST092-16A.pdf)
 * [Use Case 2.0](https://www.ivarjacobson.com/sites/default/files/field_iji_file/article/use-case_2_0_jan11.pdf)
@@ -70,35 +69,34 @@ Here is some links which could be valuabe during different phases of project wor
 * [Tube: Agile Requirement Gathering](http://www.youtube.com/watch?v=iUIWLNiGYEk)
 * [Use Case](https://pdfs.semanticscholar.org/7b14/abf0d22aa7cabccd134b64e0b1c3ce14b456.pdf) 
 
-
-# Workshops & canvases
+# Työpaja materiaalia
 
 * [Master Facilitator](http://masterfacilitator.com/canvas-collection/)
 * [Team Charter Canvas](https://designabetterbusiness.com/2017/08/24/team-charter-canvas/)
 * [Design Criteria Canvas](https://skillsofthemodernage.com.au/downloads/playshop/dabb-design-criteria-canvas.pdf)
 
-## Software Architecture and design
+## Ohjelmistoarkkitehtuuri ja suunnittelu
 
 * [UML tutorials](http://www.tutorialspoint.com/uml/index.htm)
 * [MIT Courses for USE CASE](http://ocw.mit.edu/courses/architecture/4-297-special-problems-in-architecture-studies-fall-2000/labs/UML1.pdf) |
 * [UML Design Patterns](http://en.wikipedia.org/wiki/Architectural_pattern_(computer_science))
 * [UML Class Diagrams](https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams)
 
-## Quality Assurance
+## Laadunvarmistus
 
 * [https://conference.eurostarsoftwaretesting.com/](https://conference.eurostarsoftwaretesting.com/)
 * [https://testautomationu.applitools.com/](https://testautomationu.applitools.com/)
 
-## Accessablity
+## Saavutettavuus
 
 * [Näkövammaisten liitto](https://www.nkl.fi/fi)
 * [UserWay](https://userway.org/)
 
-## Usability
+## Käytettävyys
 
 * TBD
 
-## Performance
+## Suorituskyky ja sen testaus
 
 * [K6.io](https://k6.io/)
 
@@ -111,9 +109,7 @@ Here is some links which could be valuabe during different phases of project wor
 * [](https://github.com/adamshostack/eop)
 
 
-## User Interface, Graphical design and Mockups
-
-**MockUp & Graafinen suunnittelu**
+## Graafinen ja käyttöliittymäsuunnittelu
 
 * [Guide to Mockups](https://www.uxpin.com/studio/ebooks/guide-to-mockups/)
 * [UxChecklist](https://uxchecklist.github.io/)
@@ -125,33 +121,23 @@ Here is some links which could be valuabe during different phases of project wor
 * [Color Lovers](http://www.colourlovers.com/palettes)
 * [Coblis color blindness simulator](http://www.color-blindness.com/coblis-color-blindness-simulator/)
 
-## Prototyping
+## Käyttöliittymän prototyypit
 
 * [Low fidelity prototype testing of the EE app](https://www.youtube.com/watch?v=yafaGNFu8Eg) 
 * [Thesis work, Heli Sutinen ](https://www.theseus.fi/handle/10024/86173) mockup-työkaluista
 * [Lean UX blogipostaus](https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-of-the-deliverables-business/)
 * [But How ?](http://www.youtube.com/watch?v=7OSkB4BCx00)
 
-## [Body Of Knowledge](https://en.wikipedia.org/wiki/Body_of_knowledge) Collection
+## [BOK materiaalit](https://en.wikipedia.org/wiki/Body_of_knowledge) Collection
 
 * [PMBOK](https://www.pmi.org/pmbok-guide-standards)
 * [SWEBOK](https://www.computer.org/web/swebok/v3)
 * [ISTQB](https://www.istqb.org/)
 
-## Github/Gitlab
+## ALM välineet Github/Gitlab/JIRA
 
 * [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
 * [https://www.youtube.com/githubguides](https://www.youtube.com/githubguides)
 * [git-scm](http://git-scm.com/book/en/v2)
 * [Think like a git](http://think-like-a-git.net/sections/about-this-site.html)
 
-
-
-
-
-
-
-
-
-* [Kirjastoon](https://jamkit.pages.labranet.jamk.fi/project-templates/en-opf-2021-core-template-v2/90-Quality-and-support/library/)
-* Täydentyy 
