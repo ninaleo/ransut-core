@@ -100,14 +100,13 @@ Tässä muutamia hyödyllisiä lähteitä koottuna osaksi OPF-kehikkoa.
 
 * [K6.io](https://k6.io/)
 
-## Security
+## Tietoturva
 
-* Try [Security Cards-method](http://securitycards.cs.washington.edu/cards.html)
+* [Security Cards-method](http://securitycards.cs.washington.edu/cards.html)
 * [EOP](https://github.com/adamshostack/eop)
 * [EOP Game](https://eopgame.azurewebsites.net/)
 * [F-Secure, Elevation of Privacy](https://github.com/F-Secure/elevation-of-privacy/tree/master/print-ready)
 * [](https://github.com/adamshostack/eop)
-
 
 ## Graafinen ja käyttöliittymäsuunnittelu
 
@@ -128,7 +127,7 @@ Tässä muutamia hyödyllisiä lähteitä koottuna osaksi OPF-kehikkoa.
 * [Lean UX blogipostaus](https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-of-the-deliverables-business/)
 * [But How ?](http://www.youtube.com/watch?v=7OSkB4BCx00)
 
-## [BOK materiaalit](https://en.wikipedia.org/wiki/Body_of_knowledge) Collection
+## [BOK materiaali](https://en.wikipedia.org/wiki/Body_of_knowledge) Collection
 
 * [PMBOK](https://www.pmi.org/pmbok-guide-standards)
 * [SWEBOK](https://www.computer.org/web/swebok/v3)
