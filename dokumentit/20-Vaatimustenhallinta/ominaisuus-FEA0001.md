@@ -14,8 +14,6 @@
 
 *Kerro mitä ominaisuudella tarkoitetaan ja mitä sen avulla saavutetaan*
 
-
-
 ### Ominaisuuteen liittyvät rajaukset, vaatimukset käyttötapaukset
 
 *Kerätään tähän kaikki oleelliset lähteet, jotka liittyvät ominaisuuden toteuttamiseen*
@@ -35,7 +33,6 @@
 * Ylläpitäjänä haluan, että voin.....
 * User Story: *"Käyttäjänä X toivon, että voin tehdä seuraavan toimenpiteen, koska tämä selkeyttää sitä sun tätä..."* on kirjattu
 suoraan Issue-muotoon ja löytyy nyt linkistä #9
-
 
 ### Käyttöliittymänäkymä/mock 
 

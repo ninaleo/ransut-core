@@ -1,5 +1,14 @@
 # Katselmointipöytäkirja
 
+
+|  |  |
+|:-:|:-:|
+| Dokumentti | Katselmointipöytäkirja |
+| Laatija: | *nimi* |
+| Versio: | *0.0?* |
+| Päivämäärä: | 1.x.202y |
+
+
 *Katselmointipöytäkirjaa voidaan hyödyntää esimerkiksi hyväksyntätestauksen yhteydessä.*
 
 ## Katselmointi ajankohta
