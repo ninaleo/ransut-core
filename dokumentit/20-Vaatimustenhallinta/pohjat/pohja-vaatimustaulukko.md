@@ -1,4 +1,4 @@
-# Vaatimukset (pohja)
+# Vaatimukset taulukoituna (pohja)
 
 *Jos kirjaat vaatimukset yhteen listaan tulee esille haaste miten osoittaa mikä vaatimus vaikuttaa milläkin tasolla toteutettavaa ratkaisua.*
 

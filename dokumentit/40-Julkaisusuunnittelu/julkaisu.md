@@ -11,9 +11,6 @@
 
 **Konfiguraation kuvaus**
 
-
-
-
 # Uudet ominaisuudet/toiminnallisuudet
 
 * [Feature 101]()
