@@ -5,12 +5,11 @@
 
 # Ohjeita
 
-* Oppimisraporttia sovelletaan tarvittaessa tilanteen mukaan..
 * Kirjaa opintojakson aikana keskeiset oppimasi asiat tähän asiakirjaan, omaan blogiisi, muistioon tms. 
 * Voit kirjoittaa myös aiheeseen liittyvistä epäselvistä asioista tai ongelmista ja kuinka ne ratkaistiin. 
 * Lopuksi voit arvioida omaa oppimistasi, esimerkiksi pääsitkö asettamiisi tavoitteisiin ja jos et päässyt niin mistä se johtui.
 * Voit poistaa tai muuttaa näitä valmiita tekstikohtia aivan vapaasti. 
-* Jos sinulla tulee kysymyksiä tai ongelmia tämän täyttämisen suhteen niin ota yhteys opettajaan.
+* Jos sinulla tulee kysymyksiä tai ongelmia tämän täyttämisen suhteen niin ota yhteys ohjaajaan.
 
 # Aluksi
 
