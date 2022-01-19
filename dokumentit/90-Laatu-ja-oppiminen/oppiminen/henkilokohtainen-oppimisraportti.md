@@ -1,11 +1,9 @@
-# Henkilökohtainen projektioppimisraportti 
-
+# Henkilökohtainen projektioppimisraportti (pohja)
 
 > Sovelletaan OPF-kehikon varaan toteutetuissa opintojaksoissa
 > Tämä dokumentti toimii runkona raportille!
 
 # Ohjeita
-
 
 * Oppimisraporttia sovelletaan tarvittaessa tilanteen mukaan..
 * Kirjaa opintojakson aikana keskeiset oppimasi asiat tähän asiakirjaan, omaan blogiisi, muistioon tms. 
@@ -42,9 +40,11 @@
 * Voit kirjata myös omassa (työ)elämässäsi heränneitä ajatuksia tai etsiä tietoa opintojakson aiheista esim. webistä tietoa hakien.
 * Pohdi kurssin alkuvaiheessa olleita käsitteitä onko niitä joitain tullut esiin ja selvennyt käytännön kautta paremmin?  
 
-# Tuntikirjaus
+# Tuntikirjaukset
 
-| Päivä | Tunnit | Tehdyt työt |
+>Liitteeksi voidaan liittää esim. EXCEL-tiedosto
+
+| Päivä | Tunnit | Työ tehtävät |
 |:-:|:-:|:-:|
 | | | |
 | | | |
@@ -54,7 +54,6 @@
 | | | |
 | | | |
 | | | |
-
 
 # Lopuksi
 
