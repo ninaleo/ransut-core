@@ -10,8 +10,6 @@
 | Versio | 0.1 |
 | Päivämäärä | 30.11.2021 |
 
-
-
 ### Kuvaus
 
 *Kerro mitä ominaisuudella tarkoitetaan ja mitä sen avulla saavutetaan*
