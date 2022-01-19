@@ -342,6 +342,8 @@ Näitä yhteyksiä kutsutaan vaatimusten jäljitettävyydeksi (Traceablity).
 
 >Millaisia vaatimuksia palveluun kohdistuu tietoturvan näkökulmasta? 
 > Tutustu [VAHTI 1/2013 Sovelluskehityksen tietoturvaohje](https://www.suomidigi.fi/ohjeet-ja-tuki/vahti-ohjeet/vahti-12013-sovelluskehityksen-tietoturvaohje)
+> Tarkista esimerkkinä [TRAFICOMin tietoturvamerkki](https://tietoturvamerkki.fi/fi/vaatimukset/)
+
 
 | ID |  Kuvaus |
 |:-:|:-:|
