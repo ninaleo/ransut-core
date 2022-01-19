@@ -1,10 +1,13 @@
 # Projektisopimus (pohja)
 
+|  |  |
+|:-:|:-:|
+| Dokumentti | Projektisopimus-pohja |
+| Laatija: | *nimi* |
+| Versio: | *0.0?* |
+| Päivämäärä: | 1.x.202y |
+
 ![](https://openclipart.org/image/400px/svg_to_png/319126/stretchyhandpaperman-1911.png)
-
-**Esimerkki:  SOPIMUS OPISKELIJAPROJEKTIYHTEISTYÖSTÄ**
-
-
 
 # 1 SOPIMUKSEN OSAPUOLET
 

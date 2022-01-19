@@ -1,8 +1,8 @@
-# Ohjelmistoarkkitehtuuri
+# Ohjelmistoarkkitehtuuri (pohja)
 
 |  |  |
 |:-:|:-:|
-| Dokumentti | Ohjelmiston arkkitehtuurikuvaus |
+| Dokumentti | Ohjelmiston arkkitehtuuri kuvaus-pohja |
 | Laatija: | *nimi* |
 | Versio: | *0.0?* |
 | Päivämäärä: | 1.x.202y |
