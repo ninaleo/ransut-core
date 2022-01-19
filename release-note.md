@@ -3,6 +3,8 @@
 ## FI OPF-Release 0.10.1 -  
 
 * Pöllöt poistettu projektisuunnitelmasta. Löytyvät nyt vain tiivistetystä versiosta
+* Laatukäsikirjat ja oppimisraporit siirretty
+* 
 
 
 ## FI OPF- Releases 0.10.0 - 06.1.2022
