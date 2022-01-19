@@ -1,4 +1,4 @@
-# Tarjouspohjasta
+# Tarjous (esimerkki/pohja)
 
 ![](https://openclipart.org/image/400px/svg_to_png/297363/elfframe.png)
 

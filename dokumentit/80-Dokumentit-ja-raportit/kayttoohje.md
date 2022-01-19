@@ -1,4 +1,4 @@
-# Käyttöohjeen runko
+# Käyttöohje (runko)
 
 ![](https://openclipart.org/image/300px/svg_to_png/172690/zoom-in-thin-finger-thump-black.png&disposition=attachment)
 
