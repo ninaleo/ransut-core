@@ -1,11 +1,11 @@
-# Ominaisuus FEA0001 (Esimerkki)
+# Ominaisuus (Esimerkki)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BVMKuJ_3Exc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 | | |
 |:-:|:-:|
 | Dokumentti | Ominaisuuskuvaus |
-| Ominaisuus | FEA0001 | 
+| Ominaisuus | Esimerkki ominaisuus | 
 | Määrittelijä | NarsuMan | 
 | Versio | 0.1 |
 | Päivämäärä | 30.11.2021 |
@@ -57,12 +57,11 @@ salt
 
 *Kirjataan muutamia huomiota testauksen kannalta*
 
-
 | Testitapaus  | Kuvaus  |
-|:-: | :-:|
+|:-:|:-:|
 | [Hyväksyntätesti 1](pohjat/pohja-hyvaksyntatesti.md) | Hyväksyntätesti |
-| [Toiminnallinen testi 1](pohjat/pohja-testitapaus.md) | Testitapaus |
-| [Tietoturvatesti 5](pohjat/pohja-testitapaus.md)  | Testitapaus |
+| [Toiminnallinen testi 1](pohjat/pohja-testitapaus.md)| Testitapaus |
+| [Tietoturvatesti 5](pohjat/pohja-testitapaus.md)     | Testitapaus |
 
 
 

@@ -1,4 +1,4 @@
-# Tuote MindMap (pohja)
+# Tuotteen Mind Map-kuvaus (pohja)
 
 >Tässä on kuvattu ohjelmisto MindMapin muodossa. Kuvauksesta selviävät ohjelmiston tärkeimmät ominaisuudet (Feature) ja niihin liittyvät toiminnot (Function).
 
