@@ -132,14 +132,14 @@ node "Logger_Container" {
 }
 
 }
-User  Browser
-Browser  https
-https  Frontend_Container
-Frontend_Container  Backend_Container
-Backend_Container  MariaDB_Container
-Logger_Container  Frontend_Container
-Logger_Container  Backend_Container
-Logger_Container  MariaDB_Container
+User -- Browser
+Browser -- https
+https -- Frontend_Container
+Frontend_Container -- Backend_Container
+Backend_Container -- MariaDB_Container
+Logger_Container -- Frontend_Container
+Logger_Container -- Backend_Container
+Logger_Container -- MariaDB_Container
 
 @enduml
 ```
