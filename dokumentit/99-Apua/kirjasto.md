@@ -14,6 +14,7 @@ Tässä muutamia hyödyllisiä lähteitä koottuna osaksi OPF-kehikkoa.
 
 * [suomidigi.fi in Finnish](https://www.suomidigi.fi/)
 * [Suomidigi.fi in English](https://www.suomidigi.fi/en)
+* [Käteviä pikaohjeita  - Rico's cheatsheets](https://devhints.io/)
 
 ## Projektinhallinta
 
