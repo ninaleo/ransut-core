@@ -197,6 +197,8 @@ Step11 --> Step12
 
 Kaikkia vaatimuksia (myös ei-toiminnalliset vaatimukset) koskevat seuraavat ehdot:
 
+![](../assets/work-to-do.png)
+
 * *Vaatimus on yksilöllinen ja identifioitu*
 * *Vaatimus on oltava mitattavissa*
 * *Vaatimuksen on oltava yksiselitteinen ja selkeä*
