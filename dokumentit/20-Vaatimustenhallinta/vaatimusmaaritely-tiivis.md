@@ -176,16 +176,16 @@ Step11 --> Step12
 ```plantuml
 @startmindmap
 + Tuote X, eli tuotettava ratkaisu
-++ Toiminnallisuus A - sisäinen sähköposti
+++ Ominaisuus A - sisäinen sähköposti
 +++ Asiakas_A voi lähettää postia toiselle henkilölle
 +++ Asiakas_A voi saada postia toiselta henkilöltä
-++ Toiminnallisuus B - Laskutus
+++ Ominaisuus B - Laskutus
 +++ Ylläpito-henkilö voi poistaa laskun Asiakaalta
 +++ Ylläpito-henkilö voi luoda uuden laskun Asiakkaalle
--- Toiminnallisus C - Dokumentin jakotoiminto
+-- Ominaisuus C - Dokumentin jakotoiminto
 --- Toiminto 5 - Asiakas_B voi jakaa kuvatiedoston
 --- Toiminto 6 - Asiakas_A voi kommentoida dokumenttia
--- Toiminnallisuus D - Pelitilanteen talletus
+-- Ominaisuus D - Pelitilanteen talletus
 --- Toiminto 7 - Pelaaja_C kykenee tallettamaan tilanteen valitulla hetkellä
 --- Toiminto 8 - Pelaaja_C voi poistaa aiemman talletukse
 @endmindmap
