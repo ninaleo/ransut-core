@@ -23,7 +23,8 @@ Jos haluat tarkistaa mitä alkuperäinen pohja sisälsi, niin löydät viimeisim
 
 >Kenelle palvelu on tarkoitettu? Mitä palvelulla pyritään edistämään?
 * Kohderyhmä A Sisäiset sidosryhmät: 
-* Kohderyhmä B Ulkoiset sidosryhmät, Katso seuraava luku -Sidosryhmäkartta
+* Kohderyhmä B Ulkoiset sidosryhmät, 
+Katso seuraava luku -Sidosryhmäkartta
 
 
 ## Sidosryhmäkartta
