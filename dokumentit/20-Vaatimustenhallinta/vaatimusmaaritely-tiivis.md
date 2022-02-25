@@ -1,4 +1,4 @@
-# Tiivistetty vaatimusmäärittely (pohja)
+# Tiivistetty vaatimusmäärittely
 
 |  |  |
 |:-:|:-:|
