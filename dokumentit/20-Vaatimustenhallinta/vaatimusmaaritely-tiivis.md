@@ -65,6 +65,38 @@ Jos haluat tarkistaa mitä alkuperäinen pohja sisälsi, niin löydät viimeisim
 --- Satunnainen säätäjä
 @endmindmap
 ```
+```plantuml
+@startmindmap
++ Portfolio Appi
+++ Sisäiset sidosryhmät
++++ R.A.N.S.U.T
++++ Jouni H
++++ Tukihenkilöt
+-- Ulkoiset sidosryhmät
+--- Sponsorit
+--- Sijoittajat
+--- Yritykset
+--- Työnantajat
+--- Vierailijat
+--- Muut oppilaitokset
+--- Opettajat
+--- Opiskelijat
+--- Toimeksiantajat
+--- Alumnit
+--- Mainostajat
+--- Tubettajat & Bloggaajat
+--- Asiantuntijat
+--- TE- toimeksiantoa
+--- verottaja
+--- Ammattiliitot
+--- Haittatekijä
+--- Kilpailijat
+@endmindmap
+```
+---
+
+
+
 
 **Tarkennettut sidosryhmätprofiilit** 
 
