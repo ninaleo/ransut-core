@@ -3,9 +3,9 @@
 |  |  |
 |:-:|:-:|
 | Dokumentti | Tiivistetty vaatimusmääritelmä |
-| Laatija: | *nimi* |
-| Versio: | *0.0?* |
-| Päivämäärä: | 1.x.202y |
+| Laatija: | *R.A.N.S.U.T* |
+| Versio: | *1.0* |
+| Päivämäärä: | 25.2.2022 |
 
 >Vaatimusmäärittelyn kirjoittajalle!Eri ohjevideot on siirretty harjoitustehtävien kuvauksiin, eli jos jokin osa-alue ei aukea käy läpi videot ensin! 
 Kun editoit dokumentaatiota kannattaa viimeistään ennen palautusta poistaa eri ohjeistukset ja korvata taulukoissa annetut esimerkit pelkästään toimeksiantoon liittyvällä tiedolla. Älä muuta otsikointia ratkaisevasti!
