@@ -22,9 +22,9 @@ Jos haluat tarkistaa mitä alkuperäinen pohja sisälsi, niin löydät viimeisim
 ## Kohderyhmä 
 
 >Kenelle palvelu on tarkoitettu? Mitä palvelulla pyritään edistämään?
-* Kohderyhmä A
-* Kohderyhmä B
-* Kohderyhmä ??
+>* Kohderyhmä A
+>* Kohderyhmä B
+>* Kohderyhmä ??
 
 
 Katso seuraava luku -Sidosryhmäkartta 
@@ -34,36 +34,36 @@ Katso seuraava luku -Sidosryhmäkartta
 
 >*Kuvaa sidosryhmäkartan avulla millaisia käyttäjä, sidosryhmiä tai muita toimijoita liittyy olennaisesti suunniteltun ratkaisuun/palveluun? Kirjataan kaikki tunnistetut sidosryhmät sidosryhmäkartan muotoon. Samalla kirjataan sidosryhmän/toimijan motivaatio palvelua kohtaan. Sidosryhmä kuvauksen voi laatia esim. piirtämällä se eri työkalulla, MindMap-muodossa tai soveltaen sopivaa PlantUML-generaattoria. (Suositeltava vaihtoehto)*
 
-**Tarinaa väliin**
+>**Tarinaa väliin**
 
 >*Palvelua kehitettäessä on otettava selvää taustoista ja pyrittävä ymmärtämään itse toimialaa tai tarkasteltua toimintaympäristöä. Tähän tarvitaan taustatietoa ja asiakastuntemusta. Henkilöt joilla on ns. toimialaosaamista (Domain Knowledge) ovat tässä vaiheessa vahvoilla. Kannattaa kuunnella asiakasta ja kerätä tietoa perehtymällä aiheeseen myös itsenäisesti. Toimeksiantajalla on varmasti tarjolla tietoa, jonka pohjalta on helpompi ymmärtää toimialaa, joka saattaa olla alkuvaiheessa arvoitus ratkaisun tekijälle*
 
 >*Tutustu aiemmin mainittuun PlantUML-työkaluun ja kokeilaan luoda tuotteeseen liittyvä sidosryhmäkartta. Löydät ohjeistuksen osoitteesta [http://plantuml.com/](http://plantuml.com/).* 
 >Huomio, että Gitlabin tapauksessa MarkDown dokumenteissa PlantUML-koodilohkon merkitsemisessä ei käytetä alkuperäistä tägäystä. 
 
-* käytä @startuml sijaan *```plantuml*
-* käytä @enduml sijaan *```*
+>* käytä @startuml sijaan *```plantuml*
+>* käytä @enduml sijaan *```*
 
 >Muokkaa alla olevaa sidosryhmäkuvausta toimeksiannon mukaisesti ja samalla opit miten tarvittavia kuvauksia voidaan tuottaa PlantUML:n avulla.
 
 
-```plantuml
-@startmindmap
-+ Projektin tuotos
-++ Asiakas
-+++ Asiakkaan kaveri
-+++ Asiakkaan sukulainen
-++ Kilpaileva valmistaja
-+++ Kilpailijan kissa
-+++ Kilpailijan koira
--- Kauppias
---- Varasto
---- Noutopiste 1.
--- Haasteelliset asiakkaat
---- Kiusantekijä
---- Satunnainen säätäjä
-@endmindmap
-```
+>```plantuml
+>@startmindmap
+>+ Projektin tuotos
+>++ Asiakas
+>+++ Asiakkaan kaveri
+>+++ Asiakkaan sukulainen
+>++ Kilpaileva valmistaja
+>+++ Kilpailijan kissa
+>+++ Kilpailijan koira
+>-- Kauppias
+>--- Varasto
+>--- Noutopiste 1.
+>-- Haasteelliset asiakkaat
+>--- Kiusantekijä
+>--- Satunnainen säätäjä
+>@endmindmap
+>```
 ```plantuml
 @startmindmap
 + PORTFOLIO APPI
