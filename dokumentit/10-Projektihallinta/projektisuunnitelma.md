@@ -3,9 +3,9 @@
 |  |  |
 |:-:|:-:|
 | Dokumentti | Projektisuunnitelma |
-| Laatija: | |
-| Versio: | |
-| Päivämäärä: | |
+| Laatijat: | Riku Härkälä, Anne Kulju, Nina Leonardi, Sanni Kattilakoski |
+| Versio: | 0.3 |
+| Päivämäärä: | 25.2.2022 |
 
 ![](https://openclipart.org/image/400px/167242)
 
@@ -20,9 +20,14 @@
 >Kuvataan toimeksiantoa lyhyesti johdannon muodossa.  Tarpeen mukaan ohjataan lukijaa tutustumaan tarkemmin vaatimusmäärittelydokumenttiin. Projektin tavoitteena on pyrkiä yhdistämään .... on tarve kehittää” < kohdetta>… ”Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän <TTOS2070> ‑opintojakson puitteissa. *
 Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä tehtävä. Kohde kuvaa selkeällä tavalla, usein graafiseen esitykseen tukeutuen, millaisesta järjestelmäkokonaisuudesta tai toiminnasta on kyse, johon ollaan tekemässä nyt projektissa jotain osakokonaisuutta/täydennystä. Tässä siis kuvataan nykyjärjestelmää ja asiakkaan nykyistä toimintatapaa.
 
+>Osalla ryhmän jäsenistä ei ole käytössä omaa portfoliota.
+
 ## 1.2 Tavoitteet ja tehtävät
 
 
+>Ensimmäisenä tavoitteena on luoda jokaiselle projektiryhmän jäsenelle henkilökohtainen portfolio niille joilla sitä ei ennestään ole, ja päivittää niille joilla sellainen on jo olemassa.
+
+>Toisena tavoitteena projektissa on luoda mobiilisovellus, jolla voi selata ja/tai hallinnoida portfolioita (Tarkemmat sovelluksen tehtävät tarkentuvat myöhemmin).
 
 
 > Tässä dokumentissa kuvataan X-projektin taustaa, tavoitteita, tehtäviä, vaihejakoa, resursseja ja organisaatiota. Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.”
@@ -44,6 +49,8 @@ Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä te
 
 ## 1.3 Rajaus ja liittymät
 
+>Jokaisen henkilökohtainen portfolio rajataan omiin tuotoksiin / osaamisen todistamiseen.
+
 > Täsmennetään projektin tehtävää rajaamalla ulkopuolelle jäävät osat kohteena olevasta järjestelmästä tai kokonaishankkeesta. 
 > Erikseen on syytä kuvata myös tehtävän suorittamista merkittävästi rajoittavat ulkoiset tekijät. Tässä myös täsmennetään ne 
 > tehtäväkokonaisuudet, jotka nyt tehtävään osioon tulevat vielä todennäköisesti jossain vaiheessa liittymään, mutta joita ei 
@@ -52,9 +59,15 @@ Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä te
 
 ## 1.4 Oikeudet
 
+>Projektisopimuksessa mainittujen osapuolten oikeuksien lisäksi/sijasta projektiryhmän jäsenillä tulee jatkossa olemaan täydet oikeudet omiin portfolioihinsa sisällön, muotoilun, sijainnin ja näkyvyyden suhteen; muut mahdolliset oikeudet määritellään joko projektisopimuksessa tai myöhemmin vielä erikseen tässä projektisuunnitelmassa.
+
+>Projektin tilaajalla on oikeus kommentoida ja joko hyväksyä tai hylätä projektin tekemä tuotos. Projektin tilaajan päätöksestä huolimatta projektiryhmän jäsenillä on täysi oikeus käyttää projektin tuotoksia osana omaa portfolioansa todistuksena osallistumisesta projektiin ja projektissa tehtyihin tehtäviin.
+
 > ”Eri osapuolten oikeudet on määritelty projektisopimuksessa.” Ellei erillisessä sopimuksessa ole kerrottu oikeuksista työn tuloksiin, tulee ne ilmaista esim. tässä projektisuunnitelmassa. 
 
 ## 1.5 Termit ja määritelmät
+
+>_Tarkennetaan myöhemmin_
 
 >Tässä kappaleessa esitellään projektisuunnitelmassa esiintyvät määritelmät, termit ja lyhenteet. Esimerkiksi eri projekteissa saattaa sanoilla "tarkastus" ja "katselmointi" olla eri merkitys ja tämä 
 > voi aiheuttaa väärinkäsityksiä. Joskus saattaa olla paikallaan sopia eri nimityksiä ryhmän tarkastuksille (oma sisäinen, asiakkaan kanssa, opintojakson suuntaan). Lyhenteet kannattaa avata 
@@ -69,6 +82,15 @@ Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä te
 
 
 ## 2.1 Organisaation esittely
+
+>Projektin tilaaja:  
+>Jouni Huotari, Yliopettaja, IT-Instituutti, Jamk; jouni.huotari@jamk.fi
+
+>Projektiryhmän jäsenet:  
+>Projektipäällikkö Riku Härkälä; p1384@student.jamk.fi  
+>Anne Kulju; ac56969@student.jamk.fi  
+>Nina Leonardi; ab5160@student.jamk.fi  
+>Sanni Kattilakoski; ab5134@student.jamk.fi  
 
 >kuka kuuluu projektiorganisaatioon? Onko projektiryhmän/tiimin lisäksi muita toimijoita? 
 >projektiryhmän ohjaajat sekä toimeksiantajan edustajat. Organisaatiokaavio on esitetty liitteessä tai alla olevassa kuvauksessa.
@@ -97,6 +119,11 @@ Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä te
 ```
 
 ## 2.2 Vastuut ja päätöksentekoprosessi
+
+>Päävastuu projektipäälliköllä, osa-aluevastuut kunkin osa-alueen vastaavalla (asiantuntijat)
+
+>Päätöksenteossa projektisuunnitelman luontivaiheessa ehdotusten perusteella äänestyskokous, jossa puheenjohtajana toimii projektipäällikkö; toteutusvaiheessa projektipäällikkö tekee käytännön päätökset
+
 
 >Tähän kirjataan kaikkien projektiorganisaatioon kuuluvien (esim. johtoryhmä, projektipäällikkö, sihteeri, ryhmä, >ohjaajat) vastuut sekä päätöksentekoprosessi (esim. projektipäällikkö valmistelee ja esittää johtoryhmän päätettäväksi…)
 
