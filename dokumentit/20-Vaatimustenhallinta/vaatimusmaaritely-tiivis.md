@@ -67,7 +67,7 @@ Jos haluat tarkistaa mitä alkuperäinen pohja sisälsi, niin löydät viimeisim
 ```
 ```plantuml
 @startmindmap
-+ Portfolio Appi
++ PORTFOLIO APPI
 ++ Sisäiset sidosryhmät
 +++ R.A.N.S.U.T
 +++ Jouni H
