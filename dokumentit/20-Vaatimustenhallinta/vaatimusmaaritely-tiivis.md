@@ -21,13 +21,14 @@ Jos haluat tarkistaa mitä alkuperäinen pohja sisälsi, niin löydät viimeisim
 
 ## Kohderyhmä 
 
-![](../assets/work-to-do.png)
-
 >Kenelle palvelu on tarkoitettu? Mitä palvelulla pyritään edistämään?
-
 * Kohderyhmä A
 * Kohderyhmä B
 * Kohderyhmä ??
+
+
+Katso seuraava luku -Sidosryhmäkartta 
+
 
 ## Sidosryhmäkartta
 
@@ -44,8 +45,6 @@ Jos haluat tarkistaa mitä alkuperäinen pohja sisälsi, niin löydät viimeisim
 * käytä @enduml sijaan *```*
 
 >Muokkaa alla olevaa sidosryhmäkuvausta toimeksiannon mukaisesti ja samalla opit miten tarvittavia kuvauksia voidaan tuottaa PlantUML:n avulla.
-
-![](../assets/work-to-do.png)
 
 
 ```plantuml
