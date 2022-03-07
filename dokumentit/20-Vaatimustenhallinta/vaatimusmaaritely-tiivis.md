@@ -87,7 +87,7 @@ Katso seuraava luku -Sidosryhmäkartta
 --- TE- toimeksiantoa
 --- verottaja
 --- Ammattiliitot
---- Haittatekijä
+--- Haittatekijät (trollit, hakkerit yms)
 --- Kilpailijat
 @endmindmap
 ```
