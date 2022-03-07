@@ -106,8 +106,8 @@ Katso seuraava luku -Sidosryhmäkartta
 |:-:|:-:|:-:|:-:|
 | SR-001 | [ Selaaja ](pohjat/pohja-profiilikuvaus.md) | 16-65V | Selkeä tarve palvelulle ja tarvitsee palvelua usein |
 | SR-002 | [ Muokkaaja ](pohjat/pohja-profiilikuvaus.md) | 18-70V | Tarve satunnainen, mutta yleisin asiakas  |
-| SR-003 | [Sidosryhmä - Rahoittaja]() | Pääomasijoittaja | Palvelun tuottamat tuotot |
-| SR-004 | [Sidosryhmä - verottaja]() | Nuori karhu | Kerätä verotuloja  |
+| SR-003 | [ * ]() | * | * |
+| SR-004 | [ * ]() | * | *  |
 
 ## Palveluun liittyviä asiakaspolkuja
 
