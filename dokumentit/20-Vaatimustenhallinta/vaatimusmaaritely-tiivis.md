@@ -102,12 +102,12 @@ Katso seuraava luku -Sidosryhmäkartta
 
 >*Sidosryhmäkartan avulla saadaan yleiskuva eri toimijoista (actor), jotka liittyvät oleellisesti ratkaisuun/palveluun. Jos pohdimme tarkemmin esimerkiksi erilaisia palvelun loppukäyttäjiä voimme huomata niissä olevan selkeitä eroja. Tästä johtuen joudutaan tarkentamaan ja erittelemään kuvausta ja luomaa tarvittasessa ns. profiilikuvaus. Tämän kuvauksen avulla voidaan tarkemmin tarkentaa kohderyhmän luonnetta. Tarkemman kuvauksen tuottamiseksi voi luoda profiilikohtaisen kuvaustiedoston. Tämä tiedosto luodan kopioimalla tarvittavia tiedostoja jokaiselle profiilille. Eli kopio profiilin kuvaukselle pohja tiedostosta *pohja-profiilikuvaus* ja tallenna se repositorioon sopivasti tunnistettavalla nimeämällä se profiilin mukaisesti. Tarkennettuja profiilikuvauksia luodaan tarpeen mukaan. Alla olevassa taulukossa on esitelty muutamia esimerkki profiileja ja tarpeelliset tiedot löytyvät taulukosta.*
 
-| ID |  Nimi | Kuvaus | Motivaatio |
-|:-:|:-:|:-:|:-:|
-| SR-001 | [ Selaaja ](pohjat/pohja-profiilikuvaus.md) | 16-65V | Selkeä tarve palvelulle ja tarvitsee palvelua usein |
-| SR-002 | [ Muokkaaja ](pohjat/pohja-profiilikuvaus.md) | 18-70V | Tarve satunnainen, mutta yleisin asiakas  |
-| SR-003 | [ * ]() | * | * |
-| SR-004 | [ * ]() | * | *  |
+| ID |  Nimi | Kuvaus | Tarve | Motivaatio |
+|:-:|:-:|:-:|:-:| :-:|
+| SR-001 | [ Selaaja ](pohjat/pohja-profiilikuvaus.md) | 16-65V | Selkeä tarve palvelulle ja tarvitsee palvelua usein | * |
+| SR-002 | [ Muokkaaja ](pohjat/pohja-profiilikuvaus.md) | 18-70V | Tarve satunnainen, mutta yleisin asiakas  | * |
+| SR-003 | [ * ]() | * | * | * |
+| SR-004 | [ * ]() | * | *  | * |
 
 ## Palveluun liittyviä asiakaspolkuja
 
