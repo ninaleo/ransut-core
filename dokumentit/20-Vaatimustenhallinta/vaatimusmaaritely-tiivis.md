@@ -107,7 +107,6 @@ Katso seuraava luku -Sidosryhmäkartta
 | SR-001 | [ Selaaja, peruskäyttäjä ](pohjat/pohja-profiilikuvaus.md) | 16-65V | Selkeä tarve palvelulle ja tarvitsee palvelua usein | Haluaa löytää resurssin (esim työntekijän, potentiaalisen opiskelijan, esimerkin hyvästä portfoliosta) |
 | SR-002 | [ Muokkaaja, ylläpitäjä ](pohjat/pohja-profiilikuvaus.md) | 18-70V | Tarve satunnainen, mutta yleisin asiakas  | Työllistäminen, verkostoituminen, oman osaamisen todentaminen |
 | SR-003 | [ R.A.N.S.U.T, Admin ]() | Salassapidettävä | Sovelluksen/ palvelun ylläpito ja käyttöoikeuksien myöntäminen | Raha & maine |
-| SR-004 | [ * ]() | * | *  | * |
 
 ## Palveluun liittyviä asiakaspolkuja
 
