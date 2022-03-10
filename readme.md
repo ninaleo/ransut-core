@@ -1,3 +1,14 @@
+# Portfolioprojekti R.A.N.S.U.T. 
+
+Projektin web-sivut:  
+![R.A.N.S.U.T.](https://ransut.pages.labranet.jamk.fi/site/)
+
+
+
+
+
+
+
 # Open Project Framework (SUOMI)
 
 Suomenkielinen OPF versio
