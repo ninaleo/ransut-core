@@ -1,7 +1,7 @@
 # Portfolioprojekti R.A.N.S.U.T. 
 
 Projektin web-sivut:  
-![R.A.N.S.U.T.](https://ransut.pages.labranet.jamk.fi/site/)
+[R.A.N.S.U.T.](https://ransut.pages.labranet.jamk.fi/site/)
 
 
 
