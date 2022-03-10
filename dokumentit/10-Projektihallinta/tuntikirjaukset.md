@@ -1,4 +1,25 @@
-# Tuntikirjaukset (pohja)
+# Tuntikirjaukset  
+
+**Sprintti 1**
+
+| Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
+|:-:|:-:|:-:|:-:|
+| Riku | x.x.202x | 6 | Tehtävä |
+| Anne | x.x.202x | 6 | Tehtävä |
+| Nina | x.x.202x | 6 | Tehtävä |
+| Sanni | x.x.202x | 6 | Tehtävä |  
+
+
+**Sprintti 2**
+
+| Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
+|:-:|:-:|:-:|:-:|
+| Riku | x.x.202x | 6 | Tehtävä |
+| Anne | x.x.202x | 6 | Tehtävä |
+| Nina | x.x.202x | 6 | Tehtävä |
+| Sanni | x.x.202x | 6 | Tehtävä |
+
+
 
 ![](https://openclipart.org/image/400px/svg_to_png/324819/studying-boy-and-girl.png)
 
