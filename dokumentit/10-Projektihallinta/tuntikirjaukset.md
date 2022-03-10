@@ -1,23 +1,29 @@
 # Tuntikirjaukset  
 
+## Tehdyt tunnit  
+
 **Sprintti 1**
 
-| Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
-|:-:|:-:|:-:|:-:|
-| Riku | x.x.202x | 6 | Tehtävä |
-| Anne | x.x.202x | 6 | Tehtävä |
-| Nina | x.x.202x | 6 | Tehtävä |
-| Sanni | x.x.202x | 6 | Tehtävä |  
+| Tekijä | Tunnit | Mitä tehtiin |
+|:-:|:-:|:-:|
+| Riku | 6 | Vaatimusmäärittely |
+| Anne | 6 | Vaatimusmäärittely |
+| Nina | 6 | Vaatimusmäärittely |
+| Sanni | 6 | Vaatimusmäärittely |  
 
 
 **Sprintti 2**
 
-| Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
-|:-:|:-:|:-:|:-:|
-| Riku | x.x.202x | 6 | Tehtävä |
-| Anne | x.x.202x | 6 | Tehtävä |
-| Nina | x.x.202x | 6 | Tehtävä |
-| Sanni | x.x.202x | 6 | Tehtävä |
+| Tekijä | Tunnit | Mitä tehtiin |
+|:-:|:-:|:-:|
+| Riku | 10 | Verkkosivujen päivitys |
+| Anne | 10 | Verkkosivujen päivitys |
+| Nina | 10 | Verkkosivujen päivitys |
+| Sanni | 10 | Verkkosivujen päivitys |  
+
+* 9.3.2022 Työstettiin asiakaspolkukarttaa (Teams-> Tiedostot-> Customer Journey Map.pdf) Juttelua tiimin nettisivuista. Päätettiin, että tiimin nimessä on hyvää ainesta logoksi ja jokainen ideoi sitä sekä hakee jonkinlaisia etusivukuvaehdotuksia ilmaispalveluista. 
+* 10.3.2022 Tiimi pohti yhdessä sovelluksen ominaisuuksia ja näistä saatiin hyvä ideakartta (Teams-> Tiedostot-> portf_ideoita1.pdf). Päivitettiin verkkosivuja, logo & taustakuvat.  
+* 11.3.2022 Daily 8.45
 
 
 
