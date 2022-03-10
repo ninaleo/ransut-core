@@ -3,7 +3,7 @@
 |  |  |
 |:-:|:-:|
 | Dokumentti | Tiivistetty vaatimusmääritelmä |
-| Laatija: | *R.A.N.S.U.T* |
+| Laatija: | *R.A.N.S.U.T.* |
 | Versio: | *1.0* |
 | Päivämäärä: | 25.2.2022 |
 
@@ -67,7 +67,7 @@ Katso seuraava luku -Sidosryhmäkartta
 @startmindmap
 + PORTFOLIO APPI
 ++ Sisäiset sidosryhmät
-+++ R.A.N.S.U.T
++++ R.A.N.S.U.T.
 +++ Jouni H
 +++ Tukihenkilöt
 -- Ulkoiset sidosryhmät
