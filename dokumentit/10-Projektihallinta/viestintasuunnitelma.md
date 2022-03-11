@@ -75,7 +75,7 @@ Viestinnässä ulkopuolisten kanssa käytetään projektiryhmäläisten omaa har
 
 # Viestinnän seuranta ja arviointi
 
-Viestinnän onnistumista arvioidaan projektin aikana jatkuvasti ja erityisesti viikko- ja ohjaajapalavereissä. Mahdollisiin epäkohtiin puututaan välittömästi ja viestintäsuunnitelmaa muutetaan tarpeen niin vaatiessa.
+Viestinnän onnistumista arvioidaan projektin aikana jatkuvasti ja erityisesti viikko- ja ohjaajapalavereissa. Mahdollisiin epäkohtiin puututaan välittömästi ja viestintäsuunnitelmaa muutetaan tarpeen niin vaatiessa.
 
 
 # Lähteet
