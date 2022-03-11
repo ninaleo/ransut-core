@@ -2,7 +2,7 @@
 
 ## Tehdyt tunnit  
 
-**Sprintti 1**
+**Sprintti 1 28.2-4.3.2022**
 
 | Tekijä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|
@@ -12,7 +12,7 @@
 | Sanni | 6 | Vaatimusmäärittely |  
 
 
-**Sprintti 2**
+**Sprintti 2 7.-11.3.2022**
 
 | Tekijä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|
@@ -23,7 +23,16 @@
 
 * 9.3.2022 Työstettiin asiakaspolkukarttaa (Teams-> Tiedostot-> Customer Journey Map.pdf) Juttelua tiimin nettisivuista. Päätettiin, että tiimin nimessä on hyvää ainesta logoksi ja jokainen ideoi sitä sekä hakee jonkinlaisia etusivukuvaehdotuksia ilmaispalveluista. 
 * 10.3.2022 Tiimi pohti yhdessä sovelluksen ominaisuuksia ja näistä saatiin hyvä ideakartta (Teams-> Tiedostot-> portf_ideoita1.pdf). Päivitettiin verkkosivuja, logo & taustakuvat.  
-* 11.3.2022 Daily 8.45
+* 11.3.2022 Daily 8.45. Jaettiin tiimin jäsenille tehtävät/ vastuualueet, päivitettiin boardille sprintti 3 tehtävät, pohdittiin mielipidekyselyn sisältöä ja toteutusta. Viestintäsuunnitelman tekoa.  
+
+**Sprintti 3 14.-18.3.2022**
+
+| Tekijä | Tunnit | Mitä tehtiin |
+|:-:|:-:|:-:|
+| Riku |  | * |
+| Anne |  | * |
+| Nina |  | * |
+| Sanni |  | * |
 
 
 
