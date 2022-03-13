@@ -13,9 +13,10 @@ Jos haluat tarkistaa mitä alkuperäinen pohja sisälsi, niin löydät viimeisim
 >Terveisin,
 >Ohjaajat
 
-## Johdanto
+## Johdanto  
 
-![](../assets/work-to-do.png)
+N.A.R.S.U.T saama toimeksianto on suunnitella ja tuottaa sovellus käyttäjän henkilökohtaisen portfolion esittelemiseen.
+Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän ‑opintojakson puitteissa.
 
 >*Kerro mitä tällä dokumentilla tavoitellaan? Kuvaa projektissa tavoiteltua kokonaisuutta, hieman taustaa ja aiheeseen olennaisesti liittyviä asioita? Jos kyseessä harjoitustehtävä, niin tarkista voitko todella käyttää olemassa olevia tilaajien oikeita nimiä! Muussa tapauksessa vaihdetaan kaikki nimet itse keksittyihin :)*
 
@@ -336,7 +337,12 @@ Näitä yhteyksiä kutsutaan vaatimusten jäljitettävyydeksi (Traceablity).
 | HWREQ-0003 | Palvelimen fyysinen sijainti on oltava EU-aluella| |
 | HWREQ-0004 |... ||
 
-## Laadulliset vaatimukset (Non-functional Requirements)
+## Laadulliset vaatimukset (Non-functional Requirements)  
+
+* Tietoturva  
+* Saavutettavuus  
+* SUorituskyky  
+
 
 >Laadulliset vaatimukset tarkastelevat palvelua ns. ei-toiminnallisesta näkökulmasta. Kuulostaa ehkä äkkiseltään hankalalta, mutta mieti seuraavia kysymyksiä?
 
