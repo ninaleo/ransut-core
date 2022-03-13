@@ -7,22 +7,20 @@
 | Versio: | *1.0* |
 | Päivämäärä: | 25.2.2022 |
 
->Vaatimusmäärittelyn kirjoittajalle!Eri ohjevideot on siirretty harjoitustehtävien kuvauksiin, eli jos jokin osa-alue ei aukea käy läpi videot ensin! 
-Kun editoit dokumentaatiota kannattaa viimeistään ennen palautusta poistaa eri ohjeistukset ja korvata taulukoissa annetut esimerkit pelkästään toimeksiantoon liittyvällä tiedolla. Älä muuta otsikointia ratkaisevasti!
+Eri ohjevideot on siirretty harjoitustehtävien kuvauksiin, eli jos jokin osa-alue ei aukea käy läpi videot ensin! 
 Jos haluat tarkistaa mitä alkuperäinen pohja sisälsi, niin löydät viimeisimmän version osoitteesta [Lyhennetty-vaatimusmääritelmä](https://jamkit.pages.labranet.jamk.fi/project-templates/fi-opf-2021-core-template-v2/20-Vaatimustenhallinta/vaatimusmaaritely-tiivis/)
->Terveisin,
->Ohjaajat
+
 
 ## Johdanto  
 
 N.A.R.S.U.T saama toimeksianto on suunnitella ja tuottaa sovellus käyttäjän henkilökohtaisen portfolion esittelemiseen.
 Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän ‑opintojakson puitteissa.
 
->*Kerro mitä tällä dokumentilla tavoitellaan? Kuvaa projektissa tavoiteltua kokonaisuutta, hieman taustaa ja aiheeseen olennaisesti liittyviä asioita? Jos kyseessä harjoitustehtävä, niin tarkista voitko todella käyttää olemassa olevia tilaajien oikeita nimiä! Muussa tapauksessa vaihdetaan kaikki nimet itse keksittyihin :)*
+>*Kerro mitä tällä dokumentilla tavoitellaan? Kuvaa projektissa tavoiteltua kokonaisuutta, hieman taustaa ja aiheeseen olennaisesti liittyviä asioita? Jos kyseessä harjoitustehtävä, niin tarkista voitko todella käyttää olemassa olevia tilaajien oikeita nimiä! Muussa tapauksessa vaihdetaan kaikki nimet itse keksittyihin*
 
 ## Kohderyhmä 
 
->Kenelle palvelu on tarkoitettu? Mitä palvelulla pyritään edistämään?
+
 * Kohderyhmä A Sisäiset sidosryhmät
 * Kohderyhmä B Ulkoiset sidosryhmät 
 
@@ -30,40 +28,9 @@ Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian ins
 Katso seuraava luku -Sidosryhmäkartta
 
 
-## Sidosryhmäkartta
-
->*Kuvaa sidosryhmäkartan avulla millaisia käyttäjä, sidosryhmiä tai muita toimijoita liittyy olennaisesti suunniteltun ratkaisuun/palveluun? Kirjataan kaikki tunnistetut sidosryhmät sidosryhmäkartan muotoon. Samalla kirjataan sidosryhmän/toimijan motivaatio palvelua kohtaan. Sidosryhmä kuvauksen voi laatia esim. piirtämällä se eri työkalulla, MindMap-muodossa tai soveltaen sopivaa PlantUML-generaattoria. (Suositeltava vaihtoehto)*
-
->**Tarinaa väliin**
-
->*Palvelua kehitettäessä on otettava selvää taustoista ja pyrittävä ymmärtämään itse toimialaa tai tarkasteltua toimintaympäristöä. Tähän tarvitaan taustatietoa ja asiakastuntemusta. Henkilöt joilla on ns. toimialaosaamista (Domain Knowledge) ovat tässä vaiheessa vahvoilla. Kannattaa kuunnella asiakasta ja kerätä tietoa perehtymällä aiheeseen myös itsenäisesti. Toimeksiantajalla on varmasti tarjolla tietoa, jonka pohjalta on helpompi ymmärtää toimialaa, joka saattaa olla alkuvaiheessa arvoitus ratkaisun tekijälle*
-
->*Tutustu aiemmin mainittuun PlantUML-työkaluun ja kokeilaan luoda tuotteeseen liittyvä sidosryhmäkartta. Löydät ohjeistuksen osoitteesta [http://plantuml.com/](http://plantuml.com/).* 
->Huomio, että Gitlabin tapauksessa MarkDown dokumenteissa PlantUML-koodilohkon merkitsemisessä ei käytetä alkuperäistä tägäystä. 
-
->* käytä @startuml sijaan *```plantuml*
->* käytä @enduml sijaan *```*
-
->Muokkaa alla olevaa sidosryhmäkuvausta toimeksiannon mukaisesti ja samalla opit miten tarvittavia kuvauksia voidaan tuottaa PlantUML:n avulla.
+## Sidosryhmäkartta  
 
 
->```plantuml
->@startmindmap
->+ Projektin tuotos
->++ Asiakas
->+++ Asiakkaan kaveri
->+++ Asiakkaan sukulainen
->++ Kilpaileva valmistaja
->+++ Kilpailijan kissa
->+++ Kilpailijan koira
->-- Kauppias
->--- Varasto
->--- Noutopiste 1.
->-- Haasteelliset asiakkaat
->--- Kiusantekijä
->--- Satunnainen säätäjä
->@endmindmap
->```
 ```plantuml
 @startmindmap
 + PORTFOLIO APPI
@@ -94,20 +61,22 @@ Katso seuraava luku -Sidosryhmäkartta
 ```
 ---
 
-
+>*Palvelua kehitettäessä on otettava selvää taustoista ja pyrittävä ymmärtämään itse toimialaa tai tarkasteltua toimintaympäristöä. Tähän tarvitaan taustatietoa ja asiakastuntemusta. Henkilöt joilla on ns. toimialaosaamista (Domain Knowledge) ovat tässä vaiheessa vahvoilla. Kannattaa kuunnella asiakasta ja kerätä tietoa perehtymällä aiheeseen myös itsenäisesti. Toimeksiantajalla on varmasti tarjolla tietoa, jonka pohjalta on helpompi ymmärtää toimialaa, joka saattaa olla alkuvaiheessa arvoitus ratkaisun tekijälle*
+>*Tutustu aiemmin mainittuun PlantUML-työkaluun ja kokeilaan luoda tuotteeseen liittyvä sidosryhmäkartta. Löydät ohjeistuksen osoitteesta [http://plantuml.com/](http://plantuml.com/).* 
+>Huomio, että Gitlabin tapauksessa MarkDown dokumenteissa PlantUML-koodilohkon merkitsemisessä ei käytetä alkuperäistä tägäystä. 
 
 
 **Tarkennettut sidosryhmätprofiilit** 
 
-![](../assets/work-to-do.png)
-
->*Sidosryhmäkartan avulla saadaan yleiskuva eri toimijoista (actor), jotka liittyvät oleellisesti ratkaisuun/palveluun. Jos pohdimme tarkemmin esimerkiksi erilaisia palvelun loppukäyttäjiä voimme huomata niissä olevan selkeitä eroja. Tästä johtuen joudutaan tarkentamaan ja erittelemään kuvausta ja luomaa tarvittasessa ns. profiilikuvaus. Tämän kuvauksen avulla voidaan tarkemmin tarkentaa kohderyhmän luonnetta. Tarkemman kuvauksen tuottamiseksi voi luoda profiilikohtaisen kuvaustiedoston. Tämä tiedosto luodan kopioimalla tarvittavia tiedostoja jokaiselle profiilille. Eli kopio profiilin kuvaukselle pohja tiedostosta *pohja-profiilikuvaus* ja tallenna se repositorioon sopivasti tunnistettavalla nimeämällä se profiilin mukaisesti. Tarkennettuja profiilikuvauksia luodaan tarpeen mukaan. Alla olevassa taulukossa on esitelty muutamia esimerkki profiileja ja tarpeelliset tiedot löytyvät taulukosta.*
 
 | ID |  Nimi | Kuvaus | Tarve | Motivaatio |
 |:-:|:-:|:-:|:-:| :-:|
 | SR-001 | [ Selaaja, peruskäyttäjä ](pohjat/pohja-profiilikuvaus.md) | 15-65V | Selkeä tarve palvelulle ja tarvitsee palvelua usein | Haluaa löytää resurssin (esim työntekijän, potentiaalisen opiskelijan, esimerkin hyvästä portfoliosta) |
 | SR-002 | [ Muokkaaja, ylläpitäjä ](pohjat/pohja-profiilikuvaus.md) | 15-70V | Tarve satunnainen, mutta yleisin asiakas  | Työllistäminen, verkostoituminen, oman osaamisen todentaminen |
-| SR-003 | [ R.A.N.S.U.T, Admin ]() | Salassapidettävä | Sovelluksen/ palvelun ylläpito ja käyttöoikeuksien myöntäminen | Raha & maine |
+| SR-003 | [ R.A.N.S.U.T, Admin ]() | Salassapidettävä | Sovelluksen/ palvelun ylläpito ja käyttöoikeuksien myöntäminen | Raha & maine |  
+
+
+>*Sidosryhmäkartan avulla saadaan yleiskuva eri toimijoista (actor), jotka liittyvät oleellisesti ratkaisuun/palveluun. Jos pohdimme tarkemmin esimerkiksi erilaisia palvelun loppukäyttäjiä voimme huomata niissä olevan selkeitä eroja. Tästä johtuen joudutaan tarkentamaan ja erittelemään kuvausta ja luomaa tarvittasessa ns. profiilikuvaus. Tämän kuvauksen avulla voidaan tarkemmin tarkentaa kohderyhmän luonnetta. Tarkemman kuvauksen tuottamiseksi voi luoda profiilikohtaisen kuvaustiedoston. Tämä tiedosto luodan kopioimalla tarvittavia tiedostoja jokaiselle profiilille. Eli kopio profiilin kuvaukselle pohja tiedostosta *pohja-profiilikuvaus* ja tallenna se repositorioon sopivasti tunnistettavalla nimeämällä se profiilin mukaisesti. Tarkennettuja profiilikuvauksia luodaan tarpeen mukaan.*
 
 ## Palveluun liittyviä asiakaspolkuja
 
@@ -124,11 +93,7 @@ Katso seuraava luku -Sidosryhmäkartta
 
 >Mikä on asiakaspolku, eli "Customer Journey Map". Hyviä esimerkkejä löytyy esimerkkinä Youtuben kautta. Kokeile luonnostella asiakaspolku hyödyntäen PlantUML-työkalua. Kannattaa kokeilla myös muita tapoja! Esimerkkissä käytetään UML-tilankone kuvausta (State Diagram).
 
-![](../assets/work-to-do.png)
-
-
 >Ennen kuvausta kannataa tehdä johdanto teksti, jossa esitellään mitä kuvauksessa on tarkoitus tarkastella! 
-
 
 **Tässä asiakaspolku esimerkki: Asiakkaan saapuminen liiketilaan onnistuneen ulkomainoksen pohjalta**
 
@@ -201,7 +166,6 @@ Step11 --> Step12
 
 **Kirjataan ominaisuudet vielä MindMap-muotoon ja samalla linkitetään niihin liittyvät toiminnot**
 
-![](../assets/work-to-do.png)
 
 ```plantuml
 @startmindmap
@@ -227,7 +191,6 @@ Step11 --> Step12
 
 Kaikkia vaatimuksia (myös ei-toiminnalliset vaatimukset) koskevat seuraavat ehdot:
 
-![](../assets/work-to-do.png)
 
 * *Vaatimus on yksilöllinen ja identifioitu*
 * *Vaatimus on oltava mitattavissa*
@@ -246,7 +209,6 @@ Kaikkia vaatimuksia (myös ei-toiminnalliset vaatimukset) koskevat seuraavat ehd
 
 ## Käyttöliittymänäkymä/mockup 
 
-![](../assets/work-to-do.png)
 
 >*Eri ominaisuuksien ja niihin liittyvien toiminnallisuuksien selkeyttämiseksi voidaan hyödyntää myös erilaisia kuvauksia. Kuvausten avulla pyritään hahmottamaan miltä tuotteen tulisi näyttää tai mitä on otettava huomioon käyttöliittymätoteutuksessa? Tähän tarkoitukseen voi soveltaa nykyaikaisia ns. MockUp/prototyyppityökaluja. Näiden välineiden avulla voidaan luoda helposti käyttöliittymästä nopea kokeiluverso, jota voidaan koekäyttää eri kohderyhmillä.* 
 >*Ominaisuuksien toteutuksiin liittyvät prototyyppi kuvaukset kannataa liittää ominaisuuksien määrittelydokumentteihin, jolloin ne löytyvät asian mukaisesta paikasta. Tutustu esimerkkinä [Feature-FEA0001](20-Vaatimustenhallinta/ominaisuus-FEA0001.md)
@@ -273,7 +235,6 @@ salt
 
 ## Ketterän kehittämisen käyttötarinat - User Story 
 
-![](../assets/work-to-do.png)
 
 >*Nykyaikaisessa ohjelmistokehityksessä on yleistynyt tapa käyttää tarkkojen vaatimusten sijaan eri sidosryhmiltä kerättyjä kuvauksia tarvittavista toiminnoista. Näitä kuvauksia nimitetään käsitteellä käyttötarina eli *User Story*. Kannattaa tutustu aiheeseen [User Story](https://en.wikipedia.org/wiki/User_story). Käyttötarinat ovat kehitystiimin kannalta erittäin oleellisia, koska ne kuvaavat toimintoja, joita palvelulta odotetaan. Käytännössä User Storyjen avulla ohjataa koko kehitystiimin tavoitteellista työskentelyä projektin aikana.*
 
@@ -375,7 +336,6 @@ Näitä yhteyksiä kutsutaan vaatimusten jäljitettävyydeksi (Traceablity).
 
 ### Tietoturvavaatimukset (Security Requirements)
 
-![](../assets/work-to-do.png)
 
 >Millaisia vaatimuksia palveluun kohdistuu tietoturvan näkökulmasta? 
 > Tutustu [VAHTI 1/2013 Sovelluskehityksen tietoturvaohje](https://www.suomidigi.fi/ohjeet-ja-tuki/vahti-ohjeet/vahti-12013-sovelluskehityksen-tietoturvaohje)
@@ -390,7 +350,6 @@ Näitä yhteyksiä kutsutaan vaatimusten jäljitettävyydeksi (Traceablity).
 
 ### Saavutettavuusvaatimukset (Accessablity Requirements)
 
-![](../assets/work-to-do.png)
 
 >Mitä tarkoitetaan saavutettavuudella? Millaisia asioita/ohjeistuksia on otettava huomioon palvelua toteutettaessa? Tutustu lähteeseen: [https://www.saavutettavuusvaatimukset.fi/](https://www.saavutettavuusvaatimukset.fi/)
 
