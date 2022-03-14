@@ -13,7 +13,7 @@ Jos haluat tarkistaa mitä alkuperäinen pohja sisälsi, niin löydät viimeisim
 
 ## Johdanto  
 
-R.A.N.S.U.T saama toimeksianto on suunnitella ja tuottaa sovellus käyttäjän henkilökohtaisen portfolion esittelemiseen.
+R.A.N.S.U.T. saama toimeksianto on suunnitella ja tuottaa sovellus käyttäjän henkilökohtaisen portfolion esittelemiseen.
 Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän ‑opintojakson puitteissa.
 
 >*Kerro mitä tällä dokumentilla tavoitellaan? Kuvaa projektissa tavoiteltua kokonaisuutta, hieman taustaa ja aiheeseen olennaisesti liittyviä asioita? Jos kyseessä harjoitustehtävä, niin tarkista voitko todella käyttää olemassa olevia tilaajien oikeita nimiä! Muussa tapauksessa vaihdetaan kaikki nimet itse keksittyihin*
