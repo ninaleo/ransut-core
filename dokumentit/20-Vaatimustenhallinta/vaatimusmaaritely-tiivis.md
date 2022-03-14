@@ -132,16 +132,7 @@ Step11 --> Step12
 
 ## Palvelun ominaisuudet (Features)
 
-
->*Kaikki palveluun/ohjelmistoon liittyvät toiminnot (Functions) voidaan kirjaan alkuvaiheessa ns. toiminnallisina vaatimuksina (Functional Requirements), mutta näistä osa niistä osoittautuu melko varmasti palvelun kannalta oleellisiksi ominaisuuksiksi (Features). Tärkeimmät ominaisuudet on tunnistettava riittävästi alkuvaiheessa, koska niiden pohjalta ohjataan tuotekehitystä projektin edetessä.* 
-
->*Mietitään seuraavaksi miltä ovat palvelun tärkeimmät toiminnalliset ominaisuudet? Kirjataan ne tässä vaiheessa ne taulukkoon ja luodaan niiden pohjalta myös hahmotelma MindMap-kuvauksen muotoon. Kuvan avulla palvelun eri osa-alueet saattava hahmottua selkeämmin.* 
->*Mieti esimerkisi tilannetta, että sinulta kysytään mitä kehittämällasi palvelulla voi käytännössä tehdä? Saat aikaa vastata 15 sekuntia. Mitä vastaat?*
->*Mitä tärkeimpiä toimintoja nostatat esiin?* 
->*Mitkä ominaisuudet tekevätä tuotteestasi on paremman kuin muilla?*
-
 **Pääominaisuudet ja toiminnot**
-
 
 # Priorisointi
 * P1= Pakollinen  
@@ -149,7 +140,6 @@ Step11 --> Step12
 * P3= Toteutetaan tarpeen ilmetessä
 
   
-
 | Ominaisuus (Feature) | Toiminto (Function) | Prioriteetti |  
 |:-:|:-:| :-:|
 | FEATURE-01 | Palveluun rekisteröityminen | P1 |  
@@ -169,6 +159,13 @@ Step11 --> Step12
 | FEATURE-15 | Salasanan hallinta | * |  
 | FEATURE-16 | Teema | * |  
 | FEATURE-17 | Tilin poisto | * |
+
+>*Kaikki palveluun/ohjelmistoon liittyvät toiminnot (Functions) voidaan kirjaan alkuvaiheessa ns. toiminnallisina vaatimuksina (Functional Requirements), mutta näistä osa niistä osoittautuu melko varmasti palvelun kannalta oleellisiksi ominaisuuksiksi (Features). Tärkeimmät ominaisuudet on tunnistettava riittävästi alkuvaiheessa, koska niiden pohjalta ohjataan tuotekehitystä projektin edetessä.* 
+
+>*Mietitään seuraavaksi miltä ovat palvelun tärkeimmät toiminnalliset ominaisuudet? Kirjataan ne tässä vaiheessa ne taulukkoon ja luodaan niiden pohjalta myös hahmotelma MindMap-kuvauksen muotoon. Kuvan avulla palvelun eri osa-alueet saattava hahmottua selkeämmin.* 
+>*Mieti esimerkisi tilannetta, että sinulta kysytään mitä kehittämällasi palvelulla voi käytännössä tehdä? Saat aikaa vastata 15 sekuntia. Mitä vastaat?*
+>*Mitä tärkeimpiä toimintoja nostatat esiin?* 
+>*Mitkä ominaisuudet tekevätä tuotteestasi on paremman kuin muilla?*
 
 **HUOMIO** harjoituksessa ei tarvitse määritellä itsenäistä ominaisuutta tarkemmin!
 
