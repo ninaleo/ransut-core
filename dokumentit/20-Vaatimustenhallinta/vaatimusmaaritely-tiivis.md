@@ -146,21 +146,22 @@ Step11 --> Step12
 | FEATURE-02 | Palveluun kirjautuminen | P1 |  
 | FEATURE-03 | GDPR | P1 |  
 | FEATURE-04 | Oman tilin hallinnointi | P1 |  
-| FEATURE-05 | Tag- toiminto | * |   
-| FEATURE-06 | Omien tietojen syöttö (skillsit) | * |  
-| FEATURE-07 | Twitter- Facebook- ja LinkedIn- jako | * |  
-| FEATURE-08 | Kuvien ottaminen ja lisäys | * |  
-| FEATURE-09 | Videon lisäys | * |  
-| FEATURE-10 | Selaaminen kirjautumatta | * |  
-| FEATURE-11 | Selaaminen kirjautuneena | * |  
-| FEATURE-12 | Kirjautuneena moderointi (suositukset ja kommentointi) | * |  
-| FEATURE-13 | Hakutoiminnot | * |  
-| FEATURE-14 | Teema | * |  
-| FEATURE-15 | Salasanan hallinta | * |  
-| FEATURE-16 | Teema | * |  
-| FEATURE-17 | Tilin poisto | * |  
+| FEATURE-05 | Tag- toiminto | P1 |   
+| FEATURE-06 | Omien tietojen syöttö (skillsit) | P1 |  
+| FEATURE-07 | Linkin lisääminen | P1 |  
+| FEATURE-08 | Kuvien lisääminen | P1 |  
+| FEATURE-09 | Videon lisäys | P1 |  
+| FEATURE-10 | Selaaminen kirjautumatta | P1 |  
+| FEATURE-11 | Selaaminen kirjautuneena | P1 |  
+| FEATURE-12 | Kirjautuneena moderointi (suositukset ja kommentointi) | P1 |  
+| FEATURE-13 | Hakutoiminnot | P1 |  
+| FEATURE-14 | Kuvien ottaminen | P1 |  
+| FEATURE-15 | Salasanan hallinta | P1 |  
+| FEATURE-16 | Omien tietojen muokkaaminen | P1 |  
+| FEATURE-17 | Tilin poisto | P1 | 
+| FEATURE-18 | Twitter- Facebook- ja LinkedIn- jako | P1 |
 
-[Tiimin portfolio ideoita dokumenttiin](https://jamkstudent.sharepoint.com/:b:/s/Low-codehuone2/EXsuUx6LPxhGuvL1whsBijsBOm6L1SiOn3puXcHyIdjYxg)
+[Tiimin portfolioideoita dokumenttiin](https://jamkstudent.sharepoint.com/:b:/s/Low-codehuone2/EXsuUx6LPxhGuvL1whsBijsBOm6L1SiOn3puXcHyIdjYxg)
 
 >*Kaikki palveluun/ohjelmistoon liittyvät toiminnot (Functions) voidaan kirjaan alkuvaiheessa ns. toiminnallisina vaatimuksina (Functional Requirements), mutta näistä osa niistä osoittautuu melko varmasti palvelun kannalta oleellisiksi ominaisuuksiksi (Features). Tärkeimmät ominaisuudet on tunnistettava riittävästi alkuvaiheessa, koska niiden pohjalta ohjataan tuotekehitystä projektin edetessä.* 
 
