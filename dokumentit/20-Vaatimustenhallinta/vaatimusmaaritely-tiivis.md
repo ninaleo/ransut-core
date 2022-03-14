@@ -158,7 +158,9 @@ Step11 --> Step12
 | FEATURE-14 | Teema | * |  
 | FEATURE-15 | Salasanan hallinta | * |  
 | FEATURE-16 | Teema | * |  
-| FEATURE-17 | Tilin poisto | * |
+| FEATURE-17 | Tilin poisto | * |  
+
+[Tiimin portfolio ideoita dokumenttiin](https://jamkstudent.sharepoint.com/:b:/s/Low-codehuone2/EXsuUx6LPxhGuvL1whsBijsBOm6L1SiOn3puXcHyIdjYxg)
 
 >*Kaikki palveluun/ohjelmistoon liittyvät toiminnot (Functions) voidaan kirjaan alkuvaiheessa ns. toiminnallisina vaatimuksina (Functional Requirements), mutta näistä osa niistä osoittautuu melko varmasti palvelun kannalta oleellisiksi ominaisuuksiksi (Features). Tärkeimmät ominaisuudet on tunnistettava riittävästi alkuvaiheessa, koska niiden pohjalta ohjataan tuotekehitystä projektin edetessä.* 
 
