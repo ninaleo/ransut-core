@@ -151,7 +151,7 @@ Step11 --> Step12
   
 
 | Ominaisuus (Feature) | Toiminto (Function) | Prioriteetti |  
-|:-:|:-:|
+|:-:|:-:| :-:|
 | FEATURE-01 | Palveluun rekisteröityminen | P1 |  
 | FEATURE-02 | Palveluun kirjautuminen | P1 |  
 | FEATURE-03 | GDPR | P1 |  
