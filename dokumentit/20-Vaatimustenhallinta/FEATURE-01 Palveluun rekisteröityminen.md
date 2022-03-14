@@ -7,12 +7,6 @@
 | Ominaisuuden vastuuhenkilö | * |
 | Status | In progress |  
 
-| | |
-|:-:|:-:|
-| Ominaisuus ID |FEATURE-04 |
-| Osajärjestelmä, mihin ominaisuus liittyy | Forum |
-| Ominaisuuden vastuuhenkilö |  |
-| Status | Valmis |
 
 ### Kuvaus  
 
