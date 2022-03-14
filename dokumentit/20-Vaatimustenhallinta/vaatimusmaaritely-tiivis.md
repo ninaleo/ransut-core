@@ -142,7 +142,32 @@ Step11 --> Step12
 
 **Pääominaisuudet ja toiminnot**
 
-![](../assets/work-to-do.png)
+
+# Priorisointi
+* P1= Pakollinen  
+* P2= Tarpeellinen  
+* P3= Toteutetaan tarpeen ilmetessä
+
+  
+
+| Ominaisuus (Feature) | Toiminto (Function) | Prioriteetti |
+| FEATURE-01 | Palveluun rekisteröityminen | P1 |  
+| FEATURE-02 | Palveluun kirjautuminen | P1 |  
+| FEATURE-03 | GDPR | P1 |  
+| FEATURE-04 | Oman tilin hallinnointi | P1 |  
+| FEATURE-05 | Tag- toiminto | * |   
+| FEATURE-06 | Omien tietojen syöttö (skillsit) | * |  
+| FEATURE-07 | Twitter- Facebook- ja LinkedIn- jako | * |  
+| FEATURE-08 | Kuvien ottaminen ja lisäys | * |  
+| FEATURE-09 | Videon lisäys | * |  
+| FEATURE-10 | Selaaminen kirjautumatta | * |  
+| FEATURE-11 | Selaaminen kirjautuneena | * |  
+| FEATURE-12 | Kirjautuneena moderointi (suositukset ja kommentointi) | * |  
+| FEATURE-13 | Hakutoiminnot | * |  
+| FEATURE-14 | Teema | * |  
+| FEATURE-15 | Salasanan hallinta | * |  
+| FEATURE-16 | Teema | * |  
+| FEATURE-17 | Tilin poisto | * |
 
 **HUOMIO** harjoituksessa ei tarvitse määritellä itsenäistä ominaisuutta tarkemmin!
 
