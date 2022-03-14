@@ -5,7 +5,7 @@
 |:-:|:-:|
 | Ominaisuus ID | FEATURE-01 |
 | Osajärjestelmä, mihin ominaisuus liittyy | Portfoliosovellus |
-| Ominaisuuden vastuuhenkilö | * |
+| Ominaisuuden vastuuhenkilö | Nina |
 | Status | In progress |  
 
 
