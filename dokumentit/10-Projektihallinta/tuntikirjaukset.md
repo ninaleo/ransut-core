@@ -34,12 +34,11 @@
 | Nina |  | * |
 | Sanni |  | * |  
 
-* 14.3.2022  
+* 14.3.2022  Forms- kysely portfoliosovelluksen rautalankaversion koekäyttäjille. Haastattelu kysymykset, joilla kartoitetaan mahdolliten käyttäjien toiveita toteutettavan sovelluksen ominaisuuksista. Feature- lista repoon. Sovittiin, että jokainen haastattelee 4-5 tuttavaansa mielellään huomiseen mennessä.
 * 15.3.2022  Portfolio idea esittely (asiakaspolku, layou)
 * 16.3.2022  
 * 17.3.2022  1. Kysely 
-* 18.3.2022  Tulosten esittely
-
+* 18.3.2022  Tulosten esittely  
 
 
 
