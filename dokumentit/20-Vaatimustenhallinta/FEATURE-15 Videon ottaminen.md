@@ -10,7 +10,7 @@
 
 
 ### Kuvaus   
-Tämän ominaisuuden avulla käyttäjä voi ottaa videokuvaa kameralla.
+Tämän ominaisuuden avulla käyttäjä voi ottaa videokuvaa kameralla ja liittää sen portfolioon.
 ### Toteutus  
 > tekstiä
 ### Ominaisuuteen liittyvät rajaukset, vaatimukset, käyttötapaukset  
