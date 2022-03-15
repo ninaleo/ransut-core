@@ -10,7 +10,7 @@
 
 
 ### Kuvaus   
-Tämän ominaisuuden avulla käyttäjä voi muuttaa salasanaansa.
+Tämän ominaisuuden avulla käyttäjä voi muuttaa salasanaansa, jolla kirjautuu portfoliosovellukseen.
 ### Toteutus  
 > tekstiä
 ### Ominaisuuteen liittyvät rajaukset, vaatimukset, käyttötapaukset  
