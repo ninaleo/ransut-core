@@ -2,7 +2,7 @@
 
 
 
-<img src="assets/suurennuslasi.png" alt="Ransut suurennuslasilogo">
+<img src="assets/suurennuslasi1.png" alt="Ransut suurennuslasilogo">
 
 ## Apua ja neuvoja
 
