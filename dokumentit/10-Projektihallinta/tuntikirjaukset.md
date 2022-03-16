@@ -36,7 +36,7 @@
 
 * 14.3.2022  Forms- kysely portfoliosovelluksen rautalankaversion koekäyttäjille. Haastattelukysymykset, joilla kartoitetaan mahdollisten käyttäjien toiveita toteutettavan sovelluksen ominaisuuksista. Feature-lista repoon. Sovittiin, että jokainen haastattelee 4-5 tuttavaansa mielellään huomiseen mennessä. Yhteinen työskentely loppui 16.30 ja jatkuu itsenäisesti haastatteluilla.
 * 15.3.2022  Tehtiin viimeiset haastattelut ja käytiin niiden tuloksia läpi. Jokainen nosti kiinnostavia asioita esille, jonka jälkeen pohdittiin portfoliosovellukseen tulevia ominaisuuksia. Featureille päivitettiin prioriteetit sekä sovittiin, että jokainen päivittää määrättyjen featurien  kuvaukset. Pohdittin lyhyesti Mockupin tekoa ja sovelluksen nimeä ja päätettiin palata näihin tarkemmin seuraavana päivänä. Yhteinen päivä päättyi klo 16.00.
-* 16.3.2022  Valittiin portfoliosovellukselle nimeksi DoneByMe ja tehtiin yhdessä sovelluksen Mockupia. 
+* 16.3.2022  Valittiin portfoliosovellukselle nimeksi DoneByMe, päivitettiin huomisen kyselyn kysymyksiä ja tehtiin yhdessä sovelluksen Mockupia. 
 * 17.3.2022  1. Kysely 
 * 18.3.2022  Tulosten esittely  
 
